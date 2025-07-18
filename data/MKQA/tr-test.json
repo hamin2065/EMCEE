@@ -1,0 +1,1506 @@
+{
+    "-9132750877730171651": {
+        "query": "Afrika fili'nin bilimsel adı Loxodonta Africana'dır. Türün adı ne?",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q36557",
+                "text": "Afrika savan fili",
+                "aliases": []
+            }
+        ]
+    },
+    "3777090832918264756": {
+        "query": "yankı noktası 2 piyasaya ne zaman çıktı",
+        "answer": [
+            {
+                "type": "date",
+                "text": "2016-10-20",
+                "aliases": [
+                    "10 20 2016",
+                    "2016-10-20",
+                    "10/20/2016",
+                    "2016 Ekim 20",
+                    "20-10-2016",
+                    "20 10 2016",
+                    "2016 october, 20",
+                    "10-20-2016",
+                    "20 Ekim 2016",
+                    "20/10/2016",
+                    "2016 10 20"
+                ]
+            }
+        ]
+    },
+    "-7056341436563164323": {
+        "query": "gizli tehlike de anakin skywalker ı kim oynadı",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q435050",
+                "text": "Jake Lloyd",
+                "aliases": []
+            }
+        ]
+    },
+    "-721170466207849824": {
+        "query": "alley kuyruklu yıldızı en son zaman görüldü?",
+        "answer": [
+            {
+                "type": "date",
+                "text": "1986",
+                "aliases": [
+                    "1986"
+                ]
+            }
+        ]
+    },
+    "-20354789722272297": {
+        "query": "game of thrones serisi ne zaman başladı",
+        "answer": [
+            {
+                "type": "date",
+                "text": "2011-04-17",
+                "aliases": [
+                    "04 17 2011",
+                    "04/17/2011",
+                    "17/04/2011",
+                    "17 04 2011",
+                    "17 Nisan 2011",
+                    "2011 04 17",
+                    "04-17-2011",
+                    "2011 april, 17",
+                    "2011-04-17",
+                    "17-04-2011",
+                    "2011 Nisan 17"
+                ]
+            }
+        ]
+    },
+    "8591121950961053247": {
+        "query": "dünya nüfusu ne zaman 1 milyara ulaştı",
+        "answer": [
+            {
+                "type": "date",
+                "text": "1804",
+                "aliases": [
+                    "1804"
+                ]
+            }
+        ]
+    },
+    "-5811844853546957985": {
+        "query": "eastenders'da mel kiminle çıktı",
+        "answer": [
+            {
+                "type": "entity",
+                "text": "Steve Owen",
+                "entity": "Q474496"
+            },
+            {
+                "type": "entity",
+                "text": "Steve Owen",
+                "entity": "Q474496"
+            }
+        ]
+    },
+    "4993232957540670980": {
+        "query": "Paskalya en son ne zaman 12 Nisan'a denk gelmişti?",
+        "answer": [
+            {
+                "type": "date",
+                "text": "2009",
+                "aliases": [
+                    "2009"
+                ]
+            }
+        ]
+    },
+    "756370559210615715": {
+        "query": "nba finallerinde en iyi rekorlara sahip olan kişi kimdir",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q157376",
+                "text": "Golden State Warriors",
+                "aliases": [
+                    "Warriors"
+                ]
+            }
+        ]
+    },
+    "3016147438030282406": {
+        "query": "heaven is a place on earth'ü kim yazdı",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q3431589",
+                "text": "Rick Nowels",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q233959",
+                "text": "Belinda Carlisle",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "text": "Ellen Shipley",
+                "entity": "Q5365010"
+            }
+        ]
+    },
+    "2327476715194330268": {
+        "query": "what if god was one of us şarkısını kim söyledi",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q232193",
+                "text": "Joan Osborne",
+                "aliases": []
+            }
+        ]
+    },
+    "2025371200838032813": {
+        "query": "Yıldız Savaşları Bölüm V, İmparator ne zaman yapıldı",
+        "answer": [
+            {
+                "type": "date",
+                "text": "1980-05-21",
+                "aliases": [
+                    "1980-05-21",
+                    "21/05/1980",
+                    "05/21/1980",
+                    "1980 05 21",
+                    "21 05 1980",
+                    "05 21 1980",
+                    "21 Mayıs 1980",
+                    "1980 Mayıs 21",
+                    "1980 may, 21",
+                    "05-21-1980",
+                    "21-05-1980"
+                ]
+            },
+            {
+                "type": "date",
+                "text": "1980-05-17",
+                "aliases": [
+                    "17 Mayıs 1980",
+                    "1980-05-17",
+                    "17 05 1980",
+                    "17/05/1980",
+                    "1980 may, 17",
+                    "1980 Mayıs 17",
+                    "05-17-1980",
+                    "05/17/1980",
+                    "05 17 1980",
+                    "17-05-1980",
+                    "1980 05 17"
+                ]
+            }
+        ]
+    },
+    "6384961221331944426": {
+        "query": "tiger'ın dünya serisinde (world series) olduğu son zaman ne zamandı",
+        "answer": [
+            {
+                "type": "date",
+                "text": "1984",
+                "aliases": [
+                    "1984"
+                ]
+            },
+            {
+                "type": "date",
+                "text": "2012",
+                "aliases": [
+                    "2012"
+                ]
+            }
+        ]
+    },
+    "-324100760681938275": {
+        "query": "Hindistan'ın dördüncü başbakanı kimdir",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q218661",
+                "text": "Morarji Desai",
+                "aliases": []
+            }
+        ]
+    },
+    "-4670358332103076641": {
+        "query": "bir test maçında 401 sayı skor kim yaptı",
+        "answer": [
+            {
+                "type": "entity",
+                "text": "Brian Lara",
+                "entity": "Q202877"
+            }
+        ]
+    },
+    "-2162714330037272999": {
+        "query": "what is love baby don't hurt me yi kim söylüyordu",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q156783",
+                "text": "Haddaway",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "text": "Haddaway",
+                "entity": "Q3283144"
+            },
+            {
+                "type": "entity",
+                "text": "Haddaway",
+                "entity": "Q3283144"
+            }
+        ]
+    },
+    "5415390249197251598": {
+        "query": "my old man's a dustman'i kim söylüyor",
+        "answer": [
+            {
+                "type": "entity",
+                "text": "Lonnie Donegan",
+                "entity": "Q27743"
+            }
+        ]
+    },
+    "2238623372036818356": {
+        "query": "Night of the Big Heat nerede çekildi",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q661896",
+                "text": "Pinewood Studios",
+                "aliases": []
+            }
+        ]
+    },
+    "6116319690634922724": {
+        "query": "new albany ohio nun nüfusu nedir",
+        "answer": [
+            {
+                "type": "number",
+                "text": "10889.0",
+                "aliases": [
+                    "10889"
+                ]
+            }
+        ]
+    },
+    "3356010362039543701": {
+        "query": "i regret i have but one life to give for my country sözünü kim söyledi",
+        "answer": [
+            {
+                "type": "entity",
+                "text": "Nathan Hale",
+                "entity": "Q16932034"
+            },
+            {
+                "type": "entity",
+                "text": "Nathan Hale",
+                "entity": "Q16932034"
+            },
+            {
+                "type": "entity",
+                "text": "Nathan Hale",
+                "entity": "Q16932034"
+            }
+        ]
+    },
+    "1146545479165504512": {
+        "query": "kalp şeklini kim buldu",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q868",
+                "text": "Aristoteles",
+                "aliases": []
+            }
+        ]
+    },
+    "-9166438153553170699": {
+        "query": "çin seddi ne zaman yapıldı",
+        "answer": [
+            {
+                "type": "date",
+                "text": "221 b.c.",
+                "aliases": [
+                    ".",
+                    "1",
+                    "b",
+                    "2",
+                    " ",
+                    "c"
+                ]
+            }
+        ]
+    },
+    "-8818926928078564757": {
+        "query": "one life to live'de ed hall'ü kim oynadı",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q2118140",
+                "text": "Al Freeman",
+                "aliases": []
+            }
+        ]
+    },
+    "8526316445048986748": {
+        "query": "esaretin bedeli (shawshank redemption) filmi nerede çekildi",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q1397",
+                "text": "Ohio",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "text": "Ohio State Reformatory",
+                "entity": "Q2898265"
+            },
+            {
+                "type": "entity",
+                "text": "Mansfield",
+                "entity": "Q841979"
+            }
+        ]
+    },
+    "-3868783914633893276": {
+        "query": "Büyük Britanya 2018'de kaç tane olimpik altın madalya kazanmıştır",
+        "answer": [
+            {
+                "type": "number",
+                "text": "5.0",
+                "aliases": [
+                    "5"
+                ]
+            }
+        ]
+    },
+    "-9219497506930338015": {
+        "query": "küçük lig beyzbol dünya serisini 2018'de kim kazandı",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q782",
+                "text": "Hawaii",
+                "aliases": []
+            }
+        ]
+    },
+    "3643218479176707788": {
+        "query": "stranger things'in (acayip şeyler) kaç sezonu vardır",
+        "answer": [
+            {
+                "type": "number",
+                "text": "3.0",
+                "aliases": [
+                    "3"
+                ]
+            }
+        ]
+    },
+    "8156384123497576270": {
+        "query": "Mısır'da ilk Step Pyramid'ni kim yaptı?",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q131171",
+                "text": "İmhotep",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q174367",
+                "text": "Zoser",
+                "aliases": []
+            }
+        ]
+    },
+    "3671778611799167129": {
+        "query": "Shaktimaan'da Kapala rolününü kim oynadı?",
+        "answer": [
+            {
+                "type": "entity",
+                "text": "Mukesh Khanna",
+                "entity": "Q3522314"
+            },
+            {
+                "type": "short_phrase",
+                "text": "faqira"
+            }
+        ]
+    },
+    "8355919949700122555": {
+        "query": "xbox one kumandasında hangi tip pil kullanılır",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q1195592",
+                "text": "AA pil",
+                "aliases": []
+            }
+        ]
+    },
+    "-5712843844651068809": {
+        "query": "Credits boyunca Beauty and the Beast şarkısını kim söylüyor?",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q379548",
+                "text": "Peabo Bryson",
+                "aliases": [
+                    "Robert Peabo Bryson"
+                ]
+            }
+        ]
+    },
+    "-2574991354955724197": {
+        "query": "walking back to happiness hangi yıl yayımlandı",
+        "answer": [
+            {
+                "type": "date",
+                "text": "1961",
+                "aliases": [
+                    "1961"
+                ]
+            }
+        ]
+    },
+    "8967882419409704991": {
+        "query": "geminin direksiyonuna ne denir",
+        "answer": [
+            {
+                "type": "entity",
+                "text": "geminin tekerleği",
+                "entity": "Q1980202"
+            }
+        ]
+    },
+    "-7479315839099372497": {
+        "query": "Birleşik devletler'de yaşayan en yaşlı insan kimdir",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q61741150",
+                "text": "Alelia Murphy",
+                "aliases": [
+                    "Alelia Stewart"
+                ]
+            }
+        ]
+    },
+    "-1669438852964162570": {
+        "query": "in christ alone şarkısı ne zaman yazılmıştır",
+        "answer": [
+            {
+                "type": "date",
+                "text": "2001",
+                "aliases": [
+                    "2001"
+                ]
+            }
+        ]
+    },
+    "-3104735705429441907": {
+        "query": "amerika birleşik devletleri'nin ana dili ne",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q1860",
+                "text": "İngilizce",
+                "aliases": [
+                    "İngilizce dili",
+                    "en",
+                    "eng",
+                    "EN",
+                    "ENG"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q7976",
+                "text": "Amerikan İngilizcesi",
+                "aliases": []
+            }
+        ]
+    },
+    "5965447391112455356": {
+        "query": "sansa stark'ı oynayan aktris kimdir",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q240573",
+                "text": "Sophie Turner",
+                "aliases": []
+            }
+        ]
+    },
+    "-7565348086232363902": {
+        "query": "i'll remember you şarkısının yazarı kimdir",
+        "answer": [
+            {
+                "type": "entity",
+                "text": "Kui Lee",
+                "entity": "Q6442220"
+            }
+        ]
+    },
+    "2827995770229349762": {
+        "query": "country müziğinin kraliçesi olarak kim bilinir",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q272913",
+                "text": "Kitty Wells",
+                "aliases": []
+            }
+        ]
+    },
+    "7232773031032315501": {
+        "query": "Alman milli marşına müzik yazan kişi kimdir",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q7349",
+                "text": "Joseph Haydn",
+                "aliases": [
+                    "Franz Joseph Haydn"
+                ]
+            }
+        ]
+    },
+    "6156063242406675632": {
+        "query": "Amerika Birleşik Devletlerinin nüfusu nedir",
+        "answer": [
+            {
+                "type": "number",
+                "text": "327200000.0",
+                "aliases": [
+                    "327200000"
+                ]
+            }
+        ]
+    },
+    "-7326979775798540156": {
+        "query": "shout shout let it all out u kim söylüyor",
+        "answer": [
+            {
+                "type": "entity",
+                "text": "Tears for Fears",
+                "entity": "Q269091"
+            }
+        ]
+    },
+    "-2741074160908754103": {
+        "query": "the song of the traveler ne zaman yazıldı",
+        "answer": [
+            {
+                "type": "date",
+                "text": "1903-12-29",
+                "aliases": [
+                    "1903 december, 29",
+                    "1903-12-29",
+                    "29 Aralık 1903",
+                    "12-29-1903",
+                    "29-12-1903",
+                    "29 12 1903",
+                    "29/12/1903",
+                    "12 29 1903",
+                    "1903 12 29",
+                    "12/29/1903",
+                    "1903 Aralık 29"
+                ]
+            }
+        ]
+    },
+    "4627110909994297261": {
+        "query": "başkanlık görevinde dışişleri bakanını kim takip ediyor",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q11699",
+                "text": "Amerika Birleşik Devletleri Başkan Yardımcısı",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q4215834",
+                "text": "Amerika Birleşik Devletleri hazine bakanı",
+                "aliases": []
+            }
+        ]
+    },
+    "-873614546668073529": {
+        "query": "Sandlot filmindeki köpeğin türü neydi?",
+        "answer": [
+            {
+                "type": "entity",
+                "text": "İngiliz Mastifi",
+                "entity": "Q38418"
+            }
+        ]
+    },
+    "1308220095526578683": {
+        "query": "it's the end of the world as we know it'i kim yazdı",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q364864",
+                "text": "Mike Mills",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q215182",
+                "text": "Michael Stipe",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q346801",
+                "text": "Peter Buck",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q364873",
+                "text": "Bill Berry",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "text": "Mike Mills",
+                "entity": "Q364864"
+            },
+            {
+                "type": "entity",
+                "text": "Michael Stipe",
+                "entity": "Q215182"
+            },
+            {
+                "type": "entity",
+                "text": "Peter Buck",
+                "entity": "Q346801"
+            },
+            {
+                "type": "entity",
+                "text": "Bill Berry",
+                "entity": "Q364873"
+            }
+        ]
+    },
+    "1756434004196882800": {
+        "query": "hindistan ın hangi eyaleti  eğitimde en yüksek  seviyededir",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q1186",
+                "text": "Kerala",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q668",
+                "text": "Hindistan",
+                "aliases": []
+            }
+        ]
+    },
+    "199825077536341316": {
+        "query": "eyaletler arası konseyi kurma yetkisine kim sahiptir",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q30461",
+                "text": "Başkan",
+                "aliases": [
+                    "Cumhurbaşkanlığı",
+                    "Cumhurbaşkan"
+                ]
+            }
+        ]
+    },
+    "1980729432350266831": {
+        "query": "wake me up before you go go şarkısını kim söylüyordu",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q744087",
+                "text": "Wham!",
+                "aliases": []
+            }
+        ]
+    },
+    "5841064461839250813": {
+        "query": "en son çekilen star wars filminin adı nedir",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q20977110",
+                "text": "Star Wars: Skywalker'ın Yükselişi",
+                "aliases": [
+                    "Star Wars: Skywalker'ın Yükselisi",
+                    "Yıldız Savaşları: Skywalker'ın Yükselişi",
+                    "Yildiz Savaslari: Skywalker'in Yükselisi",
+                    "Yıldız Savaşları:9. Bölüm",
+                    "Skywalker'ın Yükselisi",
+                    "Yıldız Savaşları Skywalker'ın Yükselişi",
+                    "Yildiz Savaslari Skywalker'in Yükselisi"
+                ]
+            }
+        ]
+    },
+    "4879689311498160364": {
+        "query": "shupe soyadı nereden geliyor",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q31",
+                "text": "Belçika",
+                "aliases": [
+                    "Belçika Krallığı"
+                ]
+            }
+        ]
+    },
+    "-6103669093953061571": {
+        "query": "M.ö 10000 (10000 bc) filmi nerede geçiyor",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q46",
+                "text": "Avrupa",
+                "aliases": [
+                    "Avrupa kıtası"
+                ]
+            }
+        ]
+    },
+    "6582893353773119263": {
+        "query": "take me out to the ballgame ilk ne zaman söylendi",
+        "answer": [
+            {
+                "type": "date",
+                "text": "1934",
+                "aliases": [
+                    "1934"
+                ]
+            },
+            {
+                "type": "date",
+                "text": "1908",
+                "aliases": [
+                    "1908"
+                ]
+            }
+        ]
+    },
+    "-5379350041754676016": {
+        "query": "the bruins stanley kupasını en son ne zaman kazanmıştır",
+        "answer": [
+            {
+                "type": "date",
+                "text": "2011",
+                "aliases": [
+                    "2011"
+                ]
+            }
+        ]
+    },
+    "-6461075033922286018": {
+        "query": "Hangi ülkenin bayrağı kırmızı çarpılı beyaz?",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q35",
+                "text": "Danimarka",
+                "aliases": [
+                    "Danimarka Krallığı"
+                ]
+            }
+        ]
+    },
+    "551541117952237865": {
+        "query": "Hindistan'ın ilk lok sabha konuşmacısı kimdi",
+        "answer": [
+            {
+                "type": "entity",
+                "text": "Ganesh Vasudev Mavalankar",
+                "entity": "Q3633176"
+            }
+        ]
+    },
+    "-4346255284533122258": {
+        "query": "dancing with the stars'ın (yıldızlarla dans) 17. sezonunun dansçıları kimlerdir",
+        "answer": [
+            {
+                "type": "entity",
+                "text": "Gleb Savchenko",
+                "entity": "Q21285529"
+            },
+            {
+                "type": "entity",
+                "text": "Emma Slater",
+                "entity": "Q16226442"
+            },
+            {
+                "type": "entity",
+                "text": "Sasha Farber",
+                "entity": "Q23418652"
+            },
+            {
+                "type": "entity",
+                "text": "Dancing with the Stars, 17. sezon",
+                "entity": "Q14822855"
+            },
+            {
+                "type": "entity",
+                "text": "Lindsay Arnold",
+                "entity": "Q16154310"
+            }
+        ]
+    },
+    "838899498258281787": {
+        "query": "the raiders en son ne zaman super bowl kazandı",
+        "answer": [
+            {
+                "type": "date",
+                "text": "1984",
+                "aliases": [
+                    "1984"
+                ]
+            }
+        ]
+    },
+    "-3496494429125792878": {
+        "query": "Doğum kontrol hapı ne zaman ortaya çıktı?",
+        "answer": [
+            {
+                "type": "date",
+                "text": "1960",
+                "aliases": [
+                    "1960"
+                ]
+            }
+        ]
+    },
+    "-3225943333144436024": {
+        "query": "are you my mother kitabını kim yazdı",
+        "answer": [
+            {
+                "type": "entity",
+                "text": "P. D. Eastman",
+                "entity": "Q7117193"
+            }
+        ]
+    },
+    "-1567135840120105378": {
+        "query": "Yaz sezonunda kaç gün var?",
+        "answer": [
+            {
+                "type": "number",
+                "text": "92.0",
+                "aliases": [
+                    "92"
+                ]
+            }
+        ]
+    },
+    "5730539423945994874": {
+        "query": "şu anda nba deki en uzun kişi kimdir",
+        "answer": [
+            {
+                "type": "entity",
+                "text": "Boban Marjanovic",
+                "entity": "Q1277708"
+            }
+        ]
+    },
+    "-3269832350279448557": {
+        "query": "dünyadaki en uzun ingilizce kelime nedir",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q102",
+                "text": "Pneumonoultramicroscopicsilicovolcanoconiosis",
+                "aliases": []
+            }
+        ]
+    },
+    "4630954451659651875": {
+        "query": "Çocukların büyüme ve davranış normlarını kim belirledi",
+        "answer": [
+            {
+                "type": "entity",
+                "text": "Robert J. Havighurst",
+                "entity": "Q4357447"
+            },
+            {
+                "type": "short_phrase",
+                "text": "arnold gessell"
+            }
+        ]
+    },
+    "-6880511738870468310": {
+        "query": "queenston savaşında hangi kabile ingilizlerle müttefik oldu",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q116971",
+                "text": "Mohavklar",
+                "aliases": [
+                    "Mohavk",
+                    "Mohawk"
+                ]
+            }
+        ]
+    },
+    "-1104010625418275880": {
+        "query": "\"singing in the rain\"in yıldızları kimlerdir?",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q263696",
+                "text": "Debbie Reynolds",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q348345",
+                "text": "Donald O'Connor",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q73089",
+                "text": "Gene Kelly",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "text": "Millard Mitchell",
+                "entity": "Q1376744"
+            },
+            {
+                "type": "entity",
+                "text": "Jean Hagen",
+                "entity": "Q235744"
+            }
+        ]
+    },
+    "-2205439830862864188": {
+        "query": "where is the love'un asıl şarkıcısı kim",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q507864",
+                "text": "Donny Hathaway",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "text": "Roberta Flack",
+                "entity": "Q231484"
+            }
+        ]
+    },
+    "405741106780269216": {
+        "query": "birleşmiş milletler genel kurulu insan haklarını geliştirme hakkı bildirgesini ne zaman yayınladı",
+        "answer": [
+            {
+                "type": "date",
+                "text": "1986-12-04",
+                "aliases": [
+                    "1986 Aralık 04",
+                    "12 04 1986",
+                    "1986 12 04",
+                    "04 Aralık 1986",
+                    "04-12-1986",
+                    "12/04/1986",
+                    "04/12/1986",
+                    "04 12 1986",
+                    "12-04-1986",
+                    "1986-12-04",
+                    "1986 december, 04"
+                ]
+            }
+        ]
+    },
+    "9124220649895286940": {
+        "query": "stranger things'in birinci sezonu ne zaman çekildi",
+        "answer": [
+            {
+                "type": "date",
+                "text": "2016",
+                "aliases": [
+                    "2016"
+                ]
+            }
+        ]
+    },
+    "86680290216010549": {
+        "query": "Özgürlük heykeli ne zaman inşa edildi",
+        "answer": [
+            {
+                "type": "date",
+                "text": "1875",
+                "aliases": [
+                    "1875"
+                ]
+            }
+        ]
+    },
+    "8315526696903279876": {
+        "query": "game of thrones'un yazarı kimdir",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q15710074",
+                "text": "Vanessa Taylor",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q181677",
+                "text": "George R. R. Martin",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q503997",
+                "text": "David Benioff",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q1151388",
+                "text": "D. B. Weiss",
+                "aliases": [
+                    "Daniel Brett Weiss"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q4980025",
+                "text": "Bryan Cogman",
+                "aliases": []
+            }
+        ]
+    },
+    "-281488856129698205": {
+        "query": "i love how you love me'i kim söyler",
+        "answer": [
+            {
+                "type": "entity",
+                "text": "The Paris Sisters",
+                "entity": "Q3743393"
+            }
+        ]
+    },
+    "2334831805102575071": {
+        "query": "new mexico'daki en yüksek yer neresidir",
+        "answer": [
+            {
+                "type": "entity",
+                "text": "Wheeler Dağı",
+                "entity": "Q1505965"
+            }
+        ]
+    },
+    "-7364071520792776728": {
+        "query": "don't stop thinking about tomorrow şarkısını kim söylüyor",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q106648",
+                "text": "Fleetwood Mac",
+                "aliases": []
+            }
+        ]
+    },
+    "-9114470160159471139": {
+        "query": "now i lay me down to sleep duasını kim yazdı",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q206384",
+                "text": "Joseph Addison",
+                "aliases": []
+            }
+        ]
+    },
+    "-3372153190980552477": {
+        "query": "kaliforniyada kaç tane nükleer güç santrali vardır",
+        "answer": [
+            {
+                "type": "number",
+                "text": "1.0",
+                "aliases": [
+                    "1"
+                ]
+            }
+        ]
+    },
+    "3753239238463281069": {
+        "query": "my girl by the temptations şarkısını kim yazdı",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q310332",
+                "text": "Smokey Robinson",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q2117822",
+                "text": "Ronald White",
+                "aliases": []
+            }
+        ]
+    },
+    "416035876866880719": {
+        "query": "Amerikan Bağımsızlık Bildirisi'ndeki en büyük imza kime ait",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q272774",
+                "text": "John Hancock",
+                "aliases": []
+            }
+        ]
+    },
+    "5053530425008567999": {
+        "query": "dört galilei uydusundan jüpitere en yakın olanı hangisidir",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q3123",
+                "text": "İo",
+                "aliases": []
+            }
+        ]
+    },
+    "7024139925004669778": {
+        "query": "iphone 4s için son güncelleme nedir",
+        "answer": [
+            {
+                "type": "short_phrase",
+                "text": "ios 9.3.6"
+            }
+        ]
+    },
+    "-7460858061693543840": {
+        "query": "BBC 2'de bridge dizisi ne zaman",
+        "answer": [
+            {
+                "type": "date",
+                "text": "2018-05-11",
+                "aliases": [
+                    "05 11 2018",
+                    "11 05 2018",
+                    "11/05/2018",
+                    "2018 Mayıs 11",
+                    "05/11/2018",
+                    "11-05-2018",
+                    "2018 may, 11",
+                    "2018-05-11",
+                    "2018 05 11",
+                    "05-11-2018",
+                    "11 Mayıs 2018"
+                ]
+            }
+        ]
+    },
+    "-255311412987158941": {
+        "query": "Güzel ve Çirkin'in zaman ve mekanı neresidir",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q142",
+                "text": "Fransa",
+                "aliases": [
+                    "Fransa Cumhuriyeti"
+                ]
+            }
+        ]
+    },
+    "4511000552039308899": {
+        "query": "Lebron James nba'e seçildiğinde kaç yaşındaydı",
+        "answer": [
+            {
+                "type": "number_with_unit",
+                "text": "19.0 yıl",
+                "aliases": [
+                    "19 yıl"
+                ]
+            }
+        ]
+    },
+    "6988770747885455084": {
+        "query": "sutherland springs,  floresville texas'dan ne kadar uzakta",
+        "answer": [
+            {
+                "type": "number_with_unit",
+                "text": "14.5 mil",
+                "aliases": []
+            }
+        ]
+    },
+    "9073411295200473999": {
+        "query": "kim end game'de taylor swift'le şarkı söylüyor",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q47447",
+                "text": "Ed Sheeran",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q3445057",
+                "text": "Future",
+                "aliases": []
+            }
+        ]
+    },
+    "-3249093806177407492": {
+        "query": "lake placid floridanın nüfusu kaçtır",
+        "answer": [
+            {
+                "type": "number",
+                "text": "2439.0",
+                "aliases": [
+                    "2439"
+                ]
+            },
+            {
+                "type": "number",
+                "text": "2219.0",
+                "aliases": [
+                    "2219"
+                ]
+            }
+        ]
+    },
+    "6339715100961540201": {
+        "query": "ain't no mountain high enough şarkısını kim söyledi",
+        "answer": [
+            {
+                "type": "entity",
+                "text": "Ashford & Simpson",
+                "entity": "Q725246"
+            },
+            {
+                "type": "entity",
+                "text": "Nickolas Ashford",
+                "entity": "Q11791049"
+            }
+        ]
+    },
+    "-8083772678784794712": {
+        "query": "the cowboys geçen yıl kaç oyun kazandı",
+        "answer": [
+            {
+                "type": "number",
+                "text": "10.0",
+                "aliases": [
+                    "10"
+                ]
+            }
+        ]
+    },
+    "-32427849098321025": {
+        "query": "puppets in the neverending story'i kim yaptı",
+        "answer": [
+            {
+                "type": "entity",
+                "text": " Jim Henson'ın Yaratık Mağazası",
+                "entity": "Q3178829"
+            }
+        ]
+    },
+    "6988468222722295024": {
+        "query": "when a man loves a woman şarkısını kim söyledi",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q445862",
+                "text": "Percy Sledge",
+                "aliases": []
+            }
+        ]
+    },
+    "-1911490571633113210": {
+        "query": "Kuzey Carolina'da sürücü ehliyeti almak için kaç yaşında olmak gerekir",
+        "answer": [
+            {
+                "type": "number_with_unit",
+                "text": "18.0 yıl",
+                "aliases": [
+                    "18 yıl"
+                ]
+            },
+            {
+                "type": "number",
+                "text": "18.0",
+                "aliases": [
+                    "18"
+                ]
+            }
+        ]
+    },
+    "-3871775817176635052": {
+        "query": "Charlie'nin Çikolata Fabrikası'nda willy wonka'yı kim canlandırdı",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q37175",
+                "text": "Johnny Depp",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "text": "Blair Dunlop",
+                "entity": "Q2905741"
+            }
+        ]
+    },
+    "5142884761317633335": {
+        "query": "\"Bob's Burgers\"da Gayle halayı kim oynuyor?",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q234137",
+                "text": "Megan Mullally",
+                "aliases": []
+            }
+        ]
+    },
+    "-7703406843536064793": {
+        "query": "big time rush end şovu ne zaman sona erdi",
+        "answer": [
+            {
+                "type": "date",
+                "text": "2013-07-25",
+                "aliases": [
+                    "07 25 2013",
+                    "25-07-2013",
+                    "25 07 2013",
+                    "2013 07 25",
+                    "07-25-2013",
+                    "07/25/2013",
+                    "2013 july, 25",
+                    "2013 Temmuz 25",
+                    "25 Temmuz 2013",
+                    "2013-07-25",
+                    "25/07/2013"
+                ]
+            }
+        ]
+    },
+    "-5492241717638719376": {
+        "query": "country müzik türünde en çok number one hitine sahip olan kişi kimdir",
+        "answer": [
+            {
+                "type": "entity",
+                "text": "George Strait",
+                "entity": "Q366584"
+            }
+        ]
+    },
+    "476368974337766528": {
+        "query": "cumhuriyetçi parti seçimi en son ne zaman kazandı",
+        "answer": [
+            {
+                "type": "date",
+                "text": "2004",
+                "aliases": [
+                    "2004"
+                ]
+            }
+        ]
+    },
+    "-2456325159367728662": {
+        "query": "The Only Way Is Essex ve Towie aynı şey mi?",
+        "answer": [
+            {
+                "type": "binary",
+                "text": "yes"
+            }
+        ]
+    },
+    "-6848880616827671253": {
+        "query": "Beyzbolda en yüksek başarılı vuruş ortalaması kime aittir?",
+        "answer": [
+            {
+                "type": "entity",
+                "text": "Ty Cobb",
+                "entity": "Q552828"
+            }
+        ]
+    },
+    "-4029691658811320972": {
+        "query": "texas ne zaman birleşik devletlere katılmıştır",
+        "answer": [
+            {
+                "type": "date",
+                "text": "1845-12-29",
+                "aliases": [
+                    "29-12-1845",
+                    "29/12/1845",
+                    "29 12 1845",
+                    "12-29-1845",
+                    "12/29/1845",
+                    "1845-12-29",
+                    "12 29 1845",
+                    "1845 december, 29",
+                    "1845 12 29",
+                    "29 Aralık 1845",
+                    "1845 Aralık 29"
+                ]
+            }
+        ]
+    },
+    "-4776364212864922320": {
+        "query": "Superior gölünde hangi tür balıklar var",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q469946",
+                "text": "Göl alabalığı",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "text": "Sarı turna",
+                "entity": "Q1462862"
+            },
+            {
+                "type": "entity",
+                "text": "Güneş levreği",
+                "entity": "Q826713"
+            },
+            {
+                "type": "entity",
+                "text": "güneş balığı",
+                "entity": "Q536224"
+            },
+            {
+                "type": "entity",
+                "text": "Coregonus",
+                "entity": "Q110577"
+            }
+        ]
+    }
+}

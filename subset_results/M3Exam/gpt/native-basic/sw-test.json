@@ -1,0 +1,42 @@
+[
+    {
+        "id": 349,
+        "prompt": "Ifuatayo ni swali la chaguo nyingi.\nSentensi inayounganisha sentensi: \"Juma ni mzee. Juma anasoma kitabu bila miwani\", kisahihi ni:\nA. Juma ni mzee maadamu anasoma kitabu bila miwani.\nB. Juma anasoma kitabu bila miwani licha ya kuwa yeye ni mzee.\nC. Juma ni mzee madhali anasoma kitabu bila miwani.\nD. Juma anasoma kitabu bila miwani minghairi ya yeye ni mzee.\nUnapaswa kutoa jibu la mwisho mwishoni kwa muundo: 'Jibu: [chaguo]'",
+        "response": "Jibu: B. Juma anasoma kitabu bila miwani licha ya kuwa yeye ni mzee.",
+        "predicted_answer": "B. Juma anasoma kitabu bila miwani licha ya kuwa yeye ni mzee.",
+        "ground_truth": "B",
+        "is_correct": true
+    },
+    {
+        "id": 408,
+        "prompt": "Ifuatayo ni swali la chaguo nyingi.\nTashbihi\nPopo amekonda kama _________\nA. sindano\nB. ng'onda\nC. kijiti\nD. kasuku\nUnapaswa kutoa jibu la mwisho mwishoni kwa muundo: 'Jibu: [chaguo]'",
+        "response": "Jibu: C. kijiti",
+        "predicted_answer": "C. kijiti",
+        "ground_truth": "B",
+        "is_correct": false
+    },
+    {
+        "id": 72,
+        "prompt": "Ifuatayo ni swali la chaguo nyingi.\nMethali zifuatazo zinahusu bidii. Ipi haifai kuwepo?\nA. Mgaagaa na upwa hali wali mkavu.\nB. Umoja ni nguvu utengano ni udhaifu.\nC. Ukiona vyaelea jua vimeundwa.\nD. Mtaka cha mvunguni sharti ainame.\nUnapaswa kutoa jibu la mwisho mwishoni kwa muundo: 'Jibu: [chaguo]'",
+        "response": "Jibu: B. Umoja ni nguvu utengano ni udhaifu.",
+        "predicted_answer": "B. Umoja ni nguvu utengano ni udhaifu.",
+        "ground_truth": "C",
+        "is_correct": false
+    },
+    {
+        "id": 381,
+        "prompt": "Ifuatayo ni swali la chaguo nyingi.\nChagua neno ambalo limetumia silabi changamano:\nA. Mbuga.\nB. Kituta.\nC. Ziwa.\nD. Utulivu.\nUnapaswa kutoa jibu la mwisho mwishoni kwa muundo: 'Jibu: [chaguo]'",
+        "response": "Silabi changamano ni silabi ambayo ina sauti nyingi au inahitaji nguvu zaidi katika matamshi. Katika chaguo ulilotaja, neno \"Utulivu\" lina silabi changamano kwa sababu lina sauti nyingi na inahitaji nguvu zaidi katika matamshi.\n\nJibu: D. Utulivu.",
+        "predicted_answer": "D. Utulivu.",
+        "ground_truth": "A",
+        "is_correct": false
+    },
+    {
+        "id": 237,
+        "prompt": "Ifuatayo ni swali la chaguo nyingi.\nTegua kitendawili hiki: \nMava hapo mava pale\nA. kifo\nB. kioo\nC. kumetameta\nD. kivuli\nUnapaswa kutoa jibu la mwisho mwishoni kwa muundo: 'Jibu: [chaguo]'",
+        "response": "Jibu: B. kioo",
+        "predicted_answer": "B. kioo",
+        "ground_truth": "D",
+        "is_correct": false
+    }
+]

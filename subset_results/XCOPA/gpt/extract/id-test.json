@@ -1,0 +1,52 @@
+[
+    {
+        "id": "119",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: Semua orang tidak setuju dengan tunangan pasangan itu.\nWhat is the effect?\nChoice1: Pasangan itu hamil.\nChoice2: Pasangan itu kabur untuk menikah.\nExplanation: The premise indicates that everyone disagrees with the engagement of the couple. This disapproval could create tension or pressure on the couple, potentially leading them to take drastic actions to assert their commitment to each other. One possible effect of such disapproval is that the couple might decide to elope, or \"kabur untuk menikah,\" as a way to escape the negative opinions and formalize their relationship on their own terms. On the other hand, the couple being pregnant, as suggested in choice 1, does not directly relate to the disapproval mentioned in the premise. Therefore, the correct effect is that the couple might choose to elope to marry.",
+        "response": "2",
+        "explanation": "The premise indicates that everyone disagrees with the engagement of the couple. This disapproval could create tension or pressure on the couple, potentially leading them to take drastic actions to assert their commitment to each other. One possible effect of such disapproval is that the couple might decide to elope, or \"kabur untuk menikah,\" as a way to escape the negative opinions and formalize their relationship on their own terms. On the other hand, the couple being pregnant, as suggested in choice 1, does not directly relate to the disapproval mentioned in the premise. Therefore, the correct effect is that the couple might choose to elope to marry.",
+        "predicted_answer": "2",
+        "ground_truth": 1,
+        "is_correct": true
+    },
+    {
+        "id": "470",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: Acara televisi itu disensor.\nWhat is the cause?\nChoice1: Acar itu berisi bahasa vulgar.\nChoice2: Acara itu memiliki plot yang rumit.\nExplanation: The premise states that the television program is censored. Censorship typically occurs when content is deemed inappropriate for certain audiences, often due to the presence of explicit language, violence, or other sensitive material. In this case, choice 1, which states that the program contains vulgar language, is a common reason for censorship. On the other hand, having a complicated plot (choice 2) is not a typical reason for censoring a show. Therefore, the correct cause for the television program being censored is that it contains vulgar language.",
+        "response": "1",
+        "explanation": "The premise states that the television program is censored. Censorship typically occurs when content is deemed inappropriate for certain audiences, often due to the presence of explicit language, violence, or other sensitive material. In this case, choice 1, which states that the program contains vulgar language, is a common reason for censorship. On the other hand, having a complicated plot (choice 2) is not a typical reason for censoring a show. Therefore, the correct cause for the television program being censored is that it contains vulgar language.",
+        "predicted_answer": "1",
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "316",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: Saya terbangun di tengah malam karena kedinginan.\nWhat is the effect?\nChoice1: Saya pakai celana hangat.\nChoice2: Saya minum segelas air.\nExplanation: The premise indicates that you woke up in the middle of the night because you were cold. In response to feeling cold, a common and logical action would be to put on warm clothing, such as warm pants, to help retain body heat and feel more comfortable. Drinking a glass of water, while it may be refreshing, does not directly address the issue of feeling cold. Therefore, the effect of waking up due to coldness is best represented by choice 1: putting on warm pants.",
+        "response": "1",
+        "explanation": "The premise indicates that you woke up in the middle of the night because you were cold. In response to feeling cold, a common and logical action would be to put on warm clothing, such as warm pants, to help retain body heat and feel more comfortable. Drinking a glass of water, while it may be refreshing, does not directly address the issue of feeling cold. Therefore, the effect of waking up due to coldness is best represented by choice 1: putting on warm pants.",
+        "predicted_answer": "1",
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "185",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: Saya olahraga.\nWhat is the cause?\nChoice1: Saya merasa penuh semangat.\nChoice2: Saya takut.\nExplanation: The premise states \"Saya olahraga,\" which means \"I exercise.\" The motivation to exercise is often linked to positive feelings such as enthusiasm or energy. Feeling energetic and motivated (choice 1) is a common reason why someone would choose to engage in physical activity. In contrast, exercising out of fear (choice 2) is less typical, as fear is not usually a motivating factor for exercise. Therefore, the cause of exercising is more likely to be that the person feels full of energy and enthusiasm, making choice 1 the correct answer.",
+        "response": "Answer: 1",
+        "explanation": "The premise states \"Saya olahraga,\" which means \"I exercise.\" The motivation to exercise is often linked to positive feelings such as enthusiasm or energy. Feeling energetic and motivated (choice 1) is a common reason why someone would choose to engage in physical activity. In contrast, exercising out of fear (choice 2) is less typical, as fear is not usually a motivating factor for exercise. Therefore, the cause of exercising is more likely to be that the person feels full of energy and enthusiasm, making choice 1 the correct answer.",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "360",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: Pria itu menonjol sekali di tengah kerumunan.\nWhat is the cause?\nChoice1: Dia membawa ransel.\nChoice2: Dia mengenakan rompi neon.\nExplanation: The premise states that the man stands out in the crowd. To stand out typically means to be noticeably different or more prominent than others around him. Wearing a neon vest (choice 2) would make him highly visible, especially in a crowd, due to the bright color that attracts attention. In contrast, carrying a backpack (choice 1) is a common sight and would not necessarily make someone stand out. Therefore, the cause of the man standing out in the crowd is that he is wearing a neon vest.",
+        "response": "1",
+        "explanation": "The premise states that the man stands out in the crowd. To stand out typically means to be noticeably different or more prominent than others around him. Wearing a neon vest (choice 2) would make him highly visible, especially in a crowd, due to the bright color that attracts attention. In contrast, carrying a backpack (choice 1) is a common sight and would not necessarily make someone stand out. Therefore, the cause of the man standing out in the crowd is that he is wearing a neon vest.",
+        "predicted_answer": "1",
+        "ground_truth": 1,
+        "is_correct": false
+    }
+]

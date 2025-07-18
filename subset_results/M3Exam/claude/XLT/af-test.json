@@ -1,0 +1,42 @@
+[
+    {
+        "id": 220,
+        "prompt": "I want you to act as a question answering expert for afrikaans.\nRequest: Bonga het 'n kartondoosskyf wat hy in stukke wil sny om 'n reghoekige piramide te maak. Hy gaan die volgende stukke sny:\n(A) Vier reghoeke en twee vierkante\n(B) Twee reghoeke en vier vierkante\n(C) Drie reghoeke en een driehoek\n(D) Een reghoek en vier driehoeke\nYou should retell the request in English.\nYou should step-by-step answer to obtain an option.\nYou should tell me the answer in this format: 'Answer: [option]'.",
+        "response": "English Translation:\nBonga has a cardboard disk that he wants to cut into pieces to make a rectangular pyramid. He is going to cut the following pieces:\n\nStep-by-step solution:\n1. A rectangular pyramid typically consists of:\n   - A rectangular base\n   - Four triangular side faces\n\n2. Let's analyze each option:\n   (A) Four rectangles and two squares\n   - This does not match the structure of a rectangular pyramid\n   - A pyramid needs triangular side faces\n\n   (B) Two rectangles and four squares\n   - This also does not match the pyramid's structure\n   - Squares cannot form the side faces of a pyramid\n\n   (C) Three rectangles and one triangle\n   - This does not provide enough pieces to create a complete pyramid\n   - Insufficient pieces to form the base and side faces\n\n   (D) One rectangle and four triangles\n   - This matches the structure of a rectangular pyramid\n   - The rectangle can form the base\n   - The four triangles can form the side faces\n\n3. By process of elimination and geometric reasoning, the correct option is (D)\n\nAnswer: (D)",
+        "predicted_answer": "(D)",
+        "ground_truth": "D",
+        "is_correct": true
+    },
+    {
+        "id": 59,
+        "prompt": "I want you to act as a question answering expert for afrikaans.\nRequest: Geleiers is gewoonlik van ... gemaak.\n(A) metale\n(B) skakelaars\n(C) wol\n(D) nie-metale\nYou should retell the request in English.\nYou should step-by-step answer to obtain an option.\nYou should tell me the answer in this format: 'Answer: [option]'.",
+        "response": "English Translation:\n\"Conductors are usually made of ... \"\n(A) metals\n(B) switches\n(C) wool\n(D) non-metals\n\nStep-by-step solution:\n1. The word \"geleiers\" means \"conductors\" in English\n2. Conductors are materials that allow electricity or heat to flow through them easily\n3. Metals are known for their excellent electrical and thermal conductivity\n4. Metals like copper, aluminum, and silver are commonly used in electrical wiring and circuits\n5. Switches (option B) are devices, not materials\n6. Wool (option C) is an insulator, not a conductor\n7. Non-metals (option D) typically do not conduct electricity well\n8. Therefore, metals are the most appropriate material for conductors\n\nAnswer: [A]",
+        "predicted_answer": "[A]",
+        "ground_truth": "A",
+        "is_correct": true
+    },
+    {
+        "id": 2,
+        "prompt": "I want you to act as a question answering expert for afrikaans.\nRequest: In 'n sak met albasters is daar 7 blou, 5 rooi en 8 geel albasters. Wat is die waarskynlikheid dat 'n rooi albaster uitgehaal sal word?\n(A) 1/5\n(B) 1/2\n(C) 1/3\n(D) 1/4\nYou should retell the request in English.\nYou should step-by-step answer to obtain an option.\nYou should tell me the answer in this format: 'Answer: [option]'.",
+        "response": "English Translation:\nIn a bag with marbles, there are 7 blue, 5 red, and 8 yellow marbles. What is the probability of drawing a red marble?\n\nStep-by-step solution:\n1. Calculate the total number of marbles in the bag:\n   * Blue marbles: 7\n   * Red marbles: 5\n   * Yellow marbles: 8\n   * Total marbles: 7 + 5 + 8 = 20\n\n2. Calculate the probability of drawing a red marble:\n   * Number of red marbles: 5\n   * Total number of marbles: 20\n   * Probability = Number of red marbles / Total number of marbles\n   * Probability = 5/20 = 1/4\n\n3. Check the given options:\n   * (A) 1/5\n   * (B) 1/2\n   * (C) 1/3\n   * (D) 1/4\n\n4. Compare the calculated probability with the given options.\n\nAnswer: (D) 1/4",
+        "predicted_answer": "(D) 1/4",
+        "ground_truth": "D",
+        "is_correct": true
+    },
+    {
+        "id": 235,
+        "prompt": "I want you to act as a question answering expert for afrikaans.\nRequest: Wat is die verskil tussen \u0149 serie stroombaan en \u0149 parallelle stroombaan?\n(A) \u0149 Serie stroombaan volg een baan (pad) en \u0149 parallelle stroombaan verdeel in verskillende bane (takke).\n(B) \u0149 Serie stroombaan moet \u0149 smeltdraad h\u00ea.\n(C) \u0149 Parallelle stroombaan moet \u0149 stroombreker h\u00ea.\n(D) \u0149 Parallelle stroombaan volg een baan (pad) en \u0149 serie stroombaan verdeel in verskillende bane (takke).\nYou should retell the request in English.\nYou should step-by-step answer to obtain an option.\nYou should tell me the answer in this format: 'Answer: [option]'.",
+        "response": "English Translation:\nWhat is the difference between a series circuit and a parallel circuit?\n\nStep-by-step solution:\n1. Let's analyze the key characteristics of series and parallel circuits:\n\nSeries Circuit:\n- Follows a single path\n- Components are connected end-to-end\n- Current flows through each component sequentially\n- Total voltage is divided among components\n- If one component fails, the entire circuit breaks\n\nParallel Circuit:\n- Has multiple branches\n- Components are connected across the same two points\n- Current can flow through different paths simultaneously\n- Voltage remains the same across all components\n- If one component fails, others continue to function\n\n2. Examining the options:\n(A) Correct description of series vs parallel circuits\n(B) Relates to a specific component (fuse), not circuit definition\n(C) Relates to a specific component (circuit breaker), not circuit definition\n(D) Opposite of the correct description\n\n3. The description in option (A) accurately describes the fundamental difference between series and parallel circuits.\n\nAnswer: A",
+        "predicted_answer": "A",
+        "ground_truth": "A",
+        "is_correct": true
+    },
+    {
+        "id": 193,
+        "prompt": "I want you to act as a question answering expert for afrikaans.\nRequest: Watter EEN van die volgende is 'n gevolg van die vernietiging van vleilande?\n(A) Verhoogde biodiversiteit\n(B) Afname in die beskikbaarheid van water\n(C) Afname in aardverwarming\n(D) Verhoogde watergehalte\nYou should retell the request in English.\nYou should step-by-step answer to obtain an option.\nYou should tell me the answer in this format: 'Answer: [option]'.",
+        "response": "English Translation:\nWhich ONE of the following is a consequence of the destruction of wetlands?\n(A) Increased biodiversity\n(B) Decrease in water availability\n(C) Decrease in global warming\n(D) Increased water quality\n\nStep-by-step solution:\n1. Understand wetlands' ecological role:\n- Wetlands are critical ecosystems that filter water\n- They act as natural water storage and purification systems\n- They support diverse wildlife and help regulate water cycles\n\n2. Analyze the consequences of wetland destruction:\n- Biodiversity would DECREASE, not increase\n- Water availability would DECREASE due to loss of water storage\n- Global warming would likely INCREASE (not decrease) as wetlands absorb carbon\n- Water quality would DECREASE, not increase\n\n3. Evaluate each option:\n(A) Incorrect - Wetland destruction reduces biodiversity\n(B) Correct - Destroying wetlands reduces water storage capacity\n(C) Incorrect - Wetland destruction contributes to global warming\n(D) Incorrect - Wetland destruction reduces water quality\n\nAnswer: B",
+        "predicted_answer": "B",
+        "ground_truth": "B",
+        "is_correct": true
+    }
+]

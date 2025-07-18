@@ -1,0 +1,42 @@
+[
+    {
+        "id": "119",
+        "prompt": "Here is a premise: Semua orang tidak setuju dengan tunangan pasangan itu.. What is the effect? Help me pick the more plausible option: -choice1: Pasangan itu hamil., -choice2: [choice]\nLet's think step-by-step in English.\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "To analyze the premise \"Semua orang tidak setuju dengan tunangan pasangan itu\" (Everyone disagrees with the couple's engagement), we need to consider the implications of this disagreement.\n\n1. The premise suggests that there is a significant level of disapproval from others regarding the couple's engagement. This could stem from various reasons such as age, compatibility, or circumstances surrounding the engagement.\n\n2. Now, let's evaluate the two choices:\n   - Choice 1: \"Pasangan itu hamil.\" (The couple is pregnant.)\n   - Choice 2: [choice] (This option is unspecified, so we cannot evaluate it directly.)\n\n3. The first choice implies a situation that could lead to disapproval from others, as an unexpected pregnancy might be viewed negatively by family or friends, especially if it occurs before marriage or if the couple is perceived as unprepared.\n\n4. Without knowing what choice 2 is, we cannot compare it directly. However, choice 1 presents a plausible scenario that could explain why everyone disagrees with the engagement.\n\nGiven this reasoning, the more plausible option in relation to the premise is:\n\nAnswer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 1,
+        "is_correct": false
+    },
+    {
+        "id": "470",
+        "prompt": "Here is a premise: Acara televisi itu disensor.. What is the cause? Help me pick the more plausible option: -choice1: Acar itu berisi bahasa vulgar., -choice2: [choice]\nLet's think step-by-step in English.\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "To determine the cause of the television show being censored, we need to analyze the options provided.\n\n- Choice 1 states that the show contains vulgar language. This is a common reason for censorship in television, as networks often aim to maintain certain standards and avoid offending viewers.\n\n- Choice 2 is not provided, so we cannot evaluate it.\n\nSince choice 1 presents a clear and plausible reason for the censorship of the television show, we can conclude that it is the most likely cause.\n\nAnswer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "316",
+        "prompt": "Here is a premise: Saya terbangun di tengah malam karena kedinginan.. What is the effect? Help me pick the more plausible option: -choice1: Saya pakai celana hangat., -choice2: [choice]\nLet's think step-by-step in English.\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "To determine the most plausible effect of waking up in the middle of the night due to feeling cold, we need to consider what someone might do in response to that situation. \n\n1. The premise states that the person wakes up because they are cold. This suggests that they are uncomfortable and likely looking for a way to warm up.\n2. The first choice is \"Saya pakai celana hangat,\" which translates to \"I put on warm pants.\" This is a reasonable action someone might take to alleviate the cold.\n3. The second choice is not provided, but since we are only considering the first choice, it seems to be the most logical response to the situation described.\n\nGiven this reasoning, the most plausible option is to put on warm pants to combat the cold.\n\nAnswer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "185",
+        "prompt": "Here is a premise: Saya olahraga.. What is the cause? Help me pick the more plausible option: -choice1: Saya merasa penuh semangat., -choice2: [choice]\nLet's think step-by-step in English.\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "To determine the cause of \"Saya olahraga\" (I exercise), we need to consider the options provided. \n\n- Choice 1: \"Saya merasa penuh semangat\" translates to \"I feel energetic.\" This suggests that the reason for exercising could be the feeling of energy and motivation.\n- Choice 2: [choice] is not specified, so we cannot evaluate it.\n\nSince choice 1 provides a clear reason for exercising, it is the more plausible option.\n\nAnswer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "360",
+        "prompt": "Here is a premise: Pria itu menonjol sekali di tengah kerumunan.. What is the cause? Help me pick the more plausible option: -choice1: Dia membawa ransel., -choice2: [choice]\nLet's think step-by-step in English.\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "To determine the cause of the person standing out in the crowd, we need to analyze the options provided. \n\n- **Choice 1: Dia membawa ransel.** (He/She is carrying a backpack.)\n- **Choice 2: [choice]** (This option is unspecified.)\n\nSince choice 1 provides a specific reason (carrying a backpack) that could make someone stand out in a crowd, it is a plausible explanation. Without knowing what choice 2 is, we cannot evaluate it.\n\nTherefore, the more plausible option is:\n\nAnswer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 1,
+        "is_correct": false
+    }
+]

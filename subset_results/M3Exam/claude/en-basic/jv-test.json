@@ -1,0 +1,42 @@
+[
+    {
+        "id": 64,
+        "prompt": "The following is a multiple-choice question.\nKanggo nyegah sumebare COVID-19, sabubare lelungan perlu reresik tangan ....\nA. Sadurunge ndemok sedulur lan anggota kulawargane.\nB. Sadurunge ndemok anggota kulawarga lan barang-barang sing ana ing ngomahe.\nC. Sadurunge mangan lan ngombe ing ngomahe\nD. Sadurunge adus lan ngumbah klambine.\nYou should provide the final answer at the end in the format: 'Answer: [option]'",
+        "response": "Let me help you solve this Javanese language multiple-choice question about COVID-19 prevention.\n\nThe question translates to: \"To prevent the spread of COVID-19, hands must be cleaned before ....\"\n\nLet's analyze each option:\nA. Before touching relatives and family members\nB. Before touching family members and items in the house\nC. Before eating and drinking at home\nD. Before bathing and washing clothes\n\nThe most appropriate answer for hand cleaning to prevent COVID-19 transmission is option C: \"Before eating and drinking at home\". This is a standard hygiene practice recommended to prevent the spread of infectious diseases, including COVID-19.\n\nWashing or sanitizing hands before eating and drinking helps prevent potential virus transmission through contaminated hands touching food or drink that then enters the body.\n\nAnswer: C",
+        "predicted_answer": "C",
+        "ground_truth": "B",
+        "is_correct": false
+    },
+    {
+        "id": 46,
+        "prompt": "The following is a multiple-choice question.\nWaluh, Semangka, Lan Timun Kuwi Klebu Tanduran ....\nA. Palakirna\nB. Palakependhem\nC. Palawija\nD. Palakesimpar\nYou should provide the final answer at the end in the format: 'Answer: [option]'",
+        "response": "Let me help you solve this Indonesian language multiple-choice question.\n\nThe question translates to: \"Waluh (pumpkin), Semangka (watermelon), and Timun (cucumber) are classified as crops of....\"\n\nLet's break down the options:\nA. Palakirna - This doesn't seem to be a standard agricultural classification term\nB. Palakependhem - This also doesn't appear to be a standard term\nC. Palawija - This is a common Indonesian term referring to secondary crops or non-staple food crops\nD. Palakesimpar - This also doesn't seem to be a standard agricultural term\n\nThe crops mentioned (pumpkin, watermelon, cucumber) are all types of vine crops that are not primary staple crops like rice. They are typically classified as \"palawija\" in Indonesian agricultural terminology.\n\nTherefore, the correct answer is palawija.\n\nAnswer: C",
+        "predicted_answer": "C",
+        "ground_truth": "D",
+        "is_correct": false
+    },
+    {
+        "id": 196,
+        "prompt": "The following is a multiple-choice question.\n\u201cWiwitanipun usaha inggih namung nyobi-nyobi, krana pekarangannipun wiyar Panjenengannipun nyobi ternak lele. Dhasar mara sepuhipun pegawai Dinas Peternakan, dados saged ngangsu kawruh bab ternak lele\u201d.\n\nApa gagasan utama saka paragraf ing ndhuwur kuwi ....\nA. Wirausaha ternak lele\nB. Wirausaha\nC. Ternak lele\nD. Pegawai Dinas Peternakan\nYou should provide the final answer at the end in the format: 'Answer: [option]'",
+        "response": "Let me analyze the paragraph and help solve this multiple-choice question:\n\nThe paragraph discusses someone's attempt to start a business in catfish farming. The key points are:\n- The person is just trying/experimenting with a business\n- The land is wide, so they decided to try raising catfish\n- The person's parent works at the Livestock Service Office, which helps them gain knowledge about catfish farming\n\nLooking at the main idea of the paragraph, the focus is on:\n- The process of starting a business (wirausaha)\n- Specifically in catfish farming (ternak lele)\n\nAmong the given options, the most comprehensive and accurate choice that captures the main idea is:\n\nAnswer: A. Wirausaha ternak lele\n\nThis option combines both the entrepreneurial spirit (wirausaha) and the specific type of business (ternak lele) mentioned in the paragraph.",
+        "predicted_answer": "A. Wirausaha ternak lele",
+        "ground_truth": "A",
+        "is_correct": true
+    },
+    {
+        "id": 244,
+        "prompt": "The following is a multiple-choice question.\nSapu Sada\n\nJumat bersih\nResik lan sehat\nCancut tali wanda\nNandur kabecikan\nCilik gedhe bagus ayu\nOra mung padha gumuyu\nOra tinggal glanggang calon playu\nTumuju adiwiyata murih rahayu\nCrah agawe bubrah\nRukun agawe santosa\nGuyub rukun kaya sapu sada\n\nGeguritan ing ndhuwur surasane bab ....\na. kerja bakti\nb. sapu\nc. rukun\nd. gojekan\nYou should provide the final answer at the end in the format: 'Answer: [option]'",
+        "response": "Let's analyze the geguritan (poem) step by step:\n\n1. The poem talks about cleanliness (\"Jumat bersih\", \"Resik lan sehat\")\n2. It mentions working together (\"Cancut tali wanda\")\n3. There are lines about planting goodness (\"Nandur kabecikan\")\n4. The poem emphasizes unity and harmony (\"Crah agawe bubrah\", \"Rukun agawe santosa\", \"Guyub rukun\")\n5. The title \"Sapu Sada\" suggests a metaphor or symbolism\n\nThe overall theme seems to be about community cooperation, cleanliness, and working together harmoniously. This most closely aligns with the theme of \"kerja bakti\" (community service or collective work).\n\nThe poem describes collective efforts to clean, maintain, and improve their environment, and emphasizes the importance of unity and working together.\n\nTherefore, the most appropriate answer is about community service.\n\nAnswer: a",
+        "predicted_answer": "a",
+        "ground_truth": "a",
+        "is_correct": true
+    },
+    {
+        "id": 68,
+        "prompt": "The following is a multiple-choice question.\nJamaah jumat ingkang kawula bhekteni, monggo kita sareng-sareng nglampahi sedaya ingkang sampun perintah dining Alloh SWT. Lan nebihi sedaya laranganlaranganipun.....\n\nUkara-ukara ing inggil minangka tuladha ....\nA. Sesorah\nB. Khotbah\nC. Atur pambagya\nD. Atur pranatacara\nYou should provide the final answer at the end in the format: 'Answer: [option]'",
+        "response": "Let me analyze this carefully:\n\n1. The text is in Javanese (Jawa Krama/Halus)\n\n2. The content appears to be a religious address/speech:\n- It starts with \"Jamaah jumat\" (Friday congregation)\n- Calls for following Allah's commands\n- Encourages avoiding prohibited actions\n\n3. The question asks what type of speech/text this represents\n\n4. Let's examine the options:\nA. Sesorah = General speech/address\nB. Khotbah = Religious sermon/speech\nC. Atur pambagya = Congratulatory speech\nD. Atur pranatacara = Ceremonial speech/MC script\n\n5. Given the religious context, mentioning Allah, and addressing a Friday congregation, this most closely matches a \"Khotbah\" (religious sermon)\n\nThe text contains typical characteristics of a Friday sermon (khutbah) in Islamic tradition, which typically:\n- Addresses the congregation\n- Calls for following divine commands\n- Encourages moral behavior\n\nTherefore, the most appropriate answer is:\n\nAnswer: B",
+        "predicted_answer": "B",
+        "ground_truth": "B",
+        "is_correct": true
+    }
+]

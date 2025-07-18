@@ -1,0 +1,42 @@
+[
+    {
+        "id": "sw-4600",
+        "prompt": "Given the premise and hypothesis, your task is to judge whether the hypothesis is true, false, or undetermined given the premise. The relationship can be chosen from entailment, contradiction, and neutral.\nPremise: Ikiwa nimeandika historia ya hadithi itakuwa katika majina ya kamusi ya maeneo na watu waliofafanuliwa kwa suala la umuhimu binafsi.\nHypothesis: Ni muhimu kwangu kwamba tawasifu yangu iwe na urahisi wa kupatikana iwezekanavyo.\nYou should provide the final answer at the end in the format: 'Relationship: [entailment, neutral or contradiction]'.",
+        "response": "Premise inasema kwamba ikiwa nimeandika historia ya hadithi, itakuwa katika majina ya kamusi ya maeneo na watu waliofafanuliwa kwa suala la umuhimu binafsi. \n\nHypothesis inasema kwamba ni muhimu kwangu kwamba tawasifu yangu iwe na urahisi wa kupatikana iwezekanavyo.\n\nKwa kuwa tawasifu yangu kwenye majina ya kamusi ya maeneo na watu waliofafanuliwa kwa suala la umuhimu binafsi, itakuwa rahisi kwa watu binafsi kupata tawasifu yangu. Kwa hivyo, premise inaendelea na hypothesis.\n\nJibu la mwisho: Relationship: entailment.",
+        "predicted_answer": 0,
+        "ground_truth": 2,
+        "is_correct": false
+    },
+    {
+        "id": "sw-2559",
+        "prompt": "Given the premise and hypothesis, your task is to judge whether the hypothesis is true, false, or undetermined given the premise. The relationship can be chosen from entailment, contradiction, and neutral.\nPremise: Kwa mfano rahisi ,tuseme gharama ka lazi ya kugagwa ni 10a na gharama ya msingi ni 16a.\nHypothesis: Gharama ya barua pepe inahitaji kuwa mingi kuliko kushiriki.\nYou should provide the final answer at the end in the format: 'Relationship: [entailment, neutral or contradiction]'.",
+        "response": "Ili kutathmini uhusiano kati ya maelezo ya gharama ya lazi ya kugagwa na gharama ya msingi kwa barua pepe, hebu tuchambue maelezo iliyotolewa:\n\nPremise: \n- Gharama ya lazi ya kugagwa ni 10a\n- Gharama ya msingi ni 16a\n\nHypothesis: \n- Gharama ya barua pepe inahitaji kuwa mingi kuliko kushiriki.\n\nKwa kuwa maelezo ya gharama ya lazi ya kugagwa na msingi yameorodheshwa kwa aina ya moja kwa moja, tunaweza kuhitimisha kuwa gharama ya barua pepe itakuwa kubwa kuliko kushiriki ikiwa gharama ya msingi ni kubwa kuliko gharama ya lazi ya kugagwa. \n\nKwa kuwa gharama ya msingi ni 16a na gharama ya lazi ya kugagwa ni 10a, gharam",
+        "predicted_answer": "Ili kutathmini uhusiano kati ya maelezo ya gharama ya lazi ya kugagwa na gharama ya msingi kwa barua pepe, hebu tuchambue maelezo iliyotolewa:\n\nPremise: \n- Gharama ya lazi ya kugagwa ni 10a\n- Gharama ya msingi ni 16a\n\nHypothesis: \n- Gharama ya barua pepe inahitaji kuwa mingi kuliko kushiriki.\n\nKwa kuwa maelezo ya gharama ya lazi ya kugagwa na msingi yameorodheshwa kwa aina ya moja kwa moja, tunaweza kuhitimisha kuwa gharama ya barua pepe itakuwa kubwa kuliko kushiriki ikiwa gharama ya msingi ni kubwa kuliko gharama ya lazi ya kugagwa. \n\nKwa kuwa gharama ya msingi ni 16a na gharama ya lazi ya kugagwa ni 10a, gharam",
+        "ground_truth": 1,
+        "is_correct": false
+    },
+    {
+        "id": "sw-2875",
+        "prompt": "Given the premise and hypothesis, your task is to judge whether the hypothesis is true, false, or undetermined given the premise. The relationship can be chosen from entailment, contradiction, and neutral.\nPremise: 27 Ugumu unaongezeka kadiri marekebisho ya bwela yanayohitajika kupatanisha SCR na kituo yanapoongezeka.\nHypothesis: Ugumu wa ishirini na saba unategemea marekebisho.\nYou should provide the final answer at the end in the format: 'Relationship: [entailment, neutral or contradiction]'.",
+        "response": "I'll attempt to break down the given premise and hypothesis.\n\nPremise: \"27 Ugumu unaongezeka kadiri marekebisho ya bwela yanayohitajika kupatanisha SCR na kituo yanapoongezeka.\"\nTranslation: \"The difficulty of 27 increases as the required adjustments for synchronization between SCR and the base increase.\"\n\nHypothesis: \"Ugumu wa ishirini na saba unategemea marekebisho.\"\nTranslation: \"The difficulty of 27 depends on adjustments.\"\n\nFrom the premise, we can see that the difficulty of 27 is directly related to the required adjustments for synchronization between SCR and the base. This implies a direct relationship between the difficulty of 27 and the adjustments.\n\nConsidering the hypothesis, it states that the difficulty of 27 depends on adjustments. This is consistent with the premise, which also suggests a relationship between the difficulty of 27 and the adjustments.\n\nBased on the analysis, the relationship between the premise and the hypothesis is one of entailment, as the premise supports and implies the hypothesis.\n\nRelationship: entailment",
+        "predicted_answer": 0,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "sw-695",
+        "prompt": "Given the premise and hypothesis, your task is to judge whether the hypothesis is true, false, or undetermined given the premise. The relationship can be chosen from entailment, contradiction, and neutral.\nPremise: Kwa ukweli mimi sijui kwa sababu sijawahi kuvaa marinda mengi. Wanielewa kweli?\nHypothesis: Ninavaa mavazi ya dresi kila wakati.\nYou should provide the final answer at the end in the format: 'Relationship: [entailment, neutral or contradiction]'.",
+        "response": "Premise: Kwa ukweli mimi sijui kwa sababu sijawahi kuvaa marinda mengi. Wanielewa kweli?\n\nHypothesis: Ninavaa mavazi ya dresi kila wakati.\n\nKwa kuwa mhusika anasema kwamba hawajui kwa sababu hawajawahi kuvaa marinda mengi, hii inamaanisha kuwa hawajaiva mavazi ya dresi. Hii ina maana kwamba mhusika hawana uwezo wa kila wakati kuvaa mavazi ya dresi, kwani hawajajua.\n\nKwa hiyo, Relationship: contradiction.\n\nRelationship: contradiction.",
+        "predicted_answer": 2,
+        "ground_truth": 2,
+        "is_correct": true
+    },
+    {
+        "id": "sw-4884",
+        "prompt": "Given the premise and hypothesis, your task is to judge whether the hypothesis is true, false, or undetermined given the premise. The relationship can be chosen from entailment, contradiction, and neutral.\nPremise: Kwa kweli kuna zaidi ya marekebisho 100 ya syllothetic.\nHypothesis: Kuna vivumishi syllothetic 200.\nYou should provide the final answer at the end in the format: 'Relationship: [entailment, neutral or contradiction]'.",
+        "response": "I'll analyze the premise and hypothesis.\n\nPremise: Kwa kweli kuna zaidi ya marekebisho 100 ya syllothetic. (There are more than 100 syllothetic corrections.)\n\nHypothesis: Kuna vivumishi syllothetic 200. (There are 200 syllothetic corrections.)\n\nSince the premise states \"zaidi ya\" (more than) 100 corrections, it does not necessarily imply that there are exactly 200 corrections. However, the hypothesis stating \"kuna vivumishi syllothetic 200\" implies that there are 200 corrections, which is a specific number.\n\nGiven the premise allows for any number greater than 100, and the hypothesis is a specific number, we cannot conclude the truth of the hypothesis directly from the premise. \n\nRelationship: neutral.",
+        "predicted_answer": 1,
+        "ground_truth": 1,
+        "is_correct": true
+    }
+]

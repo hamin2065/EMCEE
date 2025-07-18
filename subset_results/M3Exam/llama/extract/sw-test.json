@@ -1,0 +1,52 @@
+[
+    {
+        "id": 349,
+        "sys_prompt": "The following is a multiple choice question. Given question, explanation and options, write only the correct option without any other details or explanations.",
+        "user_prompt": "Question: Sentensi inayounganisha sentensi: \"Juma ni mzee. Juma anasoma kitabu bila miwani\", kisahihi ni:\nOptions: A. Juma ni mzee maadamu anasoma kitabu bila miwani.\nB. Juma anasoma kitabu bila miwani licha ya kuwa yeye ni mzee.\nC. Juma ni mzee madhali anasoma kitabu bila miwani.\nD. Juma anasoma kitabu bila miwani minghairi ya yeye ni mzee.\nExplanation: Jibu sahihi ni B. Juma anasoma kitabu bila miwani licha ya kuwa yeye ni mzee.\n\nKumbuka kwamba kwa kusema \"Juma ni mzee\", tunajua kuwa Juma ana umri mkubwa, lakini hii haihusiani na uwezo wake wa kusoma kitabu bila miwani. Kwa hivyo, uwezekano wa Juma kusoma kitabu bila miwani ni kinyume cha umri wake. Hii ina maana kwamba Juma anaweza kusoma kitabu bila miwani, hata kama yeye ni mzee.",
+        "response": "B",
+        "explanation": "Jibu sahihi ni B. Juma anasoma kitabu bila miwani licha ya kuwa yeye ni mzee.\n\nKumbuka kwamba kwa kusema \"Juma ni mzee\", tunajua kuwa Juma ana umri mkubwa, lakini hii haihusiani na uwezo wake wa kusoma kitabu bila miwani. Kwa hivyo, uwezekano wa Juma kusoma kitabu bila miwani ni kinyume cha umri wake. Hii ina maana kwamba Juma anaweza kusoma kitabu bila miwani, hata kama yeye ni mzee.",
+        "predicted_answer": "B",
+        "ground_truth": "B",
+        "is_correct": true
+    },
+    {
+        "id": 408,
+        "sys_prompt": "The following is a multiple choice question. Given question, explanation and options, write only the correct option without any other details or explanations.",
+        "user_prompt": "Question: Tashbihi\nPopo amekonda kama _________\nOptions: A. sindano\nB. ng'onda\nC. kijiti\nD. kasuku\nExplanation: The correct answer is B. ng'onda.\n\nIn Swahili, \"popo\" refers to a bird, specifically the pigeon. \"Konda\" means to resemble or look like something. The question is asking what the pigeon looks like. \"Ng'onda\" is a type of bird that is known for its similar appearance to pigeons, often referred to as a dove. Therefore, the correct answer is B. ng'onda, as it is a bird that resembles a pigeon.",
+        "response": "B.",
+        "explanation": "The correct answer is B. ng'onda.\n\nIn Swahili, \"popo\" refers to a bird, specifically the pigeon. \"Konda\" means to resemble or look like something. The question is asking what the pigeon looks like. \"Ng'onda\" is a type of bird that is known for its similar appearance to pigeons, often referred to as a dove. Therefore, the correct answer is B. ng'onda, as it is a bird that resembles a pigeon.",
+        "predicted_answer": "B.",
+        "ground_truth": "B",
+        "is_correct": true
+    },
+    {
+        "id": 72,
+        "sys_prompt": "The following is a multiple choice question. Given question, explanation and options, write only the correct option without any other details or explanations.",
+        "user_prompt": "Question: Methali zifuatazo zinahusu bidii. Ipi haifai kuwepo?\nOptions: A. Mgaagaa na upwa hali wali mkavu.\nB. Umoja ni nguvu utengano ni udhaifu.\nC. Ukiona vyaelea jua vimeundwa.\nD. Mtaka cha mvunguni sharti ainame.\nExplanation: The question asks which of the given proverbs is not relevant to the concept of diligence or hard work. \n\nTo answer this question, let's analyze each option:\n\nA. Mgaagaa na upwa hali wali mkavu - This proverb means that laziness and idleness will lead to poverty. It is relevant to the concept of diligence.\n\nB. Umoja ni nguvu utengano ni udhaifu - This proverb emphasizes the importance of unity and cooperation, highlighting that division is a weakness. While it doesn't directly relate to diligence, it can be seen as a consequence of a lack of diligence in working together.\n\nC. Ukiona vyaelea jua vimeundwa - This proverb means that hard work and perseverance will lead to success. It is relevant to the concept of diligence.\n\nD. Mtaka cha mvunguni sharti ainame - This proverb means that the shell of a snail (or a small animal) must be cleaned before it is eaten. It is not directly related to diligence.\n\nBased on the analysis, the correct answer is D. Mtaka cha mvunguni sharti ainame, as it does not relate to the concept of diligence or hard work.",
+        "response": "D.",
+        "explanation": "The question asks which of the given proverbs is not relevant to the concept of diligence or hard work. \n\nTo answer this question, let's analyze each option:\n\nA. Mgaagaa na upwa hali wali mkavu - This proverb means that laziness and idleness will lead to poverty. It is relevant to the concept of diligence.\n\nB. Umoja ni nguvu utengano ni udhaifu - This proverb emphasizes the importance of unity and cooperation, highlighting that division is a weakness. While it doesn't directly relate to diligence, it can be seen as a consequence of a lack of diligence in working together.\n\nC. Ukiona vyaelea jua vimeundwa - This proverb means that hard work and perseverance will lead to success. It is relevant to the concept of diligence.\n\nD. Mtaka cha mvunguni sharti ainame - This proverb means that the shell of a snail (or a small animal) must be cleaned before it is eaten. It is not directly related to diligence.\n\nBased on the analysis, the correct answer is D. Mtaka cha mvunguni sharti ainame, as it does not relate to the concept of diligence or hard work.",
+        "predicted_answer": "D.",
+        "ground_truth": "C",
+        "is_correct": false
+    },
+    {
+        "id": 381,
+        "sys_prompt": "The following is a multiple choice question. Given question, explanation and options, write only the correct option without any other details or explanations.",
+        "user_prompt": "Question: Chagua neno ambalo limetumia silabi changamano:\nOptions: A. Mbuga.\nB. Kituta.\nC. Ziwa.\nD. Utulivu.\nExplanation: To answer this question, students need to identify which word uses a consonant-vowel-consonant-vowel pattern, known as silabi changamano. This pattern is a characteristic of many Swahili words.\n\nThe correct answer is A. Mbuga. The word \"mbuga\" follows the consonant-vowel-consonant-vowel pattern, making it a word with silabi changamano.",
+        "response": "A. Mbuga.",
+        "explanation": "To answer this question, students need to identify which word uses a consonant-vowel-consonant-vowel pattern, known as silabi changamano. This pattern is a characteristic of many Swahili words.\n\nThe correct answer is A. Mbuga. The word \"mbuga\" follows the consonant-vowel-consonant-vowel pattern, making it a word with silabi changamano.",
+        "predicted_answer": "A. Mbuga.",
+        "ground_truth": "A",
+        "is_correct": true
+    },
+    {
+        "id": 237,
+        "sys_prompt": "The following is a multiple choice question. Given question, explanation and options, write only the correct option without any other details or explanations.",
+        "user_prompt": "Question: Tegua kitendawili hiki: \nMava hapo mava pale\nOptions: A. kifo\nB. kioo\nC. kumetameta\nD. kivuli\nExplanation: Here's the explanation for the multiple-choice question in English:\n\nThe question \"Mava hapo mava pale\" is a common idiomatic expression in Swahili that means \"darkness at noon.\" It is used to describe a situation where something unexpected or unusual happens, often in a time or place where it is not expected.\n\nIn this context, the correct answer is \"D. kivuli,\" which means \"shadow\" or \"darkness.\" The phrase \"mava hapo mava pale\" is a metaphorical expression that uses the idea of darkness or shadow to convey the idea of something unexpected or unusual happening.\n\nThe other options, \"kifo\" (death), \"kioo\" (glass), and \"kumetameta\" (to be tired), do not fit the context of the idiom and are therefore incorrect.",
+        "response": "D",
+        "explanation": "Here's the explanation for the multiple-choice question in English:\n\nThe question \"Mava hapo mava pale\" is a common idiomatic expression in Swahili that means \"darkness at noon.\" It is used to describe a situation where something unexpected or unusual happens, often in a time or place where it is not expected.\n\nIn this context, the correct answer is \"D. kivuli,\" which means \"shadow\" or \"darkness.\" The phrase \"mava hapo mava pale\" is a metaphorical expression that uses the idea of darkness or shadow to convey the idea of something unexpected or unusual happening.\n\nThe other options, \"kifo\" (death), \"kioo\" (glass), and \"kumetameta\" (to be tired), do not fit the context of the idiom and are therefore incorrect.",
+        "predicted_answer": "D",
+        "ground_truth": "D",
+        "is_correct": true
+    }
+]

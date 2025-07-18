@@ -1,0 +1,114 @@
+[
+    {
+        "id": "81543553621132354",
+        "prompt": "Answer the question in one or a few words in English: \nWo wurde \"Hilfe, die Amis kommen\" gefilmt?\nLet's think step-by-step in English.\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "The film \"Hilfe, die Amis kommen\" was shot in Germany. \n\nAnswer: Germany",
+        "predicted_answer": "Germany",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q38",
+                "text": "Italien",
+                "aliases": [
+                    "Italienische Republik"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q142",
+                "text": "Frankreich",
+                "aliases": [
+                    "Franz\u00f6sische Republik",
+                    "Republik Frankreich",
+                    "fr"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q21",
+                "text": "England",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q713750",
+                "text": "Geschichte der Bundesrepublik Deutschland (bis 1990)",
+                "aliases": [
+                    "Alte Bundesrepublik",
+                    "Alte Bundesrepublik Deutschland",
+                    "Westdeutschland",
+                    "Bundesrepublik Deutschland (1949-1990)",
+                    "BR Dtld."
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "8627228541151141053",
+        "prompt": "Answer the question in one or a few words in English: \nwer singt das lied love will keep us together\nLet's think step-by-step in English.\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "The song \"Love Will Keep Us Together\" is sung by Captain & Tennille. \n\nAnswer: Captain & Tennille",
+        "predicted_answer": "Captain & Tennille",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q1035077",
+                "text": "Captain & Tennille",
+                "aliases": [
+                    "The Captain and Tennille",
+                    "Captain and Tennille",
+                    "The Captain & Tennille",
+                    "Darrly Dragon",
+                    "Toni Tenille",
+                    "Tony Tennille"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "-7634638252335162798",
+        "prompt": "Answer the question in one or a few words in English: \nWie viele Staaten gibt es in den Continental United States\nLet's think step-by-step in English.\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "There are 50 states in the Continental United States. \n\nAnswer: 50 states",
+        "predicted_answer": "50 states",
+        "ground_truth": [
+            {
+                "type": "number",
+                "text": "48.0",
+                "aliases": [
+                    "48"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "8643588946565257997",
+        "prompt": "Answer the question in one or a few words in English: \nwer ist der mann im i dont always meme\nLet's think step-by-step in English.\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "The man in the \"I don't always\" meme is known as the Most Interesting Man in the World. \n\nAnswer: Most Interesting Man in the World",
+        "predicted_answer": "Most Interesting Man in the World",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q1255362",
+                "text": "Jonathan Goldsmith",
+                "aliases": []
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "6747693054679197435",
+        "prompt": "Answer the question in one or a few words in English: \nWer ist das j\u00fcngste Mitglied von \"why don't we\"\nLet's think step-by-step in English.\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "To determine the youngest member of the band \"Why Don't We,\" we need to look at the birthdates of each member. The band consists of five members: Jonah Marais, Corbyn Besson, Daniel Seavey, Jack Avery, and Zach Herron. \n\n1. Jonah Marais was born on June 16, 1998.\n2. Corbyn Besson was born on November 25, 1998.\n3. Daniel Seavey was born on April 2, 1999.\n4. Jack Avery was born on July 1, 1999.\n5. Zach Herron was born on May 27, 2001.\n\nFrom these birthdates, we can see that Zach Herron, born in 2001, is the youngest member of the group.\n\nFinal answer: Answer: Zach Herron",
+        "predicted_answer": "Answer: Zach Herron",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "text": "Zachary Dean Herron",
+                "entity": "Q50437010"
+            }
+        ],
+        "is_correct": null
+    }
+]

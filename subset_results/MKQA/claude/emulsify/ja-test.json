@@ -1,0 +1,97 @@
+[
+    {
+        "id": "-8785178576893271242",
+        "sys_prompt": "You are a judge from the Japanese tradition, known for your wisdom and fairness. Although your cultural background is Japanese, you are fluent in English and will conduct this task in English. You are given a reasoning question. There is a debate on this question between user1 and user2. Your task is to listen to their arguments carefully and provide a fair and wise judgment.\n\nSummarize the debate briefly and then give a conclusion based on the arguments presented. Your response should be in the format: \n\"Summary: ___. Conclusion: [answer] is more plausible.\n\nAnswer: [one or a few words in English]\"\n\nApproach the task with the fairness and critical thinking expected of a Japanese judge, ensuring you make only one answer for the final answer.",
+        "user_prompt": "Question: \u5927\u8349\u539f\u306e\u5c0f\u3055\u306a\u5bb6\u3067\u30cd\u30ea\u30fc\u3092\u6f14\u3058\u305f\u306e\u306f\u8ab0\u3067\u3059\u304b\uff1f\n\nuser1: Melissa Gilbert\n\nAnswer: Melissa Gilbert\n\nuser2: In the popular American television series \"Little House on the Prairie\" (\u5927\u8349\u539f\u306e\u5c0f\u3055\u306a\u5bb6), Nellie Oleson was portrayed by actress Melissa Gilbert. Nellie was a memorable antagonist character known for her bratty and spoiled personality, who often served as a rival to the main character Laura Ingalls (also played by Melissa Gilbert). The show, which aired from 1974 to 1983, was based on Laura Ingalls Wilder's autobiographical book series about pioneer life in the American Midwest during the late 19th century. Melissa Gilbert's portrayal of Nellie was so iconic that she became one of the most recognizable characters in the series, embodying the classic \"mean girl\" archetype of the time.\nAnswer: Melissa Gilbert",
+        "response": "Summary: Both user1 and user2 argue that Melissa Gilbert played Nellie in \"Little House on the Prairie\", but this is actually incorrect. Nellie Oleson was portrayed by Alison Arngrim, while Melissa Gilbert played Laura Ingalls, the main character of the series.\n\nConclusion: Alison Arngrim is more plausible.\n\nAnswer: Alison Arngrim",
+        "predicted_answer": "Alison Arngrim",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q265540",
+                "text": "\u30a2\u30ea\u30bd\u30f3\u30fb\u30a2\u30fc\u30f3\u30b0\u30ea\u30f3",
+                "aliases": []
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "2479806972542856767",
+        "sys_prompt": "You are a judge from the Japanese tradition, known for your wisdom and fairness. Although your cultural background is Japanese, you are fluent in English and will conduct this task in English. You are given a reasoning question. There is a debate on this question between user1 and user2. Your task is to listen to their arguments carefully and provide a fair and wise judgment.\n\nSummarize the debate briefly and then give a conclusion based on the arguments presented. Your response should be in the format: \n\"Summary: ___. Conclusion: [answer] is more plausible.\n\nAnswer: [one or a few words in English]\"\n\nApproach the task with the fairness and critical thinking expected of a Japanese judge, ensuring you make only one answer for the final answer.",
+        "user_prompt": "Question: \u300c\u30d8\u30f3\u30bc\u30eb\u3068\u30b0\u30ec\u30fc\u30c6\u30eb\u300d\u306e\u9b54\u5973\u5f79\u306f\u8ab0\uff1f\n\nuser1: Answer: Witch\n\nuser2: In the classic fairy tale \"Hansel and Gretel,\" the witch is typically portrayed as an evil, cannibalistic character who lives in a house made of candy and wants to eat the children. In most traditional versions of the story, the witch is not given a specific name, but is simply referred to as \"the witch\" or \"the evil witch.\" The character represents a classic fairy tale villain who tries to lure and trap children, symbolizing the dangers and fears that children might encounter. In the Grimm Brothers' original version, the witch is a cruel and cunning character who wants to cook and eat Hansel and Gretel, embodying the dark and cautionary elements common in traditional fairy tales. Understanding the witch's role helps illustrate the moral lessons and psychological themes often present in these traditional stories.\nAnswer: \u540d\u524d\u306a\u3057\uff08\u9b54\u5973\uff09",
+        "response": "Summary: The debate centers on identifying the witch in the fairy tale \"Hansel and Gretel\". User1 simply states \"Witch\" as the answer, while user2 provides a detailed explanation about the witch's character, emphasizing that she is traditionally nameless and represents a symbolic villain in the story.\n\nConclusion: \"\u540d\u524d\u306a\u3057\uff08\u9b54\u5973\uff09\" is more plausible.\n\nAnswer: Nameless Witch",
+        "predicted_answer": "Nameless Witch",
+        "ground_truth": [
+            {
+                "type": "short_phrase",
+                "text": "\u30ed\u30b8\u30fc\u30ca \u30ec\u30c3\u30ab\u30fc\u30de\u30a6\u30eb"
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "-3578394134252581",
+        "sys_prompt": "You are a judge from the Japanese tradition, known for your wisdom and fairness. Although your cultural background is Japanese, you are fluent in English and will conduct this task in English. You are given a reasoning question. There is a debate on this question between user1 and user2. Your task is to listen to their arguments carefully and provide a fair and wise judgment.\n\nSummarize the debate briefly and then give a conclusion based on the arguments presented. Your response should be in the format: \n\"Summary: ___. Conclusion: [answer] is more plausible.\n\nAnswer: [one or a few words in English]\"\n\nApproach the task with the fairness and critical thinking expected of a Japanese judge, ensuring you make only one answer for the final answer.",
+        "user_prompt": "Question: \u30d2\u30de\u30e9\u30e4\u5c71\u8108\u306f\u4e16\u754c\u3067\u6700\u3082\u9ad8\u3044\u5c71\u306a\u306e\u304b\n\nuser1: Let's solve this step by step:\n\n1. The question asks if the Himalayan mountain range is the world's highest mountain.\n\n2. The Himalayan mountain range contains Mount Everest, which is the highest mountain on Earth.\n\n3. However, the question specifically asks about the mountain range itself, not a single mountain.\n\n4. While the Himalayas are extremely high, they are not technically the \"highest mountain\" in the world.\n\n5. The mountain range is very tall, with multiple peaks over 8,000 meters, but it is not considered the single highest mountain.\n\n6. Therefore, the answer is \"no\".\n\nAnswer: no\n\nuser2: No, the Himalayan mountain range is not the world's highest mountain, though it contains the world's highest peak, Mount Everest. The Himalayas are a mountain range located primarily in Nepal, India, and Tibet, and Mount Everest (8,848 meters/29,029 feet) is the highest individual mountain on Earth. While the Himalayas are incredibly significant in terms of altitude and geological importance, they are a mountain range, not a single mountain. Understanding the distinction between a mountain range and an individual mountain peak is crucial for geographical accuracy. The Himalayas are remarkable for having multiple peaks over 8,000 meters, making them the highest mountain range in the world.\nAnswer: no",
+        "response": "Summary: Both user1 and user2 agree that the Himalayan mountain range is not the world's highest mountain, but rather a mountain range containing Mount Everest, which is the highest individual mountain peak on Earth. They both emphasize the distinction between a mountain range and a single mountain.\n\nConclusion: \"no\" is more plausible.\n\nAnswer: no",
+        "predicted_answer": "no",
+        "ground_truth": [
+            {
+                "type": "binary",
+                "text": "no"
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "8245563213341141772",
+        "sys_prompt": "You are a judge from the Japanese tradition, known for your wisdom and fairness. Although your cultural background is Japanese, you are fluent in English and will conduct this task in English. You are given a reasoning question. There is a debate on this question between user1 and user2. Your task is to listen to their arguments carefully and provide a fair and wise judgment.\n\nSummarize the debate briefly and then give a conclusion based on the arguments presented. Your response should be in the format: \n\"Summary: ___. Conclusion: [answer] is more plausible.\n\nAnswer: [one or a few words in English]\"\n\nApproach the task with the fairness and critical thinking expected of a Japanese judge, ensuring you make only one answer for the final answer.",
+        "user_prompt": "Question: \u6700\u521d\u306e\u30a8\u30af\u30bd\u30b7\u30b9\u30c8\u306e\u6620\u753b\u304c\u516c\u958b\u3055\u308c\u305f\u306e\u306f\u3044\u3064\u304b\n\nuser1: To determine when the first Exorcist movie was released, I'll recall its original release date.\n\nThe first Exorcist film was released in 1973.\n\nAnswer: 1973\n\nuser2: The first \"Exorcist\" movie was released in 1973, directed by William Friedkin and based on William Peter Blatty's novel. This groundbreaking horror film, which premiered on December 26, 1973, was a massive cultural phenomenon that significantly impacted the horror genre and cinema history. The movie was so shocking and controversial for its time that it caused audience members to faint, vomit, and walk out of theaters during screenings. Its graphic depiction of demonic possession and intense psychological horror made it one of the most influential horror films ever made, setting a new standard for the genre and sparking widespread discussions about religious themes and supernatural experiences.\nAnswer: 1973",
+        "response": "Summary: Both user1 and user2 agree that the first Exorcist movie was released in 1973, with user2 providing more detailed context about the film's cultural impact and specific release date of December 26, 1973.\n\nConclusion: 1973 is the most plausible answer.\n\nAnswer: 1973",
+        "predicted_answer": "1973",
+        "ground_truth": [
+            {
+                "type": "date",
+                "text": "1973-12-26",
+                "aliases": [
+                    "1973 12 26",
+                    "12/26/1973",
+                    "12-26-1973",
+                    "26-12-1973",
+                    "1973 \u5341\u4e8c\u6708 26",
+                    "26/12/1973",
+                    "1973 december, 26",
+                    "1973-12-26",
+                    "12 26 1973",
+                    "26 12 1973",
+                    "26 \u5341\u4e8c\u6708 1973"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "2485054536940137946",
+        "sys_prompt": "You are a judge from the Japanese tradition, known for your wisdom and fairness. Although your cultural background is Japanese, you are fluent in English and will conduct this task in English. You are given a reasoning question. There is a debate on this question between user1 and user2. Your task is to listen to their arguments carefully and provide a fair and wise judgment.\n\nSummarize the debate briefly and then give a conclusion based on the arguments presented. Your response should be in the format: \n\"Summary: ___. Conclusion: [answer] is more plausible.\n\nAnswer: [one or a few words in English]\"\n\nApproach the task with the fairness and critical thinking expected of a Japanese judge, ensuring you make only one answer for the final answer.",
+        "user_prompt": "Question: \u30a2\u30e9\u30e2\u306e\u6226\u3044\u306f\u3069\u3053\u3067\u884c\u306a\u308f\u308c\u307e\u3057\u305f\u304b\n\nuser1: The Battle of the Alamo took place in San Antonio, Texas, during the Texas Revolution.\n\nAnswer: San Antonio\n\nuser2: The Battle of the Alamo took place in San Antonio, Texas, specifically at the Alamo Mission (Mission San Antonio de Valero). This historic battle occurred in 1836 during the Texas Revolution, where a small group of Texan defenders, including famous figures like Davy Crockett and Jim Bowie, fought against a much larger Mexican army led by General Santa Anna. The battle lasted 13 days and ended with the complete defeat of the Texan defenders, but it became a powerful symbol of resistance and ultimately inspired more Texans to join the fight for independence from Mexico. Understanding this battle is crucial to comprehending Texas history and the state's path to becoming part of the United States. The Alamo is now a museum and a significant historical landmark that symbolizes Texas pride and heroism.\nAnswer: San Antonio",
+        "response": "Summary: Both user1 and user2 agree that the Battle of the Alamo took place in San Antonio, Texas. User2 provided a more detailed historical context about the battle, its significance, and its location at the Alamo Mission, while user1 gave a concise answer.\n\nConclusion: San Antonio is the correct answer.\n\nAnswer: San Antonio",
+        "predicted_answer": "San Antonio",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q1439",
+                "text": "\u30c6\u30ad\u30b5\u30b9\u5dde",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q975",
+                "text": "\u30b5\u30f3\u30a2\u30f3\u30c8\u30cb\u30aa",
+                "aliases": [
+                    "\u30a2\u30f3\u30c8\u30cb\u30a6\u30b9"
+                ]
+            }
+        ],
+        "is_correct": null
+    }
+]

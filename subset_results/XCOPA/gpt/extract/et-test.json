@@ -1,0 +1,52 @@
+[
+    {
+        "id": "279",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: T\u00fcdruk \u00fchines v\u00e4itlusmeeskonnaga.\nWhat is the effect?\nChoice1: Ta \u00f5ppis arvutit kasutama.\nChoice2: Ta \u00f5ppis suhtlusoskusi.\nExplanation: The premise states that a girl joined a debate team. Joining a debate team typically involves developing skills related to argumentation, public speaking, and effective communication. Therefore, the most relevant effect of her joining the debate team would be that she learned communication skills, which aligns with choice 2: \"Ta \u00f5ppis suhtlusoskusi\" (\"She learned communication skills\"). While learning to use a computer (choice 1) can be beneficial, it is not a direct or expected outcome of participating in a debate team, making choice 2 the more appropriate answer.",
+        "response": "Answer: 2",
+        "explanation": "The premise states that a girl joined a debate team. Joining a debate team typically involves developing skills related to argumentation, public speaking, and effective communication. Therefore, the most relevant effect of her joining the debate team would be that she learned communication skills, which aligns with choice 2: \"Ta \u00f5ppis suhtlusoskusi\" (\"She learned communication skills\"). While learning to use a computer (choice 1) can be beneficial, it is not a direct or expected outcome of participating in a debate team, making choice 2 the more appropriate answer.",
+        "predicted_answer": 2,
+        "ground_truth": 1,
+        "is_correct": true
+    },
+    {
+        "id": "112",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: Ma n\u00e4gin oma hinge\u00f5hku, kui ma v\u00e4lja hindasin.\nWhat is the cause?\nChoice1: Ilm oli jahe.\nChoice2: Mul oli rinnus kitsas.\nExplanation: The premise \"Ma n\u00e4gin oma hinge\u00f5hku, kui ma v\u00e4lja hindasin\" translates to \"I saw my breath when I exhaled.\" This phenomenon typically occurs in cold weather when the warm moisture from your breath condenses in the cold air, making it visible. Therefore, the cause of seeing one's breath is related to the temperature. Choice 1, \"Ilm oli jahe\" (\"The weather was cool\"), directly explains why the breath was visible, as cool air allows for this condensation to happen. Choice 2, \"Mul oli rinnus kitsas\" (\"I felt tightness in my chest\"), does not relate to the visibility of breath and is not a cause for seeing one's breath. Thus, choice 1 is the correct answer.",
+        "response": "Answer: 1",
+        "explanation": "The premise \"Ma n\u00e4gin oma hinge\u00f5hku, kui ma v\u00e4lja hindasin\" translates to \"I saw my breath when I exhaled.\" This phenomenon typically occurs in cold weather when the warm moisture from your breath condenses in the cold air, making it visible. Therefore, the cause of seeing one's breath is related to the temperature. Choice 1, \"Ilm oli jahe\" (\"The weather was cool\"), directly explains why the breath was visible, as cool air allows for this condensation to happen. Choice 2, \"Mul oli rinnus kitsas\" (\"I felt tightness in my chest\"), does not relate to the visibility of breath and is not a cause for seeing one's breath. Thus, choice 1 is the correct answer.",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "23",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: \u00d5pilane teadis k\u00fcsimusele vastust.\nWhat is the effect?\nChoice1: Ta t\u00f5stis oma k\u00e4e.\nChoice2: Ta viilis.\nExplanation: The premise states that the student knew the answer to a question. A common response for a student who knows the answer is to raise their hand to indicate they would like to share their knowledge, which corresponds to choice 1: \"Ta t\u00f5stis oma k\u00e4e\" (\"He/She raised their hand\"). This action is typical in classroom settings where students participate in discussions or answer questions. On the other hand, \"Ta viilis\" (\"He/She skipped class\") does not logically follow from knowing the answer, as it implies disengagement rather than participation. Therefore, the correct effect of knowing the answer is that the student raised their hand.",
+        "response": "Answer: 1",
+        "explanation": "The premise states that the student knew the answer to a question. A common response for a student who knows the answer is to raise their hand to indicate they would like to share their knowledge, which corresponds to choice 1: \"Ta t\u00f5stis oma k\u00e4e\" (\"He/She raised their hand\"). This action is typical in classroom settings where students participate in discussions or answer questions. On the other hand, \"Ta viilis\" (\"He/She skipped class\") does not logically follow from knowing the answer, as it implies disengagement rather than participation. Therefore, the correct effect of knowing the answer is that the student raised their hand.",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "140",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: Poiss teritas pliiatsit.\nWhat is the cause?\nChoice1: See oli odav.\nChoice2: See oli n\u00fcri.\nExplanation: The premise \"Poiss teritas pliiatsit\" translates to \"The boy sharpened the pencil.\" The action of sharpening a pencil typically occurs when the pencil has become dull and is no longer able to write effectively. Therefore, the cause of the boy sharpening the pencil is that it was blunt or \"n\u00fcri,\" which corresponds to choice 2. Choice 1, \"See oli odav\" (\"It was cheap\"), does not relate to the need to sharpen the pencil, as the cost of the pencil does not affect its sharpness or functionality. Thus, the correct choice is that the pencil was dull, prompting the boy to sharpen it.",
+        "response": "2",
+        "explanation": "The premise \"Poiss teritas pliiatsit\" translates to \"The boy sharpened the pencil.\" The action of sharpening a pencil typically occurs when the pencil has become dull and is no longer able to write effectively. Therefore, the cause of the boy sharpening the pencil is that it was blunt or \"n\u00fcri,\" which corresponds to choice 2. Choice 1, \"See oli odav\" (\"It was cheap\"), does not relate to the need to sharpen the pencil, as the cost of the pencil does not affect its sharpness or functionality. Thus, the correct choice is that the pencil was dull, prompting the boy to sharpen it.",
+        "predicted_answer": "2",
+        "ground_truth": 1,
+        "is_correct": true
+    },
+    {
+        "id": "445",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: Naine haaras oma k\u00f5rist.\nWhat is the cause?\nChoice1: Ta neelas oma toidu alla.\nChoice2: Ta l\u00e4mbus oma toidu k\u00e4es.\nExplanation: The premise \"Naine haaras oma k\u00f5rist\" translates to \"The woman grabbed her throat.\" This action typically indicates a reaction to choking or difficulty breathing. In this context, choice 2, \"Ta l\u00e4mbus oma toidu k\u00e4es\" (\"She was choking on her food\"), is the more appropriate cause, as it directly relates to the act of grabbing one's throat in response to choking. Choice 1, \"Ta neelas oma toidu alla\" (\"She swallowed her food\"), does not imply any distress and would not lead to the action of grabbing her throat. Therefore, the correct choice is that she was choking on her food.",
+        "response": "2",
+        "explanation": "The premise \"Naine haaras oma k\u00f5rist\" translates to \"The woman grabbed her throat.\" This action typically indicates a reaction to choking or difficulty breathing. In this context, choice 2, \"Ta l\u00e4mbus oma toidu k\u00e4es\" (\"She was choking on her food\"), is the more appropriate cause, as it directly relates to the act of grabbing one's throat in response to choking. Choice 1, \"Ta neelas oma toidu alla\" (\"She swallowed her food\"), does not imply any distress and would not lead to the action of grabbing her throat. Therefore, the correct choice is that she was choking on her food.",
+        "predicted_answer": "2",
+        "ground_truth": 1,
+        "is_correct": true
+    }
+]

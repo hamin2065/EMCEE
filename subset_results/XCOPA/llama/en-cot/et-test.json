@@ -1,0 +1,42 @@
+[
+    {
+        "id": "279",
+        "prompt": "Here is a premise: T\u00fcdruk \u00fchines v\u00e4itlusmeeskonnaga.. What is the effect? Help me pick the more plausible option: -choice1: Ta \u00f5ppis arvutit kasutama., -choice2: [choice]\nLet's think step-by-step in English.\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "To determine the effect of the premise \"T\u00fcdruk \u00fchines v\u00e4itlusmeeskonnaga\", let's break it down:\n\n1. \"T\u00fcdruk\" means \"girl\" in Estonian.\n2. \"\u00dchines\" means \"joined\" or \"became a part of\".\n3. \"V\u00e4itlusmeeskonnaga\" means \"with a debate team\" or \"with a discussion group\".\n\nSo, the premise translates to \"The girl joined a debate team\".\n\nNow, considering the options:\n\n-choice1: Ta \u00f5ppis arvutit kasutama. (She learned to use a computer.)\n-choice2: (This option is missing, but I assume it would be a more plausible outcome given the context.)\n\nGiven the context, it's more plausible that the girl joined a debate team would learn how to debate, present arguments, and possibly improve her public speaking skills. However, the option \"Ta \u00f5ppis arvutit kasutama\" (She learned to use a computer) is not directly related to joining a debate team.\n\nAssuming the missing option is something like \"Ta \u00f5ppis debati tehnika kasutama\" (She learned to use debate techniques),",
+        "predicted_answer": "To determine the effect of the premise \"T\u00fcdruk \u00fchines v\u00e4itlusmeeskonnaga\", let's break it down:\n\n1. \"T\u00fcdruk\" means \"girl\" in Estonian.\n2. \"\u00dchines\" means \"joined\" or \"became a part of\".\n3. \"V\u00e4itlusmeeskonnaga\" means \"with a debate team\" or \"with a discussion group\".\n\nSo, the premise translates to \"The girl joined a debate team\".\n\nNow, considering the options:\n\n-choice1: Ta \u00f5ppis arvutit kasutama. (She learned to use a computer.)\n-choice2: (This option is missing, but I assume it would be a more plausible outcome given the context.)\n\nGiven the context, it's more plausible that the girl joined a debate team would learn how to debate, present arguments, and possibly improve her public speaking skills. However, the option \"Ta \u00f5ppis arvutit kasutama\" (She learned to use a computer) is not directly related to joining a debate team.\n\nAssuming the missing option is something like \"Ta \u00f5ppis debati tehnika kasutama\" (She learned to use debate techniques),",
+        "ground_truth": 1,
+        "is_correct": false
+    },
+    {
+        "id": "112",
+        "prompt": "Here is a premise: Ma n\u00e4gin oma hinge\u00f5hku, kui ma v\u00e4lja hindasin.. What is the cause? Help me pick the more plausible option: -choice1: Ilm oli jahe., -choice2: [choice]\nLet's think step-by-step in English.\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "To determine the cause, let's break down the given information. \n\nThe phrase \"Ma n\u00e4gin oma hinge\u00f5hku\" translates to \"I saw my breath.\" This typically happens when the air is cold enough that visible breath is visible when exhaled. \n\nGiven the situation, let's analyze the options:\n\n- choice1: Ilm oli jahe. (The weather was cold.)\n- choice2: (This option is missing, so we'll ignore it for now.)\n\nSince the phrase \"Ma n\u00e4gin oma hinge\u00f5hku\" implies that the person saw their breath, it's likely due to the cold weather. \n\nAnswer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "23",
+        "prompt": "Here is a premise: \u00d5pilane teadis k\u00fcsimusele vastust.. What is the effect? Help me pick the more plausible option: -choice1: Ta t\u00f5stis oma k\u00e4e., -choice2: [choice]\nLet's think step-by-step in English.\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "To determine the more plausible option, let's break down the situation step by step.\n\n1. The student (\u00f5pilane) knows the answer to the question.\n2. The student is asked a question (k\u00fcsimusele vastust).\n3. The question is about the effect of something (mis on m\u00f5ju).\n\nConsidering the context, the effect of knowing the answer to a question would likely be a cognitive or intellectual response, rather than a physical one. \n\nSo, I would choose:\n\nAnswer: 2",
+        "predicted_answer": 2,
+        "ground_truth": 0,
+        "is_correct": false
+    },
+    {
+        "id": "140",
+        "prompt": "Here is a premise: Poiss teritas pliiatsit.. What is the cause? Help me pick the more plausible option: -choice1: See oli odav., -choice2: [choice]\nLet's think step-by-step in English.\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "To analyze the given premise \"Poiss teritas pliiatsit,\" we need to break it down. The phrase seems to be in an Estonian language, which is an Indo-European language spoken in Estonia.\n\nThe words \"Poiss\" and \"teritas\" don't directly translate to English, but \"teritas\" might be related to the word \"teritama,\" which means \"to cut\" or \"to chop.\" On the other hand, \"pliiatsit\" seems to be related to the word \"pliiats,\" which means \"to fold\" or \"to crease.\"\n\nGiven the context, it seems like the phrase is describing an action of cutting or chopping something that results in folding or creasing. \n\nNow, let's consider the options:\n\n- Choice 1: \"See oli odav.\" translates to \"This was cheap.\" This doesn't seem to be related to the action of cutting or chopping.\n\n- Choice 2: I couldn't find any information about this option, but let's assume it's an alternative explanation.\n\nConsidering the analysis, I think the phrase \"Poiss teritas pliiatsit\" is more likely describing a situation where something is cut or chopped in a way that results in folding or creasing",
+        "predicted_answer": "To analyze the given premise \"Poiss teritas pliiatsit,\" we need to break it down. The phrase seems to be in an Estonian language, which is an Indo-European language spoken in Estonia.\n\nThe words \"Poiss\" and \"teritas\" don't directly translate to English, but \"teritas\" might be related to the word \"teritama,\" which means \"to cut\" or \"to chop.\" On the other hand, \"pliiatsit\" seems to be related to the word \"pliiats,\" which means \"to fold\" or \"to crease.\"\n\nGiven the context, it seems like the phrase is describing an action of cutting or chopping something that results in folding or creasing. \n\nNow, let's consider the options:\n\n- Choice 1: \"See oli odav.\" translates to \"This was cheap.\" This doesn't seem to be related to the action of cutting or chopping.\n\n- Choice 2: I couldn't find any information about this option, but let's assume it's an alternative explanation.\n\nConsidering the analysis, I think the phrase \"Poiss teritas pliiatsit\" is more likely describing a situation where something is cut or chopped in a way that results in folding or creasing",
+        "ground_truth": 1,
+        "is_correct": false
+    },
+    {
+        "id": "445",
+        "prompt": "Here is a premise: Naine haaras oma k\u00f5rist.. What is the cause? Help me pick the more plausible option: -choice1: Ta neelas oma toidu alla., -choice2: [choice]\nLet's think step-by-step in English.\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "To determine the cause, let's break down the sentence. \"Naine haaras oma k\u00f5rist\" translates to \"The woman tangled her hair.\" \n\nGiven this context, the most plausible option would be related to hair. \n\nChoice 1: \"Ta neelas oma toidu alla\" translates to \"She put her food down.\" This doesn't seem directly related to hair.\n\nChoice 2: This option is missing, but I'll assume it's something related to hair.\n\nWithout seeing choice 2, I'll make an educated guess based on the given options. However, since choice 2 is missing, I'll choose the option that is more directly related to the situation.\n\nAnswer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 1,
+        "is_correct": false
+    }
+]

@@ -1,0 +1,89 @@
+[
+    {
+        "id": "5170765158681567047",
+        "prompt": "I want you to act as a question answering expert for french.\nQuestion: quand a \u00e9t\u00e9 publi\u00e9e pour la premi\u00e8re fois Sourde, muette, aveugle : histoire de ma vie\nYou should retell the question in English.\nYou should answer the question in English in one or a few words.\nYou should step-by-step answer the request.\nYou should tell me the answer in one or a few words in English in this format 'Answer: '",
+        "response": "Step 1: Translate the question to English\n\"When was 'Sourde, muette, aveugle : histoire de ma vie' first published?\"\n\nStep 2: Research the publication date\n\nStep 3: Determine the answer\n\nAnswer: 2021",
+        "predicted_answer": "2021",
+        "ground_truth": [
+            {
+                "type": "date",
+                "text": "1903",
+                "aliases": [
+                    "1903"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "4189590166138253194",
+        "prompt": "I want you to act as a question answering expert for french.\nQuestion: qui a le plus d'argent dans la nba\nYou should retell the question in English.\nYou should answer the question in English in one or a few words.\nYou should step-by-step answer the request.\nYou should tell me the answer in one or a few words in English in this format 'Answer: '",
+        "response": "Step 1: Translate the question to English\n\"Who has the most money in the NBA?\"\n\nStep 2: Research the answer\n\nStep 3: Determine the wealthiest NBA player\n\nAnswer: LeBron James",
+        "predicted_answer": "LeBron James",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q189240",
+                "text": "Kevin Garnett",
+                "aliases": []
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "-851149197598120689",
+        "prompt": "I want you to act as a question answering expert for french.\nQuestion: qui joue le p\u00e8re de cole dans f the prom\nYou should retell the question in English.\nYou should answer the question in English in one or a few words.\nYou should step-by-step answer the request.\nYou should tell me the answer in one or a few words in English in this format 'Answer: '",
+        "response": "Let me help you with this French question:\n\n1. Translate the question to English:\n\"Who plays Cole's father in The Prom?\"\n\n2. Research the answer:\nIn the movie \"The Prom\", Kerry Washington plays the role of Alyssa's mother, but I'll need to verify the specific actor who plays Cole's father.\n\n3. After checking the cast details:\n\nAnswer: Kevin Chamberlin",
+        "predicted_answer": "Kevin Chamberlin",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q352233",
+                "text": "Ian Ziering",
+                "aliases": []
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "5862856443680173655",
+        "prompt": "I want you to act as a question answering expert for french.\nQuestion: quand ont ils chang\u00e9 la boxe en 12 rounds\nYou should retell the question in English.\nYou should answer the question in English in one or a few words.\nYou should step-by-step answer the request.\nYou should tell me the answer in one or a few words in English in this format 'Answer: '",
+        "response": "Let me help you with this French question:\n\n1. Translate the question to English:\n\"When did they change boxing to 12 rounds?\"\n\n2. Research the historical change in boxing rounds:\nThe standard championship boxing match was changed to 12 rounds in the early 1980s, specifically around 1982-1983.\n\n3. Answer in the requested format:\n\nAnswer: 1980s",
+        "predicted_answer": "1980s",
+        "ground_truth": [
+            {
+                "type": "date",
+                "text": "1987-10-19",
+                "aliases": [
+                    "1987-10-19",
+                    "10/19/1987",
+                    "10-19-1987",
+                    "1987 octobre 19",
+                    "10 19 1987",
+                    "19-10-1987",
+                    "1987 10 19",
+                    "19/10/1987",
+                    "19 10 1987",
+                    "1987 october, 19",
+                    "19 octobre 1987"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "6873585089990668750",
+        "prompt": "I want you to act as a question answering expert for french.\nQuestion: qui est l\u2019entra\u00eeneur principal des browns de cleveland\nYou should retell the question in English.\nYou should answer the question in English in one or a few words.\nYou should step-by-step answer the request.\nYou should tell me the answer in one or a few words in English in this format 'Answer: '",
+        "response": "Step 1: Translate the question to English\n\"Who is the head coach of the Cleveland Browns?\"\n\nStep 2: Research the current head coach\n\nStep 3: Provide the answer in the requested format\nAnswer: Kevin Stefanski",
+        "predicted_answer": "Kevin Stefanski",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q5496752",
+                "text": "Freddie Kitchens",
+                "aliases": []
+            }
+        ],
+        "is_correct": null
+    }
+]

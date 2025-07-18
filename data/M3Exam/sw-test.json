@@ -1,0 +1,1738 @@
+[
+    {
+        "id": 11,
+        "question": "Ni sentensi ipi ambayo imetumia 'kwa' kuonyesha sehemu ya kitu?",
+        "ground_truth": "C",
+        "options": [
+            "A. Alitembea moja kwa moja hadi shuleni.",
+            "B. Wazee kwa vijana walihudhuria sherehe hiyo.",
+            "C. Watu watatu kwa kumi huepuka mitego.",
+            "D. Monika alipongezewa kwa wazazi wake."
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 13,
+        "question": "Ki katika sentensi; \"Mwanafunzi huyo akikuona atatembea kijeshi\", imetumiwa kuonyesha:",
+        "ground_truth": "C",
+        "options": [
+            "A. Masharti, nomino.",
+            "B. Wakati, nomino.",
+            "C. Masharti, namna.",
+            "D. Wakati, namna."
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 15,
+        "question": "Chagua sentensi iliyoakifishwa vizuri:",
+        "ground_truth": "C",
+        "options": [
+            "A. Hoyee, Mtoto amecheka kweli?",
+            "B. Je? Unamfahamu karani huyu.",
+            "C. Farida alinunua vifaa vifuatavyo: kitabu, kalamu na kifutio.",
+            "D. Wachezaji walishangilia! baada ya ushindi huo jana jioni."
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 20,
+        "question": "Jina jingine la ukuta ni",
+        "ground_truth": "A",
+        "options": [
+            "A. kiambaza",
+            "B. kuta",
+            "C. ukumbi",
+            "D. msonge"
+        ],
+        "level": "low",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 21,
+        "question": "Chagua sentensi yenye matumizi yasiyo sahihi ya amba.",
+        "ground_truth": "B",
+        "options": [
+            "A. Ambao waliwasili mapema walipata nafasi.",
+            "B. Wanyama ambao waliogongwa na lori wameondolewa.",
+            "C. Mafunzo ambayo tulipewa yametufaa.",
+            "D. Ambao hawana vitabu wasome magazeti."
+        ],
+        "level": "low",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 25,
+        "question": "Ni kundi lipi la nomino ambalo lipo katika ngeli ya YA-YA",
+        "ground_truth": "B",
+        "options": [
+            "A. maisha, maagizo",
+            "B. marashi, maarifa",
+            "C. maji, maembe",
+            "D. maskani, mavazi"
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 30,
+        "question": "Tunasema shungi la nywele __________ la kuni pia _________ la mchanga.",
+        "ground_truth": "B",
+        "options": [
+            "A. chane/ tita",
+            "B. tita/fungu",
+            "C. shado/ koja",
+            "D. kicha/ bumba"
+        ],
+        "level": "low",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 31,
+        "question": "Msimu wa mvua nyingi huitwa",
+        "ground_truth": "A",
+        "options": [
+            "A. masika.",
+            "B. vuli.",
+            "C. mafuriko.",
+            "D. kiangazi"
+        ],
+        "level": "low",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 32,
+        "question": "Bainisha usemi wa taarifa wa: \nKedi: Mwanangu, nitakupeleka kwa Nyanya kesho.",
+        "ground_truth": "A",
+        "options": [
+            "A. Kedi alimwambia mwanawe kuwa angempeleka kwa Nyanya siku ambayo ingefuata.",
+            "B. Kedi alimwambia mwanawe kuwa angekupeleka kwa Nyanya siku ambayo ingefuata.",
+            "C. Kedi alimwambia mwanangu kuwa alimpeleka kwa nyanya siku hiyo.",
+            "D. Kedi alimwambia mwanangu kuwa anakupeleka kwa Nyanya siku hiyo."
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 38,
+        "question": "Ni sentensi ipi ambayo inaunganisha sentensi zifuatazo ipasavyo.\nTamira alipika wali. Wali ulikuwa kwa Riziki.",
+        "ground_truth": "A",
+        "options": [
+            "A. Wali ulipikwa kwa Riziki na Tamira.",
+            "B. Tamira alipikiwa wali kwa Riziki.",
+            "C. Riziki alipikiwa wali kwa Tamara",
+            "D. Wali ulipikwa kwa Tamira na Riziki."
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 42,
+        "question": "Fupisha maneno haya\nwajomba zako",
+        "ground_truth": "C",
+        "options": [
+            "A. Wajombako",
+            "B. wajombanu",
+            "C. Wajombazo",
+            "D. mjombako"
+        ],
+        "level": "low",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 45,
+        "question": "Chagua jibu linalounganisha sentensi hizi.\nFatu alifua nguo. Milka alisaidia Fatu.",
+        "ground_truth": "D",
+        "options": [
+            "A. Fatu alimfulia Milka nguo.",
+            "B. Nguo za Milka zilifuliwa kwa Fatu.",
+            "C. Nguo zilifulishwa akina Fatu kwa Milka.",
+            "D. Milka alimfulisha Fatu nguo."
+        ],
+        "level": "low",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 47,
+        "question": "Neno, 'tulimpokea' lina silabi ngapi?",
+        "ground_truth": "C",
+        "options": [
+            "A. 4",
+            "B. 5",
+            "C. 6",
+            "D. 10"
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 51,
+        "question": "Kauli, 'Lugogo ni samaki majini', imetumia tamathali gani ya usemi?",
+        "ground_truth": "B",
+        "options": [
+            "A. nahau",
+            "B. sitiari",
+            "C. tashihisi",
+            "D. kinaya"
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 53,
+        "question": "Chagua orodha ambayo ni ya vielezi",
+        "ground_truth": "C",
+        "options": [
+            "A. hivi, nyingi, yoyote, chake",
+            "B. nyinyi, wewe, mimi, sisi",
+            "C. sana, upesi, hakika, kabisa",
+            "D. lini, gani, vipi,mbona"
+        ],
+        "level": "low",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 61,
+        "question": "Ni jibu lipi lenye vivumishi pekee?",
+        "ground_truth": "D",
+        "options": [
+            "A. gumu, upesi, nadra, langu",
+            "B. safi, yote, sana, halafu",
+            "C. laini, nne, kama, mno",
+            "D. bora, pengine, zile, kwao"
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 62,
+        "question": "Chagua jibu lenye maelezo sahihi.",
+        "ground_truth": "B",
+        "options": [
+            "A. Kufisha ni kuviweka vitu hadi viharibike ilhali kuficha ni kuviondoa vitu mahali vinapoonekana.",
+            "B. Kisasi ni tendo la kumlipizia mtu kosa alilotenda, na kizazi ni watu wanaoishi katika jamii moja.",
+            "C. Zabuni ni zawadi anayopata mtu mashindanoni, na sabuni ni madini yanayotumiwa kusafisha nguo.",
+            "D. Kudanda ni kuruka ili kukishika kitu ilhali dada ni ndugu wa kike."
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 69,
+        "question": "Chagua sentensi yenye nomino dhahania.",
+        "ground_truth": "D",
+        "options": [
+            "A. Kinara alilizungumzia darasa.",
+            "B. Mkulima huyu amefuga bata mzinga.",
+            "C. Wavu huo una mashimo makubwa.",
+            "D. Kimya kilitawala alipoingia hapo."
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 72,
+        "question": "Methali zifuatazo zinahusu bidii. Ipi haifai kuwepo?",
+        "ground_truth": "C",
+        "options": [
+            "A. Mgaagaa na upwa hali wali mkavu.",
+            "B. Umoja ni nguvu utengano ni udhaifu.",
+            "C. Ukiona vyaelea jua vimeundwa.",
+            "D. Mtaka cha mvunguni sharti ainame."
+        ],
+        "level": "low",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 73,
+        "question": "Ni kundi lipi lenye sauti ghuna pekee?",
+        "ground_truth": "D",
+        "options": [
+            "A. p, t, z",
+            "B. v, th, n",
+            "C. sh, l, w",
+            "D. b, d, g."
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 80,
+        "question": "Ni sentensi ipi iliyoakifishwa ipasavyo?",
+        "ground_truth": "D",
+        "options": [
+            "A. Naam, \"akasema,\" Nitakusaidia.\"",
+            "B. Naam, \"akasema,\" \"nitakusaidia.\"",
+            "C. \"Naam,\" akasema, \"nitakusaidia.\"",
+            "D. \"Naam,\" akasema, \"Nitakusaidia.\""
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 88,
+        "question": "Andika ukubwa wa sentensi ifuatayo.\nNgoma hiyo ilipigwa usiku kucha.",
+        "ground_truth": "C",
+        "options": [
+            "A. Kigoma hicho kilipigwa usiku kucha.",
+            "B. Ngoma hilo lilipigwa usiku kucha.",
+            "C. Goma hilo lilipigwa usiku kucha.",
+            "D. Ngoma hizo zilipigwa usiku kucha."
+        ],
+        "level": "low",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 90,
+        "question": "Chagua kundi linaloonyesha kitenzi kilichoundwa kutokana na kivumishi.",
+        "ground_truth": "B",
+        "options": [
+            "A. Mvumilivu  -  uvumilivu;",
+            "B. Mwaminifu  -  aminika;",
+            "C. Mapishi  -  pikika;",
+            "D. Wacheshi  -  ucheshi."
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 99,
+        "question": "Tikiti, limau na fenesi ni matunda ilhali wimbi, mahindi na mtama ni:",
+        "ground_truth": "C",
+        "options": [
+            "A. miti;",
+            "B. vyakula;",
+            "C. nafaka;",
+            "D. mbegu."
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 102,
+        "question": "Chagua kiashiria takriri kilicho sahihi kujaza pengo: \nVikombe ___________vilianguka hapa.",
+        "ground_truth": "D",
+        "options": [
+            "A. vivi hivyo",
+            "B. hivyo hivi",
+            "C. hivi vivi",
+            "D. vivi hivi"
+        ],
+        "level": "low",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 103,
+        "question": "Kamilisha, 'Fahamikiana kama ______.",
+        "ground_truth": "B",
+        "options": [
+            "A. sahani na kawa",
+            "B. kinu na mchi",
+            "C. pua na mdomo",
+            "D. tui na maziwa."
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 107,
+        "question": "Jiwe, lilianguka majini _________",
+        "ground_truth": "C",
+        "options": [
+            "A. tang'",
+            "B. pu",
+            "C. chumbwi",
+            "D. twa"
+        ],
+        "level": "low",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 108,
+        "question": "Hii, huyu na lile vyote ni",
+        "ground_truth": "B",
+        "options": [
+            "A. vielezi vya mahali.",
+            "B. vivumishi viashiria.",
+            "C. viwakilishi vionyeshi.",
+            "D. vivumishi halisi."
+        ],
+        "level": "low",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 120,
+        "question": "Kukanusha kwa, 'Simba ambao wamejeruhiwa wametibiwa', ni:",
+        "ground_truth": "C",
+        "options": [
+            "A. Simba ambao wamejeruhiwa hawatatibiwa.",
+            "B. Simba ambao hawakujeruhiwa hawatatibiwa.",
+            "C. Simba ambao wamejeruhiwa hawajatibiwa.",
+            "D. Simba ambao hawakujeruhiwa hawajatibiwa."
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 128,
+        "question": "Tegua kitendawili hiki.\nHawa wanaingia, hawa wanatoka.",
+        "ground_truth": "C",
+        "options": [
+            "A. Samaki.",
+            "B. Maji.",
+            "C. Nyuki.",
+            "D. Nzi."
+        ],
+        "level": "low",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 132,
+        "question": "Kijana mwizi alifungwa kwa ajili ya _________ wake.",
+        "ground_truth": "D",
+        "options": [
+            "A. wezi",
+            "B. mwizi",
+            "C. uwizi",
+            "D. wizi"
+        ],
+        "level": "low",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 133,
+        "question": "Onyesha sentensi yenye kielezi cha mahali.",
+        "ground_truth": "D",
+        "options": [
+            "A. Hukimbizana mara kwa mara.",
+            "B. Wanafunzi watafuzu mwakani.",
+            "C. Kambo alisafiri kwa gari.",
+            "D. Tulielekezwa pembezoni."
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 137,
+        "question": "Sentensi ifuatayo imetumia tamathali gani ya usemi? \nPumu alitii amri ya moyo wake.",
+        "ground_truth": "C",
+        "options": [
+            "A. sitiari",
+            "B. ishara",
+            "C. tashhisi",
+            "D. nahau"
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 141,
+        "question": "Chagua jibu lenye kiwakilishi kionyeshi.",
+        "ground_truth": "A",
+        "options": [
+            "A. Wanafunzi wetu walifanya vyema lakini wale hawakufanikiwa.",
+            "B. Kitabu hiki ni changu ilhali wenyewe wanakidai.",
+            "C. Abiria huyo alimwonya ila yeye alizidisha mwendo.",
+            "D. Dirisha hili lina pazia bali mengine hayana."
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 142,
+        "question": "Wingi wa, 'Kiduka hicho kilifunguliwa jana'. ni:",
+        "ground_truth": "C",
+        "options": [
+            "A. Maduka hizo zilifunguliwa jana.",
+            "B. Viduka hizo zilifunguliwa jana.",
+            "C. Viduka hivyo vilifunguliwa jana.",
+            "D. Maduka hayo yalifunguliwa jana."
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 146,
+        "question": "Ni jibu lipi lisilolingana na mengine?",
+        "ground_truth": "C",
+        "options": [
+            "A. alamsiki  -  binuru",
+            "B. shikamoo  -  marahaba",
+            "C. masalkheri  -  sabalkheri",
+            "D. hodi  -  karibu"
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 147,
+        "question": "Ujanja ni kwa sungura ilhali _____ ni kwa kaburi.",
+        "ground_truth": "D",
+        "options": [
+            "A. kawaida",
+            "B. ghafla",
+            "C. utulivu",
+            "D. msiri"
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 151,
+        "question": "Hali ya kuwa mke au mume ni",
+        "ground_truth": "B",
+        "options": [
+            "A. Jinsi",
+            "B. Jinsia",
+            "C. Sinzia",
+            "D. maumbile"
+        ],
+        "level": "low",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 153,
+        "question": "Chagua jibu lenye nomino zilizo katika ngeli ya I-I pekee.",
+        "ground_truth": "D",
+        "options": [
+            "A. kahawa, fedha;",
+            "B. chumvi, chupa;",
+            "C. mali, chai;",
+            "D. sukari, mvua."
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 160,
+        "question": "Jabibu alitupatia _________ mazuri",
+        "ground_truth": "C",
+        "options": [
+            "A. Timba",
+            "B. Matibaa",
+            "C. Matibabu",
+            "D. Utibu"
+        ],
+        "level": "low",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 173,
+        "question": "Chagua sentensi inayoonyesha hali ya kuagiza.",
+        "ground_truth": "B",
+        "options": [
+            "A. Angetaka angewaimbia.",
+            "B. Meza tembe mbili mara moja.",
+            "C. Watakaosoma vyema watapita mtihani wao.",
+            "D. Uliletewa hilo."
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 175,
+        "question": "Ni sentensi ipi ambayo imetumia sitiari?",
+        "ground_truth": "A",
+        "options": [
+            "A. Mwakio ni sungura siku hizi.",
+            "B. Moyo wake ulimwambia asirudi nyuma.",
+            "C. Muuguzi alisema atajifungua salama.",
+            "D. Nyaboke ni mpole kama njiwa."
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 177,
+        "question": "Ni sentensi ipi iliyo sahihi",
+        "ground_truth": "C",
+        "options": [
+            "A. Shati lake ni nyeupe",
+            "B. Alipoesha chai kwa kikombe",
+            "C. Alituhadithia akiwa usingizini",
+            "D. Aling\u2019orota akiwa usingizini"
+        ],
+        "level": "low",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 179,
+        "question": "Katika milioni sita kuna laki ngapi?",
+        "ground_truth": "B",
+        "options": [
+            "A. Sita",
+            "B. Sitini",
+            "C. Elfu sita",
+            "D. Mia sita"
+        ],
+        "level": "low",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 180,
+        "question": "Ikiwa leo ni Alhamisi mtondo itakuwa",
+        "ground_truth": "B",
+        "options": [
+            "A. Jumamosi",
+            "B. Jumapili",
+            "C. Jumatatu",
+            "D. Jumanne"
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 181,
+        "question": "Ni vazi lipi kati ya haya livaliwalo na wanawake pekee",
+        "ground_truth": "B",
+        "options": [
+            "A. Kabuti",
+            "B. kanchiri",
+            "C. Tai",
+            "D. chupi"
+        ],
+        "level": "low",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 183,
+        "question": "Ni sentensi ipi inayoonyesha hali ya kuagiza?",
+        "ground_truth": "D",
+        "options": [
+            "A. Mwalimu akija atawapeleka uwanjani.",
+            "B. Mulika alisikiliza ushauri akaokoka.",
+            "C. Utampata ikiwa utazingatia mlivyoagana.",
+            "D. Msaidieni kuuinua mzigo huo."
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 185,
+        "question": "Ni jibu lipi lenye mapambo ya puani pekee?",
+        "ground_truth": "D",
+        "options": [
+            "A. Jebu, kipuli",
+            "B. Usinga, udodi",
+            "C. Furungu, njuga",
+            "D. Kipini, kikero"
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 193,
+        "question": "Ni sentensi ipi sahihi?",
+        "ground_truth": "A",
+        "options": [
+            "A. Hewala! Nitakusaidia.",
+            "B. Kefule! Naomba maji.",
+            "C. Oyee! Tumeshindwa.",
+            "D. Hamadi! Amekuja."
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 195,
+        "question": "Chagua jibu lenye maneno yasiyoambatanishwa ipasavyo.",
+        "ground_truth": "C",
+        "options": [
+            "A. funguo  -  kicha",
+            "B. nzige  -  wingu",
+            "C. hindi  -  bunzi",
+            "D. maji  -  funda"
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 197,
+        "question": "Chagua jibu ambalo ni ukanusha wa sentensi fuatayo.\nWewe ulishiriki michezo mingi.",
+        "ground_truth": "B",
+        "options": [
+            "A. Wewe hujashiriki michezo mingi.",
+            "B. Wewe hukushiriki michezo mingi.",
+            "C. Wewe hutashiriki michezo mingi.",
+            "D. Wewe huwa hushiriki michezo mingi."
+        ],
+        "level": "low",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 198,
+        "question": "Ni jibu lipi lenye methali zenye maana sawa?\n(i) Chanda chema huvikwa pete.\n(ii) Chumia juani ulie kivulini. \n(iii) Mcheza kwao hutuzwa.\n(iv) Mfuata nyuki hakosi asali.",
+        "ground_truth": "C",
+        "options": [
+            "A. (i) (iv)",
+            "B. (ii) (iv)",
+            "C. (i) (iii)",
+            "D. (ii) (iii)"
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 199,
+        "question": "Maneno haya hufuatana vipi katika kamusi?\n(i) shwari\n(ii) sinzia\n(iii) sentensi\n(iv) staha",
+        "ground_truth": "D",
+        "options": [
+            "A. iii, ii, i, iv",
+            "B. ii, iii, i, iv",
+            "C. ii, i, iii, iv",
+            "D. iii, i, ii, iv"
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 202,
+        "question": "Chagua jibu sahihi:\n'Wachezaji wa soka huhimizana kufanya mazoezi kila siku'. \u2018na\u2019 imetumika kuonyesha:",
+        "ground_truth": "D",
+        "options": [
+            "A. Kufupishwa kwa viwakilishi nafsi.",
+            "B. Hali ya kukubaliana katika jambo.",
+            "C. Wakati usiodhihirika kwenye kitendo.",
+            "D. Mnyambuliko wa kauli ya kutendana."
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 208,
+        "question": "28. Nomino zipi zinapatikana katika ngeli ya YA-YA?",
+        "ground_truth": "A",
+        "options": [
+            "A. Maskani, maradhi, mazingira.",
+            "B. Magari, mawe, makabati.",
+            "C. Magonjwa, mapishi, mabele.",
+            "D. Machozi, magunia, meno."
+        ],
+        "level": "low",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 209,
+        "question": "6/9 kwa maneno ni:",
+        "ground_truth": "B",
+        "options": [
+            "A. sudusi sita;",
+            "B. tusui sita;",
+            "C. tusui tisa;",
+            "D. sudusi tisa."
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 215,
+        "question": "Miaka mia ni kwa karne ilhali vitu ishirini ni kwa _______",
+        "ground_truth": "B",
+        "options": [
+            "A. kikwi",
+            "B. korija",
+            "C. mwongo",
+            "D. lukuki."
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 221,
+        "question": "Kenge ni mnyama kama mamba anayeishi nchi kavu, na ana mwili mwembamba ilhali genge ni",
+        "ground_truth": "A",
+        "options": [
+            "A. kundi la watu ambao hufanya kazi pamoja;",
+            "B. mahali wanapopakia mizigo kiwandani;",
+            "C. ukingo wa majabali ulio kwenye mto;",
+            "D. barazani mwa walinda usalama nchini."
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 223,
+        "question": "Chagua kukanusha kwa: \nMasha ameosha nguo ikatakata.",
+        "ground_truth": "B",
+        "options": [
+            "A. Masha hajaosha nguo wala haikutakata.",
+            "B. Masha hajaosha nguo wala haijatakata.",
+            "C. Masha hakuosha nguo na haikutakata.",
+            "D. Masha hakuosha nguo na haijatakata."
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 227,
+        "question": "3, 7, 17, 31 na 43 ni baadhi ya nambari",
+        "ground_truth": "A",
+        "options": [
+            "A. tasa",
+            "B. shufwa",
+            "C. chanya",
+            "D. witiri"
+        ],
+        "level": "low",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 228,
+        "question": "Chagua jibu lisilo ambatanishwa ipasavyo.",
+        "ground_truth": "A",
+        "options": [
+            "A. - zito kama ndovu",
+            "B. mbio kama duma",
+            "C. - eusi kama mpingo",
+            "D. chungu kama shubiri"
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 232,
+        "question": "Nilipomwomba mwalimu wetu ruhusa ya kwenda msalani, alikataa kwa jino na ukucha ______",
+        "ground_truth": "A",
+        "options": [
+            "A. Katakata",
+            "B. Ng\u2019o",
+            "C. Hapana hapana",
+            "D. Ng\u2019a"
+        ],
+        "level": "low",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 235,
+        "question": "Sehemu inayosukuma damu ienee mwilini ni",
+        "ground_truth": "D",
+        "options": [
+            "A. ini.",
+            "B. ubongo.",
+            "C. figo.",
+            "D. moyo."
+        ],
+        "level": "low",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 237,
+        "question": "Tegua kitendawili hiki: \nMava hapo mava pale",
+        "ground_truth": "D",
+        "options": [
+            "A. kifo",
+            "B. kioo",
+            "C. kumetameta",
+            "D. kivuli"
+        ],
+        "level": "low",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 238,
+        "question": "Kitara ni upanga mwembamba wa kuongozea gwaride. Kitara vile vile ni:",
+        "ground_truth": "A",
+        "options": [
+            "A. sehemu iliyotengenezwa kukaushia mbegu;",
+            "B. chombo kitumiwacho kufungia mlango;",
+            "C. nazi changa ambayo haijawa dafu;",
+            "D. sehemu inayopandwa mimea au miche."
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 239,
+        "question": "Maneno yafuatayo yanafuatana vipi katika kamusi? \n(i) muhibu \n(ii) muhtasari \n(iii) muhali \n(iv) muhula",
+        "ground_truth": "B",
+        "options": [
+            "A. (iii), (ii), (i), (iv)",
+            "B. (iii), (i), (ii), (iv)",
+            "C. (iv), (i), (ii), (iii)",
+            "D. (iv), (ii), (i), (iii)."
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 241,
+        "question": "Ni neno lipi kati ya haya litakuwa la mwisho katika kamusi?",
+        "ground_truth": "A",
+        "options": [
+            "A. Kibindo",
+            "B. Kibanda",
+            "C. Kibarua",
+            "D. Kibanio"
+        ],
+        "level": "low",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 252,
+        "question": "Umoja wa: \"Nywele zao ndefu ziliwavutia,\" ni:",
+        "ground_truth": "D",
+        "options": [
+            "A. Nywele yake ndefu iliwavutia.",
+            "B. Nywele zake ndefu zilimvutia.",
+            "C. Unywele wake mrefu uliwavutia.",
+            "D. Unywele wake mrefu ulimvutia."
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 257,
+        "question": "5/6 kwa maneno ni",
+        "ground_truth": "C",
+        "options": [
+            "A. sudusi sita",
+            "B. humusi sita",
+            "C. sudusi tano",
+            "D. humusi tano"
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 266,
+        "question": "Andika tarakimu hii kwa maneno 8,659",
+        "ground_truth": "D",
+        "options": [
+            "A. Mia nane mia sita na hamsini na nane",
+            "B. Elfu nane mia tisa hamsini na tisa",
+            "C. Elfu nane mia sita hamsini na sita",
+            "D. Elfu nane mia sita hamsini na tisa"
+        ],
+        "level": "low",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 269,
+        "question": "Tumia amba ipasavyo\nKipofu ______ tulimwona amerudi",
+        "ground_truth": "B",
+        "options": [
+            "A. Ambacho",
+            "B. Ambaye",
+            "C. Ambako",
+            "D. aliye"
+        ],
+        "level": "low",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 270,
+        "question": "Chagua kifaa cha uhunzi",
+        "ground_truth": "A",
+        "options": [
+            "A. fuawe",
+            "B. patasi",
+            "C. timazi",
+            "D. chetezo"
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 271,
+        "question": "Chagua sentensi ambayo haina kivumishi cha sifa.",
+        "ground_truth": "A",
+        "options": [
+            "A. Tuliambiwa kuwa Mombasa kuna joto jingi.",
+            "B. Rama alilila tunda bichi.",
+            "C. Chakula tulichoandaliwa kilikuwa kitamu.",
+            "D. Mwalimu wetu wa lugha ni mnene."
+        ],
+        "level": "low",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 272,
+        "question": "Ni jibu lipi lenye maelezo sahihi?",
+        "ground_truth": "B",
+        "options": [
+            "A. Muundi ni sehemu ya mkono kuanzia begani hadi kwenye kiwiko.",
+            "B. Kitengele ni sehemu ya mwisho ya mkono yenye vidole.",
+            "C. Nyonga ni sehemu ya juu ya kiuno.",
+            "D. Paji ni sehemu ya juu ya kichwa."
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 273,
+        "question": "Tegua kitendawili hiki:\nNyumbani mwangu mna shetani ambaye daima anakunywa maji yangu",
+        "ground_truth": "C",
+        "options": [
+            "A. Shamba",
+            "B. Mtoto",
+            "C. Taa",
+            "D. mtungi"
+        ],
+        "level": "low",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 284,
+        "question": "Chagua sentensi iliyotumia lugha ya adabu.",
+        "ground_truth": "B",
+        "options": [
+            "A. Mtoto amekojoa kitandani.",
+            "B. Shangazi yangu amejifungua salama.",
+            "C. Wanawake wenye mimba wapewe viti.",
+            "D. Mgonjwa alihara hadi akafa"
+        ],
+        "level": "low",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 286,
+        "question": "Chagua sentensi iliyoakifishwa ipasavyo.",
+        "ground_truth": "C",
+        "options": [
+            "A. Dalali alikuwa na bidhaa zifuatazo, kabati, meza, viti na rafu.",
+            "B. Rita? hujamaliza kazi hiyo nyepesi hivyo!",
+            "C. Wanafunzi wake - wale waliopata alama za juu zaidi - wametuzwa leo.",
+            "D. Mkulima alipanda nafaka* yaani (wimbi na mtama)."
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 287,
+        "question": "Kamilisha sentensi kwa usahihi: \nMahali hapa palifyekwa __________.",
+        "ground_truth": "C",
+        "options": [
+            "A. pakafyekana",
+            "B. pakafyekeshwa",
+            "C. pakafyekeka",
+            "D. pakafyekewa"
+        ],
+        "level": "low",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 288,
+        "question": "Jaza pengo kwa usahihi: \nNyinyi ___________ mli _________ tualika karamuni.",
+        "ground_truth": "C",
+        "options": [
+            "A. ndinyi/o",
+            "B. ndiwo/ wo",
+            "C. ndio/o",
+            "D. ndio/ ye"
+        ],
+        "level": "low",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 297,
+        "question": "Chagua kinyume cha sentensi ifuatayo: \nKitindamimba alifurahi sana.",
+        "ground_truth": "D",
+        "options": [
+            "A. Kifunguamimba alifurahi sana.",
+            "B. Kitindamimba alikasirika sana,",
+            "C. Mwanambee alifurahi sana.",
+            "D. Mwanambee alikasirika sana."
+        ],
+        "level": "low",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 300,
+        "question": "Jaza pengo kwa neno sahihi: \nMama alienda shambani na alishinda kuko huko mchana ___________.",
+        "ground_truth": "B",
+        "options": [
+            "A. kutua",
+            "B. kutwa",
+            "C. kutwaa",
+            "D. kucha"
+        ],
+        "level": "low",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 301,
+        "question": "Chagua sentensi ambayo imetumia 'na' kama kiunganishi.",
+        "ground_truth": "C",
+        "options": [
+            "A. Wafanyakazi wote wameitwa na nokoa shambani.",
+            "B. Wafanyakazi waliokuja wanajulikana na nokoa wao.",
+            "C. Wafanyakazi na nokoa wao wanalima shamba.",
+            "D. Wafanyakazi walikuwa na matumaini ya kumwona nokoa."
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 303,
+        "question": "Vifuatavyo ni viungo vya ndani ya mwili. Neno lipi halifai kuwepo?",
+        "ground_truth": "D",
+        "options": [
+            "A. Wengu",
+            "B. Figo",
+            "C. Kongosho",
+            "D. Shavu"
+        ],
+        "level": "low",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 304,
+        "question": "Chagua sentensi yenye kiwakilishi cha idadi:",
+        "ground_truth": "D",
+        "options": [
+            "A. Mwanafunzi aliyefika kwanza alimpata mwalimu wa pili darasani.",
+            "B. Mwalimu aliyetufunza mwanzoni alituuliza swali moja mara mbili.",
+            "C. Mwalimu aliyetufunza mwanzoni alitufafanulia mambo kadha ya kutufaa.",
+            "D. Mwanafunzi aliyefika kwanza alipewa medali na wa pili akapewa kitabu."
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 306,
+        "question": "Chagua wingi wa sentensi.\nJungu hilo lina chakula kitamu.",
+        "ground_truth": "A",
+        "options": [
+            "A. Majungu hayo yana vyakula vitamu.",
+            "B. Nyungu hizo zina vyakula vitamu.",
+            "C. Jungu hizo zina chakula kitamu.",
+            "D. Majungu hizo zina vyakula vitamu."
+        ],
+        "level": "low",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 308,
+        "question": "Kiulizi:\nUtakuja kwetu _________?",
+        "ground_truth": "B",
+        "options": [
+            "A. wapi",
+            "B. gani",
+            "C. lini",
+            "D. yupi"
+        ],
+        "level": "low",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 309,
+        "question": "Ni sentensi ipi iliyotumia kiunganishi sahihi?",
+        "ground_truth": "D",
+        "options": [
+            "A. Sudi alipongezwa minghairi ya kupata jibu sahihi.",
+            "B. Sehemu hizi zimestawi lau kuna raia wengi.",
+            "C. Majani hayo yalipukutika laiti upepo haukuwa mkali.",
+            "D. Jengo hili ndilo imara kwa mujibu wa habari aliyotoa."
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 312,
+        "question": "Chagua sentensi iliyounganisha sentensi zifuatazo ipasavyo. \nNyumba ilikuwa kubwa. Nyumba haikuwatoshea wageni wote.",
+        "ground_truth": "C",
+        "options": [
+            "A. Nyumba ilikuwa kubwa angalau haikuwatoshea wageni wote.",
+            "B. Nyumba ilikuwa kubwa madhali haikuwatoshea wageni wote.",
+            "C. Licha ya nyumba kuwa kubwa, haikuwatoshea wageni wote.",
+            "D. Mithili ya nyumba kuwa kubwa, haikuwatoshea wageni wote."
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 319,
+        "question": "Chagua wingi wa sentensi ifuatayo:\nMti ule wa mchungwa ulizaa tunda tamu.",
+        "ground_truth": "C",
+        "options": [
+            "A. Mti ule wa mchungwa ulizaa matunda matamu.",
+            "B. Miti ile ya michungwa ilizaa tunda tamu.",
+            "C. Miti ile ya michungwa ilizaa matunda matamu.",
+            "D. Mti ule wa mchungwa ulizaa matunda tamu."
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 322,
+        "question": "Ni sentensi ipi yenye kiambishi 'ki' cha ngeli pekee?",
+        "ground_truth": "A",
+        "options": [
+            "A. Mukai alikibeba mgongoni.",
+            "B. Shime alienda kijijini.",
+            "C. Dola anazungumza akitabasamu.",
+            "D. Timau akija tutafurahi."
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 325,
+        "question": "Chagua sentensi yenye 'ki' ya ngeli.",
+        "ground_truth": "B",
+        "options": [
+            "A. Moza atakufafanulia ukifika.",
+            "B. Kimo ndani ya kabati.",
+            "C. Bedui alikuwa akikutafuta.",
+            "D. Umelitatua hilo kiutuuzima."
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 331,
+        "question": "Chagua wingi wa sentensi ifuatayo: \nMchungaji alinitunzia mbuzi huyu wangu huko kwake.",
+        "ground_truth": "A",
+        "options": [
+            "A. Wachungaji walitutunzia mbuzi hawa wetu huko kwao.",
+            "B. Wachungaji walinitunzia mbuzi hawa wangu huko kwake.",
+            "C. Mchungaji alitutunzia mbuzi hawa wangu huko kwao.",
+            "D. Mchungaji alinitunzia mbuzi hawa wetu huko kwake."
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 333,
+        "question": "Ni nini maana ya semi hii: Chakula alichokipika kilikuwa asali.",
+        "ground_truth": "A",
+        "options": [
+            "A. Kilikuwa kitamu",
+            "B. Kilipikwa kwa viungo",
+            "C. Kilitiwa asali",
+            "D. Kiliwekwa nyuki"
+        ],
+        "level": "low",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 334,
+        "question": "Ni yupi mpangilio uletao mfululizo ufaao wa wakati?",
+        "ground_truth": "A",
+        "options": [
+            "A. Alfajiri, asubuhi, adhuhuri, alasiri magharibi",
+            "B. Alasiri, asubuhi, alfajiri, magharibi adhuhuri",
+            "C. Asubuhi, alfajiri, alasiri, adhuhuri, magharibi.",
+            "D. Alfajiri, asubuhi, alasiri, adhuhuri, magharibi"
+        ],
+        "level": "low",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 336,
+        "question": "Ikiwa juzi ilikuwa Jumatatu, Jumamosi itakuwa:",
+        "ground_truth": "B",
+        "options": [
+            "A. Kesho",
+            "B. Mtondo",
+            "C. Mtondogoo",
+            "D. Keshokutwa."
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 337,
+        "question": "Rudi ni kurejea ulipokuwa umetoka. Rudi pia ni:",
+        "ground_truth": "B",
+        "options": [
+            "A. jambo kufanyika mara nyingine.",
+            "B. nguo kuwa fupi baada ya kufuliwa.",
+            "C. msamaha unaotolewa baada ya kukubali makosa.",
+            "D. kitendo cha kubingiria kutoka mlimani."
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 339,
+        "question": "Kanusha: Nimekula nikashiba",
+        "ground_truth": "C",
+        "options": [
+            "A. Sijala nikashiba.",
+            "B. Sijakula nikashiba.",
+            "C. Sijala wala kushiba.",
+            "D. Sikula wala kushiba."
+        ],
+        "level": "low",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 342,
+        "question": "Ni jibu lipi lililo na maneno yenye maana sawa?",
+        "ground_truth": "A",
+        "options": [
+            "A. Njia - Tariki",
+            "B. Ukuta - Kiambo",
+            "C. Kiti - Takia",
+            "D. Mgeni - Mwenyeji"
+        ],
+        "level": "low",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 346,
+        "question": "Onyesha sentensi yenye kivumishi.",
+        "ground_truth": "C",
+        "options": [
+            "A. Mwajuma alisafisha darasa jana.",
+            "B. Gari limefika mapema.",
+            "C. Kule kuna miti mirefu.",
+            "D. Wawili walisajiliwa chuoni."
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 347,
+        "question": "Kitenzi kunja katika hali ya kutendeana ni",
+        "ground_truth": "C",
+        "options": [
+            "A kunja kunja",
+            "B. kunjia",
+            "C. kunjiana",
+            "D. kunjisha"
+        ],
+        "level": "low",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 348,
+        "question": "Chagua neno lifaalo yeye ni yatima kwani hana baba ___ mama",
+        "ground_truth": "C",
+        "options": [
+            "A. ila",
+            "B. kama",
+            "C. wala",
+            "D. na"
+        ],
+        "level": "low",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 349,
+        "question": "Sentensi inayounganisha sentensi: \"Juma ni mzee. Juma anasoma kitabu bila miwani\", kisahihi ni:",
+        "ground_truth": "B",
+        "options": [
+            "A. Juma ni mzee maadamu anasoma kitabu bila miwani.",
+            "B. Juma anasoma kitabu bila miwani licha ya kuwa yeye ni mzee.",
+            "C. Juma ni mzee madhali anasoma kitabu bila miwani.",
+            "D. Juma anasoma kitabu bila miwani minghairi ya yeye ni mzee."
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 351,
+        "question": "Wingi wa sentensi, \n'Karani yule alimpelekea mkurugenzi waraka huo', ni:",
+        "ground_truth": "B",
+        "options": [
+            "A. Karani yule aliwapekelea wakurugenzi waraka huo.",
+            "B. Makarani wale waliwapelekea wakurugenzi nyaraka hizo.",
+            "C. Makarani wale walimpelekea mkurugenzi waraka huo.",
+            "D. Karani yule alimpelekea mkurugenzi nyaraka hizo."
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 354,
+        "question": "Kutangaza kwa sauti kubwa ni",
+        "ground_truth": "C",
+        "options": [
+            "A. kupiga maji",
+            "B. kupiga mayowe",
+            "C. kupiga mbiu",
+            "D. kipiga domo"
+        ],
+        "level": "low",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 362,
+        "question": "Hili ni jedwali la maneno. Chagua jibu linaloonyesha vivumishi vya sifa pekee.",
+        "ground_truth": "B",
+        "options": [
+            "A. changu | lake | zenu",
+            "B. safi | kubwa | tamu",
+            "C. mmoja | vinne | tisa",
+            "D. huyu | zile | hayo"
+        ],
+        "level": "low",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 369,
+        "question": "Onyesha neno lenye silabi nane.",
+        "ground_truth": "D",
+        "options": [
+            "A. lililoanguliwa",
+            "B. ilifyatuka",
+            "C. nilimvutia",
+            "D. waliosomesheana"
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 376,
+        "question": "Mnyama ana manyoya mwilini, naye binadamu ana",
+        "ground_truth": "A",
+        "options": [
+            "A. nywele",
+            "B. malaika",
+            "C. ndewe",
+            "D. mashamba."
+        ],
+        "level": "low",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 379,
+        "question": "Jesca anaishi kilomita moja kaskazini mashariki mwa shule yetu. Kibibi naye anaishi kilomita moja kusini mwa shule hiyo. Je, Kibibi anaishi upande gani wa Jesca?",
+        "ground_truth": "D",
+        "options": [
+            "A. Kaskazini mashariki",
+            "B. Kaskazini magharibi",
+            "C. Kusini mashariki",
+            "D. Kusini magharibi"
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 381,
+        "question": "Chagua neno ambalo limetumia silabi changamano:",
+        "ground_truth": "A",
+        "options": [
+            "A. Mbuga.",
+            "B. Kituta.",
+            "C. Ziwa.",
+            "D. Utulivu."
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 382,
+        "question": "Chagua kauli ya kutendewa ya sentensi ifuatayo:  \nMenza alikwenda kwa Tumaini akakata kuni.",
+        "ground_truth": "D",
+        "options": [
+            "A. Tumaini alikatiwa kuni na Menza.",
+            "B. Tumaini alikatiwa kuni kwa Menza.",
+            "C. Kuni zilikatiwa Tumaini kwa Menza.",
+            "D. Kuni zilikatiwa kwa Tumaini na Menza."
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 383,
+        "question": "Ni jibu lipi ambalo si aina ya shairi?",
+        "ground_truth": "A",
+        "options": [
+            "A. kibwagizo;",
+            "B. tathlitha;",
+            "C. ngonjera;",
+            "D. tarbia."
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 385,
+        "question": "Chagua sentensi yenye maana ifuatayo: \nMsanifu alimfanya Kombo kuandika barua hiyo.",
+        "ground_truth": "B",
+        "options": [
+            "A. Msanifu aliandikiwa barua hiyo na Kombo.",
+            "B. Msanifu alimwandikisha Kombo barua hiyo.",
+            "C. Kombo aliandikia barua hiyo kwa Msanifu.",
+            "D. Kombo aliandikiwa barua ya Msanifu."
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 389,
+        "question": "Kukanusha kwa: \"Nyungu iliyonunuliwa iliuzwa tena,\" ni:",
+        "ground_truth": "B",
+        "options": [
+            "A. Nyungu iliyonunuliwa haijauzwa tena.",
+            "B. Nyungu iliyonunuliwa haikuuzwa tena.",
+            "C. Nyungu isiyonunuliwa haijauzwa tena.",
+            "D. Nyungu isiyonunuliwa haikuuzwa tena."
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 391,
+        "question": "Jibu la alamsiki ni",
+        "ground_truth": "D",
+        "options": [
+            "A. marahaba.",
+            "B. nawe pia.",
+            "C. jaala.",
+            "D. binuru."
+        ],
+        "level": "low",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 393,
+        "question": "Chagua sentensi yenye vivumishi:",
+        "ground_truth": "D",
+        "options": [
+            "A. Mwashi amejenga nyumba juu ya mlima",
+            "B. Yule aliimba vizuri mno akatuzwa",
+            "C. Nokoa atafika hapa hivi punde.",
+            "D. Wanafunzi wengi walifaulu mtihani huo."
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 394,
+        "question": "Chagua orodha ya vivumishi vya aina moja.",
+        "ground_truth": "C",
+        "options": [
+            "A. Nene, wako, vyetu",
+            "B. Hii, wao, chafu",
+            "C. Letu, yao, chake",
+            "D. Huyu, wangu, bovu"
+        ],
+        "level": "low",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 396,
+        "question": "Chagua kinyume cha: 'Wageni waliwasili kabla ya eropleni kupaa.'",
+        "ground_truth": "A",
+        "options": [
+            "A. Wenyeji waliondoka baada ya eropleni kutua.",
+            "B. Wenyeji waliondoka kabla ya eropleni kutua.",
+            "C. Wageni waliondoka kabla ya eropleni kutua.",
+            "D. Wageni waliondoka baada ya eropleni kutua."
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 399,
+        "question": "Kiambishi 'ka' katika sentensi: \"Alienda shuleni akasome Kiswahili;\" kinaonyesha:",
+        "ground_truth": "C",
+        "options": [
+            "A. kufuatana kwa matukio;",
+            "B. kulazimika;",
+            "C. kusudi;",
+            "D. kutegemeana kwa matendo."
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 405,
+        "question": "Mkono wazi ni kwa ukarimu ilhali ______ ni kwa inda.",
+        "ground_truth": "B",
+        "options": [
+            "A. jicho la nje",
+            "B. joka la mdimu",
+            "C. kifauongo",
+            "D. kisebusebu."
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 408,
+        "question": "Tashbihi\nPopo amekonda kama _________",
+        "ground_truth": "B",
+        "options": [
+            "A. sindano",
+            "B. ng'onda",
+            "C. kijiti",
+            "D. kasuku"
+        ],
+        "level": "low",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 409,
+        "question": "Neno jicho liko katika ngeli ipi?",
+        "ground_truth": "D",
+        "options": [
+            "A. I-ZI",
+            "B. JI-MA",
+            "C. A-WA",
+            "D. LI-YA"
+        ],
+        "level": "low",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 411,
+        "question": "Ni neno lipi lenye sauti mwambatano?",
+        "ground_truth": "C",
+        "options": [
+            "A. mvua",
+            "B. liwa",
+            "C. kunja",
+            "D. wayo"
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 412,
+        "question": "Chagua jibu lenye nomino ya makundi isiyofaa.",
+        "ground_truth": "A",
+        "options": [
+            "A. Mzengwe wa nyuki.",
+            "B. Thurea ya nyota.",
+            "C. Kishazi cha samaki.",
+            "D. Shungi la nywele."
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    },
+    {
+        "id": 415,
+        "question": "Chagua jibu lenye maelezo sahihi.",
+        "ground_truth": "A",
+        "options": [
+            "A. Kefule! ni tamko linalotumiwa kuonyesha kuudhika.",
+            "B. Hewala! hutumiwa baada ya kuupata ushindi fulani.",
+            "C. Simile! ni tamko linalotolewa baada ya kumruhusu mtu kupita.",
+            "D. Makiwa! hutumiwa ili kumpa pole mtu aliyepoteza bidhaa zake."
+        ],
+        "level": "mid",
+        "subject": "swahili",
+        "subject_category": "language"
+    }
+]

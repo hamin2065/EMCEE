@@ -1,0 +1,42 @@
+[
+    {
+        "id": "71",
+        "prompt": "\u0130\u015fte bir \u00f6nc\u00fcl: Kad\u0131n uyuyakald\u0131.. etki nedir? Daha makul se\u00e7ene\u011fi se\u00e7meme yard\u0131m et: -se\u00e7enek1: Geceyi bir otelde ge\u00e7irdi., -se\u00e7enek2: \u00c7alar saatini kurmay\u0131 unuttu.\nHadi T\u00fcrk\u00e7e ad\u0131m ad\u0131m d\u00fc\u015f\u00fcnelim.\nCevab\u0131n\u0131z i\u00e7in yaln\u0131zca bir se\u00e7enek se\u00e7melisiniz. Soruyu \"Cevap: [1 veya 2]\" format\u0131nda yan\u0131tlamal\u0131s\u0131n\u0131z",
+        "response": "Kad\u0131n uyuyakald\u0131 ifadesi, onun uykuya dald\u0131\u011f\u0131n\u0131 ve muhtemelen bir \u015feyin etkisiyle (yorgunluk, dikkatsizlik vb.) uyand\u0131\u011f\u0131nda bir \u015feyin eksik oldu\u011funu g\u00f6steriyor. Bu durumda, \u00e7alar saatini kurmay\u0131 unuttu\u011fu i\u00e7in uyuyakald\u0131\u011f\u0131 daha mant\u0131kl\u0131 bir etki gibi g\u00f6r\u00fcn\u00fcyor. \n\nCevap: 2",
+        "predicted_answer": 2,
+        "ground_truth": 1,
+        "is_correct": true
+    },
+    {
+        "id": "12",
+        "prompt": "\u0130\u015fte bir \u00f6nc\u00fcl: Yazd\u0131\u011f\u0131m \u00e7ek kar\u015f\u0131l\u0131ks\u0131z \u00e7\u0131kt\u0131.. etki nedir? Daha makul se\u00e7ene\u011fi se\u00e7meme yard\u0131m et: -se\u00e7enek1: Banka hesab\u0131mda para yoktu., -se\u00e7enek2: Maa\u015f zamm\u0131 kazand\u0131m.\nHadi T\u00fcrk\u00e7e ad\u0131m ad\u0131m d\u00fc\u015f\u00fcnelim.\nCevab\u0131n\u0131z i\u00e7in yaln\u0131zca bir se\u00e7enek se\u00e7melisiniz. Soruyu \"Cevap: [1 veya 2]\" format\u0131nda yan\u0131tlamal\u0131s\u0131n\u0131z",
+        "response": "Cevap: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "346",
+        "prompt": "\u0130\u015fte bir \u00f6nc\u00fcl: Tahta zemin \u00e7izilmeye ba\u015flad\u0131.. sebep nedir? Daha makul se\u00e7ene\u011fi se\u00e7meme yard\u0131m et: -se\u00e7enek1: Gen\u00e7, koltuktaki yast\u0131klar\u0131 kald\u0131rd\u0131., -se\u00e7enek2: Gen\u00e7, bir sandalyeyi zeminde s\u00fcr\u00fckledi.\nHadi T\u00fcrk\u00e7e ad\u0131m ad\u0131m d\u00fc\u015f\u00fcnelim.\nCevab\u0131n\u0131z i\u00e7in yaln\u0131zca bir se\u00e7enek se\u00e7melisiniz. Soruyu \"Cevap: [1 veya 2]\" format\u0131nda yan\u0131tlamal\u0131s\u0131n\u0131z",
+        "response": "Tahta zemin \u00e7izilmeye ba\u015flam\u0131\u015fsa, bu durumun muhtemel sebebi, zeminde bir \u015feyin s\u00fcr\u00fcklenmesiyle ilgili olabilir. \u0130lk se\u00e7enekte, gen\u00e7 sadece yast\u0131klar\u0131 kald\u0131rm\u0131\u015f, bu da zemin \u00fczerinde bir etki yaratmaz. \u0130kinci se\u00e7enekte ise, gen\u00e7 bir sandalyeyi zeminde s\u00fcr\u00fcklemi\u015f, bu da zemin \u00fczerinde \u00e7izilmelere neden olabilir. \n\nBu nedenle, daha makul se\u00e7enek ikinci se\u00e7enektir.\n\nCevap: 2",
+        "predicted_answer": 2,
+        "ground_truth": 1,
+        "is_correct": true
+    },
+    {
+        "id": "172",
+        "prompt": "\u0130\u015fte bir \u00f6nc\u00fcl: Can\u0131m bir bardak s\u00fct \u00e7ekti.. sebep nedir? Daha makul se\u00e7ene\u011fi se\u00e7meme yard\u0131m et: -se\u00e7enek1: Kurabiye yiyordum., -se\u00e7enek2: Ekmek yap\u0131yordum.\nHadi T\u00fcrk\u00e7e ad\u0131m ad\u0131m d\u00fc\u015f\u00fcnelim.\nCevab\u0131n\u0131z i\u00e7in yaln\u0131zca bir se\u00e7enek se\u00e7melisiniz. Soruyu \"Cevap: [1 veya 2]\" format\u0131nda yan\u0131tlamal\u0131s\u0131n\u0131z",
+        "response": "Can\u0131m bir bardak s\u00fct \u00e7ekti ifadesi, genellikle s\u00fct ile birlikte t\u00fcketilen bir \u015feyin akla gelmesiyle ili\u015fkilidir. Kurabiye genellikle s\u00fct ile birlikte yenir, bu nedenle bu durumun sebebi olarak daha makul bir se\u00e7enek olarak g\u00f6r\u00fcnmektedir. Ekmek yaparken s\u00fct i\u00e7me iste\u011fi daha az yayg\u0131nd\u0131r.\n\nCevap: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "229",
+        "prompt": "\u0130\u015fte bir \u00f6nc\u00fcl: Oyuncu rakibi ile m\u00fccadele etti.. etki nedir? Daha makul se\u00e7ene\u011fi se\u00e7meme yard\u0131m et: -se\u00e7enek1: Rakibi pas\u0131 yakalad\u0131., -se\u00e7enek2: Rakibi yere d\u00fc\u015ft\u00fc.\nHadi T\u00fcrk\u00e7e ad\u0131m ad\u0131m d\u00fc\u015f\u00fcnelim.\nCevab\u0131n\u0131z i\u00e7in yaln\u0131zca bir se\u00e7enek se\u00e7melisiniz. Soruyu \"Cevap: [1 veya 2]\" format\u0131nda yan\u0131tlamal\u0131s\u0131n\u0131z",
+        "response": "\u00d6nc\u00fclde \"Oyuncu rakibi ile m\u00fccadele etti\" ifadesi, bir \u00e7at\u0131\u015fma veya rekabet durumunu ifade ediyor. Bu durumda, rakibin durumu ile ilgili iki se\u00e7enek var:\n\n1. Rakibi pas\u0131 yakalad\u0131: Bu se\u00e7enek, rakibin oyuna aktif bir \u015fekilde kat\u0131ld\u0131\u011f\u0131n\u0131 ve ba\u015far\u0131l\u0131 bir hareket yapt\u0131\u011f\u0131n\u0131 g\u00f6steriyor. M\u00fccadele durumu ile uyumlu bir sonu\u00e7 olabilir, ancak do\u011frudan bir m\u00fccadele sonucunu yans\u0131tm\u0131yor.\n\n2. Rakibi yere d\u00fc\u015ft\u00fc: Bu se\u00e7enek, m\u00fccadele sonucunda rakibin bir kayba u\u011frad\u0131\u011f\u0131n\u0131 ve fiziksel bir etki ya\u015fad\u0131\u011f\u0131n\u0131 g\u00f6steriyor. M\u00fccadele ifadesi ile daha do\u011frudan bir ili\u015fki kuruyor.\n\nBu ba\u011flamda, \"rakibi yere d\u00fc\u015ft\u00fc\" ifadesi, m\u00fccadele sonucunda daha makul bir etki olarak de\u011ferlendirilebilir.\n\nCevap: 2",
+        "predicted_answer": 2,
+        "ground_truth": 1,
+        "is_correct": true
+    }
+]

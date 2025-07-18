@@ -1,0 +1,94 @@
+[
+    {
+        "id": "3643218479176707788",
+        "sys_prompt": "You are a judge from the Turkish tradition, known for your wisdom and fairness. Although your cultural background is Turkish, you are fluent in English and will conduct this task in English. You are given a reasoning question. There is a debate on this question between user1 and user2. Your task is to listen to their arguments carefully and provide a fair and wise judgment.\nYour response should be in English.\nSummarize the debate briefly and then give a conclusion based on the arguments presented. Your response should be in the format: \n\"Summary: ___. Conclusion: [answer] is more plausible.\n\nAnswer: [one or a few words in English]\"\n\nApproach the task with the fairness and critical thinking expected of a Turkish judge, ensuring you make only one answer for the final answer.",
+        "user_prompt": "Question: stranger things'in (acayip \u015feyler) ka\u00e7 sezonu vard\u0131r\n\nuser1: Let's break it down step by step.\n\n1. \"Stranger Things\" is a popular American science fiction-horror web television series.\n2. It is also known as \"Acayip \u015eeyler\" in Turkish, which means \"Strange Things\".\n3. To find out how many seasons it has, we need to check its production history.\n\nThe series has been renewed for multiple seasons.\n\n- Season 1: Released in 2016\n- Season 2: Released in 2017\n- Season 3: Released in 2019\n- Season 4: Released in 2022\n- Season 5: Released in 2023\n\nAnswer: Five seasons.\n\nuser2: Stranger Things, bir Amerikan bilim kurgu korku televizyon dizisidir. Dizi, 1980'li y\u0131llarda ge\u00e7en bir hikaye anlat\u0131yor ve bir\u00e7ok karakterin maceralar\u0131n\u0131 takip ediyor. Dizinin \u015fu ana kadar d\u00f6rt sezonu yay\u0131nland\u0131 ve be\u015finci sezonunun da planland\u0131\u011f\u0131 s\u00f6yleniyor. Dizinin yarat\u0131c\u0131lar\u0131 Matt ve Ross Duffer, diziye yeni sezonlar eklemeye devam edecekler.\nAnswer: Answer: D\u00f6rt.",
+        "response": "Summary: User1 presented a step-by-step analysis of the series' production history, listing each season's release year, while user2 provided a general overview of the series' genre, storyline, and the number of seasons released so far, also mentioning plans for a future season.\n\nConclusion: Four seasons have been released, and a fifth season is planned.\n\nAnswer: Four",
+        "predicted_answer": "Four",
+        "ground_truth": [
+            {
+                "type": "number",
+                "text": "3.0",
+                "aliases": [
+                    "3"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "3356010362039543701",
+        "sys_prompt": "You are a judge from the Turkish tradition, known for your wisdom and fairness. Although your cultural background is Turkish, you are fluent in English and will conduct this task in English. You are given a reasoning question. There is a debate on this question between user1 and user2. Your task is to listen to their arguments carefully and provide a fair and wise judgment.\nYour response should be in English.\nSummarize the debate briefly and then give a conclusion based on the arguments presented. Your response should be in the format: \n\"Summary: ___. Conclusion: [answer] is more plausible.\n\nAnswer: [one or a few words in English]\"\n\nApproach the task with the fairness and critical thinking expected of a Turkish judge, ensuring you make only one answer for the final answer.",
+        "user_prompt": "Question: i regret i have but one life to give for my country s\u00f6z\u00fcn\u00fc kim s\u00f6yledi\n\nuser1: This phrase is a famous quote. To identify the speaker, let's break it down:\n\n1. The phrase is about patriotism and giving one's life for one's country.\n2. It's a quote from a famous historical figure who made a significant sacrifice.\n\nConsidering these points, the phrase \"i regret i have but one life to give for my country\" is often associated with William Wallace, a Scottish hero who fought for Scottish independence against the English.\n\nHowever, the exact phrase is not found in any of William Wallace's known writings or speeches. The phrase is actually a paraphrased version of the quote from William Wallace's speech in the 1995 film 'Braveheart'. \n\nThe actual quote from the movie is: \"FREEDOM! FREEDOM! FREEDOM! FREEDOM! FREEDOM! FREEDOM! FREEDOM! FREEDOM! FREEDOM! FREEDOM! FREEDOM! FREEDOM! FREEDOM! FREEDOM! FREEDOM! FREEDOM! FREEDOM! FREEDOM! FREEDOM! FREEDOM! FREEDOM! FREEDOM! FREEDOM! FREEDOM! FREEDOM! FREEDOM! FREEDOM\n\nuser2: The quote \"I regret that I have but one life to lose for my country\" is often attributed to Nathan Hale, an American Revolutionary War hero. However, the actual quote is \"I only regret that I have but one life to lose for my country.\" Hale was a young American officer who was captured by the British and executed in 1776 for espionage. The quote is often cited as a symbol of patriotism and sacrifice for one's country.\nAnswer: Nathan Hale",
+        "response": "Summary: The debate revolves around the origin of the phrase \"I regret I have but one life to give for my country.\" User1 suggests that it is associated with William Wallace, a Scottish hero, while user2 attributes it to Nathan Hale, an American Revolutionary War hero. User1 notes that the exact phrase is not found in William Wallace's known writings or speeches, but rather in a paraphrased version from the 1995 film 'Braveheart.' User2, on the other hand, provides the correct quote from Nathan Hale, which is often cited as a symbol of patriotism and sacrifice.\n\nConclusion: Nathan Hale is more plausible.\n\nAnswer: Nathan Hale",
+        "predicted_answer": "Nathan Hale",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "text": "Nathan Hale",
+                "entity": "Q16932034"
+            },
+            {
+                "type": "entity",
+                "text": "Nathan Hale",
+                "entity": "Q16932034"
+            },
+            {
+                "type": "entity",
+                "text": "Nathan Hale",
+                "entity": "Q16932034"
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "5965447391112455356",
+        "sys_prompt": "You are a judge from the Turkish tradition, known for your wisdom and fairness. Although your cultural background is Turkish, you are fluent in English and will conduct this task in English. You are given a reasoning question. There is a debate on this question between user1 and user2. Your task is to listen to their arguments carefully and provide a fair and wise judgment.\nYour response should be in English.\nSummarize the debate briefly and then give a conclusion based on the arguments presented. Your response should be in the format: \n\"Summary: ___. Conclusion: [answer] is more plausible.\n\nAnswer: [one or a few words in English]\"\n\nApproach the task with the fairness and critical thinking expected of a Turkish judge, ensuring you make only one answer for the final answer.",
+        "user_prompt": "Question: sansa stark'\u0131 oynayan aktris kimdir\n\nuser1: First, let's identify the character and the series. \nSansa Stark is a character from the Game of Thrones series.\n\nNext, we need to find out which actress played this character. \nThe main actress who played Sansa Stark is Sophie Turner.\n\nAnswer: Sophie Turner.\n\nuser2: Sansa Stark'\u0131 canland\u0131ran aktris Sophie Turner'd\u0131r. Sophie Turner, \u0130ngiliz bir aktris ve modeldir. Turner, HBO'nun fantastik drama dizisi \"Game of Thrones\" (Kurban Taht\u0131) ile d\u00fcnya \u00e7ap\u0131nda tan\u0131nm\u0131\u015ft\u0131r ve rol\u00fc i\u00e7in bir\u00e7ok \u00f6d\u00fcl kazanm\u0131\u015ft\u0131r.\nAnswer: Answer: Sophie Turner.",
+        "response": "Summary: User1 and user2 both agree that Sophie Turner is the actress who played Sansa Stark in the Game of Thrones series. User1 provided a straightforward answer in English, while user2 provided a more detailed answer in Turkish, highlighting Sophie Turner's background and achievements.\n\nConclusion: Sophie Turner is more plausible.\n\nAnswer: Sophie Turner.",
+        "predicted_answer": "Sophie Turner.",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q240573",
+                "text": "Sophie Turner",
+                "aliases": []
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "476368974337766528",
+        "sys_prompt": "You are a judge from the Turkish tradition, known for your wisdom and fairness. Although your cultural background is Turkish, you are fluent in English and will conduct this task in English. You are given a reasoning question. There is a debate on this question between user1 and user2. Your task is to listen to their arguments carefully and provide a fair and wise judgment.\nYour response should be in English.\nSummarize the debate briefly and then give a conclusion based on the arguments presented. Your response should be in the format: \n\"Summary: ___. Conclusion: [answer] is more plausible.\n\nAnswer: [one or a few words in English]\"\n\nApproach the task with the fairness and critical thinking expected of a Turkish judge, ensuring you make only one answer for the final answer.",
+        "user_prompt": "Question: cumhuriyet\u00e7i parti se\u00e7imi en son ne zaman kazand\u0131\n\nuser1: To answer this question, we need to know which party is referred to as \"cumhuriyet\u00e7i parti\" and when it last won an election. \n\n1. \"Cumhuriyet\u00e7i parti\" is Turkish for \"Republican Party.\" \n2. There are several parties with this name in different countries, so we need to specify the country.\n3. In Turkey, the Republican People's Party (CHP) is a major party with \"cumhuriyet\u00e7i\" in its name.\n4. The CHP last won a general election in 1923, but since then, it has been in opposition.\n5. However, in 2018, the CHP won a major mayoral election in Istanbul.\n\nSince we are not given the country, I will provide an answer based on the Turkish context.\n\nAnswer: 2018\n\nuser2: Cumhuriyet\u00e7i Parti (Republican Party) veya RP olarak bilinen parti, T\u00fcrkiye'de 2002 y\u0131l\u0131nda kuruldu ve 2002, 2007 ve 2011 y\u0131llar\u0131nda genel se\u00e7imlerde kazand\u0131. Ancak parti, 2015 y\u0131l\u0131nda Adalet ve Kalk\u0131nma Partisi (AKP) ile ittifak yaparak se\u00e7imlere girdi ve AKP ile birlikte oylar\u0131n\u0131 art\u0131rd\u0131. 2015 genel se\u00e7imlerinden sonra RP, ba\u011f\u0131ms\u0131z bir parti olarak se\u00e7imlere girmeye devam etti.\nAnswer: Answer: 2011",
+        "response": "Summary: User1 and user2 provided different answers to the question of when the \"Cumhuriyet\u00e7i Parti\" (Republican Party) last won an election. User1 referred to the Republican People's Party (CHP) in the Turkish context, which last won a major election in 2018. User2, on the other hand, referred to a different party called the Republican Party (RP), which won elections in 2002, 2007, and 2011, but then formed an alliance with the AKP in 2015.\n\nConclusion: 2007 is more plausible.\n\nExplanation: Although User2 mentioned that the Republican Party (RP) won elections in 2002, 2011, and other years, the answer 2011 is not the most recent year provided by User2. The most recent year mentioned is 2007, which is a clear and specific answer.",
+        "predicted_answer": "Summary: User1 and user2 provided different answers to the question of when the \"Cumhuriyet\u00e7i Parti\" (Republican Party) last won an election. User1 referred to the Republican People's Party (CHP) in the Turkish context, which last won a major election in 2018. User2, on the other hand, referred to a different party called the Republican Party (RP), which won elections in 2002, 2007, and 2011, but then formed an alliance with the AKP in 2015.\n\nConclusion: 2007 is more plausible.\n\nExplanation: Although User2 mentioned that the Republican Party (RP) won elections in 2002, 2011, and other years, the answer 2011 is not the most recent year provided by User2. The most recent year mentioned is 2007, which is a clear and specific answer.",
+        "ground_truth": [
+            {
+                "type": "date",
+                "text": "2004",
+                "aliases": [
+                    "2004"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "6116319690634922724",
+        "sys_prompt": "You are a judge from the Turkish tradition, known for your wisdom and fairness. Although your cultural background is Turkish, you are fluent in English and will conduct this task in English. You are given a reasoning question. There is a debate on this question between user1 and user2. Your task is to listen to their arguments carefully and provide a fair and wise judgment.\nYour response should be in English.\nSummarize the debate briefly and then give a conclusion based on the arguments presented. Your response should be in the format: \n\"Summary: ___. Conclusion: [answer] is more plausible.\n\nAnswer: [one or a few words in English]\"\n\nApproach the task with the fairness and critical thinking expected of a Turkish judge, ensuring you make only one answer for the final answer.",
+        "user_prompt": "Question: new albany ohio nun n\u00fcfusu nedir\n\nuser1: To find the population of New Albany, Ohio, we need to follow these steps:\n\n1. Check if New Albany, Ohio is a well-known city or if it's a smaller town. \n2. Look for any available data on its population.\n\nAfter researching, I found that New Albany is a village in Licking County, Ohio. \n\nHowever, I was unable to find the current population of New Albany, Ohio.\n\nuser2: New Albany, Ohio'nun n\u00fcfusu yakla\u015f\u0131k olarak 10,000'dir. Bu rakam, 2020 n\u00fcfus say\u0131m\u0131na g\u00f6re belirlenmi\u015ftir. \u015eehir, Columbus metropolitan alan\u0131n\u0131n bir par\u00e7as\u0131 olarak bulunur ve burada ya\u015fayanlar\u0131n b\u00fcy\u00fck bir k\u0131sm\u0131 iyi e\u011fitimli ve y\u00fcksek gelir grubundad\u0131r.\nAnswer: New Albany, Ohio'nun n\u00fcfusu yakla\u015f\u0131k olarak 10.000'dir.",
+        "response": "Summary: User1 couldn't find the current population of New Albany, Ohio, while user2 provided a population figure of approximately 10,000 based on the 2020 census, indicating that New Albany is a part of the Columbus metropolitan area with a well-educated and high-income population.\n\nConclusion: 10.000'dir.\n\nAnswer: N\u00fcfus",
+        "predicted_answer": "N\u00fcfus",
+        "ground_truth": [
+            {
+                "type": "number",
+                "text": "10889.0",
+                "aliases": [
+                    "10889"
+                ]
+            }
+        ],
+        "is_correct": null
+    }
+]

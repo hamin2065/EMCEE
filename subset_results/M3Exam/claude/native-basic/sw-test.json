@@ -1,0 +1,42 @@
+[
+    {
+        "id": 349,
+        "prompt": "Ifuatayo ni swali la chaguo nyingi.\nSentensi inayounganisha sentensi: \"Juma ni mzee. Juma anasoma kitabu bila miwani\", kisahihi ni:\nA. Juma ni mzee maadamu anasoma kitabu bila miwani.\nB. Juma anasoma kitabu bila miwani licha ya kuwa yeye ni mzee.\nC. Juma ni mzee madhali anasoma kitabu bila miwani.\nD. Juma anasoma kitabu bila miwani minghairi ya yeye ni mzee.\nUnapaswa kutoa jibu la mwisho mwishoni kwa muundo: 'Jibu: [chaguo]'",
+        "response": "Ili kuunganisha sentensi hizi mbili, tunahitaji kuchagua kiunganishi kinachoonyesha uhusiano wa maudhui.\n\nKwa kuzingatia muundo na maana ya sentensi, chaguo B ni kisahihi zaidi:\n\"Juma anasoma kitabu bila miwani licha ya kuwa yeye ni mzee.\"\n\nHapa, \"licha ya\" kinaonyesha kuwa jambo moja (kusoma bila miwani) linafanyika dhidi ya hali nyingine (kuwa mzee).\n\nKwa hivyo, jibu ni:\n\nJibu: B",
+        "predicted_answer": "B",
+        "ground_truth": "B",
+        "is_correct": true
+    },
+    {
+        "id": 408,
+        "prompt": "Ifuatayo ni swali la chaguo nyingi.\nTashbihi\nPopo amekonda kama _________\nA. sindano\nB. ng'onda\nC. kijiti\nD. kasuku\nUnapaswa kutoa jibu la mwisho mwishoni kwa muundo: 'Jibu: [chaguo]'",
+        "response": "Jibu: B\n\nHii ni kwa sababu \"ng'onda\" ni kitu kirefu na mwembamba, sawa na namna ambavyo Popo amekonda. Ng'onda ni kama mti mdogo au kitu kirefu sana, hivyo inafanana na namna ya Popo kuwa amekonda.",
+        "predicted_answer": "B",
+        "ground_truth": "B",
+        "is_correct": true
+    },
+    {
+        "id": 72,
+        "prompt": "Ifuatayo ni swali la chaguo nyingi.\nMethali zifuatazo zinahusu bidii. Ipi haifai kuwepo?\nA. Mgaagaa na upwa hali wali mkavu.\nB. Umoja ni nguvu utengano ni udhaifu.\nC. Ukiona vyaelea jua vimeundwa.\nD. Mtaka cha mvunguni sharti ainame.\nUnapaswa kutoa jibu la mwisho mwishoni kwa muundo: 'Jibu: [chaguo]'",
+        "response": "Ili kujibu swali hili, nitachunguza kila methali kwa makini:\n\nA. \"Mgaagaa na upwa hali wali mkavu\" - Hii methali inamaanisha kuwa mtu anayejitahidi na kuwa makini atafaidi.\n\nB. \"Umoja ni nguvu utengano ni udhaifu\" - Hii methali inahusu umuhimu wa kushirikiana na kuungana.\n\nC. \"Ukiona vyaelea jua vimeundwa\" - Hii methali inamaanisha kuwa kila kitu kina sababu yake na muundo wake.\n\nD. \"Mtaka cha mvunguni sharti ainame\" - Hii methali inamaanisha kuwa kupata jambo la kufurahisha lazima ujitahidi.\n\nMethali zote zina maudhui ya bidii isipokuwa chaguo C, ambayo inaelezea uumbaji na muundo wa vitu.\n\nJibu: C",
+        "predicted_answer": "C",
+        "ground_truth": "C",
+        "is_correct": true
+    },
+    {
+        "id": 381,
+        "prompt": "Ifuatayo ni swali la chaguo nyingi.\nChagua neno ambalo limetumia silabi changamano:\nA. Mbuga.\nB. Kituta.\nC. Ziwa.\nD. Utulivu.\nUnapaswa kutoa jibu la mwisho mwishoni kwa muundo: 'Jibu: [chaguo]'",
+        "response": "Ili kubaini neno lenye silabi changamano, nitachunguza kila neno:\n\nA. Mbuga - silabi: Mbu-ga (silabi za mfuatano)\nB. Kituta - silabi: Ki-tu-ta (silabi changamano)\nC. Ziwa - silabi: Zi-wa (silabi za mfuatano)\nD. Utulivu - silabi: U-tu-li-vu (silabi za mfuatano)\n\nNeno \"Kituta\" ni lenye silabi changamano.\n\nJibu: B",
+        "predicted_answer": "B",
+        "ground_truth": "A",
+        "is_correct": false
+    },
+    {
+        "id": 237,
+        "prompt": "Ifuatayo ni swali la chaguo nyingi.\nTegua kitendawili hiki: \nMava hapo mava pale\nA. kifo\nB. kioo\nC. kumetameta\nD. kivuli\nUnapaswa kutoa jibu la mwisho mwishoni kwa muundo: 'Jibu: [chaguo]'",
+        "response": "Ili kutatua kitendawili hiki, naangalia kila sehemu ya sentensi:\n\n\"Mava hapo mava pale\" - hii inaashiria kitu ambacho kinaweza kuonekana pale na hapa, lakini kisivyokuwa mtu au kitu cha maalum.\n\nKwa kuzingatia maana ya maneno:\n- Kifo: Hali ya kufa, lakini haiwezi kuonekana pale na hapa\n- Kioo: Kitu cha kuona mavazi au picha, kinaweza kuonekana pale na hapa\n- Kumetameta: Hali ya kujitawanya, lakini haiwezi kuonekana\n- Kivuli: Kielezo cha mwanga, kinaweza kuonekana pale na hapa\n\nKwa hivyo, jibu langu ni:\n\nJibu: B",
+        "predicted_answer": "B",
+        "ground_truth": "D",
+        "is_correct": false
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "id": "es-4211",
+        "prompt": "You are an expert at natural language inference. Given the premise and hypothesis, your task is to judge whether the hypothesis is true, false, or undetermined given the premise. The relationship can be chosen from entailment, contradiction, and neutral.\nPremise: Disparan a los estudiantes, \u00bfno?\nHypothesis: Hacen magdalenas para los estudiantes, \u00bfno?\nYou should provide the final answer at the end in the format: 'Relationship: [entailment, neutral or contradiction]'.",
+        "response": "The premise \"Disparan a los estudiantes, \u00bfno?\" suggests that something negative is happening to the students, while the hypothesis \"Hacen magdalenas para los estudiantes, \u00bfno?\" implies a positive action of making cupcakes for the students. Since the actions described in the premise and hypothesis are contradictory in nature, we can conclude that the hypothesis cannot be true given the premise.\n\nFinal answer: Relationship: contradiction",
+        "predicted_answer": 2,
+        "ground_truth": 2,
+        "is_correct": true
+    },
+    {
+        "id": "es-3872",
+        "prompt": "You are an expert at natural language inference. Given the premise and hypothesis, your task is to judge whether the hypothesis is true, false, or undetermined given the premise. The relationship can be chosen from entailment, contradiction, and neutral.\nPremise: FOREVER PLAID, un nombre que connota la continuaci\u00f3n de los valores tradicionales, de la familia, el hogar y la armon\u00eda.\nHypothesis: Nuestro CEO ide\u00f3 el nombre POR SIEMPRE A CUADROS.\nYou should provide the final answer at the end in the format: 'Relationship: [entailment, neutral or contradiction]'.",
+        "response": "The premise states that \"FOREVER PLAID\" is a name that connotes traditional values, family, home, and harmony. The hypothesis claims that \"Nuestro CEO ide\u00f3 el nombre POR SIEMPRE A CUADROS,\" which translates to \"Our CEO came up with the name FOREVER PLAID.\" \n\nThe hypothesis is a restatement of the premise but in a different language, suggesting that the CEO is the one who created the name. Since the premise does not provide information about who specifically came up with the name, we cannot definitively conclude that the CEO is the one who ideated it. Therefore, the relationship is undetermined.\n\nFinal answer: Relationship: neutral",
+        "predicted_answer": 1,
+        "ground_truth": 1,
+        "is_correct": true
+    },
+    {
+        "id": "es-580",
+        "prompt": "You are an expert at natural language inference. Given the premise and hypothesis, your task is to judge whether the hypothesis is true, false, or undetermined given the premise. The relationship can be chosen from entailment, contradiction, and neutral.\nPremise: sabes, todos mis hijos son geniales, muy buenos, y creo que no, aprende de los ni\u00f1os mayores tambi\u00e9n, pero\nHypothesis: Estoy muy orgulloso de lo mucho que mis hijos saben.\nYou should provide the final answer at the end in the format: 'Relationship: [entailment, neutral or contradiction]'.",
+        "response": "The premise expresses a positive sentiment about the speaker's children, stating that they are great and good, and suggests that there is a belief in their ability to learn from older children. The hypothesis states that the speaker is very proud of how much their children know. \n\nWhile the premise does not explicitly mention knowledge, it implies a positive view of the children's abilities, which can be interpreted as a basis for pride in their knowledge. Therefore, the hypothesis can be seen as a reasonable conclusion drawn from the premise.\n\nThus, the relationship is:\n\nRelationship: entailment",
+        "predicted_answer": 0,
+        "ground_truth": 1,
+        "is_correct": false
+    },
+    {
+        "id": "es-1362",
+        "prompt": "You are an expert at natural language inference. Given the premise and hypothesis, your task is to judge whether the hypothesis is true, false, or undetermined given the premise. The relationship can be chosen from entailment, contradiction, and neutral.\nPremise: Dios solo es mencionado como el Dios de la naturaleza, en virtud del cual cualquier persona tiene el derecho a un parte igual y separada en la comunidad de las naciones.\nHypothesis: Las personas nunca son iguales.\nYou should provide the final answer at the end in the format: 'Relationship: [entailment, neutral or contradiction]'.",
+        "response": "The premise states that God is mentioned as the God of nature, implying that everyone has the right to an equal and separate part in the community of nations. This suggests a belief in equality among people. The hypothesis, on the other hand, asserts that people are never equal, which directly contradicts the idea of equal rights mentioned in the premise.\n\nTherefore, the relationship is:\n\nRelationship: contradiction",
+        "predicted_answer": 2,
+        "ground_truth": 2,
+        "is_correct": true
+    },
+    {
+        "id": "es-17",
+        "prompt": "You are an expert at natural language inference. Given the premise and hypothesis, your task is to judge whether the hypothesis is true, false, or undetermined given the premise. The relationship can be chosen from entailment, contradiction, and neutral.\nPremise: As\u00ed que no tengo muy claro por qu\u00e9.\nHypothesis: No s\u00e9 por qu\u00e9 sucedi\u00f3 eso.\nYou should provide the final answer at the end in the format: 'Relationship: [entailment, neutral or contradiction]'.",
+        "response": "The premise states \"As\u00ed que no tengo muy claro por qu\u00e9,\" which translates to \"So I am not very clear about why.\" The hypothesis states \"No s\u00e9 por qu\u00e9 sucedi\u00f3 eso,\" which translates to \"I don't know why that happened.\" \n\nBoth the premise and the hypothesis express uncertainty about the reason for something. The premise indicates a lack of clarity about the reason, while the hypothesis expresses a lack of knowledge about the reason for a specific event. \n\nSince both statements convey a similar sentiment of uncertainty, the relationship between them can be considered as neutral, as one does not necessarily entail the other, but they are related in expressing a lack of understanding.\n\nFinal answer: Relationship: neutral",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": false
+    }
+]

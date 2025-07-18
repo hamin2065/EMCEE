@@ -1,0 +1,99 @@
+[
+    {
+        "id": "-6331825608100129065",
+        "prompt": "Tr\u1ea3 l\u1eddi c\u00e2u h\u1ecfi b\u1eb1ng m\u1ed9t ho\u1eb7c v\u00e0i t\u1eeb b\u1eb1ng ti\u1ebfng Vi\u1ec7t: \nH\u1ecd ch\u1ea1y v\u1edbi nh\u1eefng con b\u00f2 \u1edf \u0111\u00e2u trong T\u00e2y Ba Nha?\nB\u1ea1n n\u00ean \u0111\u01b0a ra c\u00e2u tr\u1ea3 l\u1eddi cu\u1ed1i c\u00f9ng \u1edf cu\u1ed1i theo \u0111\u1ecbnh d\u1ea1ng: 'Tr\u1ea3 l\u1eddi: [m\u1ed9t ho\u1eb7c v\u00e0i t\u1eeb]'.",
+        "response": "C\u00f3 th\u1ec3 h\u1ecd \u0111ang ch\u1ea1y v\u1edbi nh\u1eefng con b\u00f2 \u1edf Ronda, T\u00e2y Ba Nha.\n\nTr\u1ea3 l\u1eddi: Ronda.",
+        "predicted_answer": "Ronda.",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q10282",
+                "text": "Pamplona",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q29",
+                "text": "T\u00e2y Ban Nha",
+                "aliases": []
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "-2636623161713410044",
+        "prompt": "Tr\u1ea3 l\u1eddi c\u00e2u h\u1ecfi b\u1eb1ng m\u1ed9t ho\u1eb7c v\u00e0i t\u1eeb b\u1eb1ng ti\u1ebfng Vi\u1ec7t: \nnew york mets th\u00e0nh l\u1eadp khi n\u00e0o\nB\u1ea1n n\u00ean \u0111\u01b0a ra c\u00e2u tr\u1ea3 l\u1eddi cu\u1ed1i c\u00f9ng \u1edf cu\u1ed1i theo \u0111\u1ecbnh d\u1ea1ng: 'Tr\u1ea3 l\u1eddi: [m\u1ed9t ho\u1eb7c v\u00e0i t\u1eeb]'.",
+        "response": "Tr\u1ea3 l\u1eddi: 1962",
+        "predicted_answer": "1962",
+        "ground_truth": [
+            {
+                "type": "date",
+                "text": "1962",
+                "aliases": [
+                    "1962"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "-7124524575011905701",
+        "prompt": "Tr\u1ea3 l\u1eddi c\u00e2u h\u1ecfi b\u1eb1ng m\u1ed9t ho\u1eb7c v\u00e0i t\u1eeb b\u1eb1ng ti\u1ebfng Vi\u1ec7t: \nng\u00e0y c\u1ee7a cha l\u00e0 ng\u00e0y n\u00e0o\nB\u1ea1n n\u00ean \u0111\u01b0a ra c\u00e2u tr\u1ea3 l\u1eddi cu\u1ed1i c\u00f9ng \u1edf cu\u1ed1i theo \u0111\u1ecbnh d\u1ea1ng: 'Tr\u1ea3 l\u1eddi: [m\u1ed9t ho\u1eb7c v\u00e0i t\u1eeb]'.",
+        "response": "Ng\u00e0y c\u1ee7a cha l\u00e0 ng\u00e0y 5/6.\n\nTr\u1ea3 l\u1eddi: Ng\u00e0y c\u1ee7a cha.",
+        "predicted_answer": "Ng\u00e0y c\u1ee7a cha.",
+        "ground_truth": [
+            {
+                "type": "date",
+                "text": "2020-06-21",
+                "aliases": [
+                    "21-06-2020",
+                    "21 06 2020",
+                    "06 21 2020",
+                    "2020 june, 21",
+                    "2020-06-21",
+                    "06-21-2020",
+                    "21 th\u00e1ng S\u00e1u 2020",
+                    "21/06/2020",
+                    "2020 th\u00e1ng S\u00e1u 21",
+                    "2020 06 21",
+                    "06/21/2020"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "5118505966272271760",
+        "prompt": "Tr\u1ea3 l\u1eddi c\u00e2u h\u1ecfi b\u1eb1ng m\u1ed9t ho\u1eb7c v\u00e0i t\u1eeb b\u1eb1ng ti\u1ebfng Vi\u1ec7t: \nAi l\u00e0 nh\u00f3m tr\u01b0\u1edfng nh\u00f3m nh\u1ea1c The Beautiful South\nB\u1ea1n n\u00ean \u0111\u01b0a ra c\u00e2u tr\u1ea3 l\u1eddi cu\u1ed1i c\u00f9ng \u1edf cu\u1ed1i theo \u0111\u1ecbnh d\u1ea1ng: 'Tr\u1ea3 l\u1eddi: [m\u1ed9t ho\u1eb7c v\u00e0i t\u1eeb]'.",
+        "response": "Paul Heaton\n\nTr\u1ea3 l\u1eddi: Paul Heaton",
+        "predicted_answer": "Paul Heaton",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "text": "Paul Heaton",
+                "entity": "Q1938749"
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "6039981987742679389",
+        "prompt": "Tr\u1ea3 l\u1eddi c\u00e2u h\u1ecfi b\u1eb1ng m\u1ed9t ho\u1eb7c v\u00e0i t\u1eeb b\u1eb1ng ti\u1ebfng Vi\u1ec7t: \nng\u01b0\u1eddi \u0111\u00e3 li\u00ean minh v\u1edbi ng\u01b0\u1eddi Anh trong cu\u1ed9c c\u00e1ch m\u1ea1ng M\u1ef9\nB\u1ea1n n\u00ean \u0111\u01b0a ra c\u00e2u tr\u1ea3 l\u1eddi cu\u1ed1i c\u00f9ng \u1edf cu\u1ed1i theo \u0111\u1ecbnh d\u1ea1ng: 'Tr\u1ea3 l\u1eddi: [m\u1ed9t ho\u1eb7c v\u00e0i t\u1eeb]'.",
+        "response": "Ng\u01b0\u1eddi \u0111\u00e3 li\u00ean minh v\u1edbi ng\u01b0\u1eddi Anh trong cu\u1ed9c c\u00e1ch m\u1ea1ng M\u1ef9 l\u00e0: Ng\u01b0\u1eddi Anh v\u00e0 c\u00e1c n\u01b0\u1edbc \u0111\u1ed3ng minh c\u1ee7a h\u1ecd nh\u01b0 Canada, Ph\u00e1p tr\u01b0\u1edbc \u0111\u00f3 \u0111\u00e3 h\u1ed7 tr\u1ee3 nh\u01b0ng sau \u0111\u00f3 \u0111\u00e3 chuy\u1ec3n sang phe M\u1ef9.\n\nTr\u1ea3 l\u1eddi: Ng\u01b0\u1eddi Anh v\u00e0 c\u00e1c \u0111\u1ed3ng minh.",
+        "predicted_answer": "Ng\u01b0\u1eddi Anh v\u00e0 c\u00e1c \u0111\u1ed3ng minh.",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q183",
+                "text": "\u0110\u1ee9c",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "text": "\u0110\u1ee9c",
+                "entity": "Q183"
+            }
+        ],
+        "is_correct": null
+    }
+]

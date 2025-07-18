@@ -1,0 +1,5 @@
+{"example_id": "81543553621132354", "response": "West-Berlin\n\nAnswer: West-Berlin", "prediction": "West-Berlin", "binary_answer": null, "no_answer_prob": 0}
+{"example_id": "8627228541151141053", "response": "The Captain & Tennille.\n\nAnswer: The Captain & Tennille.", "prediction": "The Captain & Tennille.", "binary_answer": null, "no_answer_prob": 0}
+{"example_id": "-7634638252335162798", "response": "There are 48 states.\n\nAnswer: 48 states.", "prediction": "48 states.", "binary_answer": null, "no_answer_prob": 0}
+{"example_id": "8643588946565257997", "response": "The \"I Don't Always\" meme typically features a man with a mustache. \n\nAnswer: Rob Dyrdek.", "prediction": "Rob Dyrdek.", "binary_answer": null, "no_answer_prob": 0}
+{"example_id": "6747693054679197435", "response": "Die Band \"Why Don't We\" besteht aus f\u00fcnf Mitgliedern: Jonah Marais, Corbyn Besson, Daniel Seavey, Jack Avery und Noah Urfein.\n\nDas j\u00fcngste Mitglied der Band ist Noah Urfein.\n\nAnswer: Noah Urfein", "prediction": "Noah Urfein", "binary_answer": null, "no_answer_prob": 0}

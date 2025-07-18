@@ -1,0 +1,78 @@
+[
+    {
+        "id": "-3007091317310168067",
+        "prompt": "I want you to act as a question answering expert for chinese.\nQuestion: \u65e0\u803b\u4e4b\u5f92\u4e2d\u626e\u6f14jupiter\u7684\u6f14\u5458\u662f\u8c01\nYou should retell the question in English.\nYou should answer the question in English in one or a few words.\nYou should step-by-step answer the request.\nYou should tell me the answer in one or a few words in English in this format 'Answer: '",
+        "response": "Let me help you with this step-by-step:\n\n1. Translate the question to English:\n\"Who played Jupiter in the TV series/movie 'Shameless'\"\n\n2. Research the answer:\nIn the Chinese version of \"Shameless\" (\u65e0\u803b\u4e4b\u5f92), I would need more context about which specific version you're referring to.\n\n3. For the U.S. version of Shameless, Jupiter is not a character name.\n\n4. Without more specific information about the Chinese version or context, I cannot confidently provide a name.\n\nAnswer: Unable to determine without more context",
+        "predicted_answer": "Unable to determine without more context",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "text": "\u6770\u592b\u00b7\u79d1\u4f2f",
+                "entity": "Q1469565"
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "5399144941562483470",
+        "prompt": "I want you to act as a question answering expert for chinese.\nQuestion: \u7535\u5f71\u300a\u535a\u7269\u9986\u5947\u5999\u591c\u300b\u5171\u6709\u51e0\u90e8\nYou should retell the question in English.\nYou should answer the question in English in one or a few words.\nYou should step-by-step answer the request.\nYou should tell me the answer in one or a few words in English in this format 'Answer: '",
+        "response": "English Translation of the Question:\nHow many movies are there in the \"Night at the Museum\" franchise?\n\nStep-by-step reasoning:\n1. The question is asking about the total number of films in the \"Night at the Museum\" movie series\n2. I'll recall the films in the franchise\n3. Counting the movies:\n   - Night at the Museum (2006)\n   - Night at the Museum: Battle of the Smithsonian (2009)\n   - Night at the Museum: Secret of the Tomb (2014)\n\nAnswer: 3",
+        "predicted_answer": "3",
+        "ground_truth": [
+            {
+                "type": "number",
+                "text": "3.0",
+                "aliases": [
+                    "3"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "-5990228692754281902",
+        "prompt": "I want you to act as a question answering expert for chinese.\nQuestion: \u7f8e\u56fd\u662f\u4ec0\u4e48\u65f6\u5019\u5f00\u59cb\u5f81\u6536\u8054\u90a6\u6240\u5f97\u7a0e\u7684\nYou should retell the question in English.\nYou should answer the question in English in one or a few words.\nYou should step-by-step answer the request.\nYou should tell me the answer in one or a few words in English in this format 'Answer: '",
+        "response": "Let me help you with this:\n\nQuestion in English: When did the United States start collecting federal income tax?\n\nStep-by-step analysis:\n1. The federal income tax was first introduced in the United States in 1913\n2. This was done through the 16th Amendment to the U.S. Constitution\n3. The amendment was ratified on February 3, 1913\n4. It allowed the federal government to levy an income tax directly on individuals\n\nAnswer: 1913",
+        "predicted_answer": "1913",
+        "ground_truth": [
+            {
+                "type": "date",
+                "text": "1913",
+                "aliases": [
+                    "1913"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "-4933806249687973654",
+        "prompt": "I want you to act as a question answering expert for chinese.\nQuestion: \u6df7\u4e71\u4e4b\u5b50\u4e2d\u7684 jack teller \u662f\u8c01\u626e\u6f14\u7684\nYou should retell the question in English.\nYou should answer the question in English in one or a few words.\nYou should step-by-step answer the request.\nYou should tell me the answer in one or a few words in English in this format 'Answer: '",
+        "response": "Let me help you with this:\n\n1. Translating the question to English:\n\"Who plays Jack Teller in Sons of Anarchy?\"\n\n2. Researching the answer:\nJack Teller is a character in the TV series Sons of Anarchy, and he is portrayed by actor Charlie Hunnam.\n\n3. Providing the answer in the requested format:\n\nAnswer: Charlie Hunnam",
+        "predicted_answer": "Charlie Hunnam",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "text": "\u67e5\u7406\u00b7\u6c49\u7eb3\u59c6",
+                "entity": "Q356294"
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "4992973967728216447",
+        "prompt": "I want you to act as a question answering expert for chinese.\nQuestion: \u8fc8\u514b\u5c14\u00b7\u4e54\u4e39\u8d62\u5f97\u4e86\u591a\u5c11\u4e2anba\u603b\u51a0\u519b\nYou should retell the question in English.\nYou should answer the question in English in one or a few words.\nYou should step-by-step answer the request.\nYou should tell me the answer in one or a few words in English in this format 'Answer: '",
+        "response": "Let me help you with this step-by-step:\n\n1. Translate the question to English:\nHow many NBA championships did Michael Jordan win?\n\n2. Research the answer:\nMichael Jordan won 6 NBA championships, all with the Chicago Bulls (in 1991, 1992, 1993, 1996, 1997, and 1998).\n\n3. Provide the answer in the requested format:\n\nAnswer: 6",
+        "predicted_answer": "6",
+        "ground_truth": [
+            {
+                "type": "number",
+                "text": "6.0",
+                "aliases": [
+                    "6"
+                ]
+            }
+        ],
+        "is_correct": null
+    }
+]

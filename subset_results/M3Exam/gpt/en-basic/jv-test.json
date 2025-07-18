@@ -1,0 +1,42 @@
+[
+    {
+        "id": 64,
+        "prompt": "The following is a multiple-choice question.\nKanggo nyegah sumebare COVID-19, sabubare lelungan perlu reresik tangan ....\nA. Sadurunge ndemok sedulur lan anggota kulawargane.\nB. Sadurunge ndemok anggota kulawarga lan barang-barang sing ana ing ngomahe.\nC. Sadurunge mangan lan ngombe ing ngomahe\nD. Sadurunge adus lan ngumbah klambine.\nYou should provide the final answer at the end in the format: 'Answer: [option]'",
+        "response": "Kanggo nyegah sumebare COVID-19, sabubare lelungan perlu reresik tangan sadurunge mangan lan ngombe ing ngomahe. Iki penting kanggo njaga kebersihan lan nyegah panyebaran virus.\n\nAnswer: C",
+        "predicted_answer": "C",
+        "ground_truth": "B",
+        "is_correct": false
+    },
+    {
+        "id": 46,
+        "prompt": "The following is a multiple-choice question.\nWaluh, Semangka, Lan Timun Kuwi Klebu Tanduran ....\nA. Palakirna\nB. Palakependhem\nC. Palawija\nD. Palakesimpar\nYou should provide the final answer at the end in the format: 'Answer: [option]'",
+        "response": "The correct answer is C. Palawija, as it refers to crops that are grown in addition to the main crops, which includes vegetables like those mentioned (waluh, semangka, and timun). \n\nAnswer: C",
+        "predicted_answer": "C",
+        "ground_truth": "D",
+        "is_correct": false
+    },
+    {
+        "id": 196,
+        "prompt": "The following is a multiple-choice question.\n\u201cWiwitanipun usaha inggih namung nyobi-nyobi, krana pekarangannipun wiyar Panjenengannipun nyobi ternak lele. Dhasar mara sepuhipun pegawai Dinas Peternakan, dados saged ngangsu kawruh bab ternak lele\u201d.\n\nApa gagasan utama saka paragraf ing ndhuwur kuwi ....\nA. Wirausaha ternak lele\nB. Wirausaha\nC. Ternak lele\nD. Pegawai Dinas Peternakan\nYou should provide the final answer at the end in the format: 'Answer: [option]'",
+        "response": "Gagasan utama saka paragraf ing ndhuwur kuwi yaiku babagan usaha ternak lele, sing diwiwiti kanthi nyobi-nyobi lan didhukung dening pegawai Dinas Peternakan. Mula, pilihan sing paling tepat yaiku:\n\nA. Wirausaha ternak lele\n\nAnswer: A",
+        "predicted_answer": "A",
+        "ground_truth": "A",
+        "is_correct": true
+    },
+    {
+        "id": 244,
+        "prompt": "The following is a multiple-choice question.\nSapu Sada\n\nJumat bersih\nResik lan sehat\nCancut tali wanda\nNandur kabecikan\nCilik gedhe bagus ayu\nOra mung padha gumuyu\nOra tinggal glanggang calon playu\nTumuju adiwiyata murih rahayu\nCrah agawe bubrah\nRukun agawe santosa\nGuyub rukun kaya sapu sada\n\nGeguritan ing ndhuwur surasane bab ....\na. kerja bakti\nb. sapu\nc. rukun\nd. gojekan\nYou should provide the final answer at the end in the format: 'Answer: [option]'",
+        "response": "Geguritan ing ndhuwur surasane bab rukun, amarga ana tembung \"rukun\" lan \"guyub rukun\" sing nuduhake penting\u00e9 kerukunan lan gotong royong. \n\nAnswer: c. rukun",
+        "predicted_answer": "c. rukun",
+        "ground_truth": "a",
+        "is_correct": false
+    },
+    {
+        "id": 68,
+        "prompt": "The following is a multiple-choice question.\nJamaah jumat ingkang kawula bhekteni, monggo kita sareng-sareng nglampahi sedaya ingkang sampun perintah dining Alloh SWT. Lan nebihi sedaya laranganlaranganipun.....\n\nUkara-ukara ing inggil minangka tuladha ....\nA. Sesorah\nB. Khotbah\nC. Atur pambagya\nD. Atur pranatacara\nYou should provide the final answer at the end in the format: 'Answer: [option]'",
+        "response": "Ukara-ukara ing inggil minangka tuladha saka khotbah, amarga ngandhut ajakan kanggo nglampahi perintah Alloh SWT lan ngindhari larangan-laranganipun. \n\nAnswer: B",
+        "predicted_answer": "B",
+        "ground_truth": "B",
+        "is_correct": true
+    }
+]

@@ -1,0 +1,502 @@
+{
+    "tr-4668": {
+        "premise": "Dilbilgisi ve cazibe, tarihsel olarak aynı sözcüktür.",
+        "hypothesis": "Dil bilgisi ve çekicilik hiçbir zaman birbiriyle ilişkili olmamıştır.",
+        "label": 2
+    },
+    "tr-4999": {
+        "premise": "Inglish, beş sözcük, ifadeler, gramer, telaffuz ve ritm bakımından İngilizce dilinden farklıdır.",
+        "hypothesis": "Engilizce İngilizceden daha zordur.",
+        "label": 1
+    },
+    "tr-3104": {
+        "premise": "Diğerleri yalnızca belirli yolcuları taşımakla ilgileniyor.",
+        "hypothesis": "Bu düzenlemeler gelişmiş güvenlik kontrolleri içerir.",
+        "label": 1
+    },
+    "tr-2755": {
+        "premise": "24 Bu özellikler de GMRA hesap verebilirlik raporları için uygun olacaktır.",
+        "hypothesis": "Raporlar için kullanılacak başka özellikler de var.",
+        "label": 1
+    },
+    "tr-235": {
+        "premise": "Böylece, ben Washington D.C.'ye gittim ve doğrudan gitmedim, emirlerimde öyle yapmamı söylediler.",
+        "hypothesis": "Amirimi görmek için DC'ye gittim.",
+        "label": 1
+    },
+    "tr-4049": {
+        "premise": "Yine de insanlık için bir teselli ödülü var.",
+        "hypothesis": "Bu, insanlar için o kadar da kötü bir haber değil.",
+        "label": 0
+    },
+    "tr-2662": {
+        "premise": "Son olarak, değerlendirdiğiniz veriler yeterince güvenilir değilse, bu bulguyu rapora dahil etmeli ve denetlenen kurumun düzeltici önlem almasını tavsiye etmelisiniz.",
+        "hypothesis": "Denetlenen kuruluş veri güvenliğini artırmak için düzeltme adımları atabilir.",
+        "label": 0
+    },
+    "tr-1489": {
+        "premise": "Tadilin üslubu, ulusal ofis için bile eyaletlerin seçim süreci kontrolüne hürmetkar olmaya devam ediyor.",
+        "hypothesis": "Eyaletler seçim sürecini hiç değiştirmezler çünkü bunu yapmalarına izin verilmez.",
+        "label": 2
+    },
+    "tr-3994": {
+        "premise": "aşlangıç 1991, Indiana Üniversitesi'nde öğrenci günlerinin anılarını yeniliyor.",
+        "hypothesis": "Mezun olan öğrenciler Indiana Üniversitesi'ndeki öğrencilik yolculuklarını hatırlıyorlar.",
+        "label": 0
+    },
+    "tr-1737": {
+        "premise": "Kaptan Blood'u sunmama izin ver. Zorunlu olarak Bishop komuta edebileceği en iyi şekilde kendini göstermiştir.",
+        "hypothesis": "Kaptan Blood son zamanlarda yapmış olduğu iş nedeniyle görevine terfi etti.",
+        "label": 1
+    },
+    "tr-2906": {
+        "premise": "Baltimore ilçesi itfaiyesinin, yaralanan ve çalışamayacak durumda olan itfaiye çalışanları ve sağlık görevlilerine mali yardımda bulunabilecekleri resmi bir programları yok.",
+        "hypothesis": "Bu memurların tazminatı ödeyecek bir program olmalı.",
+        "label": 1
+    },
+    "tr-2116": {
+        "premise": "Göletler arasında, bir kaplumbağanın başına vurma umuduyla bir ziyaretçinin bozuk para fırlatması, iyi bir servet elde etmenin kesin bir yoludur.",
+        "hypothesis": "Tabelada olmamasına rağmen insanlar para atıyorlar.",
+        "label": 1
+    },
+    "tr-2788": {
+        "premise": "İşveren ve işçi katkıları genellikle aynı şekilde hesaplanır.",
+        "hypothesis": "İşveren ve çalışan katkılarını hesaplamanın iki farklı yöntemi var.",
+        "label": 2
+    },
+    "tr-2290": {
+        "premise": "Kodaly kerend (adını bir başka Macar besteciden alan Kodaly hilal), müthiş bir birlik olup kavisli cepheleri Klasik gurelerle ve işlemeli motiflerle süslenmiştir.",
+        "hypothesis": "Kodaly Kerend figürler ve motifler gibi çeşitli şeylerle dekore edildi.",
+        "label": 1
+    },
+    "tr-4883": {
+        "premise": "Fakat Meksika sınırında bir çiftlikte yaşayan bir çocuk olarak, kuzeydeki batılı şarkılara atıfta bulunan terimlerle mistikleştirilmeyi hatırlıyorum, örneğin, cayuse.",
+        "hypothesis": "Çiftlikçilik terimlerine şaşırmamıştım.",
+        "label": 2
+    },
+    "tr-2263": {
+        "premise": "Brahma, Shiva ve Vişnu'ya ithaf edilmiş üç merhametli tapınağı vardır.",
+        "hypothesis": "Tapınaklar pazartesi günleri et sunar.",
+        "label": 1
+    },
+    "tr-4553": {
+        "premise": "OKur yazarlık ve hesap bilme son yıllarda sadece Üçüncü Dünya'da değil, endüstriyelleşmiş uluslarda da (belki daha az oranda)  önemli sorunlar olarak öne çıktı.",
+        "hypothesis": "Üçüncü dünya geriden geliyor.",
+        "label": 1
+    },
+    "tr-83": {
+        "premise": "Yani, benim özgün hikayelerim yok.",
+        "hypothesis": "Orada bir çok mağaza var.",
+        "label": 1
+    },
+    "tr-4232": {
+        "premise": "Esas endişe, HMO'ların maliyetleri uzun vadede kontrol edememeleridir.",
+        "hypothesis": "HMO'ların uzun vadede maliyetleri kontrol edememe olasılığı var.",
+        "label": 0
+    },
+    "tr-1565": {
+        "premise": "Aceleyle geri çekilmesi gerekebileceğini fark etti.",
+        "hypothesis": "Aynı yerde kalsaydı, keşfedilirdi.",
+        "label": 1
+    },
+    "tr-701": {
+        "premise": "işte al sana, yani kocan, şey, o senin tişörtün hakkında ne düşünüyor ve",
+        "hypothesis": "Tişörtünüz çok hoş.",
+        "label": 1
+    },
+    "tr-1977": {
+        "premise": "Faith, kendini bir moda akımı üzerinden ifade ediyorsun, dedi.",
+        "hypothesis": "Hemen bir açıklama getirildi.",
+        "label": 2
+    },
+    "tr-3329": {
+        "premise": "Bin Ladin ve El Kaide tarafından desteklenen terör, hükümetin daha önce karşılaştığı her şeyden farklıydı.",
+        "hypothesis": "Hükümet, daha önce bunun gibi pek çok kez terörle karşılaşmıştı.",
+        "label": 2
+    },
+    "tr-4002": {
+        "premise": "Lütfen ne kadar verebileceğinizi dini bütün bir şekilde düşünün.",
+        "hypothesis": "Dindar olduğunuzu biliyorum, bu yüzden lütfen Tanrının bu bağışı nasıl göreceğini düşünün.",
+        "label": 1
+    },
+    "tr-4548": {
+        "premise": "Eğer herhangi bir Tuhaf (Missouri) isimler veya Sürpriz (Nebraska) olarak gelen sadece Jot 'Em Down (Texas) Güvenle (Tennessee), tabii ki onlar Errata (Mississippi)'dır.",
+        "hypothesis": "Nebraska'da komik isimli hiçbir şehir yoktur.",
+        "label": 2
+    },
+    "tr-1968": {
+        "premise": "Şu anda yanında Lord Julian ile küpeştede duran Kanlı Korsan kendini ifade etti.",
+        "hypothesis": "Kaptan Kan ve Lord Julian kırk ayakları ayrı tuttu.",
+        "label": 2
+    },
+    "tr-3900": {
+        "premise": "Cömertliğiniz İndiana Repertuar Tiyatrosu'nun (IRT), en iyi hikayeleri, mümkün olan en hoş şekilde anlatmaya devam etmesine yardımcı olacak.",
+        "hypothesis": "Sizin bağışlarınız olmadan, IRT'nin başı dertte olurdu.",
+        "label": 1
+    },
+    "tr-4020": {
+        "premise": "İntikam Meleği Tarbell McClure's'ta  onu parçalamaya başladığında Rockefeller, bu acı dolu sona yakalanmıştı.",
+        "hypothesis": "Rockefeller kanser araştırmasına katkıda bulundu.",
+        "label": 1
+    },
+    "tr-3671": {
+        "premise": "Wanda sebep yaratabileceğin olasılıkların her anne kadar farkında ve bunu bilmesi harika bir şey olarak adlandırıyor.",
+        "hypothesis": "Wanda bir anne.",
+        "label": 0
+    },
+    "tr-141": {
+        "premise": "İnanılmaz bir ruh hali.",
+        "hypothesis": "Ruh hali tamamen sabit durdu.",
+        "label": 2
+    },
+    "tr-762": {
+        "premise": "muhtemelen daha fazla çünkü haber yorumu okumayı daha çok seviyorum çünkü gazete okuyacak zamanım yok",
+        "hypothesis": "Yayın kapsamını beğeniyorum çünkü oturup gazete okumaya hiç vaktim yok.",
+        "label": 0
+    },
+    "tr-2410": {
+        "premise": "İki yüz yıl süren dinsel sapkınlıktan sonra, Kilise, ruhsal bir yeniliğe ihtiyaç duyuyordu ve Francis of Assisi'de (1182-1226) mükemmel müttefiki bulmaya çalışıyordu.",
+        "hypothesis": "Kilise Assisi Francis'den nefret ediyordu.",
+        "label": 2
+    },
+    "tr-1815": {
+        "premise": "Ama eğer onun sesine ve sözlerine  kırılsaydı,o kızgınlığını bastırırdı.",
+        "hypothesis": "Ona oldukça korkunç davrandı.",
+        "label": 1
+    },
+    "tr-3312": {
+        "premise": "İstihbarat ve terörle mücadeleyi hedefleyen kongresel gözetim artık işlevini yerine getiremiyor.",
+        "hypothesis": "Kongre, istihbarat veya terörle mücadele için hiçbir zaman gözetlemedi.",
+        "label": 2
+    },
+    "tr-1993": {
+        "premise": "Bana ne olmalıydı Jeremy? Tabii, şimdi, akşam yemeği için döneceğim, o yüzden döneceğim. Kan, bekleyen botun içine tırmandı.",
+        "hypothesis": "Kan bir tekneye bindi.",
+        "label": 0
+    },
+    "tr-2508": {
+        "premise": "Bilgi güvenliği grubu ayda 8 ila 12 seans gerçekleştiriyor.",
+        "hypothesis": "Güvenlik grubunda ayda ortalama 9 oturum gerçekleşiyor.",
+        "label": 1
+    },
+    "tr-4764": {
+        "premise": "yardım toplama, katılımcıların çok iyi giyimli olduğu bir dilenme şeklidir.",
+        "hypothesis": "Hibe verilmesi on dokuncu yüzyılda daha popülerdi.",
+        "label": 1
+    },
+    "tr-3023": {
+        "premise": "Khallad, üçünün hep birlikte Karachi'ye gittiğini belirten ikinci bir hikaye sundu.",
+        "hypothesis": "Khallad, üçünün Ekim ayında birlikte Karaçi'ye gitme şansının %50 olduğunu söyledi.",
+        "label": 1
+    },
+    "tr-3876": {
+        "premise": "Biraz denge mi arıyorsunuz?",
+        "hypothesis": "Hayatında biraz denge mi istiyorsun?",
+        "label": 0
+    },
+    "tr-4534": {
+        "premise": "Dahası, Ön Söz'e göre sadece Yirminci Yüzyılda ortaya çıktığı bilinen terimleri içermekte, ama 20. yüzyılın başındaki askeri argoyu atlamış.",
+        "hypothesis": "Zamanın başlangıcından beri bütün argo sözcükleri içinde kapsar.",
+        "label": 2
+    },
+    "tr-4349": {
+        "premise": "Walcott, küçükken ölen öğretmen olan babası gibi ressam olması için eğitildi — ve Bounty onun yöntem ve tema olarak en resimsel kitabıydı.",
+        "hypothesis": "Walcott'un babası bir ressam ve öğretmendi.",
+        "label": 0
+    },
+    "tr-2816": {
+        "premise": "Bir acente, seyahat eden yolcuların, belirli istisnalarla, tek tek 75 $ veya daha az miktara mal olan bütün harcamaları liste halinde sunabilecekleri çalışan seyahat talep prosedürünü yerleştirmeye çalıştı.",
+        "hypothesis": "Yolcular bireysel harcamalarını listelemek zorunda değildir.",
+        "label": 2
+    },
+    "tr-3485": {
+        "premise": "KSM, Moussaoui'nin Jarrah için muhtemel yedek pilot olarak hazırlanabilmesi için Binalshibh'e Moussaoui''ye para göndermesi konusunda talimat vermiş olabilir.",
+        "hypothesis": "KSM, Binalshibh'e ne yapması gerektiğini söyledi.",
+        "label": 0
+    },
+    "tr-4508": {
+        "premise": "Ateşli örtü öyküsü, Amerika'nın milli parklarının aşırı egzotik bitki ve hayvan türleri ve ticari kalkınma tarafından aşırı kalabalık, az fonlama, istila ile mahvolduğu konusunda uyarıyor.",
+        "hypothesis": "Milli parklar çok kalabalıktır.",
+        "label": 0
+    },
+    "tr-2709": {
+        "premise": "11 Ancak, daha zor tadilatlarda, arızalı süre önemli bir şekilde etkilenebilir.",
+        "hypothesis": "Yeni donanımların zaman aşımı üzerinde gerçek bir etkisi yoktur.",
+        "label": 2
+    },
+    "tr-2882": {
+        "premise": "Grup, geçmişte tartışılmış ve/veya uygulanmış inisiyatifleri tartışmak ve mevcut sorunları ve potansiyel inisiyatifleri önermek ve tartışmak için aylık olarak toplanmaktadır.",
+        "hypothesis": "Grup yılda sadece iki kez buluştu.",
+        "label": 2
+    },
+    "tr-3717": {
+        "premise": "Sahipleri tarafından kurtarılmayan hayvanlar söz konusu olduğunda, Humane Derneğiniz bu hayvanlara yardımcı olmak ve onlara mutlu bir hayat yaşama şansı vermek için çok çeşitli hizmetleri kullanır.",
+        "hypothesis": "Tüm hayvanlar kendi sahipleri tarafından kurtarılır.",
+        "label": 2
+    },
+    "tr-2219": {
+        "premise": "Bu zorlu araziden modern bir yaşam sürmek için ilk ve en sert çabaları yapan onlardı.",
+        "hypothesis": "Daha çok deneyebilirlerdi.",
+        "label": 1
+    },
+    "tr-2511": {
+        "premise": "Yine de, ön mühendislik daha önce gerçekleştirilmiştir.",
+        "hypothesis": "Mühendisliğin bir hazırlık dönemi vardı.",
+        "label": 0
+    },
+    "tr-2059": {
+        "premise": "Napolyon, Katalonya'nın kutsal tapınağına, Montserrat'ta bulunan manastıra saldırıp onları yok etmiştir.",
+        "hypothesis": "Napolyon, Montserrat'taki manastırın tahrip edilmesinden sorumluydu.",
+        "label": 0
+    },
+    "tr-1888": {
+        "premise": "Tehditler hizmet etmeyecek, Kaptan.",
+        "hypothesis": "Kaptan tehditte bulunmuştu.",
+        "label": 1
+    },
+    "tr-988": {
+        "premise": "ya aslında bilgisayar bilimi ve bilişsel bilim öyle yani",
+        "hypothesis": "Çevre bilimi de.",
+        "label": 1
+    },
+    "tr-1577": {
+        "premise": "Kaşlarını buruşturarak çattı.",
+        "hypothesis": "Yüzünde öfkeli bir ifade vardı.",
+        "label": 0
+    },
+    "tr-2584": {
+        "premise": "CIO ve karar alıcı merciler dış kaynak almak için ne tür bir çalışmanın uygun olduğuna ve içeride ne tür bir çalışmanın en iyi şekilde gerçekleştirildiğine karar verir.",
+        "hypothesis": "CIO hangi işin tamam olduğunu söyledi.",
+        "label": 0
+    },
+    "tr-979": {
+        "premise": "evet, anlamadığım başka bir şey de, teknoloji satıyor ve yabancı hükümetlere askeri donanım bile satıyor ve sonra borçlarını bağışlıyor.",
+        "hypothesis": "Karşılığında hiçbir şey almadan gizli bilgileri diğer ülkelere vermek gerçekten çok mantıklı.",
+        "label": 2
+    },
+    "tr-4389": {
+        "premise": "Önce bildiğim, bana e-postayla sorulacak olan soruyu yanıtlayarak kapatmama izin ver, yani, Ciddi misin?",
+        "hypothesis": "Bunun hakkında sorgulanacağımı ve ciddi olup olmadığımın sorulacağını biliyorum.",
+        "label": 0
+    },
+    "tr-1516": {
+        "premise": "Orada, üç milden fazla uzakta olmayan, kara vardı - batı ufkunu dolduran canlı yeşilin düzensiz bir duvarı.",
+        "hypothesis": "Yaklaşmakta oldukları ada ıssızdı.",
+        "label": 1
+    },
+    "tr-1569": {
+        "premise": "Ve o hep böyle biriydi ve son üç yılda yaptıklarını yaptı, dedi, ancak bunu şimdi önceki hor görmeleri olmadan acıyla söyledi.",
+        "hypothesis": "Son üç yıl içinde birçok erkeği öldürdüğünden hoşlanmıyordu.",
+        "label": 1
+    },
+    "tr-1772": {
+        "premise": "Bize tavsiye edilen budur .",
+        "hypothesis": "Ne yapılacağı söylendiğinde, yönetim bize ticari sırlarda izin vermemiştir.",
+        "label": 1
+    },
+    "tr-3966": {
+        "premise": "Buna ek olarak, Indiana sakinleri doğrudan devlet vergi iadesinin alt çizgisine uygulanan Indiana vergi kredisi yoluyla vergi avantajları alabilir.",
+        "hypothesis": "Indiana vergi kredisi vermemektedir.",
+        "label": 2
+    },
+    "tr-2265": {
+        "premise": "Arboretum'dan yaklaşık bir mil ötede, yolun sağ tarafında, yamaçtaki yüzlerce beyaz boyalı aile mezarının desteklediği iki kilise bulacaksınız.",
+        "hypothesis": "Kiliseler ayrıca çocuklar için kreş merkezidir.",
+        "label": 1
+    },
+    "tr-4829": {
+        "premise": "Mesela, bir program başkanının hazırladığı uzun laflar hakkında bir kaç övgü dolu tanıtım yazısı.",
+        "hypothesis": "Giriş konuşmaları çok uzundu.",
+        "label": 1
+    },
+    "tr-4297": {
+        "premise": "Dok  her gece 3 miligram gerçekten çok fazla.",
+        "hypothesis": "3 mg geceleri almak için çok fazla.",
+        "label": 0
+    },
+    "tr-4888": {
+        "premise": "'E, bu kelimede Yidişçe'nin her çeşidinde ebb gibi telaffuz edilen ses / e / anlamına gelir.",
+        "hypothesis": "Bu sözcükte yer alan e harfi Yidiş dilinde tüm çeşitlerinde aynı telaffuz edilir.",
+        "label": 0
+    },
+    "tr-2318": {
+        "premise": "SS muhafızlarının yeraltı merkezlerinin üzerine inşa edilen bina, Nazi terörüne direnenlerin hayatlarını etkileyici bir şekilde gösteren fotoğraf ve belgeler sergisi Topographie des Terrors'a ev sahipliği yapıyor.",
+        "hypothesis": "Bina SS muhafız evlerinin oradaydı.",
+        "label": 0
+    },
+    "tr-823": {
+        "premise": "evet bu doğru ama ama sanırım  lisede düşmenden bile daha fazlaydı demek istedim",
+        "hypothesis": "Hayır, bu hiç de doğru değil.",
+        "label": 2
+    },
+    "tr-1590": {
+        "premise": "Jamaica'nın vali yardımcılığını kabul etmesi  için ,amcamı Barbados tarlalarından ayrılmaya zorlayan Kaptan Kan’ı alma ve asma umudundan başka bir şey olmadığına inanıyorum.",
+        "hypothesis": "Amcamın suçlarından dolayı Kanlı Korsan'ın öldüğünü görmek istediğine inanıyorum.",
+        "label": 1
+    },
+    "tr-2426": {
+        "premise": "mobilya ve gümüş için 29, porselen için 122'de Tai Sing Company.",
+        "hypothesis": "Porselen, mobilya ve gümüşten daha fazlaydı.",
+        "label": 0
+    },
+    "tr-1863": {
+        "premise": "Ogle, paniğe sürüklediği adamların, Wolverstone'un bilmediği farklı bir bakışa sahip olup olmayacağını bilmiyordu.",
+        "hypothesis": "Adrian panik yapan erkeklerin Woverstone'dan farklı şeyler görüp görmeyeceğinden emin değildi.",
+        "label": 1
+    },
+    "tr-2956": {
+        "premise": "Bu tercihle yüzleşince, müvekkiller büyük ihtimalle ülkeyi terk etme haklarını saklı tutacaklardır.",
+        "hypothesis": "Ülkeden ayrılmak müvekkiller için en iyi tercih olacaktı.",
+        "label": 0
+    },
+    "tr-1469": {
+        "premise": "Haklar suçtan şüpheli olanlarla ilişkilendirilir.",
+        "hypothesis": "Bir suçtan şüpheli insanlar bu haklara sahiptir.",
+        "label": 0
+    },
+    "tr-2476": {
+        "premise": "1960'lardan beri keşfedilen açık alanlar artık, Hint kültüründe henüz yeterince anlaşılmamış bir amaç olan önemli bir oyuna sahip olan, top oyunları için kullanıldığına inanılıyor.",
+        "hypothesis": "1932'den beri açık alanları keşfetmediler.",
+        "label": 2
+    },
+    "tr-115": {
+        "premise": "Ve, o zamanlar işimden biri, bireylere atom bombasının kendisini patlattığı nükleer silah tetikleyicisine nasıl paraşüt atılacağını öğretmekti.",
+        "hypothesis": "Tetik çekildiğinde bombayı patlatır.",
+        "label": 0
+    },
+    "tr-4375": {
+        "premise": "Kimin anlayabileceğini biliyorsun değil mi?",
+        "hypothesis": "Kimin anlayacağını senin bildiğini düşünüyorum.",
+        "label": 0
+    },
+    "tr-1036": {
+        "premise": "Spin ağ teorileri farklı boyutlarda inşa edilebilir.",
+        "hypothesis": "Spin ağları veri saklama teknolojileri için çok kullanışlıdır.",
+        "label": 1
+    },
+    "tr-2247": {
+        "premise": "Baixada de Santa Eulalia, 12. yüzyılda dikilen gettonun tarih olan yeni banyolarından adını alan carrer dels Banys Nous'a uzanır.",
+        "hypothesis": "CArrer dels Banys Nous bir ormana adını verdi.",
+        "label": 2
+    },
+    "tr-372": {
+        "premise": "Ve kim olduğunu, bilirsin davranış şeklini, diğer torunlarını reddediyor gibiydi.",
+        "hypothesis": "Herkese aynı şekilde davrandı.",
+        "label": 2
+    },
+    "tr-446": {
+        "premise": "Her neyse, konuştuk ve şimdi anlatabilirim, çünkü, bu yüzden, biz, biz, Kadina, Okinawa'ya konuştuk ve bu 1968'de oldu.",
+        "hypothesis": "Haziran 1968'de Japonya'ya askeri birlik gönderdik.",
+        "label": 1
+    },
+    "tr-4533": {
+        "premise": "Dahası, Ön Söz'e göre sadece Yirminci Yüzyılda ortaya çıktığı bilinen terimleri içermekte, ama 20. yüzyılın başındaki askeri argoyu atlamış.",
+        "hypothesis": "Önsöze göre, yirminci yüzyılda yükselen terimleri içerir ancak daha önce ortaya çıkan argo terimleri kapsamaz.",
+        "label": 0
+    },
+    "tr-2393": {
+        "premise": "Güvertede yürüyebilir, hatta Kanada’nın on sent parasına tasvir edilen ünlü 1921 şampiyonu yelkenli gemisinin bu kopyasıyla iki saatlik bir yolculuk yapabilirsiniz.",
+        "hypothesis": "Gemi seyahati sadece 17 dakika sürdü.",
+        "label": 2
+    },
+    "tr-1034": {
+        "premise": "Onu daha çok övmeli miyim?",
+        "hypothesis": "Piyano performansı için onu övmeli miyim?",
+        "label": 1
+    },
+    "tr-4021": {
+        "premise": "İntikam Meleği Tarbell McClure's'ta  onu parçalamaya başladığında Rockefeller, bu acı dolu sona yakalanmıştı.",
+        "hypothesis": "Rockefeller cömertti.",
+        "label": 0
+    },
+    "tr-840": {
+        "premise": "ha Kurtlarla Dans izledik şimdi bu kadar geç başka ne izledik ha Kuzuların Sessizliği",
+        "hypothesis": "Kurtlarla Dansı izledim.",
+        "label": 0
+    },
+    "tr-100": {
+        "premise": "Kalacağın yerin ödemesini yapıyoruz, dediler.",
+        "hypothesis": "Ben ve kardeşlerim için konutu ödüyorlar.",
+        "label": 1
+    },
+    "tr-4702": {
+        "premise": "Sonraki hafta, yeğenim, doğum günü için akustik bir gitar istedi.",
+        "hypothesis": "Yeğenim gelecek doğum günü hediyesi olarak bir akustik gitar istedi.",
+        "label": 0
+    },
+    "tr-2329": {
+        "premise": "1992 Olimpiyatları Barselona'nın spor tutkunu bir şehir olarak itibarını pekiştirmiştir.",
+        "hypothesis": "İspanya'daki Olimpiyatlar o on yılın en popülerleriydi.",
+        "label": 1
+    },
+    "tr-3845": {
+        "premise": "Bu mektup güçlü maddi yönetim kaydımızı, canlı tiyatro prodüksiyonlarımızı ve muhteşem eğitim programlarımızı sürdürebilmemiz için hala yardımınıza ihtiyacımız olduğunu size bildirmeyi amaçlamaktadır.",
+        "hypothesis": "Tiyatro eserlerimizin devam etmesi için yardımınıza ihtiyacımız var.",
+        "label": 0
+    },
+    "tr-3921": {
+        "premise": "Siz, diğer ilgili üyelerle birlikte, devletimizin gururlu mirasını koruma ve geliştirme çabalarına yardımcı olacaksınız.",
+        "hypothesis": "Eyaletin yardıma ihtiyacı var.",
+        "label": 0
+    },
+    "tr-3608": {
+        "premise": "Kostümleri hazırlayanlar: Brigitte Doth, Jade Stice ve Penny Laimana.",
+        "hypothesis": "Kostüm yapımına üç kişi katkıda bulundu.",
+        "label": 0
+    },
+    "tr-2791": {
+        "premise": "İdare, Madde Bağımlılığı ve Ruh Sağlığı Hizmetleri İdaresi  ve Sağlık Kaynakları ve Hizmetleri İdaresi.",
+        "hypothesis": "Madde Bağımlılığı ve Akıl Sağlığı Hizmetleri İdareleri farklı kurumlardır.",
+        "label": 2
+    },
+    "tr-1510": {
+        "premise": "Ama amcanın Barbados'taki evinde bir köleden daha iyi durumda olmadığım zaman, beni belli bir iyilikle kullandığını unutamam.",
+        "hypothesis": "Bana inanılmaz derecede zalim davrandın ve bana pislikten daha kötü muamele ettin.",
+        "label": 2
+    },
+    "tr-420": {
+        "premise": "Ve Charlotte'deki Mallar Creek'e taşındılar.",
+        "hypothesis": "Mallard Creek'te bir ev inşa ettiler.",
+        "label": 1
+    },
+    "tr-2068": {
+        "premise": "1981 yılında Ortak Pazara girmesi üzerine Yunanistan'ın ekonomik beklentileri güçlenmiştir.",
+        "hypothesis": "Yunanistan'ın Avrupa Ekonomik Topluluğuna girişi ekonomisine düşüş damgası vurdu.",
+        "label": 2
+    },
+    "tr-3913": {
+        "premise": "Bu önemli ve bu yıl, Mükemmellik Arayışı fonuna önemli bir katkıda bulunacağınızı umuyoruz.",
+        "hypothesis": "Bu yıl Pursuit of Excellence için bir bağışın ne kadar kritik olduğunu bilmenizi isteriz.",
+        "label": 0
+    },
+    "tr-934": {
+        "premise": "güzel güzel hayır son zamanlarda değil söyle bana",
+        "hypothesis": "Geç olmasına rağmen gerçekleşmedi bile.",
+        "label": 0
+    },
+    "tr-535": {
+        "premise": "yani bu iyi bunu düşünmemiştim evet",
+        "hypothesis": "İyi bir noktaya değindin.",
+        "label": 0
+    },
+    "tr-3282": {
+        "premise": "Sınırın her iki tarafında da suç ortakları olduğu ortaya çıkmıştı.",
+        "hypothesis": "Sınırın her iki tarafını da etkilemişti.",
+        "label": 0
+    },
+    "tr-4028": {
+        "premise": "Nancy Griffin, Hollywood Strikes'de yazıyor Michael Eisner'in eski arkadaşı Mike Ovitz'e bir zeytin dalı uzattığını, ancak Ovitz'in bunu kabul etmediğini yazıyor.",
+        "hypothesis": "Mike Ovitz, finansmanı çevreleyen güvensizlikten ve şirketin vizyonundan dolayı Michael Eisner'in farklılıklarını çözme denemesini reddetti.",
+        "label": 1
+    },
+    "tr-606": {
+        "premise": "evet güzel bir yaz geçir",
+        "hypothesis": "Umarım acınası bir yaz tatilin olur.",
+        "label": 2
+    },
+    "tr-4726": {
+        "premise": "Kendinizi, bir grup smokinli garsonun etrafınızda pervane olduğu seçkin bir restoranda aperitif yudumlamak gibi  alışılmadık seçkinlikte ortamlarda bulduğunuzda, bu ifadeye başvurur ve bu ifadeyi kullanırsınız.",
+        "hypothesis": "Bu tabir en kaba ve gündelik durumlarda kullanılmıştır.",
+        "label": 2
+    }
+}

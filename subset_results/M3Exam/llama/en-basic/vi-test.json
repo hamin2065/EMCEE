@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1475,
+        "prompt": "The following is a multiple-choice question.\nN\u1ebfu m\u1eadt \u0111\u1ed9 c\u00e1 th\u1ec3 c\u1ee7a 1 qu\u1ea7n th\u1ec3 \u0111\u1ed9ng v\u1eadt t\u0103ng l\u00ean qu\u00e1 cao, ngu\u1ed3n s\u1ed1ng c\u1ee7a m\u00f4i tr\u01b0\u1eddng kh\u00f4ng \u0111\u1ee7 cung c\u1ea5p cho m\u1ecdi c\u00e1 th\u1ec3 trong qu\u1ea7n th\u1ec3 th\u00ec th\u01b0\u1eddng d\u1eabn t\u1edbi l\u00e0m gi\u1ea3m\nA. m\u1ee9c xu\u1ea5t c\u01b0.\nB. m\u1ee9c c\u1ea1nh tranh.\nC. m\u1ee9c t\u1eed vong.\nD. m\u1ee9c sinh s\u1ea3n.\nYou should provide the final answer at the end in the format: 'Answer: [option]'",
+        "response": "N\u1ebfu m\u1eadt \u0111\u1ed9 c\u00e1 th\u1ec3 c\u1ee7a 1 qu\u1ea7n th\u1ec3 \u0111\u1ed9ng v\u1eadt t\u0103ng l\u00ean qu\u00e1 cao, ngu\u1ed3n s\u1ed1ng c\u1ee7a m\u00f4i tr\u01b0\u1eddng kh\u00f4ng \u0111\u1ee7 cung c\u1ea5p cho m\u1ecdi c\u00e1 th\u1ec3 trong qu\u1ea7n th\u1ec3 th\u00ec th\u01b0\u1eddng d\u1eabn t\u1edbi l\u00e0m gi\u1ea3m m\u1ee9c sinh s\u1ea3n.\n\nV\u00ec khi m\u1eadt \u0111\u1ed9 c\u00e1 th\u1ec3 qu\u00e1 cao, ngu\u1ed3n th\u1ee9c \u0103n, n\u01b0\u1edbc, kh\u00f4ng gian s\u1ed1ng,... s\u1ebd kh\u00f4ng \u0111\u1ee7 cho t\u1ea5t c\u1ea3 c\u00e1 th\u1ec3 trong qu\u1ea7n th\u1ec3. \u0110i\u1ec1u n\u00e0y s\u1ebd d\u1eabn \u0111\u1ebfn s\u1ef1 c\u1ea1nh tranh gay g\u1eaft gi\u1eefa c\u00e1c c\u00e1 th\u1ec3, t\u1eeb \u0111\u00f3 gi\u1ea3m kh\u1ea3 n\u0103ng sinh s\u1ea3n c\u1ee7a m\u1ed7i c\u00e1 th\u1ec3.\n\nAnswer: D.",
+        "predicted_answer": "D.",
+        "ground_truth": "D",
+        "is_correct": true
+    },
+    {
+        "id": 446,
+        "prompt": "The following is a multiple-choice question.\nKim lo\u1ea1i n\u00e0o sau \u0111\u00e2y ph\u1ea3n \u1ee9ng \u0111\u01b0\u1ee3c v\u1edbi dung d\u1ecbch NaOH?\nA. Al.\nB. Ag.\nC. Fe.\nD. Cu.\nYou should provide the final answer at the end in the format: 'Answer: [option]'",
+        "response": "Kim lo\u1ea1i c\u00f3 th\u1ec3 ph\u1ea3n \u1ee9ng \u0111\u01b0\u1ee3c v\u1edbi dung d\u1ecbch NaOH l\u00e0 kim lo\u1ea1i ki\u1ec1m th\u1ed5 ho\u1eb7c kim lo\u1ea1i ki\u1ec1m. Trong c\u00e1c l\u1ef1a ch\u1ecdn tr\u00ean, Al (Aluminum) l\u00e0 m\u1ed9t kim lo\u1ea1i ki\u1ec1m th\u1ed5, v\u00ec v\u1eady n\u00f3 c\u00f3 th\u1ec3 ph\u1ea3n \u1ee9ng \u0111\u01b0\u1ee3c v\u1edbi dung d\u1ecbch NaOH.\n\nAnswer: A.",
+        "predicted_answer": "A.",
+        "ground_truth": "A",
+        "is_correct": true
+    },
+    {
+        "id": 1402,
+        "prompt": "The following is a multiple-choice question.\nC\u00e2u ca dao, t\u1ee5c ng\u1eef, quan \u0111i\u1ec3m n\u00e0o sau \u0111\u00e2y vi ph\u1ea1m nguy\u00ean t\u1eafc h\u00f4n nh\u00e2n m\u1ed9t v\u1ee3 m\u1ed9t ch\u1ed3ng \u0111\u01b0\u1ee3c th\u1ec3 hi\u1ec7n trong cu\u1ed9c s\u1ed1ng h\u00e0ng ng\u00e0y\nA. ch\u1ed3ng ch\u00faa v\u1ee3 t\u00f4i.\nB. \u0111\u1ec9a \u0111eo ch\u00e2n h\u1ea1c.\nC. \u0111\u00e0n \u00f4ng n\u0103m th\u00ea b\u1ea3y thi\u1ebfp\nD. m\u00f4n \u0111\u0103ng h\u1eadu \u0111\u1ed1i.\nYou should provide the final answer at the end in the format: 'Answer: [option]'",
+        "response": "C\u00e2u ca dao, t\u1ee5c ng\u1eef, quan \u0111i\u1ec3m n\u00e0o vi ph\u1ea1m nguy\u00ean t\u1eafc h\u00f4n nh\u00e2n m\u1ed9t v\u1ee3 m\u1ed9t ch\u1ed3ng \u0111\u01b0\u1ee3c th\u1ec3 hi\u1ec7n trong cu\u1ed9c s\u1ed1ng h\u00e0ng ng\u00e0y l\u00e0 \"c. \u0111\u00e0n \u00f4ng n\u0103m th\u00ea b\u1ea3y thi\u1ebfp\".\n\n\u0110\u00f3 l\u00e0 m\u1ed9t quan \u0111i\u1ec3m cho r\u1eb1ng \u0111\u00e0n \u00f4ng c\u00f3 th\u1ec3 c\u00f3 nhi\u1ec1u v\u1ee3, tr\u00e1i ng\u01b0\u1ee3c v\u1edbi nguy\u00ean t\u1eafc h\u00f4n nh\u00e2n m\u1ed9t v\u1ee3 m\u1ed9t ch\u1ed3ng.\n\nAnswer: C",
+        "predicted_answer": "C",
+        "ground_truth": "C",
+        "is_correct": true
+    },
+    {
+        "id": 1573,
+        "prompt": "The following is a multiple-choice question.\nGi\u1ea3 s\u1eed 1 lo\u00e0i sinh v\u1eadt c\u00f3 b\u1ed9 NST 2n = 8; c\u00e1c c\u1eb7p NST \u0111\u01b0\u1ee3c k\u00ed hi\u1ec7u l\u00e0 A, a; B, b; D, d v\u00e0 E, e. C\u00e1 th\u1ec3 c\u00f3 b\u1ed9 NST n\u00e0o sau \u0111\u00e2y l\u00e0 th\u1ec3 ba?\nA. AABbddee.\nB. AabDdEe.\nC. AaaBbDdee.\nD. aaBbddee.\nYou should provide the final answer at the end in the format: 'Answer: [option]'",
+        "response": "\u0110\u1ec3 x\u00e1c \u0111\u1ecbnh th\u1ec3 ba, ta c\u1ea7n t\u00ecm c\u1eb7p NST n\u00e0o c\u00f3 s\u1ed1 l\u01b0\u1ee3ng NST l\u1ebb (kh\u00f4ng ph\u1ea3i c\u1eb7p).\n\nTrong c\u00e1c l\u1ef1a ch\u1ecdn, ta th\u1ea5y:\n\nA. AABbddee: c\u00f3 2 NST A l\u1ebb (v\u00ec s\u1ed1 l\u01b0\u1ee3ng NST A l\u00e0 3), n\u00ean \u0111\u00e2y l\u00e0 th\u1ec3 ba.\n\nB. AabDdEe: kh\u00f4ng c\u00f3 NST n\u00e0o l\u1ebb.\n\nC. AaaBbDdee: c\u00f3 3 NST A l\u1ebb (v\u00ec s\u1ed1 l\u01b0\u1ee3ng NST A l\u00e0 3), n\u00ean \u0111\u00e2y l\u00e0 th\u1ec3 ba.\n\nD. aaBbddee: kh\u00f4ng c\u00f3 NST n\u00e0o l\u1ebb.\n\nTuy nhi\u00ean, trong 2 l\u1ef1a ch\u1ecdn A v\u00e0 C, ch\u00fang ta c\u1ea7n xem x\u00e9t xem NST n\u00e0o l\u1ebb \u1edf m\u1ed7i l\u1ef1a ch\u1ecdn. L\u1ef1a ch\u1ecdn A c\u00f3 2 NST A l\u1ebb, c\u00f2n l\u1ef1a ch\u1ecdn C c\u00f3 3 NST A l\u1ebb. \n\nM\u1eb7c d\u00f9 c\u00f3 th\u1ec3 x\u1ea3y ra c\u1ea3 2 tr\u01b0\u1eddng h\u1ee3p, nh\u01b0ng theo th\u00f4ng tin ban \u0111\u1ea7u, lo\u00e0i sinh v\u1eadt c\u00f3 b\u1ed9 NST 2n = 8, v\u00e0 kh\u00f4ng c\u00f3 th\u00f4ng tin n\u00e0o v\u1ec1 vi\u1ec7c c\u00f3 NST l\u1ebb ho\u1eb7c kh\u00f4ng. V\u00ec v\u1eady, d\u1ef1a v\u00e0o th\u00f4ng tin ban \u0111\u1ea7u, ta c\u00f3 th\u1ec3 ch\u1ecdn l\u1ef1a ch\u1ecdn A ho\u1eb7c C. Tuy nhi\u00ean, \u0111\u1ec3 ch\u1ecdn m\u1ed9t l\u1ef1a ch\u1ecdn duy",
+        "predicted_answer": "\u0110\u1ec3 x\u00e1c \u0111\u1ecbnh th\u1ec3 ba, ta c\u1ea7n t\u00ecm c\u1eb7p NST n\u00e0o c\u00f3 s\u1ed1 l\u01b0\u1ee3ng NST l\u1ebb (kh\u00f4ng ph\u1ea3i c\u1eb7p).\n\nTrong c\u00e1c l\u1ef1a ch\u1ecdn, ta th\u1ea5y:\n\nA. AABbddee: c\u00f3 2 NST A l\u1ebb (v\u00ec s\u1ed1 l\u01b0\u1ee3ng NST A l\u00e0 3), n\u00ean \u0111\u00e2y l\u00e0 th\u1ec3 ba.\n\nB. AabDdEe: kh\u00f4ng c\u00f3 NST n\u00e0o l\u1ebb.\n\nC. AaaBbDdee: c\u00f3 3 NST A l\u1ebb (v\u00ec s\u1ed1 l\u01b0\u1ee3ng NST A l\u00e0 3), n\u00ean \u0111\u00e2y l\u00e0 th\u1ec3 ba.\n\nD. aaBbddee: kh\u00f4ng c\u00f3 NST n\u00e0o l\u1ebb.\n\nTuy nhi\u00ean, trong 2 l\u1ef1a ch\u1ecdn A v\u00e0 C, ch\u00fang ta c\u1ea7n xem x\u00e9t xem NST n\u00e0o l\u1ebb \u1edf m\u1ed7i l\u1ef1a ch\u1ecdn. L\u1ef1a ch\u1ecdn A c\u00f3 2 NST A l\u1ebb, c\u00f2n l\u1ef1a ch\u1ecdn C c\u00f3 3 NST A l\u1ebb. \n\nM\u1eb7c d\u00f9 c\u00f3 th\u1ec3 x\u1ea3y ra c\u1ea3 2 tr\u01b0\u1eddng h\u1ee3p, nh\u01b0ng theo th\u00f4ng tin ban \u0111\u1ea7u, lo\u00e0i sinh v\u1eadt c\u00f3 b\u1ed9 NST 2n = 8, v\u00e0 kh\u00f4ng c\u00f3 th\u00f4ng tin n\u00e0o v\u1ec1 vi\u1ec7c c\u00f3 NST l\u1ebb ho\u1eb7c kh\u00f4ng. V\u00ec v\u1eady, d\u1ef1a v\u00e0o th\u00f4ng tin ban \u0111\u1ea7u, ta c\u00f3 th\u1ec3 ch\u1ecdn l\u1ef1a ch\u1ecdn A ho\u1eb7c C. Tuy nhi\u00ean, \u0111\u1ec3 ch\u1ecdn m\u1ed9t l\u1ef1a ch\u1ecdn duy",
+        "ground_truth": "C",
+        "is_correct": false
+    },
+    {
+        "id": 871,
+        "prompt": "The following is a multiple-choice question.\nPolime n\u00e0o sau \u0111\u00e2y thu\u1ed9c lo\u1ea1i polime b\u00e1n t\u1ed5ng h\u1ee3p?\nA. T\u01a1 visco.\nB. Poli (vinyl clorua).\nC. Polietilen.\nD. Xenluloz\u01a1.\nYou should provide the final answer at the end in the format: 'Answer: [option]'",
+        "response": "Polime b\u00e1n t\u1ed5ng h\u1ee3p l\u00e0 polime \u0111\u01b0\u1ee3c t\u1ea1o ra t\u1eeb c\u00e1c \u0111\u01a1n v\u1ecb monome t\u1ef1 nhi\u00ean v\u00e0 monome t\u1ed5ng h\u1ee3p. Trong c\u00e1c l\u1ef1a ch\u1ecdn tr\u00ean, poli (vinyl clorua) \u0111\u01b0\u1ee3c t\u1ea1o ra t\u1eeb ph\u1ea3n \u1ee9ng tr\u00f9ng h\u1ee3p c\u1ee7a vinyl clorua, m\u1ed9t monome t\u1ed5ng h\u1ee3p.\n\nDo \u0111\u00f3, polime b\u00e1n t\u1ed5ng h\u1ee3p trong c\u00e1c l\u1ef1a ch\u1ecdn tr\u00ean l\u00e0 poli (vinyl clorua).\n\nAnswer: B",
+        "predicted_answer": "B",
+        "ground_truth": "A",
+        "is_correct": false
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1475,
+        "prompt": "D\u01b0\u1edbi \u0111\u00e2y l\u00e0 m\u1ed9t c\u00e2u h\u1ecfi tr\u1eafc nghi\u1ec7m.\nN\u1ebfu m\u1eadt \u0111\u1ed9 c\u00e1 th\u1ec3 c\u1ee7a 1 qu\u1ea7n th\u1ec3 \u0111\u1ed9ng v\u1eadt t\u0103ng l\u00ean qu\u00e1 cao, ngu\u1ed3n s\u1ed1ng c\u1ee7a m\u00f4i tr\u01b0\u1eddng kh\u00f4ng \u0111\u1ee7 cung c\u1ea5p cho m\u1ecdi c\u00e1 th\u1ec3 trong qu\u1ea7n th\u1ec3 th\u00ec th\u01b0\u1eddng d\u1eabn t\u1edbi l\u00e0m gi\u1ea3m\nA. m\u1ee9c xu\u1ea5t c\u01b0.\nB. m\u1ee9c c\u1ea1nh tranh.\nC. m\u1ee9c t\u1eed vong.\nD. m\u1ee9c sinh s\u1ea3n.\nB\u1ea1n n\u00ean cung c\u1ea5p c\u00e2u tr\u1ea3 l\u1eddi cu\u1ed1i c\u00f9ng \u1edf cu\u1ed1i theo \u0111\u1ecbnh d\u1ea1ng: '\u0110\u00e1p \u00e1n: [l\u1ef1a ch\u1ecdn]'",
+        "response": "Khi m\u1eadt \u0111\u1ed9 c\u00e1 th\u1ec3 c\u1ee7a m\u1ed9t qu\u1ea7n th\u1ec3 \u0111\u1ed9ng v\u1eadt t\u0103ng l\u00ean qu\u00e1 cao v\u00e0 ngu\u1ed3n s\u1ed1ng kh\u00f4ng \u0111\u1ee7 cung c\u1ea5p, \u0111i\u1ec1u n\u00e0y th\u01b0\u1eddng d\u1eabn \u0111\u1ebfn s\u1ef1 gia t\u0103ng m\u1ee9c c\u1ea1nh tranh gi\u1eefa c\u00e1c c\u00e1 th\u1ec3 trong qu\u1ea7n th\u1ec3. Khi c\u1ea1nh tranh gia t\u0103ng, m\u1ee9c sinh s\u1ea3n c\u00f3 th\u1ec3 gi\u1ea3m do c\u00e1c c\u00e1 th\u1ec3 kh\u00f4ng \u0111\u1ee7 \u0111i\u1ec1u ki\u1ec7n s\u1ed1ng \u0111\u1ec3 sinh s\u1ea3n, v\u00e0 m\u1ee9c t\u1eed vong c\u00f3 th\u1ec3 t\u0103ng do thi\u1ebfu th\u1ee9c \u0103n v\u00e0 t\u00e0i nguy\u00ean. Tuy nhi\u00ean, m\u1ee9c xu\u1ea5t c\u01b0 c\u00f3 th\u1ec3 t\u0103ng l\u00ean khi c\u00e1 th\u1ec3 t\u00ecm ki\u1ebfm m\u00f4i tr\u01b0\u1eddng s\u1ed1ng t\u1ed1t h\u01a1n.\n\nV\u00ec v\u1eady, c\u00e2u tr\u1ea3 l\u1eddi \u0111\u00fang cho c\u00e2u h\u1ecfi n\u00e0y l\u00e0 m\u1ee9c sinh s\u1ea3n s\u1ebd gi\u1ea3m do \u00e1p l\u1ef1c c\u1ea1nh tranh v\u00e0 thi\u1ebfu ngu\u1ed3n s\u1ed1ng.\n\n\u0110\u00e1p \u00e1n: D",
+        "predicted_answer": "D",
+        "ground_truth": "D",
+        "is_correct": true
+    },
+    {
+        "id": 446,
+        "prompt": "D\u01b0\u1edbi \u0111\u00e2y l\u00e0 m\u1ed9t c\u00e2u h\u1ecfi tr\u1eafc nghi\u1ec7m.\nKim lo\u1ea1i n\u00e0o sau \u0111\u00e2y ph\u1ea3n \u1ee9ng \u0111\u01b0\u1ee3c v\u1edbi dung d\u1ecbch NaOH?\nA. Al.\nB. Ag.\nC. Fe.\nD. Cu.\nB\u1ea1n n\u00ean cung c\u1ea5p c\u00e2u tr\u1ea3 l\u1eddi cu\u1ed1i c\u00f9ng \u1edf cu\u1ed1i theo \u0111\u1ecbnh d\u1ea1ng: '\u0110\u00e1p \u00e1n: [l\u1ef1a ch\u1ecdn]'",
+        "response": "Kim lo\u1ea1i ph\u1ea3n \u1ee9ng v\u1edbi dung d\u1ecbch NaOH l\u00e0 Al (nh\u00f4m) v\u00e0 Fe (s\u1eaft). Tuy nhi\u00ean, trong c\u00e1c l\u1ef1a ch\u1ecdn, Al l\u00e0 kim lo\u1ea1i ph\u1ea3n \u1ee9ng m\u1ea1nh nh\u1ea5t v\u1edbi NaOH, t\u1ea1o ra kh\u00ed H2.\n\nDo \u0111\u00f3, \u0111\u00e1p \u00e1n \u0111\u00fang l\u00e0:\n\n\u0110\u00e1p \u00e1n: A. Al.",
+        "predicted_answer": "A. Al.",
+        "ground_truth": "A",
+        "is_correct": true
+    },
+    {
+        "id": 1402,
+        "prompt": "D\u01b0\u1edbi \u0111\u00e2y l\u00e0 m\u1ed9t c\u00e2u h\u1ecfi tr\u1eafc nghi\u1ec7m.\nC\u00e2u ca dao, t\u1ee5c ng\u1eef, quan \u0111i\u1ec3m n\u00e0o sau \u0111\u00e2y vi ph\u1ea1m nguy\u00ean t\u1eafc h\u00f4n nh\u00e2n m\u1ed9t v\u1ee3 m\u1ed9t ch\u1ed3ng \u0111\u01b0\u1ee3c th\u1ec3 hi\u1ec7n trong cu\u1ed9c s\u1ed1ng h\u00e0ng ng\u00e0y\nA. ch\u1ed3ng ch\u00faa v\u1ee3 t\u00f4i.\nB. \u0111\u1ec9a \u0111eo ch\u00e2n h\u1ea1c.\nC. \u0111\u00e0n \u00f4ng n\u0103m th\u00ea b\u1ea3y thi\u1ebfp\nD. m\u00f4n \u0111\u0103ng h\u1eadu \u0111\u1ed1i.\nB\u1ea1n n\u00ean cung c\u1ea5p c\u00e2u tr\u1ea3 l\u1eddi cu\u1ed1i c\u00f9ng \u1edf cu\u1ed1i theo \u0111\u1ecbnh d\u1ea1ng: '\u0110\u00e1p \u00e1n: [l\u1ef1a ch\u1ecdn]'",
+        "response": "C\u00e2u ca dao, t\u1ee5c ng\u1eef, quan \u0111i\u1ec3m vi ph\u1ea1m nguy\u00ean t\u1eafc h\u00f4n nh\u00e2n m\u1ed9t v\u1ee3 m\u1ed9t ch\u1ed3ng l\u00e0 \"\u0111\u00e0n \u00f4ng n\u0103m th\u00ea b\u1ea3y thi\u1ebfp\". \u0110i\u1ec1u n\u00e0y th\u1ec3 hi\u1ec7n quan \u0111i\u1ec3m cho ph\u00e9p \u0111\u00e0n \u00f4ng c\u00f3 nhi\u1ec1u v\u1ee3, tr\u00e1i ng\u01b0\u1ee3c v\u1edbi nguy\u00ean t\u1eafc h\u00f4n nh\u00e2n m\u1ed9t v\u1ee3 m\u1ed9t ch\u1ed3ng.\n\n\u0110\u00e1p \u00e1n: C",
+        "predicted_answer": "C",
+        "ground_truth": "C",
+        "is_correct": true
+    },
+    {
+        "id": 1573,
+        "prompt": "D\u01b0\u1edbi \u0111\u00e2y l\u00e0 m\u1ed9t c\u00e2u h\u1ecfi tr\u1eafc nghi\u1ec7m.\nGi\u1ea3 s\u1eed 1 lo\u00e0i sinh v\u1eadt c\u00f3 b\u1ed9 NST 2n = 8; c\u00e1c c\u1eb7p NST \u0111\u01b0\u1ee3c k\u00ed hi\u1ec7u l\u00e0 A, a; B, b; D, d v\u00e0 E, e. C\u00e1 th\u1ec3 c\u00f3 b\u1ed9 NST n\u00e0o sau \u0111\u00e2y l\u00e0 th\u1ec3 ba?\nA. AABbddee.\nB. AabDdEe.\nC. AaaBbDdee.\nD. aaBbddee.\nB\u1ea1n n\u00ean cung c\u1ea5p c\u00e2u tr\u1ea3 l\u1eddi cu\u1ed1i c\u00f9ng \u1edf cu\u1ed1i theo \u0111\u1ecbnh d\u1ea1ng: '\u0110\u00e1p \u00e1n: [l\u1ef1a ch\u1ecdn]'",
+        "response": "\u0110\u1ec3 x\u00e1c \u0111\u1ecbnh th\u1ec3 ba, ch\u00fang ta c\u1ea7n t\u00ecm m\u1ed9t c\u00e1 th\u1ec3 c\u00f3 m\u1ed9t c\u1eb7p nhi\u1ec5m s\u1eafc th\u1ec3 (NST) c\u00f3 3 b\u1ea3n sao thay v\u00ec 2 b\u1ea3n sao nh\u01b0 b\u00ecnh th\u01b0\u1eddng. Trong b\u1ed9 NST 2n = 8, m\u1ed7i c\u1eb7p NST s\u1ebd c\u00f3 2 b\u1ea3n sao.\n\nXem x\u00e9t c\u00e1c l\u1ef1a ch\u1ecdn:\n\nA. AABbddee: C\u1eb7p A c\u00f3 2 b\u1ea3n sao, c\u1eb7p B c\u00f3 1 b\u1ea3n sao, c\u1eb7p D c\u00f3 2 b\u1ea3n sao, c\u1eb7p E c\u00f3 2 b\u1ea3n sao. Kh\u00f4ng c\u00f3 c\u1eb7p n\u00e0o c\u00f3 3 b\u1ea3n sao.\n\nB. AabDdEe: C\u1eb7p A c\u00f3 2 b\u1ea3n sao, c\u1eb7p B c\u00f3 1 b\u1ea3n sao, c\u1eb7p D c\u00f3 1 b\u1ea3n sao, c\u1eb7p E c\u00f3 1 b\u1ea3n sao. Kh\u00f4ng c\u00f3 c\u1eb7p n\u00e0o c\u00f3 3 b\u1ea3n sao.\n\nC. AaaBbDdee: C\u1eb7p A c\u00f3 3 b\u1ea3n sao, c\u1eb7p B c\u00f3 1 b\u1ea3n sao, c\u1eb7p D c\u00f3 2 b\u1ea3n sao, c\u1eb7p E c\u00f3 2 b\u1ea3n sao. C\u1eb7p A c\u00f3 3 b\u1ea3n sao, \u0111\u00e2y l\u00e0 th\u1ec3 ba.\n\nD. aaBbddee: C\u1eb7p A c\u00f3 2 b\u1ea3n sao, c\u1eb7p B c\u00f3 1 b\u1ea3n sao, c\u1eb7p D c\u00f3 2 b\u1ea3n sao, c\u1eb7p E c\u00f3 2 b\u1ea3n sao. Kh\u00f4ng c\u00f3 c\u1eb7p n\u00e0o c\u00f3 3 b\u1ea3n sao.\n\nV\u1eady, c\u00e1 th\u1ec3 c\u00f3 b\u1ed9 NST l\u00e0 th\u1ec3 ba l\u00e0 l\u1ef1a ch\u1ecdn C.\n\n\u0110\u00e1p \u00e1n: C",
+        "predicted_answer": "C",
+        "ground_truth": "C",
+        "is_correct": true
+    },
+    {
+        "id": 871,
+        "prompt": "D\u01b0\u1edbi \u0111\u00e2y l\u00e0 m\u1ed9t c\u00e2u h\u1ecfi tr\u1eafc nghi\u1ec7m.\nPolime n\u00e0o sau \u0111\u00e2y thu\u1ed9c lo\u1ea1i polime b\u00e1n t\u1ed5ng h\u1ee3p?\nA. T\u01a1 visco.\nB. Poli (vinyl clorua).\nC. Polietilen.\nD. Xenluloz\u01a1.\nB\u1ea1n n\u00ean cung c\u1ea5p c\u00e2u tr\u1ea3 l\u1eddi cu\u1ed1i c\u00f9ng \u1edf cu\u1ed1i theo \u0111\u1ecbnh d\u1ea1ng: '\u0110\u00e1p \u00e1n: [l\u1ef1a ch\u1ecdn]'",
+        "response": "Polime b\u00e1n t\u1ed5ng h\u1ee3p l\u00e0 nh\u1eefng polime \u0111\u01b0\u1ee3c ch\u1ebf t\u1ea1o t\u1eeb c\u00e1c nguy\u00ean li\u1ec7u t\u1ef1 nhi\u00ean nh\u01b0ng \u0111\u00e3 tr\u1ea3i qua qu\u00e1 tr\u00ecnh x\u1eed l\u00fd h\u00f3a h\u1ecdc. Trong c\u00e1c l\u1ef1a ch\u1ecdn tr\u00ean, t\u01a1 visco l\u00e0 m\u1ed9t v\u00ed d\u1ee5 \u0111i\u1ec3n h\u00ecnh c\u1ee7a polime b\u00e1n t\u1ed5ng h\u1ee3p, v\u00ec n\u00f3 \u0111\u01b0\u1ee3c s\u1ea3n xu\u1ea5t t\u1eeb xenluloz\u01a1 t\u1ef1 nhi\u00ean.\n\nC\u00e1c l\u1ef1a ch\u1ecdn kh\u00e1c:\n- Poli (vinyl clorua) v\u00e0 polietilen l\u00e0 c\u00e1c polime t\u1ed5ng h\u1ee3p.\n- Xenluloz\u01a1 l\u00e0 m\u1ed9t polime t\u1ef1 nhi\u00ean.\n\nV\u00ec v\u1eady, c\u00e2u tr\u1ea3 l\u1eddi \u0111\u00fang l\u00e0:\n\n\u0110\u00e1p \u00e1n: A",
+        "predicted_answer": "A",
+        "ground_truth": "A",
+        "is_correct": true
+    }
+]

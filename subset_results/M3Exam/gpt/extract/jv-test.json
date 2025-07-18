@@ -1,0 +1,47 @@
+[
+    {
+        "id": 64,
+        "prompt": "Question: Kanggo nyegah sumebare COVID-19, sabubare lelungan perlu reresik tangan ....\nOptions: A. Sadurunge ndemok sedulur lan anggota kulawargane.\nB. Sadurunge ndemok anggota kulawarga lan barang-barang sing ana ing ngomahe.\nC. Sadurunge mangan lan ngombe ing ngomahe\nD. Sadurunge adus lan ngumbah klambine.\nExplanation: The question focuses on the importance of hand hygiene to prevent the spread of COVID-19, particularly in the context of travel. The most relevant option is one that emphasizes washing hands before engaging in activities that could lead to contamination or the spread of germs. Option C, \"Sadurunge mangan lan ngombe ing ngomahe,\" translates to \"Before eating and drinking at home.\" This is crucial because proper handwashing before meals is a key practice in preventing illness, including COVID-19. While the other options mention important contexts for hand hygiene, they do not directly relate to the immediate prevention of virus transmission as effectively as option C does. Therefore, the correct answer is C.",
+        "response": "C",
+        "explanation": "The question focuses on the importance of hand hygiene to prevent the spread of COVID-19, particularly in the context of travel. The most relevant option is one that emphasizes washing hands before engaging in activities that could lead to contamination or the spread of germs. Option C, \"Sadurunge mangan lan ngombe ing ngomahe,\" translates to \"Before eating and drinking at home.\" This is crucial because proper handwashing before meals is a key practice in preventing illness, including COVID-19. While the other options mention important contexts for hand hygiene, they do not directly relate to the immediate prevention of virus transmission as effectively as option C does. Therefore, the correct answer is C.",
+        "predicted_answer": "C",
+        "ground_truth": "B",
+        "is_correct": false
+    },
+    {
+        "id": 46,
+        "prompt": "Question: Waluh, Semangka, Lan Timun Kuwi Klebu Tanduran ....\nOptions: A. Palakirna\nB. Palakependhem\nC. Palawija\nD. Palakesimpar\nExplanation: The question lists \"Waluh\" (pumpkin), \"Semangka\" (watermelon), and \"Timun\" (cucumber) as examples of certain types of plants. In Javanese agricultural terminology, these are classified as \"Palawija,\" which refers to secondary crops or vegetables that are typically grown in addition to staple crops like rice. This classification is important in Javanese farming practices, where diverse crops are cultivated for food security and nutrition. Therefore, the correct answer is C. Palawija, as it accurately describes the category that includes these types of plants.",
+        "response": "C",
+        "explanation": "The question lists \"Waluh\" (pumpkin), \"Semangka\" (watermelon), and \"Timun\" (cucumber) as examples of certain types of plants. In Javanese agricultural terminology, these are classified as \"Palawija,\" which refers to secondary crops or vegetables that are typically grown in addition to staple crops like rice. This classification is important in Javanese farming practices, where diverse crops are cultivated for food security and nutrition. Therefore, the correct answer is C. Palawija, as it accurately describes the category that includes these types of plants.",
+        "predicted_answer": "C",
+        "ground_truth": "D",
+        "is_correct": false
+    },
+    {
+        "id": 196,
+        "prompt": "Question: \u201cWiwitanipun usaha inggih namung nyobi-nyobi, krana pekarangannipun wiyar Panjenengannipun nyobi ternak lele. Dhasar mara sepuhipun pegawai Dinas Peternakan, dados saged ngangsu kawruh bab ternak lele\u201d.\n\nApa gagasan utama saka paragraf ing ndhuwur kuwi ....\nOptions: A. Wirausaha ternak lele\nB. Wirausaha\nC. Ternak lele\nD. Pegawai Dinas Peternakan\nExplanation: The main idea of the paragraph revolves around the initial efforts of someone trying out catfish farming, which is influenced by their background as an employee of the Livestock Service. The focus is on the entrepreneurial aspect of starting a catfish farming business, highlighting the learning process involved. While options C and D mention specific elements (catfish farming and the employee), the overarching theme is about the entrepreneurial venture itself. Therefore, the correct answer is A, Wirausaha ternak lele, as it encapsulates the primary concept of starting a business in catfish farming.",
+        "response": "A",
+        "explanation": "The main idea of the paragraph revolves around the initial efforts of someone trying out catfish farming, which is influenced by their background as an employee of the Livestock Service. The focus is on the entrepreneurial aspect of starting a catfish farming business, highlighting the learning process involved. While options C and D mention specific elements (catfish farming and the employee), the overarching theme is about the entrepreneurial venture itself. Therefore, the correct answer is A, Wirausaha ternak lele, as it encapsulates the primary concept of starting a business in catfish farming.",
+        "predicted_answer": "A",
+        "ground_truth": "A",
+        "is_correct": true
+    },
+    {
+        "id": 244,
+        "prompt": "Question: Sapu Sada\n\nJumat bersih\nResik lan sehat\nCancut tali wanda\nNandur kabecikan\nCilik gedhe bagus ayu\nOra mung padha gumuyu\nOra tinggal glanggang calon playu\nTumuju adiwiyata murih rahayu\nCrah agawe bubrah\nRukun agawe santosa\nGuyub rukun kaya sapu sada\n\nGeguritan ing ndhuwur surasane bab ....\nOptions: a. kerja bakti\nb. sapu\nc. rukun\nd. gojekan\nExplanation: The poem \"Sapu Sada\" emphasizes themes of unity, cleanliness, and cooperation within a community. The lines highlight the importance of working together harmoniously (\"Guyub rukun kaya sapu sada\") and the benefits of collective effort in achieving a clean and healthy environment. While \"sapu\" (broom) is mentioned, it serves as a metaphor for the idea of togetherness and collaboration rather than being the main focus. Therefore, the correct answer is \"c. rukun,\" which means unity or harmony, as the poem primarily conveys the message of working together for the common good.",
+        "response": "c",
+        "explanation": "The poem \"Sapu Sada\" emphasizes themes of unity, cleanliness, and cooperation within a community. The lines highlight the importance of working together harmoniously (\"Guyub rukun kaya sapu sada\") and the benefits of collective effort in achieving a clean and healthy environment. While \"sapu\" (broom) is mentioned, it serves as a metaphor for the idea of togetherness and collaboration rather than being the main focus. Therefore, the correct answer is \"c. rukun,\" which means unity or harmony, as the poem primarily conveys the message of working together for the common good.",
+        "predicted_answer": "c",
+        "ground_truth": "a",
+        "is_correct": false
+    },
+    {
+        "id": 68,
+        "prompt": "Question: Jamaah jumat ingkang kawula bhekteni, monggo kita sareng-sareng nglampahi sedaya ingkang sampun perintah dining Alloh SWT. Lan nebihi sedaya laranganlaranganipun.....\n\nUkara-ukara ing inggil minangka tuladha ....\nOptions: A. Sesorah\nB. Khotbah\nC. Atur pambagya\nD. Atur pranatacara\nExplanation: The passage provided is a formal address that invites the congregation to follow the commands of Allah and avoid prohibitions. This type of speech is typically delivered during a Friday prayer service in Islamic tradition. The correct term for this type of address is \"khotbah,\" which refers to a sermon or speech given by the imam during the Friday prayers. It serves to educate and remind the congregation about religious duties and moral conduct. Therefore, the correct answer is B. Khotbah.",
+        "response": "B",
+        "explanation": "The passage provided is a formal address that invites the congregation to follow the commands of Allah and avoid prohibitions. This type of speech is typically delivered during a Friday prayer service in Islamic tradition. The correct term for this type of address is \"khotbah,\" which refers to a sermon or speech given by the imam during the Friday prayers. It serves to educate and remind the congregation about religious duties and moral conduct. Therefore, the correct answer is B. Khotbah.",
+        "predicted_answer": "B",
+        "ground_truth": "B",
+        "is_correct": true
+    }
+]

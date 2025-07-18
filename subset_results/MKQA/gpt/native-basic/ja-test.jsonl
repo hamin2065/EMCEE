@@ -1,0 +1,5 @@
+{"example_id": "-8785178576893271242", "response": "\u56de\u7b54: \u30a2\u30ea\u30bd\u30f3\u30fb\u30a2\u30fc\u30f3\u30b0\u30ea\u30e0", "prediction": "\u30a2\u30ea\u30bd\u30f3\u30fb\u30a2\u30fc\u30f3\u30b0\u30ea\u30e0", "binary_answer": null, "no_answer_prob": 0}
+{"example_id": "2479806972542856767", "response": "\u9b54\u5973\u306e\u540d\u524d\u306f\u4e0d\u660e\u3002  \n\u56de\u7b54: \u4e0d\u660e", "prediction": "\u4e0d\u660e", "binary_answer": null, "no_answer_prob": 0}
+{"example_id": "-3578394134252581", "response": "\u56de\u7b54: yes", "prediction": null, "binary_answer": "yes", "no_answer_prob": 0}
+{"example_id": "8245563213341141772", "response": "1973\u5e74\u3067\u3059\u3002  \n\u56de\u7b54: 1973\u5e74", "prediction": "1973\u5e74", "binary_answer": null, "no_answer_prob": 0}
+{"example_id": "2485054536940137946", "response": "\u30c6\u30ad\u30b5\u30b9\u5dde\u30b5\u30f3\u30a2\u30f3\u30c8\u30cb\u30aa  \n\u56de\u7b54: \u30b5\u30f3\u30a2\u30f3\u30c8\u30cb\u30aa", "prediction": "\u30b5\u30f3\u30a2\u30f3\u30c8\u30cb\u30aa", "binary_answer": null, "no_answer_prob": 0}

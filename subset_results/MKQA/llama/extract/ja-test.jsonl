@@ -1,0 +1,5 @@
+{"example_id": "-8785178576893271242", "response": "\u30e1\u30a2\u30ea\u30fc\u30fb\u30a8\u30a4\u30f3\u30ba\u30ef\u30fc\u30b9", "prediction": "\u30e1\u30a2\u30ea\u30fc\u30fb\u30a8\u30a4\u30f3\u30ba\u30ef\u30fc\u30b9", "binary_answer": null, "no_answer_prob": 0}
+{"example_id": "2479806972542856767", "response": "Answer: \u9b54\u5973", "prediction": "\u9b54\u5973", "binary_answer": null, "no_answer_prob": 0}
+{"example_id": "-3578394134252581", "response": "Answer: no", "prediction": null, "binary_answer": "no", "no_answer_prob": 0}
+{"example_id": "8245563213341141772", "response": "Answer: 1973\u5e74", "prediction": "1973\u5e74", "binary_answer": null, "no_answer_prob": 0}
+{"example_id": "2485054536940137946", "response": "\u30b5\u30f3\u30a2\u30f3\u30c8\u30cb\u30aa", "prediction": "\u30b5\u30f3\u30a2\u30f3\u30c8\u30cb\u30aa", "binary_answer": null, "no_answer_prob": 0}

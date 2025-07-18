@@ -1,0 +1,89 @@
+[
+    {
+        "id": "3643218479176707788",
+        "prompt": "Soruyu T\u00fcrk\u00e7e olarak bir veya birka\u00e7 kelimeyle yan\u0131tlay\u0131n: \nstranger things'in (acayip \u015feyler) ka\u00e7 sezonu vard\u0131r\nHaydi ad\u0131m ad\u0131m T\u00fcrk\u00e7e d\u00fc\u015f\u00fcnelim.\nNihai yan\u0131t\u0131n\u0131z\u0131 sonunda \u015fu formatta vermelisiniz: 'Cevap: [bir veya birka\u00e7 kelime]'.",
+        "response": "Stranger Things'in ka\u00e7 sezonu vard\u0131r?\n\n1. \u0130lk olarak, Stranger Things'in bir dizi oldu\u011funu hat\u0131rlayal\u0131m.\n2. Dizinin sezon say\u0131s\u0131n\u0131 bulmak i\u00e7in, diziye ait mevcut sezonlar\u0131 saymam\u0131z gerekir.\n3. Stranger Things'in \u015fu anda 5 sezonu vard\u0131r.\n\nCevap: 5 sezon.",
+        "predicted_answer": "5 sezon.",
+        "ground_truth": [
+            {
+                "type": "number",
+                "text": "3.0",
+                "aliases": [
+                    "3"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "3356010362039543701",
+        "prompt": "Soruyu T\u00fcrk\u00e7e olarak bir veya birka\u00e7 kelimeyle yan\u0131tlay\u0131n: \ni regret i have but one life to give for my country s\u00f6z\u00fcn\u00fc kim s\u00f6yledi\nHaydi ad\u0131m ad\u0131m T\u00fcrk\u00e7e d\u00fc\u015f\u00fcnelim.\nNihai yan\u0131t\u0131n\u0131z\u0131 sonunda \u015fu formatta vermelisiniz: 'Cevap: [bir veya birka\u00e7 kelime]'.",
+        "response": "\u0130lk olarak, soruyu T\u00fcrk\u00e7e'ye \u00e7eviriyoruz: \"\u00dclkeye yaln\u0131zca bir hayat\u0131m\u0131 vermeyece\u011fim i\u00e7in pi\u015fman\u0131m.\"\n\nBu s\u00f6zleri kim s\u00f6yledi diye d\u00fc\u015f\u00fcn\u00fcyoruz... \n\nBu s\u00f6zlerin bir askeri lider taraf\u0131ndan s\u00f6ylenmesi muhtemeldir. \n\nSonu\u00e7 olarak, bu s\u00f6zleri kim s\u00f6yledi diye ar\u0131yoruz... \n\nBu s\u00f6zler, \u00fcnl\u00fc Amerikan generali Nathan Bedford Forrest'a atfedilir. Ancak, bu s\u00f6zler daha sonra Abraham Lincoln'e de atfedildi. \n\nAncak, bu s\u00f6zlerin en me\u015fhur sahibi, George S. Patton'dur. \n\nBu s\u00f6zler, Patton'un bir konu\u015fmas\u0131ndand\u0131r. \n\nSonu\u00e7 olarak, cevab\u0131m\u0131z: George S. Patton.",
+        "predicted_answer": "\u0130lk olarak, soruyu T\u00fcrk\u00e7e'ye \u00e7eviriyoruz: \"\u00dclkeye yaln\u0131zca bir hayat\u0131m\u0131 vermeyece\u011fim i\u00e7in pi\u015fman\u0131m.\"\n\nBu s\u00f6zleri kim s\u00f6yledi diye d\u00fc\u015f\u00fcn\u00fcyoruz... \n\nBu s\u00f6zlerin bir askeri lider taraf\u0131ndan s\u00f6ylenmesi muhtemeldir. \n\nSonu\u00e7 olarak, bu s\u00f6zleri kim s\u00f6yledi diye ar\u0131yoruz... \n\nBu s\u00f6zler, \u00fcnl\u00fc Amerikan generali Nathan Bedford Forrest'a atfedilir. Ancak, bu s\u00f6zler daha sonra Abraham Lincoln'e de atfedildi. \n\nAncak, bu s\u00f6zlerin en me\u015fhur sahibi, George S. Patton'dur. \n\nBu s\u00f6zler, Patton'un bir konu\u015fmas\u0131ndand\u0131r. \n\nSonu\u00e7 olarak, cevab\u0131m\u0131z: George S. Patton.",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "text": "Nathan Hale",
+                "entity": "Q16932034"
+            },
+            {
+                "type": "entity",
+                "text": "Nathan Hale",
+                "entity": "Q16932034"
+            },
+            {
+                "type": "entity",
+                "text": "Nathan Hale",
+                "entity": "Q16932034"
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "5965447391112455356",
+        "prompt": "Soruyu T\u00fcrk\u00e7e olarak bir veya birka\u00e7 kelimeyle yan\u0131tlay\u0131n: \nsansa stark'\u0131 oynayan aktris kimdir\nHaydi ad\u0131m ad\u0131m T\u00fcrk\u00e7e d\u00fc\u015f\u00fcnelim.\nNihai yan\u0131t\u0131n\u0131z\u0131 sonunda \u015fu formatta vermelisiniz: 'Cevap: [bir veya birka\u00e7 kelime]'.",
+        "response": "Sansa Stark'\u0131 oynayan aktris Sophie Turner'd\u0131r.",
+        "predicted_answer": "Sansa Stark'\u0131 oynayan aktris Sophie Turner'd\u0131r.",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q240573",
+                "text": "Sophie Turner",
+                "aliases": []
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "476368974337766528",
+        "prompt": "Soruyu T\u00fcrk\u00e7e olarak bir veya birka\u00e7 kelimeyle yan\u0131tlay\u0131n: \ncumhuriyet\u00e7i parti se\u00e7imi en son ne zaman kazand\u0131\nHaydi ad\u0131m ad\u0131m T\u00fcrk\u00e7e d\u00fc\u015f\u00fcnelim.\nNihai yan\u0131t\u0131n\u0131z\u0131 sonunda \u015fu formatta vermelisiniz: 'Cevap: [bir veya birka\u00e7 kelime]'.",
+        "response": "Cumhuriyet\u00e7i Parti se\u00e7imi en son 2023 y\u0131l\u0131nda kazand\u0131.\n\nCevap: 2023",
+        "predicted_answer": "2023",
+        "ground_truth": [
+            {
+                "type": "date",
+                "text": "2004",
+                "aliases": [
+                    "2004"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "6116319690634922724",
+        "prompt": "Soruyu T\u00fcrk\u00e7e olarak bir veya birka\u00e7 kelimeyle yan\u0131tlay\u0131n: \nnew albany ohio nun n\u00fcfusu nedir\nHaydi ad\u0131m ad\u0131m T\u00fcrk\u00e7e d\u00fc\u015f\u00fcnelim.\nNihai yan\u0131t\u0131n\u0131z\u0131 sonunda \u015fu formatta vermelisiniz: 'Cevap: [bir veya birka\u00e7 kelime]'.",
+        "response": "New Albany, Ohio'nun n\u00fcfusu yakla\u015f\u0131k 8.610'dur.",
+        "predicted_answer": "New Albany, Ohio'nun n\u00fcfusu yakla\u015f\u0131k 8.610'dur.",
+        "ground_truth": [
+            {
+                "type": "number",
+                "text": "10889.0",
+                "aliases": [
+                    "10889"
+                ]
+            }
+        ],
+        "is_correct": null
+    }
+]

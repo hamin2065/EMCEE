@@ -1,0 +1,52 @@
+[
+    {
+        "id": "232",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: \u6e29\u5ea6\u8ba1\u4e2d\u7684\u6c5e\u4e0a\u5347\u3002\nWhat is the cause?\nChoice1: \u6211\u628a\u6e29\u5ea6\u8ba1\u6389\u4e86\u3002\nChoice2: \u5929\u6c14\u53d8\u6696\u548c\u4e86\u3002\nExplanation: The correct choice is that the mercury in the thermometer rises due to the warming weather. Thermometers work by measuring temperature changes, and when the temperature increases, the mercury expands and rises in the tube. This is a fundamental principle of how thermometers function. On the other hand, dropping the thermometer (choice 1) would not cause the mercury to rise; it might even break the thermometer or cause inaccurate readings. Therefore, the rise in mercury is best explained by the warming weather.",
+        "response": "1",
+        "explanation": "The correct choice is that the mercury in the thermometer rises due to the warming weather. Thermometers work by measuring temperature changes, and when the temperature increases, the mercury expands and rises in the tube. This is a fundamental principle of how thermometers function. On the other hand, dropping the thermometer (choice 1) would not cause the mercury to rise; it might even break the thermometer or cause inaccurate readings. Therefore, the rise in mercury is best explained by the warming weather.",
+        "predicted_answer": "1",
+        "ground_truth": 1,
+        "is_correct": false
+    },
+    {
+        "id": "110",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: \u6211\u9519\u8fc7\u4e86\u6211\u5973\u670b\u53cb\u7684\u7535\u8bdd\u3002\nWhat is the effect?\nChoice1: \u6211\u7ed9\u5979\u56de\u4e86\u7535\u8bdd\u3002\nChoice2: \u6211\u4e0e\u5979\u5171\u8fdb\u665a\u9910\u3002\nExplanation: The premise states that you missed your girlfriend's call, which typically leads to a need to reconnect. The most direct and immediate effect of missing a call would be to return the call, as indicated in choice 1: \"\u6211\u7ed9\u5979\u56de\u4e86\u7535\u8bdd.\" This action shows an intention to communicate and address the missed connection. While having dinner together (choice 2) could be a subsequent action after reconnecting, it is not a direct response to missing the call. Therefore, the most logical effect is to call her back.",
+        "response": "Answer: 1",
+        "explanation": "The premise states that you missed your girlfriend's call, which typically leads to a need to reconnect. The most direct and immediate effect of missing a call would be to return the call, as indicated in choice 1: \"\u6211\u7ed9\u5979\u56de\u4e86\u7535\u8bdd.\" This action shows an intention to communicate and address the missed connection. While having dinner together (choice 2) could be a subsequent action after reconnecting, it is not a direct response to missing the call. Therefore, the most logical effect is to call her back.",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "71",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: \u5973\u4eba\u7761\u8fc7\u5934\u4e86\u3002\nWhat is the cause?\nChoice1: \u5979\u5728\u65c5\u9986\u4f4f\u4e86\u4e00\u665a\u3002\nChoice2: \u5979\u5fd8\u4e86\u8bbe\u7f6e\u95f9\u949f\u3002\nExplanation: The premise states that the woman overslept, which typically implies that she did not wake up at her intended time. The most likely cause of this situation is that she forgot to set her alarm clock, as this directly relates to her ability to wake up on time. While staying at a hotel (choice 1) could potentially contribute to a different sleeping environment, it does not inherently explain why she overslept. Therefore, choice 2, \"\u5979\u5fd8\u4e86\u8bbe\u7f6e\u95f9\u949f,\" is the more logical explanation for her oversleeping.",
+        "response": "Answer: 2",
+        "explanation": "The premise states that the woman overslept, which typically implies that she did not wake up at her intended time. The most likely cause of this situation is that she forgot to set her alarm clock, as this directly relates to her ability to wake up on time. While staying at a hotel (choice 1) could potentially contribute to a different sleeping environment, it does not inherently explain why she overslept. Therefore, choice 2, \"\u5979\u5fd8\u4e86\u8bbe\u7f6e\u95f9\u949f,\" is the more logical explanation for her oversleeping.",
+        "predicted_answer": 2,
+        "ground_truth": 1,
+        "is_correct": true
+    },
+    {
+        "id": "413",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: \u7f6a\u72af\u4ece\u8b66\u5bdf\u8eab\u8fb9\u9003\u8d70\u4e86\u3002\nWhat is the effect?\nChoice1: \u8b66\u5bdf\u7167\u987e\u4e86\u53d7\u5bb3\u8005\u3002\nChoice2: \u8b66\u5bdf\u8ffd\u8d76\u7f6a\u72af\u3002\nExplanation: In the scenario where a criminal escapes from the police, a likely immediate effect would be that the police would take action to apprehend the fleeing criminal. This aligns with choice 2, \"\u8b66\u5bdf\u8ffd\u8d76\u7f6a\u72af,\" as it reflects the police's responsibility to pursue and capture the suspect. While caring for the victim is important, the urgency of the situation typically prioritizes the pursuit of the criminal to prevent further harm or escape. Therefore, the most logical effect of the criminal escaping is that the police would chase after them.",
+        "response": "Answer: 2",
+        "explanation": "In the scenario where a criminal escapes from the police, a likely immediate effect would be that the police would take action to apprehend the fleeing criminal. This aligns with choice 2, \"\u8b66\u5bdf\u8ffd\u8d76\u7f6a\u72af,\" as it reflects the police's responsibility to pursue and capture the suspect. While caring for the victim is important, the urgency of the situation typically prioritizes the pursuit of the criminal to prevent further harm or escape. Therefore, the most logical effect of the criminal escaping is that the police would chase after them.",
+        "predicted_answer": 2,
+        "ground_truth": 1,
+        "is_correct": true
+    },
+    {
+        "id": "478",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: \u5973\u5b69\u8138\u8272\u82cd\u767d\u3002\nWhat is the effect?\nChoice1: \u5979\u7236\u4eb2\u7ed9\u5979\u8bfb\u4e86\u4e00\u4e2a\u6545\u4e8b\u3002\nChoice2: \u5979\u7684\u7236\u4eb2\u611f\u89c9\u4e86\u4e0b\u5979\u7684\u989d\u5934\u3002\nExplanation: The premise states that the girl has a pale complexion, which can indicate that she is feeling unwell or may be experiencing some distress. In this context, the more logical effect would be that her father felt her forehead (choice 2) to check if she has a fever or is sick. This action is a common parental response to a child's pale appearance, as it shows concern for her health. On the other hand, having her father read her a story (choice 1) does not directly relate to the cause of her pale complexion and is less likely to be a direct effect of that situation.",
+        "response": "2",
+        "explanation": "The premise states that the girl has a pale complexion, which can indicate that she is feeling unwell or may be experiencing some distress. In this context, the more logical effect would be that her father felt her forehead (choice 2) to check if she has a fever or is sick. This action is a common parental response to a child's pale appearance, as it shows concern for her health. On the other hand, having her father read her a story (choice 1) does not directly relate to the cause of her pale complexion and is less likely to be a direct effect of that situation.",
+        "predicted_answer": "2",
+        "ground_truth": 1,
+        "is_correct": true
+    }
+]

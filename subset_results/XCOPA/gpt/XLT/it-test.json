@@ -1,0 +1,42 @@
+[
+    {
+        "id": "136",
+        "prompt": "I want you to act as a commonsense reasoning expert for italian.\nHere is a premise: Il palazzo in centro citt\u00e0 \u00e8 crollato.. What is the cause? Help me pick the more plausible option: -choice1: Un terremoto ha colpito la citt\u00e0., -choice2: La criminalit\u00e0 nella citt\u00e0 \u00e8 aumentata..\nYou should retell the premise and the options in English.\nYou should do step-by-step answer to pick a choice.\nYou should step-by-step answer the request.\nYou should tell me the choice number in this format 'Answer: '.",
+        "response": "Premise: The building in the city center has collapsed.  \nOptions:  \n-choice1: An earthquake struck the city.  \n-choice2: Crime in the city has increased.  \n\nStep 1: Analyze the premise. The premise states that a building has collapsed, which typically suggests a structural failure or an external force acting upon it.\n\nStep 2: Evaluate choice 1. An earthquake is a natural disaster that can cause buildings to collapse due to the shaking of the ground. This is a plausible cause for the building's collapse.\n\nStep 3: Evaluate choice 2. While increased crime can lead to various issues in a city, it is less directly related to the physical collapse of a building. Crime typically involves actions like vandalism or theft, which do not usually result in structural failure.\n\nStep 4: Compare the two choices. Choice 1 (an earthquake) directly correlates with the physical event of a building collapsing, while choice 2 (increased crime) does not provide a clear link to the cause of the collapse.\n\nBased on this analysis, the more plausible option is choice 1.\n\nAnswer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "316",
+        "prompt": "I want you to act as a commonsense reasoning expert for italian.\nHere is a premise: Mi svegliai nel mezzo della notte per il freddo.. What is the effect? Help me pick the more plausible option: -choice1: Indossai i pantaloni della tuta., -choice2: Bevvi un bicchier d'acqua..\nYou should retell the premise and the options in English.\nYou should do step-by-step answer to pick a choice.\nYou should step-by-step answer the request.\nYou should tell me the choice number in this format 'Answer: '.",
+        "response": "Premise: I woke up in the middle of the night because of the cold.  \nOptions:  \n-choice1: I put on my sweatpants.  \n-choice2: I drank a glass of water.  \n\nStep 1: Analyze the premise.  \nThe premise indicates that the person woke up due to feeling cold. This suggests that the immediate concern is to address the cold sensation.\n\nStep 2: Evaluate the options.  \n- Choice 1: \"I put on my sweatpants.\" This action directly addresses the cold by providing warmth to the body.  \n- Choice 2: \"I drank a glass of water.\" While this is a possible action, it does not directly relate to alleviating the cold. Drinking water is not a typical response to feeling cold.\n\nStep 3: Determine the more plausible option.  \nSince the premise is about waking up due to cold, the action that directly responds to that situation is more plausible. Therefore, putting on sweatpants is a more logical response to feeling cold than drinking water.\n\nAnswer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "107",
+        "prompt": "I want you to act as a commonsense reasoning expert for italian.\nHere is a premise: Il bagno si \u00e8 allagato.. What is the cause? Help me pick the more plausible option: -choice1: Il gabinetto si \u00e8 intasato., -choice2: Lo scaldabagno si \u00e8 rotto..\nYou should retell the premise and the options in English.\nYou should do step-by-step answer to pick a choice.\nYou should step-by-step answer the request.\nYou should tell me the choice number in this format 'Answer: '.",
+        "response": "Premise: The bathroom has flooded.  \nOptions: -choice1: The toilet has clogged.  \n-choice2: The water heater has broken.\n\nStep 1: Analyze the premise. The statement indicates that the bathroom is flooded, which suggests an overflow of water.\n\nStep 2: Evaluate choice 1: \"The toilet has clogged.\" A clogged toilet can cause water to back up and overflow, leading to flooding in the bathroom. This is a common cause of bathroom flooding.\n\nStep 3: Evaluate choice 2: \"The water heater has broken.\" While a broken water heater can lead to water leakage, it is less directly associated with flooding in the bathroom compared to a clogged toilet.\n\nStep 4: Compare the two options. The first choice directly relates to a common scenario that would cause flooding, while the second choice is less likely to result in immediate flooding in the bathroom.\n\nBased on this analysis, the more plausible cause of the flooding in the bathroom is the clogged toilet.\n\nAnswer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "116",
+        "prompt": "I want you to act as a commonsense reasoning expert for italian.\nHere is a premise: Del vapore si \u00e8 sollevato dalla pentola piena d'acqua.. What is the cause? Help me pick the more plausible option: -choice1: L'acqua bolliva., -choice2: Ho coperto la pentola..\nYou should retell the premise and the options in English.\nYou should do step-by-step answer to pick a choice.\nYou should step-by-step answer the request.\nYou should tell me the choice number in this format 'Answer: '.",
+        "response": "Premise: Steam has risen from the pot full of water.  \nOptions:  \n- choice 1: The water was boiling.  \n- choice 2: I covered the pot.  \n\nStep 1: Analyze the premise. The premise states that steam is rising from a pot filled with water. This typically occurs when the water is heated to a point where it begins to boil, producing steam.\n\nStep 2: Evaluate choice 1: \"The water was boiling.\" This option directly correlates with the premise. When water boils, it produces steam, which explains why steam is rising from the pot.\n\nStep 3: Evaluate choice 2: \"I covered the pot.\" While covering the pot can trap steam, it does not directly explain the cause of the steam rising. The steam must first be produced by boiling water for it to rise, regardless of whether the pot is covered or not.\n\nStep 4: Compare the two choices. Choice 1 provides a direct cause for the steam rising, while choice 2 does not explain the production of steam.\n\nBased on this analysis, the more plausible option is choice 1.\n\nAnswer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "414",
+        "prompt": "I want you to act as a commonsense reasoning expert for italian.\nHere is a premise: Il laptop non si accendeva.. What is the cause? Help me pick the more plausible option: -choice1: L'avevo fatto cadere., -choice2: L'avevo caricato..\nYou should retell the premise and the options in English.\nYou should do step-by-step answer to pick a choice.\nYou should step-by-step answer the request.\nYou should tell me the choice number in this format 'Answer: '.",
+        "response": "Premise: The laptop was not turning on.  \nOptions:  \n-choice1: I had dropped it.  \n-choice2: I had charged it.  \n\nStep 1: Analyze the premise. The premise states that the laptop is not turning on, which indicates a potential issue with its functionality.\n\nStep 2: Evaluate choice1: \"I had dropped it.\" Dropping a laptop can cause physical damage, which could prevent it from turning on. This is a plausible cause for the laptop not functioning.\n\nStep 3: Evaluate choice2: \"I had charged it.\" If the laptop was charged, it should ideally turn on unless there is another issue. However, if it was not charged properly or if there is a problem with the charging mechanism, it could also lead to the laptop not turning on.\n\nStep 4: Compare the two choices. While both options could potentially explain why the laptop is not turning on, dropping it (choice1) is a more direct cause of physical damage that would likely prevent it from functioning, whereas charging it (choice2) suggests that it should work if it was charged correctly.\n\nStep 5: Conclude which choice is more plausible. Given that dropping the laptop is a more definitive cause of it not turning on, I will select choice1.\n\nAnswer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    }
+]

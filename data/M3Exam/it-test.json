@@ -1,0 +1,2520 @@
+[
+    {
+        "id": 2,
+        "question": "Scegli fra le quattro alternative quella che completa il senso del verbo nella frase seguente. \n\"La zia ha messo\u2026\"",
+        "ground_truth": "C",
+        "options": [
+            "(A) il pi\u00f9 piccolo dei suoi figli",
+            "(B) la torta al cioccolato",
+            "(C) i panni nella lavatrice",
+            "(D) nel cassetto del comodino"
+        ],
+        "level": "low",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 13,
+        "question": "Quante sono le coppie di interi positivi $(a, b)$ tali che $a$ sia un divisore di $b$ ed inoltre si abbia $a + 2b = 1010$?",
+        "ground_truth": "D",
+        "options": [
+            "(A) 503",
+            "(B) 1",
+            "(C) 2",
+            "(D) 3",
+            "(E) 504"
+        ],
+        "level": "high",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 14,
+        "question": "Sofia ha 10 confezioni di caramelle. Il numero medio di caramelle contenute nelle dieci confezioni \u00e8 41. \nLa tabella mostra il numero di caramelle contenute in 9 confezioni. \nNumero di caramelle contenute nelle confezioni | Frequenza\n39 | 3\n40 | 2\n41 | 1\n42 | 1\n44 | 2\nQuante caramelle contiene la decima confezione?",
+        "ground_truth": "C",
+        "options": [
+            "A. 40",
+            "B. 41",
+            "C. 42",
+            "D. 43"
+        ],
+        "level": "mid",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 16,
+        "question": "Una scuola ha dieci classi, con una media di 22 alunni per classe. Le classi con 21 alluni sono sei; le classi con 24 alunni sono tre. Quanti alunni ci sono nella decima classe?",
+        "ground_truth": "B",
+        "options": [
+            "A. 20",
+            "B. 22",
+            "C. 23",
+            "D. 25"
+        ],
+        "level": "mid",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 19,
+        "question": "Uno dei seguenti numeri \u00e8 compreso tra 1,1 e 1,2. Quale?",
+        "ground_truth": "C",
+        "options": [
+            "A. 1,05",
+            "B. 1,5",
+            "C. 1,19",
+            "D. 1,21"
+        ],
+        "level": "low",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 21,
+        "question": "Oggi la popolazione mondiale \u00e8 di circa 7 miliardi. Tenuto conto che $2^{10}$ \u00e8 circa $10^{3}$, qual \u00e8, frale seguenti, la potenza di 2 pi\u00f9 vicina al numero di abitanti della Terra?",
+        "ground_truth": "B",
+        "options": [
+            "(A) $2^{27}$",
+            "(B) $2^{33}$",
+            "(C) $2^{90}$",
+            "(D) $2^{1007}$"
+        ],
+        "level": "high",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 27,
+        "question": "Nelle seguenti frazioni n \u00e8 un numero naturale maggiore di 1. \nQual \u00e8 la frazione maggiore?",
+        "ground_truth": "D",
+        "options": [
+            "(A) $\\frac{7}{n+1}$",
+            "(B) $\\frac{7}{n}$",
+            "(C) $\\frac{7}{n+2}$",
+            "(D) $\\frac{7}{n-1}$"
+        ],
+        "level": "high",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 39,
+        "question": "Nell'atrio di un palazzo \u00e8 situata una scala costituita da 4 gradini alti 16 cm e profondi 30 cm. Per permettere a carrozzine, passeggini, ecc. di accedere al palazzo, si deve costruire uno scivolo di legno da appoggiare sulla scala. \nQuale deve essere la lunghezza dello scivolo?",
+        "ground_truth": "B",
+        "options": [
+            "(A) 102cm",
+            "(B) 136cm",
+            "(C) 170cm",
+            "(D) 184cm"
+        ],
+        "level": "high",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 42,
+        "question": "Indica il significato che assume la parola fascia\n\nAlla cerimonia di inaugurazione era presente anche il sindaco, con abito blu e fascia tricolore.",
+        "ground_truth": "d",
+        "options": [
+            "a. Gruppo di persone con caratteristiche comuni",
+            "b. Elemento piatto di forma allungata",
+            "c. Territorio o area che si estende in lunghezza",
+            "d. Striscia di tessuto"
+        ],
+        "level": "mid",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 43,
+        "question": "Quale dei seguenti numeri \u00e8 pi\u00f9 vicino al risultato di $2,9\\times 5$?",
+        "ground_truth": "B",
+        "options": [
+            "(A) 10,45",
+            "(B) 15",
+            "(C) 104,5",
+            "(D) 12"
+        ],
+        "level": "low",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 44,
+        "question": "Quale delle seguenti frasi non potrebbe essere espressa anche in forma passiva?",
+        "ground_truth": "C",
+        "options": [
+            "(A) Con il pallone Luigi ha rotto un vetro del vicino",
+            "(B) Hanno premiato i vincitori della gara con una medaglia",
+            "(C) I miei genitori partiranno la prossima settimana",
+            "(D) Tuo padre certo ti sgrider\u00e0 per quello che hai fatto"
+        ],
+        "level": "mid",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 45,
+        "question": "Una mamma deve somministrare al figlio convalescente 150 mg di vitamina C ogni giorno. Avendo a disposizione compresse da 0,6 g quante compresse al giorno deve dare al figlio?",
+        "ground_truth": "A",
+        "options": [
+            "A. \u00a0Un quarto di compressa.",
+            "B. \u00a0Una compressa.",
+            "C. \u00a02 compresse e mezzo.",
+            "D. \u00a04 compresse."
+        ],
+        "level": "mid",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 46,
+        "question": "A un torneo di tennis, uno contro uno, partecipano 16 giocatori. Il torneo si svolge a eliminazione diretta, cio\u00e8 chi perde una partita viene eliminato.\nQual \u00e8 il numero di partite necessario per stabilire il vincitore del torneo?",
+        "ground_truth": "B",
+        "options": [
+            "A. 8",
+            "B. 15",
+            "C. 16",
+            "D. 32"
+        ],
+        "level": "mid",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 49,
+        "question": "A quale categoria grammaticale appartiene la parola sottolineata? \n\"Daremo loro una prova concreta di buona volont\u00e0 ripulendo completamente il <u>loro</u> banco\".",
+        "ground_truth": "B",
+        "options": [
+            "(A) Pronome personale",
+            "(B) Aggettivo possessivo",
+            "(C) Pronome possessivo",
+            "(D) Aggettivo dimostrativo"
+        ],
+        "level": "mid",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 50,
+        "question": "La stampante laser L in un minuto stampa il triplo delle pagine della stampante deskjet D. Quando L e D lavorano contemporaneamente stampano in tutto 24 pagine al minuto.\nSe D viene sostituita con una stampante laser identica a L, quante pagine potranno essere stampate complessivamente in un minuto?",
+        "ground_truth": "C",
+        "options": [
+            "A. 24",
+            "B. 30",
+            "C. 36",
+            "D. 48"
+        ],
+        "level": "high",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 56,
+        "question": "30 e 75 sono divisibili per 15. Tutti i numeri divisibili per 15 sono sempre divisibili anche per:",
+        "ground_truth": "C",
+        "options": [
+            "A. 6 e 5",
+            "B. 10 e 5",
+            "C. 3 e 5",
+            "D. 10 e 3"
+        ],
+        "level": "low",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 69,
+        "question": "A una conferenza sono presene 90 persone. Le donne sono 14 pi\u00f9 degli uomini. \nQuanti sono gli uomini?",
+        "ground_truth": "B",
+        "options": [
+            "(A) 59",
+            "(B) 38",
+            "(C) 31",
+            "(D) 76"
+        ],
+        "level": "high",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 70,
+        "question": "In quale delle seguenti frasi la parola sottolineata introduce una interrogativa indiretta?",
+        "ground_truth": "A",
+        "options": [
+            "(A) Non so <u>se</u> arriveremo in tempo.",
+            "(B) Non <u>se</u> ne sono nemmeno accorti.",
+            "(C) Accetto la proposta senza <u>se</u> e senza mA.",
+            "(D) <u>Se</u> sapesse che cosa fare lo farebbe."
+        ],
+        "level": "mid",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 85,
+        "question": "Quattro amiche devono eseguire la seguente moltiplicazione:\n$25\\cdot ( -30)$\nPer trovare il risultato ognuna svolge il calcolo in modo diverso.\nAmina | Beatrice | Carla | Denise\n$25\\cdot ( -3) \\cdot 10$ | $25\\cdot 3\\cdot ( -10)$ | $25\\cdot ( -3) +25\\cdot 10$ | $25\\cdot ( -30) +5\\cdot ( -30)$\nChi ha svolto il calcolo in modo NON corretto?",
+        "ground_truth": "C",
+        "options": [
+            "A. Amina",
+            "B. Beatrice",
+            "C. Carla",
+            "D. Denise"
+        ],
+        "level": "mid",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 89,
+        "question": "Scegli, fra le quattro riportate sotto, la congiunzione che connette in modo appropriato le due frasi seguenti: \"Ti perdono\" - \"tu prometta di non dire pi\u00f9 bugie\".",
+        "ground_truth": "D",
+        "options": [
+            "(A) Affinch\u00e9",
+            "(B) Poich\u00e9",
+            "(C) Cosicch\u00e9",
+            "(D) Purch\u00e9"
+        ],
+        "level": "mid",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 112,
+        "question": "Il risultato di 16^{100} :2 \u00e8 uguale a",
+        "ground_truth": "D",
+        "options": [
+            "A. $ 8^{99}$",
+            "B. $ 8^{100}$",
+            "C. $ 16^{50}$",
+            "D. $ 2^{399}$"
+        ],
+        "level": "high",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 115,
+        "question": "Quale delle frasi seguenti \u00e8 <u>completa</u>, cio\u00e8 contiene tutte le informazioni richieste dal verbo \"regalare\"?",
+        "ground_truth": "B",
+        "options": [
+            "(A) I nonni di Anna hanno regalato un telefonino",
+            "(B) I nonni hanno regalato un telefonino alla nipote",
+            "(C) I nonni hanno regalato l'ultimo modello di telefonino",
+            "(D) I nonni hanno regalato ad Anna, la loro nipote"
+        ],
+        "level": "mid",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 122,
+        "question": "In quale delle seguenti frasi c'\u00e8 una espressione polirematica (cio\u00e8 un gruppo di parole con un significato unitario, ad es.: asilo nido, vasca da bagno)?",
+        "ground_truth": "D",
+        "options": [
+            "(A) La ruota della bicicletta era deformata e allora l'ho sostituita con una nuov(A)",
+            "(B) Ieri durante la cena a casa di amici \u00e8 arrivato all'improvviso mio cugino Francesco.",
+            "(C) Guarda che le decisioni sulle vacanze dobbiamo prenderle assieme!",
+            "(D) A Carnevale le strade si colorano di stelle filanti e di coriandoli."
+        ],
+        "level": "mid",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 123,
+        "question": "Osserva la seguente divisione.\n2,629:1,3\nQuale tra le seguenti divisioni d\u00e0 lo stesso risultato di quella nel riquadro?",
+        "ground_truth": "B",
+        "options": [
+            "A. 2629:13",
+            "B. 26,29:13",
+            "C. 262,9:13",
+            "D. 2,629:130"
+        ],
+        "level": "low",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 129,
+        "question": "Dicendo \"Non sarei stato cos\u00ec severo nel condannare il suo comportamento. \" chi parla sostiene implicitamente che la condanna \u00e8 stata",
+        "ground_truth": "A",
+        "options": [
+            "(A) eccessivamente severa",
+            "(B) non abbastanza severa",
+            "(C) giustamente severa",
+            "(D) troppo poco severa"
+        ],
+        "level": "high",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 131,
+        "question": "In quale dele seguenti frasi \u00e8 presente una espressione polirematica (cio\u00e8 un gruppo di pi\u00f9 parole con un significato unitario: es. fuori stagione, botta e risposta)?",
+        "ground_truth": "A",
+        "options": [
+            "(A) Quella ragazza ha un viso acqua e sapone",
+            "(B) Per la cena di stasera mancano pane e vino",
+            "(C) Nella fattoria razzolavano liberamente galli e galline",
+            "(D) Sbuccia la frutta con forchetta e coltello!"
+        ],
+        "level": "mid",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 134,
+        "question": "La maestra chiede alla classe di calcolare a mente $137\\times 4$.\nRiccardo risponde: \"Io ho moltiplicato cento per quattro, trenta per quattro e sette per quattro e poi ho sommato i risultati\". \nAlessandro risponde: \"Io invece ho moltiplicato sette per quattro, tre per quattro e uno per quattro e poi ho sommato i risultati\". \nChi ha seguito un procedimento corretto per fare la moltiplicazione?",
+        "ground_truth": "A",
+        "options": [
+            "(A) Solo Riccardo",
+            "(B) Solo Alessandro",
+            "(C) Nessuno dei due",
+            "(D) Tutti e due"
+        ],
+        "level": "low",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 145,
+        "question": "Alberto e Barbara hanno due sacchetti, che contengono rispettivamente 2022 e 9^{99} caramelle. In qualsiasi momento, uno dei due pu\u00f2 mangiare una caramella dal proprio sacchetto (senza dover rispettare turni o criteri di alternanza), a condizione che, in tal caso, regali un'altra caramella all'altra persona, che la mette nel proprio sacchetto. Dopo un po' di tempo, nessuno dei due pu\u00f2 pi\u00f9 mangiare caramelle. Si pu\u00f2 affermare che, a questo punto, ...",
+        "ground_truth": "D",
+        "options": [
+            "(A) sono rimasti entrambi senza caramelle",
+            "(B) Alberto ha una caramella, Barbara nessuna",
+            "(C) Barbara ha una caramella, Alberto nessuna",
+            "(D) hanno entrambi una caramella",
+            "(E) uno dei due (non si pu\u00f2 prevedere chi) ha una caramella, l'altro nessuna"
+        ],
+        "level": "high",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 149,
+        "question": "Una fabbrica produce 1000 lampadine, di cui 30 difettose. Ne vende 100 e tra queste 12 risultano difettose.\nSe si sceglie a caso una lampadina tra quelle rimaste da vendere, qual \u00e8 la probabilit\u00e0 che sia difettosa?",
+        "ground_truth": "A",
+        "options": [
+            "A. 18/900",
+            "B. 108/900",
+            "C. 30/1000",
+            "D. 120/1000"
+        ],
+        "level": "mid",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 154,
+        "question": "Quale delle espressioni che seguono \u00e8 indispensabile per completare la frase \"L'insegnante mette i quaderni............. \"?",
+        "ground_truth": "C",
+        "options": [
+            "(A) di matematica",
+            "(B) ogni giorno",
+            "(C) nel cassetto",
+            "(D) degli studenti"
+        ],
+        "level": "low",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 160,
+        "question": "Quale dei seguenti numeri corrisponde a ottantasei decimi?",
+        "ground_truth": "B",
+        "options": [
+            "A. 0,86",
+            "B. 8,6",
+            "C. 86",
+            "D. 860"
+        ],
+        "level": "low",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 165,
+        "question": "Solo una delle seguenti affermazioni \u00e8 vera. Quale?",
+        "ground_truth": "D",
+        "options": [
+            "(A) Ogni triangolo ha un centro di simmetria",
+            "(B) Tutti i triangoli equilateri hanno un centro di simmetria",
+            "(C) Ogni triangolo ha almeno un asse di simmetria",
+            "(D) Alcuni triangoli hanno un asse di simmetria"
+        ],
+        "level": "high",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 167,
+        "question": "In quale di queste sequenze i numeri sono ordinati dal pi\u00f9 piccolo al pi\u00f9 grande?",
+        "ground_truth": "A",
+        "options": [
+            "A. 3/100  0,125  1/3  0,65",
+            "B. 0,125  3/100  0,65  1/3",
+            "C. 0,65  0,125  1/3  3/100",
+            "D. 1/3  3/100  0,65  0,125"
+        ],
+        "level": "mid",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 168,
+        "question": "Per frequentare una piscina si deve acquistare una tessera da 10 \u20ac e pagare 7 \u20ac per ogni ingresso. Luigi pu\u00f2 spendere al massimo 100 \u20ac. Se n indica il numero degli ingressi, qualetra le seguenti disequazioni descrive il numero di ingressi che Luigi pu\u00f2 effettuare?",
+        "ground_truth": "C",
+        "options": [
+            "(A) $( 10+7) n\\leq 100$",
+            "(B) $10n+7\\leq 100$",
+            "(C) $10+7n\\leq 100$",
+            "(D) $10+7n\\leq 100$"
+        ],
+        "level": "high",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 169,
+        "question": "Una bibita \u00e8 venduta in lattine di forma cilindrica con il diametro di base di 6 cm e l'altezza di 9 cm. \nQual \u00e8 la capacit\u00e0 della lattina?",
+        "ground_truth": "B",
+        "options": [
+            "(A) esattamente 1/4 di litro",
+            "(B) poco pi\u00f9 di 1/4 di litro",
+            "(C) poco pi\u00f9 di 1/2 di litro",
+            "(D) esattamente 1/2 di litro"
+        ],
+        "level": "high",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 173,
+        "question": "In quale delle seguenti frasi l'infinito ha funzione di nome?",
+        "ground_truth": "B",
+        "options": [
+            "(A) Ti piacerebbe mangiare un gelato?",
+            "(B) Il troppo ridere mi ha fatto venire le lacrime agli occhi.",
+            "(C) Ieri siamo andati tutti insieme a vedere un film interessante.",
+            "(D) Anna ha capito di avere sbagliato."
+        ],
+        "level": "high",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 176,
+        "question": "Quale delle seguenti disuguaglianze \u00e8 vera?",
+        "ground_truth": "A",
+        "options": [
+            "A. $-17/16<-16/17$",
+            "B. $+17/16<-16/17$",
+            "C. $-17/16>+16/17$",
+            "D. $+17/16<+16/17$"
+        ],
+        "level": "mid",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 184,
+        "question": "Quale di queste parole \u00e8 l'unica composta con il verbo \"parare\"?",
+        "ground_truth": "C",
+        "options": [
+            "(A) parafarmacia",
+            "(B) paraolimpiadi",
+            "(C) parapetto",
+            "(D) paragrafo"
+        ],
+        "level": "high",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 185,
+        "question": "Scegli il verbo corretto nello spazio vuoto\n\nL\u2019arancia rossa di Sicilia \u00e8 coltivata ancora con metodi tradizionali e alti standard di qualit\u00e0, ma i produttori devono <u>_______________</u> con la concorrenza che ha costi pi\u00f9 bassi di produzione, devono cio\u00e8 competere con i produttori spagnoli, tunisini, greci e cileni.",
+        "ground_truth": "c",
+        "options": [
+            "a. prendersela;",
+            "b. cavarsela;",
+            "c. vedersela;",
+            "d. intendersela"
+        ],
+        "level": "mid",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 189,
+        "question": "Indica fra le quattro frasi che seguono quella in cui compare un predicato nominale.",
+        "ground_truth": "C",
+        "options": [
+            "(A) Una lepre \u00e8 uscita all'improvviso dal folto del bosco",
+            "(B) Il treno si era fermato su un binario secondario",
+            "(C) Il ragazzo era molto stanco e spaventato",
+            "(D) Maria \u00e8 stata bocciata all'esame di guida"
+        ],
+        "level": "high",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 196,
+        "question": "Dato un intero positivo $n$, quale tra i seguenti numeri differisce meno da $(n + \\frac{3}{2})^{2}$?",
+        "ground_truth": "C",
+        "options": [
+            "(A) $(n + 2)^2$",
+            "(B) $(n + 1)^2$",
+            "(C) $(n + 1)(n + 2)$",
+            "(D) $n^{2} + 2$",
+            "(E) $n^{2} + \\frac{9}{4}$"
+        ],
+        "level": "high",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 200,
+        "question": "Lungo la costa di un lago circolare ci sono tre porti. Su una mappa, i porti sono collocati in tre posizioni $A, B, C$ e, misurando gli angoli, si trova che $C\\hat{A} B = 57\u00b0$, $A\\hat{B} C = 48\u00b0$, $B\\hat{C} A = 75\u00b0$. In caso di emergenza, i soccorsi all'interno del lago vengono prestati dal porto pi\u00f9 vicino. Quale porzione del lago \u00e8 assistita dal porto che deve soccorrere la supercie pi\u00f9 estesa?",
+        "ground_truth": "B",
+        "options": [
+            "(A) 5/12",
+            "(B) 11/30",
+            "(C) 41/120",
+            "(D) 7/18",
+            "(E) 9/25"
+        ],
+        "level": "high",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 205,
+        "question": "Si lancia 300 volte un dado non truccato a 6 facce. Quante volte ci si aspetta di ottenere un numero maggiore di 4?",
+        "ground_truth": "A",
+        "options": [
+            "(A) circa 100 volte",
+            "(B) circa 50 volte",
+            "(C) circa 30 volte",
+            "(D) circa 150 volte"
+        ],
+        "level": "high",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 207,
+        "question": "Nella frase \"Ai giornalisti arrivati quella mattina dall'estero \u00e8 stato detto di attendere\" la funzione di soggetto \u00e8 svolta da:",
+        "ground_truth": "D",
+        "options": [
+            "(A) ai giornalisti",
+            "(B) quella mattina",
+            "(C) dall'estero",
+            "(D) di attendere"
+        ],
+        "level": "high",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 209,
+        "question": "Osserva l'operazione nel riquadro.\n$39,6\\times 10,2$\nQuale tra le seguenti operazioni d\u00e0 il risultato pi\u00f9 vicino a quellodell'operazione nel riquadro?",
+        "ground_truth": "B",
+        "options": [
+            "A. $39\\times 10$",
+            "B. $40\\times 10$",
+            "C. $39\\times 11$",
+            "D. $40\\times 11$"
+        ],
+        "level": "low",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 211,
+        "question": "Un Istituto Comprensivo \u00e8 costituito da una scuola primaria e una scuola secondaria di I grado. \nLe seguenti tabelle mostrano la ripartizione tra docenti laureati e docenti diplomati nella scuola primaria e nella scuola secondaria di I grado. \n\nDocenti Scuola Primaria\n% laureati | % diplomati | % TOTALE\n46,2 | 53,8 | 100,0\n\nDocenti Scuola Secondaria di I grado\n% laureati | % diplomati | % TOTALE\n95,8 | 4,2 | 100,0\n\nUtilizzando i dati a disposizione \u00e8 possibile calcolare la percentuale di docenti diplomati dell'intero Istituto Comprensivo? \nNella tabella che segue indica la sola argomentazione che giustifica la risposta corretta.",
+        "ground_truth": "D",
+        "options": [
+            "A. per calcolare la percentuale \u00e8 sufficiente fare la somma di 53,8 e 4,2",
+            "B. per calcolare la percentuale \u00e8 necessario calcolare la media delle due percentuali, cio\u00e8 $(53,8+4,2):2$",
+            "C. per calcolare la percentuale \u00e8 necessario conoscere il numero totale di docenti diplomati dell'intero Istituto",
+            "D. per calcolare la percentuale \u00e8 necessario conoscere il numero di docenti nella primaria e il numero di docenti nella secondaria"
+        ],
+        "level": "mid",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 217,
+        "question": "Le potenze $\\left(\\frac{4}{3}\\right) ^{2}$ e $\\frac{4\\^ {2}}{3}$ hanno lo stesso valore?",
+        "ground_truth": "B",
+        "options": [
+            "A. \u00a0No, la prima vale 16/3 e la seconda 16/9.",
+            "B. \u00a0No, la prima vale 16/9 e la seconda 16/3.",
+            "C. \u00a0S\u00ec, valgono entrambe 16/3.",
+            "C. \u00a0S\u00ec, valgono entrambe 16/9."
+        ],
+        "level": "mid",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 218,
+        "question": "Indica la frase che ha la virgola al posto giusto.",
+        "ground_truth": "B",
+        "options": [
+            "(A) Quando vanno, in montagna Sara e Luca fanno lunghe passeggiate nei boschi",
+            "(B) Quando vanno in montagna, Sara e Luca fanno lunghe passeggiate nei boschi",
+            "(C) Quando vanno in montagna Sara e Luca, fanno lunghe passeggiate nei boschi",
+            "(D) Quando vanno in montagna Sara e Luca fanno, lunghe passeggiate nei boschi"
+        ],
+        "level": "low",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 220,
+        "question": "Scegli il verbo corretto nello spazio vuoto\n\n\u2013 Pensi che Adele sia la persona giusta per quel lavoro? \u2013 Certamente: sa <u>_______________</u> benissimo con i computer e l\u2019informatica!",
+        "ground_truth": "b",
+        "options": [
+            "a. prendersela;",
+            "b. cavarsela;",
+            "c. vedersela;",
+            "d. intendersela"
+        ],
+        "level": "mid",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 226,
+        "question": "Il polinomio $ x^{3} -8$ \u00e8 divisibile per",
+        "ground_truth": "B",
+        "options": [
+            "A. $x+8$",
+            "B. $x-2$",
+            "C. $x+4$",
+            "D. $x-4$"
+        ],
+        "level": "high",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 229,
+        "question": "In quale dei seguenti periodi c'\u00e8 una frase subordinata oggettiva?",
+        "ground_truth": "A",
+        "options": [
+            "(A) Carlo mi assicur\u00f2 che non avrebbe riferito a nessuno le mie parole",
+            "(B) Per sapere quando partir\u00e0 l'aereo, guarda il monitor che d\u00e0 gli orari dei voli",
+            "(C) Vieni, cos\u00ec ti presento gli amici che ti volevano conoscere",
+            "(D) \u00c8 strano che tu preferisca viaggiare in macchina da solo invece che in treno con me"
+        ],
+        "level": "mid",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 230,
+        "question": "Indica il significato dell\u2019espressione sottolineata.\n\nAdesso smetti di <u>menare il can per l\u2019aia</u> e decidi cosa vuoi fare.",
+        "ground_truth": "c",
+        "options": [
+            "a. lamentarti",
+            "b. dare fastidio al cane",
+            "c. perdere tempo",
+            "d. non dire come stanno le cose"
+        ],
+        "level": "mid",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 232,
+        "question": "L'espressione $(a-\\frac{1}{a} )^{2}$si pu\u00f2 scrivere come:",
+        "ground_truth": "A",
+        "options": [
+            "(A) $a^{2} +\\frac{1}{a^{2}} -2$",
+            "(B) $\\frac{a^{4} +1}{a^{2}}$",
+            "(C) $a^{2} -\\left(\\frac{1}{a}\\right)^{2}$",
+            "(D) $\\frac{a^{2} -2a+1}{a{^{2}}}$"
+        ],
+        "level": "high",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 245,
+        "question": "Un gruppo di 20 amici va in pizzeria. Ciascuno di essi ordina una pizza che costa 8 euro. \nOgni 5 pizze ordinate, il proprietario non ne fa pagare una. \nQuanto spendono in tutto gli amici per le pizze?",
+        "ground_truth": "B",
+        "options": [
+            "(A) 160 euro",
+            "(B) 128 euro",
+            "(C) 120 euro",
+            "(D) 112 euro"
+        ],
+        "level": "low",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 252,
+        "question": "Se a \u00e8 un numero reale compreso tra 0 e 1 ($\\ 0< a< 1$), allora",
+        "ground_truth": "C",
+        "options": [
+            "A. $ a< \\sqrt{a} < \\frac{1}{a} < a^{2}$",
+            "B. $ \\frac{1}{a} < \\sqrt{a} < a< a^{2}$",
+            "C. $ a^{2} < a< \\sqrt{a} < \\frac{1}{a}$",
+            "D. $ \\sqrt{a} < a< a^{2} < \\frac{1}{a}$"
+        ],
+        "level": "high",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 260,
+        "question": "Con una bilancia si \u00e8 misurata 10 volte la massa di una lastra di alluminio ottenendo le seguenti misure in chilogrammi:\n10,55 | 10,76 | 10,60 |10,87 | 10,64 | 10,67 | 10,84 | 10,46 | 10,55 |10,70\nQuale fra i seguenti indici statistici \u00e8 quello pi\u00f9 adatto a rappresentare la massa della lastra di alluminio?",
+        "ground_truth": "B",
+        "options": [
+            "(A) La moda",
+            "(B) La media aritmetica",
+            "(C) La varianza",
+            "(D) Lo scarto quadratico medio (o deviazione standard)"
+        ],
+        "level": "high",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 263,
+        "question": "Quale delle seguenti affermazioni \u00e8 vera per qualsiasi numero naturale n?",
+        "ground_truth": "C",
+        "options": [
+            "(A) $7n+1$ \u00e8 dispari",
+            "(B) $1+2n^{2}$ \u00e8 pari",
+            "(C) $n^{2} +n$ \u00e8 pari",
+            "(D) $3n+3$ \u00e8 dispari"
+        ],
+        "level": "high",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 274,
+        "question": "Rispondi alla domanda.\n\nIn quale di queste serie i personaggi sono disposti in modo da passare gradualmente da quelli vissuti in et\u00e0 pi\u00f9 antica a quelli vissuti in et\u00e0 pi\u00f9 recente?\n\nET\u00c0 PI\u00d9 ANTICA --------->--------->--------->---------> ET\u00c0 PI\u00d9 RECENTE",
+        "ground_truth": "c",
+        "options": [
+            "(a) Leonardo da Vinci / Dante Alighieri / Raffaella Carr\u00e0 / Regina Margherita",
+            "(b) Dante Alighieri / Regina Margherita / Leonardo da Vinci / Raffaella Carr\u00e0",
+            "(c) Dante Alighieri / Leonardo da Vinci / Regina Margherita / Raffaella Carr\u00e0",
+            "(d) Leonardo da Vinci / Dante Alighieri / Raffaella Carr\u00e0 / Regina Margherita",
+            "(e) Regina Margherita / Leonardo da Vinci / Dante Alighieri / Raffaella Carr\u00e0"
+        ],
+        "level": "mid",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 289,
+        "question": "Leggi la poesia e scegli il testo che la riassume in modo adeguato.\n\nLa neve\nCome pesa la neve su questi rami\ncome pesano gli anni sulle spalle che ami.\nL\u2019inverno \u00e8 la stagione pi\u00f9 cara,\nnelle sue luci mi sei venuta incontro\nda un sonno pomeridiano (pomeridiano: del pomeriggio), un\u2019amara\nciocca di capelli sugli occhi.\nGli anni della giovinezza sono anni lontani.\n[A. Bertolucci, La capanna indiana]",
+        "ground_truth": "c",
+        "options": [
+            "a. I rami degli alberi sono troppo carichi per la nevicata abbondante. Adesso sar\u00e0 necessario ripulirli, ma sono anziano e non ho pi\u00f9 la forza per svolgere questi lavori e non ci vedo bene. Per fortuna dopo il riposo pomeridiano sei venuta ad aiutarmi.",
+            "b. Era inverno, ma la giornata era piena di luce per il riflesso della nevicata abbondante. Al mio risveglio dal riposo pomeridiano, sei venuta a trovarmi e abbiamo parlato piacevolmente ricordando la nostra giovent\u00f9.",
+            "c. La neve che d\u2019inverno pesa sui rami \u00e8 come l\u2019et\u00e0 che pesa sulle spalle di chi invecchia. In un luminoso pomeriggio d\u2019inverno sei comparsa nella mia mente assonnata, e con tristezza ho ripensato a quando, tanto tempo fa, eravamo giovani.",
+            "d. Ancora un po\u2019 addormentato, guardo la neve che piega i rami degli alberi sotto il suo peso, e penso che quando sar\u00f2 vecchio le mie spalle, allo stesso modo, saranno curve sotto il peso dell\u2019et\u00e0. Ma non \u00e8 il momento di essere tristi, perch\u00e9 ho ancora tutta la vita davanti: chiudo gli occhi e gi\u00e0 mi sembra di vederti arrivare qui da me."
+        ],
+        "level": "mid",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 290,
+        "question": "Rispondi alla domanda.\n\nIn quale di queste serie le citt\u00e0 sono disposte in modo da passare gradualmente da quella pi\u00f9 a nord a quella pi\u00f9 a sud?\n\nPI\u00d9 A NORD --------->--------->--------->---------> PI\u00d9 A SUD",
+        "ground_truth": "a",
+        "options": [
+            "(a) Bologna Firenze Roma Bari",
+            "(b) Firenze Bologna Bari Roma",
+            "(c) Bologna Roma Firenze Bari",
+            "(d) Firenze Bari Bologna Roma"
+        ],
+        "level": "mid",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 295,
+        "question": "Indicare quanti sono i valori $k \\in \\ \\mathbb{R}$ per i quali il polinomio $p(x) = x^{2} - kx + 36$ ha almeno una radice intera positiva che sia minore di 1000.",
+        "ground_truth": "E",
+        "options": [
+            "(A) 3",
+            "(B) 1",
+            "(C) 2",
+            "(D) 999",
+            "(E) 995"
+        ],
+        "level": "high",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 300,
+        "question": "Le parole che seguono sono tutte formate con il prefisso in- per indicare il contrario dell'aggettivo di base (es. in-felice = non felice). \n<i>incapace, impossibile, inutile, incredibile, imperdonabile, impaziente, inadatto Perch\u00e9 in alcune parole il prefisso in- diventa im-?</i>",
+        "ground_truth": "A",
+        "options": [
+            "(A) Perch\u00e9 in quelle parole in- \u00e8 davanti a una p",
+            "(B) Perch\u00e9 si tratta di parole molto lunghe",
+            "(C) Perch\u00e9 quelle parole oggi sono poco usate",
+            "(D) Perch\u00e9 quelle parole terminano in -bile"
+        ],
+        "level": "low",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 302,
+        "question": "In quale delle seguenti frasi le parole sottolineate sono associate correttamente dal punto di vista del lessico?",
+        "ground_truth": "C",
+        "options": [
+            "(A) Il tecnico \u00e8 venuto a <u>instaurare la nuova antenna parabolica</u>",
+            "(B) <u>La colpa</u> di questo fatto <u>non pu\u00f2 essere prescritta</u> all'Europa",
+            "(C) Il grande scienziato <u>ha avanzato una nuova interessante ipotesi</u>",
+            "(D) \u00c8 un periodo in cui dobbiamo <u>contrarre decisioni importanti</u>"
+        ],
+        "level": "high",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 304,
+        "question": "Nell'insieme dei numeri reali, la disequazione $x^{2}\uff1e0$ \u00e8 verificata",
+        "ground_truth": "A",
+        "options": [
+            "A. per ogni x\u22600",
+            "B. per ogni x",
+            "C. solo per ogni x<0",
+            "D. solo per ogni x>0"
+        ],
+        "level": "high",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 308,
+        "question": "Le frasi che seguono non sono accettabili. \n1. Ho partecipato a una tavola interessante rotonda. \n2. Si \u00e8 comprato una macchina degli anni Sessanta da scrivere. \n3. Giovanna ha sposato un uomo abilissimod'affari. \n4. Ci sono sconti anche sui capi di alta autunnale moda. \n\nQual \u00e8 la ragione per cui non sono accettabili?",
+        "ground_truth": "D",
+        "options": [
+            "(A) Perch\u00e9 non sono state rispettate le concordanze",
+            "(B) Perch\u00e9 l'aggettivo non pu\u00f2 mai essere separato dal nome a cui si riferisce",
+            "(C) Perch\u00e9 l'aggettivo non pu\u00f2 mai trovarsi dopo il nome a cui si riferisce",
+            "(D) Perch\u00e9 le parole che formano insiemi unitari non possono essere separate"
+        ],
+        "level": "high",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 310,
+        "question": "Leggi la frase seguente: \nUn'autostoppista sorridente mi chiese un passaggio. \nL'autostoppista \u00e8",
+        "ground_truth": "B",
+        "options": [
+            "(A) un uomo",
+            "(B) una donna",
+            "(C) non \u00e8 possibile dirlo perch\u00e9 autostoppista \u00e8 un nome invariabile per genere",
+            "(D) non \u00e8 possibile dirlo perch\u00e9 sorridente \u00e8 un aggettivo invariabile per genere"
+        ],
+        "level": "mid",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 312,
+        "question": "Indica I <u>modi</u> dei verbi presenti nella seguente frase:\n\"Avendo visto in vetrina un bellissimo maglione ho deciso di comprarlo, bench\u00e9 fosse molto caro\".",
+        "ground_truth": "C",
+        "options": [
+            "(A) Gerundio, indicativo, participio, congiuntivo",
+            "(B) Gerundio, participio, indicativo, infinito",
+            "(C) Gerundio, indicativo, infinito, congiuntivo",
+            "(D) Gerundio, indicativo, infinito, condizionale"
+        ],
+        "level": "mid",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 318,
+        "question": "Con 10 euro si possono comprare esattamente 20 bustine di figurine. Elisa ha a disposizione 8,50 euro.\nQuante bustine di figurine riesce a comprare Elisa al massimo?",
+        "ground_truth": "C",
+        "options": [
+            "A. 4",
+            "B. 10",
+            "C. 17",
+            "D. 18"
+        ],
+        "level": "low",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 323,
+        "question": "Un padre e i suoi quattro figli si dividono la cifra vinta al Totocalcio in questo modo: al padre spetta 1/3 dell'intera somma, e il rimanente viene diviso in parti uguali tra i figli. Quale frazione della somma spetta a ognuno dei figli?",
+        "ground_truth": "D",
+        "options": [
+            "A. 1/2",
+            "B. 1/3",
+            "C. 1/4",
+            "D. 1/6"
+        ],
+        "level": "mid",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 329,
+        "question": "Il suffisso -ista pu\u00f2 aggiungere alla parola di base il significato di \u2018colui che esercita un certo mestiere o professione', ad es. pianista, farmacista, camionista ecc. In quale delle seguenti parole il suffisso -ista aggiunge lo stesso significato?",
+        "ground_truth": "B",
+        "options": [
+            "(A) Autostoppista",
+            "(B) Dentista",
+            "(C) Altruista",
+            "(D) Socialista"
+        ],
+        "level": "low",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 341,
+        "question": "Uno dei seguenti numeri corrisponde al doppio di 0,05. Quale?",
+        "ground_truth": "B",
+        "options": [
+            "A. 10",
+            "B. 0,1",
+            "C. 0,01",
+            "D. 1"
+        ],
+        "level": "low",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 342,
+        "question": "Abbina al testo seguente il tipo testuale corrispondente: descrittivo (descrive qualcosa); narrativo (racconta un fatto); regolativo (elenca delle regole o delle istruzioni); argomentativo (d\u00e0 argomenti a sostegno di un\u2019opinione).\n\nTESTO 1\nAnche se \u00e8 giusto che la tecnologia entri nella scuola, non penso che sia saggio fare del tablet lo strumento principale di lavoro nelle classi, soprattutto nel caso in cui venga usato al posto dei libri per la lettura attenta e lo studio. Abbiamo ancora troppo da capire sugli effetti cognitivi e sociali di questi strumenti per tirare delle conclusioni definitive. \u00c8 sicuramente vero che essi aumentano (almeno nel breve termine) il coinvolgimento degli alunni meno motivati, ma non sembrano migliorare i risultati di coloro che gi\u00e0 erano motivati, come dimostrano anche i risultati del primo studio sperimentale italiano sul progetto Cl@ssi 2.0, del 2013. Inoltre gli insegnanti segnalano anche, tra gli effetti collaterali, un possibile calo di concentrazione.\n(adattato da: Orizzonte scuola, 11 settembre 2014)",
+        "ground_truth": "d",
+        "options": [
+            "(a) descrittivo;",
+            "(b) narrativo;",
+            "(c) regolativo;",
+            "(d) argomentativo"
+        ],
+        "level": "mid",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 358,
+        "question": "Quale di questi nomi pu\u00f2 essere anche un verbo?",
+        "ground_truth": "D",
+        "options": [
+            "(A) circo",
+            "(B) dito",
+            "(C) lago",
+            "(D) bagno"
+        ],
+        "level": "low",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 360,
+        "question": "Il periodo \"Non ho rispettato il limite di velocit\u00e0 e ho preso una multa. \" \u00e8 costituito da due frasi connesse dalla congiunzione e, che le collega logicamente introducendo",
+        "ground_truth": "C",
+        "options": [
+            "(A) un confronto rispetto a quanto viene detto prima",
+            "(B) una limitazione rispetto a quanto viene detto prima",
+            "(C) una conseguenza rispetto a quanto viene detto prima",
+            "(D) una precisazione rispetto a quanto viene detto prima"
+        ],
+        "level": "high",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 371,
+        "question": "Nella frase \"Secondo una prima ricostruzione, il ladro sarebbe entrato da una finestra sul retro\", il verbo indica:",
+        "ground_truth": "D",
+        "options": [
+            "(A) un'azione certa",
+            "(B) un'azione futura",
+            "(C) un'azione improbabile",
+            "(D) un'azione possibile"
+        ],
+        "level": "mid",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 373,
+        "question": "In un noto vocabolario della lingua italiana leggiamo:\n\"muscolo. Dal lat. musc\u016dlu(m), dim. di m\u016bs, m\u016bris, propr. \u2018topo': per la somiglianza tra il movimento rapido e guizzante del topo e quello del muscolo\". \nDunque, passando dal latino all'italiano il muscolo ha preso questo nome grazie a",
+        "ground_truth": "D",
+        "options": [
+            "(A) una polisemia",
+            "(B) una omonimia",
+            "(C) una anafora",
+            "(D) una metafora"
+        ],
+        "level": "high",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 378,
+        "question": "Leggi la frase che segue: \"L'antennista ha controllato i collegamenti dell'antenna con il suo decoder portatile. \" In questa frase antennista \u00e8 un nome di genere maschile o femminile?",
+        "ground_truth": "D",
+        "options": [
+            "(A) \u00c8 sicuramente maschile, perch\u00e9 controllato \u00e8 di genere maschile",
+            "(B) \u00c8 sicuramente femminile, perch\u00e9 la parola antennista termina in-a",
+            "(C) \u00c8 sicuramente femminile perch\u00e9 la parola di base antenna \u00e8 di genere femminile",
+            "(D) Non si pu\u00f2 sapere, perch\u00e9 L' pu\u00f2 riferirsi sia a un nome maschile sia a un nome femminile"
+        ],
+        "level": "high",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 379,
+        "question": "Filippo si prepara per una gara di triathlon. Si allena nel nuoto ogni 3 giorni, nella corsa a piedi ogni 6 giorni e nella corsa in bicicletta ogni 8 giorni. Se oggi si \u00e8 allenato in tutti e tre gli sport, tra quanti giorni gli accadr\u00e0 di nuovo di allenarsi nei tre sport nella stessa giornata?",
+        "ground_truth": "D",
+        "options": [
+            "A. 8",
+            "B. 12",
+            "C. 17",
+            "D. 24"
+        ],
+        "level": "mid",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 380,
+        "question": "La radice quadrata di $64^{2016}$ \u00e8",
+        "ground_truth": "D",
+        "options": [
+            "(A) $8^{2014}$",
+            "(B) $8^{1008}$",
+            "(C) $64^{2014}$",
+            "(D) $64^{1008}$"
+        ],
+        "level": "high",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 390,
+        "question": "Un gruppo di biologi, per stimare quante trote ci sono in un lago, ne pesca 200 e, dopo averle marcate, le rigetta nel lago. \nDopo qualche giorno, utilizzando la stessa rete, vengono pescate 720 trote e solo 12 di esse sono marcate. \nIn base a queste informazioni, quante trote possiamo pensare che ci siano all'incirca nel lago?",
+        "ground_truth": "C",
+        "options": [
+            "A. 2000",
+            "B. 9000",
+            "C. 12000",
+            "D. 144000"
+        ],
+        "level": "high",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 395,
+        "question": "Vuoi costruire un portapenne di forma cilindrica, di volume 192\u03c0 cm^{3}. Se il diametro di base misura 8 cm, quanto sar\u00e0 alto il portapenne?",
+        "ground_truth": "D",
+        "options": [
+            "A. \u00a03 cm",
+            "B. \u00a06 cm",
+            "C. \u00a09 cm",
+            "D. \u00a012 cm"
+        ],
+        "level": "mid",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 400,
+        "question": "In un rifugio di alta montagna, il 31 marzo 2012 alle ore 6:00, \u00e8 stata registrata una temperatura di 8 gradi sotto lo zero; alle ore 15:00 la temperatura era salita di 12 gradi mentre alle ore 22:00 era scesa di 14 gradi rispetto alle ore 15:00.\nQuale delle seguenti espressioni permette di calcolare la temperatura alle ore 22:00?",
+        "ground_truth": "D",
+        "options": [
+            "A. $(-8) + (-12) -(-14)$",
+            "B. $(-8) + (+12) - (-14)$",
+            "C. $(-8) - (+12) - (+14)$",
+            "D. (-8) + (+12) - (+14)$"
+        ],
+        "level": "mid",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 401,
+        "question": "Il professore ha appena riportato i compiti corretti in una classe. La media di tutti i voti ricevuti \u00e8 uguale a 6; il voto medio dei compiti che hanno preso almeno 6 \u00e8 uguale a 7, mentre il voto medio degli altri \u00e8 uguale a 4. Quale porzione della classe ha preso meno di 6?",
+        "ground_truth": "B",
+        "options": [
+            "(A) 1/4",
+            "(B) 1/3",
+            "(C) 2/5",
+            "(D) 3/8",
+            "(E) 2/7"
+        ],
+        "level": "high",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 408,
+        "question": "\"<u>Raggiunta la cima</u>, il gruppo degli alpinisti decise di trascorrere la notte nel rifugio\". La frase sottolineata \u00e8:",
+        "ground_truth": "B",
+        "options": [
+            "(A) consecutiva",
+            "(B) temporale",
+            "(C) finale",
+            "(D) concessiva"
+        ],
+        "level": "mid",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 413,
+        "question": "Indica in quale frase la parola \"pietra\" \u00e8 usata in senso figurato, cio\u00e8 non indica la pietra vera e propria.",
+        "ground_truth": "C",
+        "options": [
+            "(A) La mia vecchia casa ha i muri di pietra",
+            "(B) Lo smeraldo \u00e8 una pietra preziosa",
+            "(C) Ci sono persone che hanno il cuore di pietra",
+            "(D) In giardino ho un grande tavolo in pietra"
+        ],
+        "level": "low",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 422,
+        "question": "Qual \u00e8 il valore di x che soddisfa l'equazione $3(2x \u2013 1) + 2x = 21$ ?",
+        "ground_truth": "D",
+        "options": [
+            "A. -3",
+            "B. -11/4",
+            "C. 11/4",
+            "D. 3"
+        ],
+        "level": "mid",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 428,
+        "question": "Indica in quale di queste parole stra- <u>NON</u> \u00e8 un prefisso.",
+        "ground_truth": "A",
+        "options": [
+            "(A) straniero",
+            "(B) straricco",
+            "(C) strafelice",
+            "(D) stracarico"
+        ],
+        "level": "low",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 433,
+        "question": "Leggi la frase:\n\"Luca raccont\u00f2 a Sara che aveva visto una stella marina sugli scogli\". \n<b>Nella frase che hai letto si dice che Luca compie due azioni: \"racconta a Sara\" e \"vede una stella marina\". In quale ordine Luca compie le due azioni nella realt\u00e0?</b>",
+        "ground_truth": "C",
+        "options": [
+            "(A) Prima racconta a Sara e poi vede una stella marina",
+            "(B) Racconta a Sara che vedr\u00e0 una stella marina",
+            "(C) Prima vede una stella marina e poi lo racconta a Sara",
+            "(D) Mentre vede una stella marina, lo racconta a Sara"
+        ],
+        "level": "low",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 434,
+        "question": "\"Luca mi ha chiesto <u>quando arriver\u00e0 l'aereo da Milano</u>\". La frase sottolineata \u00e8:",
+        "ground_truth": "D",
+        "options": [
+            "(A) soggettiva",
+            "(B) oggettiva esplicita",
+            "(C) temporale",
+            "(D) interrogativa indiretta"
+        ],
+        "level": "mid",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 438,
+        "question": "L'espressione $a^{43} \\ +\\ a^{44}$\u00e8 uguale a",
+        "ground_truth": "B",
+        "options": [
+            "(A) $a^{44\\cdot 43}$",
+            "(B) $a^{43} \\cdot ( a+1)$",
+            "(C) $a^{87}$",
+            "(D) $2a^{87}$"
+        ],
+        "level": "high",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 439,
+        "question": "Laura dipinge di blu l'intera supercie di un cubo di legno, poi lo taglia suddivi-dendolo in $6^{3} = 216$ cubetti uguali. Mescolando i cubetti ed estraendone uno a caso, qual \u00e8 la probabilit\u00e0 che Laura ne trovi uno che abbia esattamente due facce dipinte di blu?",
+        "ground_truth": "E",
+        "options": [
+            "(A) 8/27",
+            "(B) 1/6",
+            "(C) 1/4",
+            "(D) 4/9",
+            "(E) 2/9"
+        ],
+        "level": "high",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 448,
+        "question": "Un atomo di idrogeno contiene un protone la cui massa mp \u00e8 all'incirca $ 2\\cdot 10^{-27}$, e un elettrone la cui massa m_{e} \u00e8 all'incirca $ 9\\cdot 10^{-31}$. \nQuale tra i seguenti valori approssima meglio la massa totale dell'atomo di idrogeno (cio\u00e8 $ m_{p} +m_{e}$)?",
+        "ground_truth": "A",
+        "options": [
+            "A. $ 2\\cdot 10^{-27}$",
+            "B. $ 11\\cdot 10^{-31}$",
+            "C. $ 11\\cdot 10^{-58}$",
+            "D. $ 18\\cdot 10^{-58}$"
+        ],
+        "level": "high",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 450,
+        "question": "I nomi che seguono sono tutti derivati. Indica quale nome deriva da un aggettivo.",
+        "ground_truth": "D",
+        "options": [
+            "(A) Fratellanza",
+            "(B) Costruzione",
+            "(C) Lavaggio",
+            "(D) Cattiveria"
+        ],
+        "level": "low",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 454,
+        "question": "Una sorgente di montagna alimenta continuativamente un serbatoio con $5 m^{3}$ di acqua ogni settimana. Oggi il serbatoio contiene $100 m^{3}$ di acqua e un villaggio inizia a prelevare $7 m^{3}$ di acqua alla settimana. \nDopo quante settimane il serbatoio sar\u00e0 vuoto?",
+        "ground_truth": "B",
+        "options": [
+            "(A) 20 settimane",
+            "(B) 50 settimane",
+            "(C) 98 settimane",
+            "(D) 102 settimane"
+        ],
+        "level": "high",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 456,
+        "question": "Indica il significato che assume la parola fascia\n\nIl nuovo programma culturale si rivolge a una particolare fascia di pubblico televisivo.",
+        "ground_truth": "a",
+        "options": [
+            "a. Gruppo di persone con caratteristiche comuni",
+            "b. Elemento piatto di forma allungata",
+            "c. Territorio o area che si estende in lunghezza",
+            "d. Striscia di tessuto"
+        ],
+        "level": "mid",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 465,
+        "question": "Il numero $\\sqrt{6,4}$ \u00e8 all'incirca uguale a",
+        "ground_truth": "B",
+        "options": [
+            "A. 3,2",
+            "B. 2,5",
+            "C. 0,8",
+            "D. 8,0"
+        ],
+        "level": "mid",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 468,
+        "question": "In quale delle seguenti frasi ci sono contemporaneamente un complemento di luogo e uno di agente?",
+        "ground_truth": "A",
+        "options": [
+            "(A) Nelle citt\u00e0 d'arte le vie e le piazze sono invase dai turisti",
+            "(B) In primavera le rondini ritornano dai paesi africani",
+            "(C) In campagna dalla mia finestra vedo le colline lontane",
+            "(D) In autunno le foglie cadute dagli alberi tappezzano le strade"
+        ],
+        "level": "mid",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 472,
+        "question": "Indica con quale parola dello stesso significato potresti sostituire quella sottolineata nella frase che segue. \n\n\"Del periodo preistorico non ci sono <u>fonti</u> scritte.\"",
+        "ground_truth": "B",
+        "options": [
+            "(A) Cause",
+            "(B) Testimonianze",
+            "(C) Sorgenti",
+            "(D) Origini"
+        ],
+        "level": "low",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 475,
+        "question": "Osserva la frase: \n\n\"La zia/regaler\u00e0 /una bicicletta/a Sara\". \n\nIndica la frase che ha la stessa struttura della frase data sopra, cio\u00e8 \u00e8 formata da \"pezzi\" (sintagmi) che hanno la stessa funzione sintattica.",
+        "ground_truth": "A",
+        "options": [
+            "(A) Il postino ha portato una lettera ai vicini.",
+            "(B) Il treno partir\u00e0 per Genova alle diciassette.",
+            "(C) Il gatto ha inseguito il topo in cantina.",
+            "(D) La neve \u00e8 caduta questa notte ad alta quota."
+        ],
+        "level": "low",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 478,
+        "question": "La seguente formula permette di trovare la percentuale P di rifiuti da raccolta differenziata sul totale di rifiuti prodotti: \n$P = \\frac{D}{R} \u00b7 100$\ndove\n\u2022 D = quantit\u00e0 di rifiuti da raccolta differenziata\n\u2022 R = quantit\u00e0 totale di rifiuti prodotti\nQuale tra le seguenti formule permette di trovare la quantit\u00e0 totale di rifiuti prodotti (R) conoscendo D e P?",
+        "ground_truth": "B",
+        "options": [
+            "A. $R = \\frac{P}{D} \u00b7 100$",
+            "B. $R = \\frac{D}{P} \u00b7 100$",
+            "C. $R = \\frac{D}{R \u00b7 100}$",
+            "D. $R = \\frac{D \u00b7 P}{100}$"
+        ],
+        "level": "mid",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 479,
+        "question": "Quale delle seguenti frasi, tutte con il verbo al congiuntivo, esprime un dubbio?",
+        "ground_truth": "A",
+        "options": [
+            "(A) E se lo volesse anche lui?",
+            "(B) Buongiorno, si accomodi qui!",
+            "(C) Magari trovassi un lavoro!",
+            "(D) Faccia pure con comodo."
+        ],
+        "level": "high",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 480,
+        "question": "Il rapporto tra gli spigoli di due cubi \u00e8 5. Qual \u00e8 il rapporto tra i loro volumi?",
+        "ground_truth": "D",
+        "options": [
+            "(A) 5",
+            "(B) 15",
+            "(C) 25",
+            "(D) 125"
+        ],
+        "level": "high",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 483,
+        "question": "In quale delle seguenti frasi non c'\u00e8 il soggetto (n\u00e9 esplicito n\u00e9 sottinteso)?",
+        "ground_truth": "D",
+        "options": [
+            "(A) \u00c8 vietato fumare",
+            "(B) Mi piacciono i dolci",
+            "(C) Arriveranno domani",
+            "(D) Oggi sta nevicando"
+        ],
+        "level": "high",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 484,
+        "question": "Gabriele nota che il numero 2022 si scrive con 3 cifre uguali e una quarta cifra differente dalle altre 3. Quanti sono in tutto i numeri naturali di 4 cifre che si scrivono con 3 cifre uguali e una quarta cifra differente dalle altre 3?",
+        "ground_truth": "A",
+        "options": [
+            "(A) 324",
+            "(B) 315",
+            "(C) 243",
+            "(D) 216",
+            "(E) 288"
+        ],
+        "level": "high",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 485,
+        "question": "Trova tra le parole che seguono, tutte formate con l'elemento \"auto\", l'unica in cui \"auto\" non significa \"da s\u00e9 / di se stesso\".",
+        "ground_truth": "D",
+        "options": [
+            "(A) Autoritratto",
+            "(B) Autoadesivo",
+            "(C) Autobiografia",
+            "(D) Autorizzazione"
+        ],
+        "level": "mid",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 488,
+        "question": "Se $n$ \u00e8 un numero naturale, allora il numero $n\\times ( n+2)$",
+        "ground_truth": "D",
+        "options": [
+            "A. \u00e8 sempre dispari",
+            "B. \u00e8 sempre pari",
+            "C. \u00e8 dispari se n \u00e8 pari",
+            "D. \u00e8 dispari se n \u00e8 dispari"
+        ],
+        "level": "mid",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 492,
+        "question": "In quale delle seguenti frasi l'articolo determinativo \"il\" \u00e8 usato per indicare non un singolo gatto ma tutti i gatti?",
+        "ground_truth": "C",
+        "options": [
+            "(A) Il gatto si \u00e8 rotto la zampa",
+            "(B) Il gatto sta dormendo sul divano",
+            "(C) Il gatto ha quattro zampe",
+            "(D) Il gatto di mia zia si chiama Baby"
+        ],
+        "level": "low",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 494,
+        "question": "Se k \u00e8 un numero intero negativo, qual \u00e8 il maggiore tra i seguenti numeri?",
+        "ground_truth": "C",
+        "options": [
+            "A. $5+k$",
+            "B. $5\\cdot k$",
+            "C. $5-k$",
+            "D. $5^{k}$"
+        ],
+        "level": "high",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 496,
+        "question": "Esternamente a un triangolo isoscele $ABC$ (con $\\overline{AC} = \\overline{BC}$), si costruisce un rombo $BCDE$, dove $C\\hat{D} E = 96\u00b0$. Qual \u00e8 l'ampiezza dell'angolo $B\\hat{A} D$?",
+        "ground_truth": "C",
+        "options": [
+            "(A) $54\u00b0$",
+            "(B) $36\u00b0$",
+            "(C) $42\u00b0$",
+            "(D) $48\u00b0$",
+            "(E) i dati forniti non sono sufficienti"
+        ],
+        "level": "high",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 500,
+        "question": "Nella frase \"Secondo l'allenatore di Stefano sciare \u00e8 lo sport migliore in assoluto\", qual \u00e8 il soggetto?",
+        "ground_truth": "C",
+        "options": [
+            "(A) L'allenatore",
+            "(B) Stefano",
+            "(C) Sciare",
+            "(D) Lo sport"
+        ],
+        "level": "mid",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 505,
+        "question": "Tra le parole nell'ovale ce n'\u00e8 una che non c'entra con le altre\nIndica perch\u00e9 non c'entra con le altre",
+        "ground_truth": "A",
+        "options": [
+            "(A) Non deriva da carta",
+            "(B) Non \u00e8 un nome",
+            "(C) \u00c8 di genere femminile",
+            "(D) \u00c8 una parola variabile"
+        ],
+        "level": "low",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 507,
+        "question": "In quale delle seguenti frasi la parola sottolineata \u00e8 usata in funzione di nome?",
+        "ground_truth": "D",
+        "options": [
+            "(A) Se vieni con noi a giocare al parco, <u>porta</u> il pallone.",
+            "(B) La professoressa ha una borsa piena di libri e la <u>porta</u> sempre a scuola.",
+            "(C) La mamma disse: \"<u>Porta</u> questo cestino alla nonna\".",
+            "(D) Siamo entrati dalla <u>porta</u> del garage perch\u00e9 non avevamo le chiavi di casa."
+        ],
+        "level": "low",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 508,
+        "question": "Indica il significato che assume la parola fascia\n\nL'alta pressione presente nella fascia tropicale genera nel nostro emisfero i venti Alisei, che soffiano da nord-est verso sud-ovest.",
+        "ground_truth": "c",
+        "options": [
+            "a. Gruppo di persone con caratteristiche comuni",
+            "b. Elemento piatto di forma allungata",
+            "c. Territorio o area che si estende in lunghezza",
+            "d. Striscia di tessuto"
+        ],
+        "level": "mid",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 510,
+        "question": "Nel foglietto illustrativo contenuto nella confezione di un farmaco, alla voce \"Effetti collaterali\" si legge che: \n\u2022 il 2% dei pazienti trattati con il farmaco ha accusato vertigini; \n\u2022 il 7% dei pazienti trattati con il farmaco ha avuto bruciori di stomaco. \nI due tipi di effetti collaterali sono indipendenti l'uno dall'altro. \nQual \u00e8 la probabilit\u00e0 che un paziente che ha assunto il farmaco manifesti <u>entrambi</u> gli effetti collaterali?",
+        "ground_truth": "B",
+        "options": [
+            "(A) $9\\%$",
+            "(B) $0,14\\%$",
+            "(C) $14\\%$",
+            "(D) $0,9\\%$"
+        ],
+        "level": "high",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 512,
+        "question": "Leggi il dialogo. \n\u00abChi \u00e8 quella bambina bionda?\u00bb \n\u00abNon lo so. Potrebbe essere Luisa. \u00bb\n\u00abMa no, \u00e8 Alice!\u00bb \n\nLa frase \"Potrebbe essere Luisa\" che cosa esprime?",
+        "ground_truth": "D",
+        "options": [
+            "(A) Un consiglio",
+            "(B) Una proposta",
+            "(C) Un desiderio",
+            "(D) Un'ipotesi"
+        ],
+        "level": "low",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 514,
+        "question": "Marco per andare a scuola percorre una strada lunga due chilometri e mezzo e poi il vialetto della scuola lungo 120 metri. \nQuale delle seguenti operazioni permette di ottenere la lunghezza totale in metri del suo percorso?",
+        "ground_truth": "B",
+        "options": [
+            "(A) $2,5 + 120$",
+            "(B) $2 500 + 120$",
+            "(C) $25 + 120$",
+            "(D) $250 + 120$"
+        ],
+        "level": "low",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 519,
+        "question": "Questo testo \u00e8 stato suddiviso in paragrafi che fanno parte di un unico articolo, dal titolo \"MOSTRI DI ACQUA DOLCE\" (tratto da una rivista per ragazzi), che troverai ricomposto alla fine, dopo l'ultima domanda.\n\nMentre nelle acque del mare la maggior parte di noi si sente a proprio agio, laghi e fiumi sono da sempre guardati con timore e sospetto: correnti, mulinelli, sponde viscide, acque scure e minacciose.\nNon c'\u00e8 perci\u00f2 da stupirsi che siano sorte leggende di ogni tipo, con creature mitiche e mostri spaventosi. In realt\u00e0, le acque dolci sono solo ambienti poco conosciuti: quanti di voi hanno provato a mettere la maschera e andare a esplorare i fondali di un lago o di un fiume? Eppure, anche questi luoghi sono pieni di sorprese e i temuti \"mostri\" sono spesso creature bizzarre affascinanti. \n\nL'autore che cosa si aspetta che rispondiamo alla domanda \"quanti di voi hanno provato a mettere la maschera e andare a esplorare i fondali di un lago o di un fiume?\"",
+        "ground_truth": "C",
+        "options": [
+            "(A) Tutti o quasi tutti",
+            "(B) Tanti o abbastanza",
+            "(C) Pochi o nessuno",
+            "(D) Non si pu\u00f2 sapere"
+        ],
+        "level": "low",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 520,
+        "question": "Rispondi alla domanda.\n\nNella competizione Eurovision 2021, l\u2019Italia si \u00e8 aggiudicata la vittoria per l\u2019esibizione di:",
+        "ground_truth": "c",
+        "options": [
+            "(a) I Negramaro, con il brano Ora ti canto il mare",
+            "(b) Emma Marrone, con Pezzo di cuore",
+            "(c) M\u00e5neskin, con la canzone Zitti e buoni",
+            "(d) Mahmood, con la canzone Soldi"
+        ],
+        "level": "mid",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 527,
+        "question": "La distanza tra due corpi celesti \u00e8 $5\\ \\times \\ 10^{6}$ km. Qual \u00e8 la distanza equivalente in metri?",
+        "ground_truth": "B",
+        "options": [
+            "A. $5\\ \\times \\ 10^{18}$ m",
+            "B. $5\\ \\times \\ 10^{9}$ m",
+            "C. $5\\ \\times \\ 10^{3}$ m",
+            "D. $5\\ \\times \\ 10^{2}$ m"
+        ],
+        "level": "mid",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 534,
+        "question": "Abbina al testo seguente il tipo testuale corrispondente: descrittivo (descrive qualcosa); narrativo (racconta un fatto); regolativo (elenca delle regole o delle istruzioni); argomentativo (d\u00e0 argomenti a sostegno di un\u2019opinione).\n\nTESTO 2\nI moscerini si ambientano e si moltiplicano velocemente, ma ci sono vari sistemi per sbarazzarcene, ad esempio quello dell\u2019imbuto. Scegli un barattolo alto, una bottiglia o un vaso, da usare come base della trappola. Aggiungi della frutta o degli alimenti zuccherini come esca. Arrotola un pezzo di carta per creare un imbuto e mettilo sul contenitore-trappola. Posiziona la trappola in una zona infestata dai moscerini della frutta: gli insetti, guidati dall\u2019odore, potranno entrare nel vaso attraverso il piccolo foro alla base dell\u2019imbuto, ma poi non riusciranno a volare fuori.\n(adattato da: wikihow)",
+        "ground_truth": "c",
+        "options": [
+            "(a) descrittivo;",
+            "(b) narrativo;",
+            "(c) regolativo;",
+            "(d) argomentativo"
+        ],
+        "level": "mid",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 544,
+        "question": "L'insegnante dice: \"Prendiamo un numero naturale che indichiamo con $n$. Cosa si pu\u00f2 dire del risultato di $n(n1-1)$? \u00c8 sempre pari, oppure sempre dispari, oppure pu\u00f2 essere qualche volta pari e qualche volta dispari?\". Alcuni studenti rispondono in questo modo:\nRoberto: \"Pu\u00f2 essere sia pari sia dispari, perch\u00e9 $n$ \u00e8 un numero qualsiasi\"\nAngela: \"\u00c8 sempre dispari, perch\u00e9 $n-1$ indica un numero dispari\"\nIlaria: \"\u00c8 sempre pari, perch\u00e9 $3\\times ( 3-1)$) fa 6, che \u00e8 pari\"\nChiara: \"E sempre pari perch\u00e9 $n$ e $(n-1)$ sono numeri consecutivi e quindi uno dei due deve essere pari\"\nChi ha ragione e fornisce la spiegazione corretta?",
+        "ground_truth": "D",
+        "options": [
+            "A. Roberto",
+            "B. Angela",
+            "C. Ilaria",
+            "D. Chiara"
+        ],
+        "level": "mid",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 546,
+        "question": "In ottobre un maglione costa 100 euro. Prima di Natale il suo prezzo \u00e8 aumentato del 20%. Nel mese di gennaio, con i saldi, il costo del maglione si \u00e8 ribassato del 10% rispetto al prezzo natalizio. Quale affermazione \u00e8 vera?",
+        "ground_truth": "B",
+        "options": [
+            "A. \u00a0Il maglione in gennaio ha un costo pari a quello di ottobre.",
+            "B. \u00a0Il maglione in gennaio ha un costo maggiore rispetto a quello di ottobre dell'8%.",
+            "C. \u00a0Il maglione in gennaio ha un costo inferiore rispetto a quello di ottobre del 10%.",
+            "D. \u00a0Il maglione da ottobre a gennaio ha subito un rincaro del 10%."
+        ],
+        "level": "mid",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 550,
+        "question": "Se si aumentano le dimensioni b e h di un rettangolo di una stessa lunghezza d, allora l'area del rettangolo aumenta di 2d",
+        "ground_truth": "B",
+        "options": [
+            "(A) V",
+            "(B) F"
+        ],
+        "level": "high",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 557,
+        "question": "La tabella qui a fianco, con 7 colonne ed infinite righe che proseguono all'ingi\u00f9, viene riempita inserendo nelle caselle i numeri naturali, in ordine crescente, saltando tutti i multipli di 5. Con quale numero termina la 120-esima riga?\n\n1 | 2 | 3 | 4 | 5 | 6 | 7 | 8\n9 | 11 | 12 | 13 | 14 | 16 | 17\n | | | | | | \n | | | | | |",
+        "ground_truth": "A",
+        "options": [
+            "(A) 1049",
+            "(B) 1051",
+            "(C) 1052",
+            "(D) 839",
+            "(E) 841"
+        ],
+        "level": "high",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 567,
+        "question": "Abbina al testo seguente il tipo testuale corrispondente: descrittivo (descrive qualcosa); narrativo (racconta un fatto); regolativo (elenca delle regole o delle istruzioni); argomentativo (d\u00e0 argomenti a sostegno di un\u2019opinione).\n\nTESTO 4\nAlle porte della citt\u00e0, comparvero degli ufficiali di marina, in calzoni bianchi; venivano gi\u00f9 al porto, verso la nave inglese, discutendo agitati. Noi intanto ci stavamo ordinando. A un tratto si sente un colpo di cannone. Che \u00e8? Un saluto! dice sorridendo il colonnello Carini, vestito d'una tunica rossa, con un gran cappello a falda, piumato, in capo. Un secondo colpo, una grossa palla passa, rombando, tra noi e la settima compagnia. I monelli si gettano a terra; i frati fuggono come possono con quei gran corpi, camminando dentro i fossati. Una terza palla sfascia il tetto d'una casetta di guardie, l\u00ec presso; una granata cade in mezzo alla mia compagnia, e fuma per scoppiare. E poi gi\u00f9 i colpi che non si contarono pi\u00f9. Quale furore! Ora la citt\u00e0 \u00e8 nostra.\n(adattato da: G.C. Abba, Da Quarto a Volturno)",
+        "ground_truth": "b",
+        "options": [
+            "(a) descrittivo;",
+            "(b) narrativo;",
+            "(c) regolativo;",
+            "(d) argomentativo"
+        ],
+        "level": "mid",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 571,
+        "question": "In quale delle seguenti frasi la parola sottolineata ha la funzione di avverbio?",
+        "ground_truth": "D",
+        "options": [
+            "(A) Vorrei sapere <u>quanti</u> ragazzi verranno alla fest(A)",
+            "(B) <u>Quello</u> \u00e8 il mio libro.",
+            "(C) <u>Alcuni</u> non hanno capito il problemA.",
+            "(D) Questa storia mi piace <u>poco</u>."
+        ],
+        "level": "mid",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 580,
+        "question": "Nella frase \"Carlo se l'\u00e8 proprio presa con me; infatti da ieri, quando m'incontra, non mi saluta pi\u00f9\" il connettivo <u>infatti</u> serve a:",
+        "ground_truth": "C",
+        "options": [
+            "(A) contraddire quanto detto prima",
+            "(B) circoscrivere quanto detto prima",
+            "(C) spiegare quanto detto prima",
+            "(D) escludere quanto detto prima"
+        ],
+        "level": "high",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 582,
+        "question": "Indica il significato dell\u2019espressione sottolineata.\n\nPer <u>rompere il ghiaccio</u>, la signora seduta vicino a me in treno disse: \u201cIl sole \u00e8 ancora caldo per essere autunno inoltrato, non le pare?\u201d",
+        "ground_truth": "b",
+        "options": [
+            "a. indagare con curiosit\u00e0",
+            "b. iniziare a parlare per interrompe il silenzio",
+            "c. dare fastidio parlando troppo",
+            "d. darsi delle arie"
+        ],
+        "level": "mid",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 584,
+        "question": "Leggi la seguente frase. \n\"Era previsto uno spettacolo magnifico ma a causa del maltempo fu annullato: quando loseppi ci rimasi male\".\nIl pronome \"lo\" si riferisce:",
+        "ground_truth": "A",
+        "options": [
+            "(A) al fatto che lo spettacolo fu annullato",
+            "(B) al maltempo",
+            "(C) al fatto che era previsto uno spettacolo magnifico",
+            "(D) allo spettacolo"
+        ],
+        "level": "mid",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 588,
+        "question": "ABC \u00e8 un triangolo isoscele con $\\overline{AC} = \\overline{BC}$. Si scelgono due punti $A'$, $A\"$ sul lato $AC$ e un punto $B'$ sul lato $BC$ in modo tale che $\\overline{AB} = \\overline{BA'} = \\overline{A'B'} = \\overline{B'A\"} = \\overline{A\"C}$. Qual \u00e8 l'ampiezza dell'angolo $A\\hat{C} B$?",
+        "ground_truth": "D",
+        "options": [
+            "(A) 18\u00b0",
+            "(B) 15\u00b0",
+            "(C) 24\u00b0",
+            "(D) 20\u00b0",
+            "(E) 30\u00b0"
+        ],
+        "level": "high",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 605,
+        "question": "Il successivo di un numero naturale a \u00e8 sempre minore del doppio di a?\nNella tabella che segue indica <u>la sola</u> argomentazione che giustifica la risposta corretta.",
+        "ground_truth": "D",
+        "options": [
+            "A. il successivo di a si ottiene aggiungendo 1 e il doppio di a si ottiene moltiplicando a per 2",
+            "B. se a = 3 il successivo di a \u00e8 minore del doppio di a",
+            "C. a \u00e8 sempre minore del suo successivo",
+            "D. se a = 1 il successivo di a \u00e8 uguale al doppio di a"
+        ],
+        "level": "mid",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 608,
+        "question": "Quale tra i seguenti numeri <u>non</u> pu\u00f2 rappresentare la probabilit\u00e0 di un evento?",
+        "ground_truth": "C",
+        "options": [
+            "(A) 2/3",
+            "(B) 11/15",
+            "(C) 8/7",
+            "(D) 20/27"
+        ],
+        "level": "high",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 609,
+        "question": "Su una confezione da 250 g di cereali e frutta secca sono riportate le seguenti informazioni:\nZucchero | 47, 5g\nProteine | 20g\nAmido | 155g\nGrassi | 3, 8g\nFibre | 11, 3g\nSale | 2, 5g\nAltro | 9, 9g\nQual \u00e8 la percentuale di fibre presenti nella confezione?",
+        "ground_truth": "C",
+        "options": [
+            "(A) 22, 12%",
+            "(B) 0, 11%",
+            "(C) 4, 52%",
+            "(D) 11, 30%"
+        ],
+        "level": "high",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 615,
+        "question": "Nella scatola A vi sono 6 palline verdi e 4 rosse. Nella scatola B vi sono invece 12 pallineverdi e 5 rosse. Quante palline verdi si devono spostare dalla scatola B alla scatola A affinch\u00e9 la probabilit\u00e0 di estrarre una pallina verde da A diventi uguale alla probabilit\u00e0 diestrarre una pallina verde da B?",
+        "ground_truth": "D",
+        "options": [
+            "(A) 5",
+            "(B) 7",
+            "(C) 4",
+            "(D) 2"
+        ],
+        "level": "high",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 617,
+        "question": "Marco va a comprare il pane e spende 3,35 euro.\nPer pagare utilizza una moneta da 2 euro, una da 20 centesimi, una da 5centesimi e altre monete tutte da 10 centesimi.\nQuante sono le monete da 10 centesimi utilizzate da Marco?",
+        "ground_truth": "C",
+        "options": [
+            "A. 1",
+            "B. 10",
+            "C. 11",
+            "D. 5"
+        ],
+        "level": "low",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 625,
+        "question": "Indica la trasformazione corretta dal discorso indiretto al discorso diretto della seguente frase: \n\"Giovanni disse al suo amico che la sua squadra del cuore aveva vinto il campionato\".",
+        "ground_truth": "B",
+        "options": [
+            "(A) Giovanni disse al suo amico: \"La sua squadra del cuore ha vinto il campionato\".",
+            "(B) Giovanni disse al suo amico: \"La mia squadra del cuore ha vinto il campionato\".",
+            "(C) Giovanni disse al suo amico: \"La mia squadra del cuore aveva vinto il campionato\".",
+            "(D) Giovanni disse al suo amico: \"La sua squadra del cuore aveva vinto il campionato\"."
+        ],
+        "level": "low",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 629,
+        "question": "Nel piano cartesiano Oxy la retta di equazione $\\ y\\ =\\ 3x\\ \u2013\\ 5$e la retta di equazione $\\ y\\ =\\ \\frac{k}{2} x\u2013\\ 1$sono tra loro parallele; il valore di $k$\u00e8",
+        "ground_truth": "D",
+        "options": [
+            "(A) \u20133",
+            "(B) \u20136",
+            "(C) 3",
+            "(D) 6"
+        ],
+        "level": "high",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 637,
+        "question": "In quale delle seguenti frasi la punteggiatura \u00e8 sbagliata?",
+        "ground_truth": "D",
+        "options": [
+            "(A) L'intensit\u00e0 delle piogge sembra essersi ridotta; l'allarme per\u00f2 \u00e8 ancora alto, tanto che la Protezione Civile raccomanda la massima attenzione.",
+            "(B) Dal corteo, che si snodava pacificamente per le strade della citt\u00e0, si staccarono improvvisamente frange di malintenzionati.",
+            "(C) Al concerto c'erano almeno ventimila persone: mai visto un entusiasmo simile!",
+            "(D) Ben quattro pianeti importanti, sono nel segno del Capricorno, questa settimana."
+        ],
+        "level": "high",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 638,
+        "question": "Enrico ha guardato il termometro una prima volta alle sei del mattino: segnava -7\u00b0C (gradi centigradi).\nA mezzogiorno Enrico lo ha guardato di nuovo: segnava +5\u00b0C (gradi centigradi).\nDi quanto \u00e8 variata la temperatura dalle sei a mezzogiorno?",
+        "ground_truth": "B",
+        "options": [
+            "(A) \u00c8 aumentata di 5 gradi centigradi",
+            "(B) \u00c8 aumentata di 12 gradi centigradi",
+            "(C) \u00c8 diminuita di 2 gradi centigradi",
+            "(D) \u00c8 diminuita di 7 gradi centigradi"
+        ],
+        "level": "low",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 640,
+        "question": "La seguente tabella riporta i dati sulla cittadinanza degli alunni iscritti a un Istituto Comprensivo: \nTIPO DI SCUOLA | TOTALE ALUNNI | ALUNNI ITALIANI | ALUNNI STRANIERI PERCENTUALE ALUNNI STRANIERI\nINFANZIA | 200 | 120 | 80 | 40,0%\nPRIMARIA | 400 | 308 | 92 | 23,0%\nSECOMDARIA DI $1\\degree $ GRADO | 400 | 280 | 120 |30,0%\nTOTALE | 1000 | 708 | 292 | ...........\nQual \u00e8 la percentuale di alunni stranieri dell'intero istituto?",
+        "ground_truth": "D",
+        "options": [
+            "A. 93,0%",
+            "B. 41,2%",
+            "C. 31,0%",
+            "D. 29,2%"
+        ],
+        "level": "mid",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 643,
+        "question": "Qual \u00e8 il risultato della seguente espressione?\n$\\frac{\\frac{1}{2} +1}{1-\\frac{1}{2}} +1$",
+        "ground_truth": "D",
+        "options": [
+            "A. 1",
+            "B. 7/4",
+            "C. 2",
+            "D. 4"
+        ],
+        "level": "mid",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 645,
+        "question": "26 chilometri e 37 metri equivalgono a:",
+        "ground_truth": "A",
+        "options": [
+            "A. 26037 metri",
+            "B. 26370 metri",
+            "C. 2,6037 chilometri",
+            "D. 26,37 chilometri"
+        ],
+        "level": "low",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 650,
+        "question": "Quale dei seguenti gruppi di aggettivi contiene solo aggettivi qualificativi?",
+        "ground_truth": "B",
+        "options": [
+            "(A) nero, gentile, tanto, sereno",
+            "(B) profondo, allegro, ruvido, fragrante",
+            "(C) splendente, nostro, magro, simpatico",
+            "(D) poco, semplice, bagnato, questo"
+        ],
+        "level": "low",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 662,
+        "question": "Quale tra le seguenti sequenze di numeri \u00e8 ordinata in modo crescente?",
+        "ground_truth": "A",
+        "options": [
+            "A. $-10^{4},-4 \\cdot 10^{-4}, 10^{-4}, \\frac{1}{10^{-4}}$",
+            "B. $-10^{4},-4 \\cdot 10^{-4}, 10^{-4}, \\frac{1}{10^{-4}}$",
+            "C. $-10^{4} ,10^{-4} ,\\frac{1}{-10^{4}} ,-4\\cdotp 10^{-4}$",
+            "D. $ -10^{-4} ,-10^{4} ,10^{-4} ,\\frac{1}{10^{-4}}$"
+        ],
+        "level": "high",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 666,
+        "question": "Un automobilista percorre i primi 120 km di un certo percorso alla velocit\u00e0 media di 60 km/h e i successivi 120 km alla velocit\u00e0 media di\u00a0\u00a0120 km/h.\nQual \u00e8 la sua velocit\u00e0 media durante l'intero percorso?",
+        "ground_truth": "B",
+        "options": [
+            "A. 70 km/h",
+            "B. 80 km/h",
+            "C. 90 km/h",
+            "D. 100 km/h"
+        ],
+        "level": "high",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 670,
+        "question": "A novembre il prezzo di un paio di scarpe \u00e8 di 100 \u20ac. A dicembre il prezzo aumenta del 10%. A gennaio, nel periodo dei saldi, il prezzo viene scontato del 10% rispetto al prezzo di dicembre. Qual \u00e8 il prezzo delle scarpe in saldo?",
+        "ground_truth": "B",
+        "options": [
+            "(A) 100 \u20ac",
+            "(B) 99 \u20ac",
+            "(C) 90 \u20ac",
+            "(D) 91 \u20ac"
+        ],
+        "level": "high",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 675,
+        "question": "Osserva attentamente queste due serie di aggettivi, tutti derivati da verbi. \nSerie 1\u4e28Serie 2\ndesiderabile\u4e28leggibile\napprezzabile\u4e28prevedibile\nadattabile\u4e28deperibile\npraticabile\u4e28sostituibile\n\nNella Serie 1 prima del suffisso -bile c'\u00e8 la vocale tematica -a-, nella Serie 2 prima del suffisso -bile c'\u00e8 la vocale tematica -i-. Come spieghi questa differenza?",
+        "ground_truth": "B",
+        "options": [
+            "(A) La prima serie deriva da verbi con l'aggiunta di un prefisso, la seconda serie deriva da verbi privi di prefisso",
+            "(B) La prima serie deriva da verbi della prima coniugazione, la seconda da verbi della seconda e terza coniugazione",
+            "(C) La prima serie indica azioni possibili, la seconda azioni obbligatorie",
+            "(D) La prima serie ha significato attivo, la seconda ha significato passivo"
+        ],
+        "level": "high",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 682,
+        "question": "La grandezza y \u00e8 inversamente proporzionale al quadrato della grandezza x e, per $x=2$, si ha $y=4$. Quindi, se $x=8$, y \u00e8 uguale a",
+        "ground_truth": "A",
+        "options": [
+            "A. 1/4",
+            "B. 4",
+            "C. 16",
+            "D. 1/16"
+        ],
+        "level": "high",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 683,
+        "question": "Nella frase \"Inviter\u00f2 anche Maria perch\u00e9 tu la conosca\" la congiunzione <u>perch\u00e9</u> ha valore:",
+        "ground_truth": "C",
+        "options": [
+            "(A) causale",
+            "(B) interrogativo",
+            "(C) finale",
+            "(D) consecutivo"
+        ],
+        "level": "mid",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 688,
+        "question": "Scegli il verbo corretto nello spazio vuoto\n\nLuigi non deve <u>_______________</u> con te se l\u2019esame non \u00e8 andato bene, anzi dovrebbe ringraziarti per tutto l\u2019aiuto che gli hai dato.",
+        "ground_truth": "a",
+        "options": [
+            "a. prendersela;",
+            "b. cavarsela;",
+            "c. vedersela;",
+            "d. intendersela"
+        ],
+        "level": "mid",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 693,
+        "question": "Indica il significato dell\u2019espressione sottolineata.\n\nIl lavoro va finito entro oggi: dovete <u>darci dentro</u>.",
+        "ground_truth": "d",
+        "options": [
+            "a. tornare a casa presto",
+            "b. risparmiare soldi",
+            "c. esaminare i problemi",
+            "d. impegnarvi a fondo"
+        ],
+        "level": "mid",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 696,
+        "question": "Nel periodo: <i>\u00ab<u>Avendo nevicato molto</u>, il tratto di autostrada era  stato chiuso\u00bb</i>, la frase sottolineata indica",
+        "ground_truth": "C",
+        "options": [
+            "(A) scopo",
+            "(B) tempo",
+            "(C) causa",
+            "(D) modo"
+        ],
+        "level": "mid",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 698,
+        "question": "Identifica la frase nella quale il soggetto (sottolineato) \u00e8 anche agente, e dunque 'compie l'azione' espressa dal verbo.",
+        "ground_truth": "D",
+        "options": [
+            "(A) Al termine del colloquio <u>Maria</u> ha ricevuto i complimenti di tutta la commissione d'esame.",
+            "(B) Finalmente <u>mio fratello e io</u> siamo entrati in possesso della nostra eredit\u00e0.",
+            "(C) Sulla linea del traguardo <u>il ciclista</u> \u00e8 stato superato in volata dal pi\u00f9 agguerrito dei concorrenti.",
+            "(D) Dopo gli applausi entusiasti del pubblico <u>il pianista</u> concesse un ultimo bis."
+        ],
+        "level": "high",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 699,
+        "question": "Su una carta stradale due localit\u00e0 sono distanti 3 cm. Sapendo che la scala della carta \u00e8 di 1:1 500 000, a quale distanza si trovano le due localit\u00e0?",
+        "ground_truth": "C",
+        "options": [
+            "A. 4,5 km",
+            "B. 15 km",
+            "C. 45 km",
+            "D. 450 km"
+        ],
+        "level": "mid",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 703,
+        "question": "Rispondi alla domanda.\n\nDato che l\u2019Italia ha vinto nel 2021, toccher\u00e0 a una citt\u00e0 italiana nel 2022 organizzazare la competizione. Quale citt\u00e0 \u00e8 stata scelta?",
+        "ground_truth": "a",
+        "options": [
+            "(a) Torino",
+            "(b) Milano",
+            "(c) Roma",
+            "(d) Napoli"
+        ],
+        "level": "mid",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 707,
+        "question": "Abbina al testo seguente il tipo testuale corrispondente: descrittivo (descrive qualcosa); narrativo (racconta un fatto); regolativo (elenca delle regole o delle istruzioni); argomentativo (d\u00e0 argomenti a sostegno di un\u2019opinione).\n\nTESTO 3\nL\u00e9on Marcia, il marito dell'antiquaria, \u00e8 in camera sua. \u00c8 un vecchio malato, magro e stenterello, dal volto quasi grigio e mani ossute. \u00c8 seduto in una poltrona di cuoio nero, in calzoni da pigiama e camicia senza colletto, con una sciarpa a scacchi arancioni buttata sulle spalle aggettanti, i piedi nudi in certe pantofolacce sbiadite, e il cranio coperto da una specie di cosa di flanella che ricorda un berretto frigio.\n(G. Perec, Una vita, istruzioni per l\u2019uso)",
+        "ground_truth": "a",
+        "options": [
+            "(a) descrittivo;",
+            "(b) narrativo;",
+            "(c) regolativo;",
+            "(d) argomentativo"
+        ],
+        "level": "mid",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 711,
+        "question": "Leggi la frase che segue. \"Gli studenti, che avevano lavorato a lungo sul linguaggio pubblicitario, si riunirono in gruppi per stendere la relazione finale\". \nLa prima virgola",
+        "ground_truth": "B",
+        "options": [
+            "(A) non \u00e8 corretta perch\u00e9 separa il soggetto dal predicato",
+            "(B) \u00e8 corretta perch\u00e9 in questo caso introduce un inciso",
+            "(C) non \u00e8 corretta perch\u00e9 separa il pronome relativo dal nome a cui si riferisce",
+            "(D) \u00e8 corretta perch\u00e9 il pronome relativo si riferisce solo a un sottogruppo di studenti"
+        ],
+        "level": "high",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 713,
+        "question": "Nell'insieme dei numeri reali la disequazione $x^{2} \\ +\\ 1\\ \\geq \\ 0$\u00e8 verificata",
+        "ground_truth": "C",
+        "options": [
+            "(A) solo per $x\\ \\geq \\ 0$",
+            "(B) solo per $x\\ \\geq \\ \u2013\\ 1$",
+            "(C) per ogni x",
+            "(D) per nessun x"
+        ],
+        "level": "high",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 716,
+        "question": "La seguente tabella riporta il numero di vittime per incidenti stradali dal 2001 al 2007 in una regione italiana. \nAnno | 2001 | 2002 | 2003 | 2004 | 2005 | 2006 | 2007\nNumero di vittime | 792 | 776 | 700 | 681 | 635 | 539 | 531\n(Fonte: Eurostat, Regional Transport Statistics)\nIn quale dei seguenti periodi si \u00e8 avuta la diminuzione pi\u00f9 consistente del numero di vittime per incidenti stradali?",
+        "ground_truth": "B",
+        "options": [
+            "A. tra il 2001 e il 2002",
+            "B. tra il 2002 e il 2003",
+            "C. tra il 2003 e il 2004",
+            "D. tra il 2004 e il 2005"
+        ],
+        "level": "high",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 717,
+        "question": "Un aereo parte alle 14.15 (ora di Roma) dall'aeroporto di Roma-Fiumicino e arrivaall'aeroporto JFK di New York alle 18.00 (ora di New York). Sapendo che fra Roma e New York vi sono 6 ore di differenza di fuso orario (cio\u00e8, se a New York \u00e8 mezzanotte, a Roma sono le 6 del mattino seguente), quante ore dura il volo?",
+        "ground_truth": "C",
+        "options": [
+            "A. 3 h 45'",
+            "B. 4 h 15'",
+            "C. 9 h 45'",
+            "D. 10 h 15'"
+        ],
+        "level": "mid",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 718,
+        "question": "Su una confezione di succo di frutta da 250 ml trovi le seguenti informazioni nutrizionali:\nINFORMAZIONI NUTRIZIONALI | Valori medi per 100 ml\nValore energetico | 54 kcal - 228 kJ\nProteine | 0,3 g\nCarboidrati | 13,1 g\nGrassi | 0,0 g\nQuante kcal assumi se bevi tutto il succo di frutta della confezione?",
+        "ground_truth": "B",
+        "options": [
+            "A. 54",
+            "B. 135",
+            "C. 228",
+            "D. 570"
+        ],
+        "level": "mid",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 725,
+        "question": "Andrea, Beatrice, Carlotta e Dario vogliono effettuare un'indagine statistica sui gusti musicali degli studenti delle scuole superiori della loro citt\u00e0. \n\u2022 Andrea propone di intervistare tutti i 245 alunni delle classi quinte di due scuole superiori della citt\u00e0; \n\u2022 Beatrice propone di intervistare un numeroso gruppo, scelto a caso, di ragazzi all'uscita da una discoteca della citt\u00e0; \n\u2022 Carlotta propone di intervistare 200 studenti, scelti a caso tra tutti gli studenti delle scuole superiori della citt\u00e0; \n\u2022 Dario propone di pubblicare le domande dell'intervista sul giornalino della sua scuola e di raccogliere le risposte pervenute. \nIn assenza di altre informazioni, il campione pi\u00f9 rappresentativo per l'indagine \u00e8 quello proposto da",
+        "ground_truth": "C",
+        "options": [
+            "(A) Andrea",
+            "(B) Beatrice",
+            "(C) Carlotta",
+            "(D) Dario"
+        ],
+        "level": "high",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 727,
+        "question": "Nella scuola \"Nino Bixio\" ci sono 600 studenti e un insegnante ogni 15 studenti.\nQuale proporzione permette di trovare il numero x degli insegnanti?",
+        "ground_truth": "C",
+        "options": [
+            "A. $x:15 =1:600$",
+            "B. $15 :1=x: 600$",
+            "C. $1:15 =x: 600$",
+            "D. $x:1=15:600$"
+        ],
+        "level": "mid",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 735,
+        "question": "A un numero aggiungo il doppio di 1,5 e ottengo 3,6.\nQual \u00e8 il numero di partenza?",
+        "ground_truth": "B",
+        "options": [
+            "A. 6,6",
+            "B. 0,6",
+            "C. 2,1",
+            "D. 5,1"
+        ],
+        "level": "low",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 736,
+        "question": "Scegli il verbo corretto nello spazio vuoto\n\nIn ufficio qualcuno dice che la direttrice sembra <u>_______________</u> con il nuovo assunto, ma posso assicurare che lei \u00e8 una persona seria e non c\u2019\u00e8 nessuna relazione fra loro due.",
+        "ground_truth": "d",
+        "options": [
+            "a. prendersela;",
+            "b. cavarsela;",
+            "c. vedersela;",
+            "d. intendersela"
+        ],
+        "level": "mid",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 746,
+        "question": "Quante sono le coppie ordinate di numeri naturali $(m; n)$, con $m \u2264 n$, il cui minimo comune multiplo \u00e8 uguale a 1515 ?",
+        "ground_truth": "C",
+        "options": [
+            "(A) 12",
+            "(B) 13",
+            "(C) 14",
+            "(D) 11",
+            "(E) 10"
+        ],
+        "level": "high",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 747,
+        "question": "Il numero $1 000^{100}$ \u00e8 uguale a:",
+        "ground_truth": "D",
+        "options": [
+            "A. \t\t$10^{100 000}$",
+            "B. \t\t$10^{103}$",
+            "C. \t\t$10^{6}$",
+            "D. \t\t$10^{300}$"
+        ],
+        "level": "mid",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 748,
+        "question": "Luca e Carlo giocano uno contro l'altro a tombola (senza altri avversari). Ciascuno ha una cartella con 15 numeri; le due cartelle non hanno numeri in comune. Qual \u00e8 la probabilit\u00e0 che la partita si concluda proprio all'89-esimo numero estratto?",
+        "ground_truth": "C",
+        "options": [
+            "(A) 9/178",
+            "(B) 5/178",
+            "(C) 5/89",
+            "(D) 1/18",
+            "(E) 1/36"
+        ],
+        "level": "high",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 762,
+        "question": "In quale di queste frasi sono presenti tutti gli argomenti del verbo (cio\u00e8 gli elementi obbligatoriamente richiesti dal verbo)?",
+        "ground_truth": "C",
+        "options": [
+            "(A) A tutti noi dissero con molta chiarezza",
+            "(B) La signora prese dalla sua borsetta",
+            "(C) Questo problema vi riguarda tutti",
+            "(D) Molti dei partecipanti sono diventati"
+        ],
+        "level": "high",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 767,
+        "question": "In quale di queste frasi il si ha valore passivante?",
+        "ground_truth": "B",
+        "options": [
+            "(A) La nonna si preoccupa molto per te",
+            "(B) Qui si producono ottimi vini da tavola",
+            "(C) In questa trattoria si mangia benissimo",
+            "(D) La ragazza si vide nello specchio"
+        ],
+        "level": "high",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 778,
+        "question": "Agli alunni di una classe viene chiesto per quanto tempo al giorno, in media, utilizzano la connessione a Internet con i loro dispositivi (PC, Tablet, Smartphone, ... ). \nI risultati del sondaggio sono riportati nella seguente tabella:\nMinuti di connessione a Internet | Frequenze assolute\nDa 0 minuti fino a 60 minuti | 2\nPi\u00f9 di 60 minuti fino a 120 minuti | 4\nPi\u00f9 di 120 minuti fino a 180 minuti | 12\nPi\u00f9 di 180 minuti fino a 300 minuti | 8\nQuale tra le seguenti espressioni permette di calcolare il tempo medio giornaliero di connessione a Internet degli alunni della classe?",
+        "ground_truth": "C",
+        "options": [
+            "(A) $\\frac{30+90+150+240}{4}$",
+            "(B) $\\frac{60\\cdot 2+120\\cdot 4+180\\cdot 12+300\\cdot 8}{2+4+12+8}$",
+            "(C) $\\frac{30\\cdot 2+90\\cdot 4+150\\cdot 12+240\\cdot 8}{2+4+12+8}$",
+            "(D) $\\frac{2+4+12+8}{4}$"
+        ],
+        "level": "high",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 782,
+        "question": "Francesca prepara per il gatto due pasti al giorno utilizzando cibo in scatoletta. \nCon il contenuto di una scatoletta Francesca prepara 3 pasti per il gatto. \nFrancesca ha comprato 8 scatolette di cibo per gatti. Per quanti giorni al massimo le bastano?",
+        "ground_truth": "D",
+        "options": [
+            "(A) 24",
+            "(B) 16",
+            "(C) 8",
+            "(D) 12"
+        ],
+        "level": "low",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 784,
+        "question": "Su una risma di carta di fogli di formato A4 \u00e8 scritto:\n80 g/m^{2} (cio\u00e8 80 grammi al metro quadrato); \nA4\u00a0\u00a0$210\\times 297$ mm (cio\u00e8 le dimensioni di un foglio A4 sono 0,210 metri per 0,297 metri). \nUn foglio A4 \u00e8 all'incirca",
+        "ground_truth": "C",
+        "options": [
+            "A. 0,5 grammi",
+            "B. 1,5 grammi",
+            "C. 5 grammi",
+            "D. 10 grammi"
+        ],
+        "level": "high",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 785,
+        "question": "Indica il significato dell\u2019espressione sottolineata.\n\nPiero aveva una vecchia faccenda da sistemare con Luca, e quando l\u2019ha incontrato <u>gliele ha suonate di santa ragione</u>.",
+        "ground_truth": "c",
+        "options": [
+            "a. gli ha raccontato tutto",
+            "b. lo ha perdonato",
+            "c. lo ha picchiato ben bene",
+            "d. lo ha pregato di aiutarlo"
+        ],
+        "level": "mid",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 786,
+        "question": "Matteo, Marco e Agata si preparano per partecipare alle gare sportive della scuola. Matteo si allena ogni 3 giorni, Marco ogni 4 e Agata ogni 6. \nSe oggi si sono allenati tutti e tre, tra quanti giorni accadr\u00e0 che si alleneranno di nuovo tutti lo stesso giorno?",
+        "ground_truth": "C",
+        "options": [
+            "A. 6",
+            "B. 10",
+            "C. 12",
+            "D. 13"
+        ],
+        "level": "low",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 798,
+        "question": "In quale delle seguenti frasi la parola lo ha funzione di pronome.",
+        "ground_truth": "B",
+        "options": [
+            "(A) <u>Lo</u> zucchero di canna \u00e8 quello che preferisco.",
+            "(B) Ahmed \u00e8 un mio amico e <u>lo</u> invito a pranzo ogni settimana.",
+            "(C) Siamo andati al mare ed \u00e8 venuto con noi anche <u> lo</u> zio Andrea.",
+            "(D) <u>Io</u> e mio fratello quest'anno abbiamo lo zaino nuovo."
+        ],
+        "level": "low",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 799,
+        "question": "Un euro vale circa 130 yen giapponesi. Lorenzo, dopo un viaggio in Giappone, ha ancora nel portafoglio 14000 yen.\nA quanti euro corrispondono?",
+        "ground_truth": "A",
+        "options": [
+            "A. Circa 110 euro",
+            "B. Circa 140 euro",
+            "C. Circa 1300 euro",
+            "D. Circa 1400 euro"
+        ],
+        "level": "low",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 802,
+        "question": "Nelle frasi che seguono sono stati sottolineati tutti gli aggettivi. In quale frase ci sono <u>solo</u> aggettivi qualificativi?",
+        "ground_truth": "C",
+        "options": [
+            "(A) <u>Tutte</u> le mattine il <u>mio</u> amico si alza presto per allenarsi.",
+            "(B) La giraffa con il <u>suo lunghissimo</u> collo raggiunge le foglie pi\u00f9 <u>alte</u>.",
+            "(C) Giorgia corre per lo <u>stretto</u> sentiero con una bicicletta <u>nuova</u>.",
+            "(D) Il <u>famoso</u> tenore ha cantato nella <u>seconda</u> parte dell'opera."
+        ],
+        "level": "low",
+        "subject": "italian",
+        "subject_category": "language"
+    },
+    {
+        "id": 810,
+        "question": "Un palo verticale \u00e8 piantato in uno stagno. Un quinto del palo \u00e8 interrato nel fondale, un sesto \u00e8 immerso in acqua e la parte del palo che esce dall'acqua \u00e8 lunga 8,9 metri. \nQuale delle seguenti equazioni consente di determinare la lunghezza totale x del palo?",
+        "ground_truth": "D",
+        "options": [
+            "(A) $\\ \\frac{1}{5} +\\frac{1}{6} +8$,$9=X$",
+            "(B) $\\ \\frac{1}{5} x+\\frac{1}{6} x=x+8$,9",
+            "(C) $\\ \\frac{1}{5} x+\\frac{1}{6} x+x=8$,9",
+            "(D) $\\ \\frac{1}{5} x+\\frac{1}{6} x+8$,$9=X$"
+        ],
+        "level": "high",
+        "subject": "math",
+        "subject_category": "math"
+    }
+]

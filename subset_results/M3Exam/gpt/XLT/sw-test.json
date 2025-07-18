@@ -1,0 +1,42 @@
+[
+    {
+        "id": 349,
+        "prompt": "I want you to act as a question answering expert for swahili.\nRequest: Sentensi inayounganisha sentensi: \"Juma ni mzee. Juma anasoma kitabu bila miwani\", kisahihi ni:\nA. Juma ni mzee maadamu anasoma kitabu bila miwani.\nB. Juma anasoma kitabu bila miwani licha ya kuwa yeye ni mzee.\nC. Juma ni mzee madhali anasoma kitabu bila miwani.\nD. Juma anasoma kitabu bila miwani minghairi ya yeye ni mzee.\nYou should retell the request in English.\nYou should step-by-step answer to obtain an option.\nYou should tell me the answer in this format: 'Answer: [option]'.",
+        "response": "Request: A sentence that connects the sentences: \"Juma is old. Juma reads a book without glasses.\" The correct option is:\nA. Juma is old as long as he reads a book without glasses.\nB. Juma reads a book without glasses despite being old.\nC. Juma is old as long as he reads a book without glasses.\nD. Juma reads a book without glasses even though he is old.\n\nStep-by-step answer:\n\n1. Analyze the two original sentences: \"Juma is old\" and \"Juma reads a book without glasses.\"\n2. Identify the relationship between the two sentences. The second sentence provides additional information about Juma, which may contrast with the first sentence.\n3. Evaluate each option:\n   - Option A suggests a condition that is not necessarily true; being old does not mean he can read without glasses.\n   - Option B indicates a contrast, which fits well since it acknowledges that despite being old, Juma can read without glasses.\n   - Option C is similar to A and does not accurately reflect the relationship.\n   - Option D uses \"minghairi\" (even though) incorrectly in this context.\n\n4. The best option that accurately connects the two sentences while maintaining the contrast is Option B.\n\nAnswer: B.",
+        "predicted_answer": "B.",
+        "ground_truth": "B",
+        "is_correct": true
+    },
+    {
+        "id": 408,
+        "prompt": "I want you to act as a question answering expert for swahili.\nRequest: Tashbihi\nPopo amekonda kama _________\nA. sindano\nB. ng'onda\nC. kijiti\nD. kasuku\nYou should retell the request in English.\nYou should step-by-step answer to obtain an option.\nYou should tell me the answer in this format: 'Answer: [option]'.",
+        "response": "Request: Tashbihi  \nThe sentence is \"The bat is thin like _________\"  \nA. needle  \nB. a fish  \nC. a stick  \nD. a parrot  \n\nNow, let's analyze the options step-by-step:\n\n1. **Sindano (needle)**: A needle is indeed thin, which could be a suitable comparison for a bat.\n2. **Ng'onda (fish)**: While some fish can be thin, this option is not as direct a comparison as a needle.\n3. **Kijiti (stick)**: A stick can vary in thickness, but it is generally thicker than a bat.\n4. **Kasuku (parrot)**: A parrot is not typically thin; it is more robust compared to a bat.\n\nAfter evaluating the options, the best comparison for \"popo amekonda kama\" (the bat is thin like) is \"sindano\" (needle).\n\nAnswer: A",
+        "predicted_answer": "A",
+        "ground_truth": "B",
+        "is_correct": false
+    },
+    {
+        "id": 72,
+        "prompt": "I want you to act as a question answering expert for swahili.\nRequest: Methali zifuatazo zinahusu bidii. Ipi haifai kuwepo?\nA. Mgaagaa na upwa hali wali mkavu.\nB. Umoja ni nguvu utengano ni udhaifu.\nC. Ukiona vyaelea jua vimeundwa.\nD. Mtaka cha mvunguni sharti ainame.\nYou should retell the request in English.\nYou should step-by-step answer to obtain an option.\nYou should tell me the answer in this format: 'Answer: [option]'.",
+        "response": "Request: The following proverbs are related to hard work. Which one is not appropriate?\n\nA. Mgaagaa na upwa hali wali mkavu.  \nB. Umoja ni nguvu utengano ni udhaifu.  \nC. Ukiona vyaelea jua vimeundwa.  \nD. Mtaka cha mvunguni sharti ainame.  \n\nNow, let's analyze each option step-by-step:\n\nA. \"Mgaagaa na upwa hali wali mkavu.\" - This proverb suggests that one must work hard to achieve something, as it implies that one cannot expect to get something for nothing.\n\nB. \"Umoja ni nguvu utengano ni udhaifu.\" - This proverb emphasizes the strength found in unity and the weakness in division, which is not directly related to hard work.\n\nC. \"Ukiona vyaelea jua vimeundwa.\" - This proverb means that what appears easy or successful often requires effort and hard work behind the scenes.\n\nD. \"Mtaka cha mvunguni sharti ainame.\" - This proverb translates to \"He who wants something from under the bed must bend down,\" indicating that one must put in effort to obtain what they desire.\n\nAfter analyzing the options, option B does not directly relate to hard work but rather to the concept of unity and division.\n\nAnswer: B",
+        "predicted_answer": "B",
+        "ground_truth": "C",
+        "is_correct": false
+    },
+    {
+        "id": 381,
+        "prompt": "I want you to act as a question answering expert for swahili.\nRequest: Chagua neno ambalo limetumia silabi changamano:\nA. Mbuga.\nB. Kituta.\nC. Ziwa.\nD. Utulivu.\nYou should retell the request in English.\nYou should step-by-step answer to obtain an option.\nYou should tell me the answer in this format: 'Answer: [option]'.",
+        "response": "Request: Choose the word that contains a complex syllable.\n\nNow, let's analyze each option step-by-step to identify which one contains a complex syllable:\n\nA. Mbuga - This word has two syllables: mbu-ga. Both syllables are simple.\n\nB. Kituta - This word has three syllables: ki-tu-ta. All syllables are simple.\n\nC. Ziwa - This word has two syllables: zi-wa. Both syllables are simple.\n\nD. Utulivu - This word has four syllables: u-tu-li-vu. The syllable \"tu\" is a complex syllable because it contains a consonant cluster.\n\nAfter analyzing all the options, the word that contains a complex syllable is:\n\nAnswer: D.",
+        "predicted_answer": "D.",
+        "ground_truth": "A",
+        "is_correct": false
+    },
+    {
+        "id": 237,
+        "prompt": "I want you to act as a question answering expert for swahili.\nRequest: Tegua kitendawili hiki: \nMava hapo mava pale\nA. kifo\nB. kioo\nC. kumetameta\nD. kivuli\nYou should retell the request in English.\nYou should step-by-step answer to obtain an option.\nYou should tell me the answer in this format: 'Answer: [option]'.",
+        "response": "Request: Solve this riddle: \nMava hapo mava pale\nA. kifo\nB. kioo\nC. kumetameta\nD. kivuli\n\nStep-by-step answer:\n\n1. **Understanding the riddle**: The phrase \"Mava hapo mava pale\" suggests something that reflects or shows images in two places or has a dual nature.\n\n2. **Analyzing the options**:\n   - A. **kifo** (death) - This does not relate to the idea of reflection or duality.\n   - B. **kioo** (mirror) - A mirror reflects images and can show what is in front of it, thus relating to the idea of \"hapo\" (there) and \"pale\" (over there).\n   - C. **kumetameta** (to shimmer or sparkle) - This does not directly relate to the concept of duality or reflection.\n   - D. **kivuli** (shadow) - A shadow can appear in different places depending on the light source, but it does not reflect images.\n\n3. **Conclusion**: The best fit for the riddle is \"kioo\" (mirror) because it directly relates to the idea of reflecting images in two places.\n\nAnswer: B.",
+        "predicted_answer": "B.",
+        "ground_truth": "D",
+        "is_correct": false
+    }
+]

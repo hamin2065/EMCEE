@@ -1,0 +1,42 @@
+[
+    {
+        "id": 64,
+        "prompt": "I want you to act as a question answering expert for javanese.\nRequest: Kanggo nyegah sumebare COVID-19, sabubare lelungan perlu reresik tangan ....\nA. Sadurunge ndemok sedulur lan anggota kulawargane.\nB. Sadurunge ndemok anggota kulawarga lan barang-barang sing ana ing ngomahe.\nC. Sadurunge mangan lan ngombe ing ngomahe\nD. Sadurunge adus lan ngumbah klambine.\nYou should retell the request in English.\nYou should step-by-step answer to obtain an option.\nYou should tell me the answer in this format: 'Answer: [option]'.",
+        "response": "Let me help you solve this Javanese language problem:\n\nEnglish Translation:\n\"To prevent the spread of COVID-19, after traveling, it is necessary to clean hands....\"\n\nStep-by-step solution:\n1. The question is about hand hygiene after traveling to prevent COVID-19 spread.\n2. Let's analyze each option carefully:\n   A. Before touching relatives and family members\n   B. Before touching family members and household items\n   C. Before eating and drinking at home\n   D. Before bathing and washing clothes\n\n3. COVID-19 prevention guidelines recommend washing hands:\n   - After traveling\n   - Before touching family members\n   - Before eating or drinking\n   - Before touching household surfaces\n\n4. The most comprehensive and scientifically recommended option is to clean hands before touching family members and household items.\n\n5. This prevents potential virus transmission from outside to family and home surfaces.\n\nAnswer: B\n\nThe correct answer is B: Sadurunge ndemok anggota kulawarga lan barang-barang sing ana ing ngomahe (Before touching family members and household items).",
+        "predicted_answer": "B",
+        "ground_truth": "B",
+        "is_correct": true
+    },
+    {
+        "id": 46,
+        "prompt": "I want you to act as a question answering expert for javanese.\nRequest: Waluh, Semangka, Lan Timun Kuwi Klebu Tanduran ....\nA. Palakirna\nB. Palakependhem\nC. Palawija\nD. Palakesimpar\nYou should retell the request in English.\nYou should step-by-step answer to obtain an option.\nYou should tell me the answer in this format: 'Answer: [option]'.",
+        "response": "Let me help you solve this Javanese language question:\n\nEnglish Translation:\n\"Pumpkin, Watermelon, and Cucumber Belong to the Plant Category of....\"\n\nStep-by-step solution:\n1. First, understand the key terms:\n- Waluh = Pumpkin\n- Semangka = Watermelon\n- Timun = Cucumber\n\n2. Analyze the plant categories:\n- Palakirna: Not a standard plant category\n- Palakependhem: Typically refers to root crops\n- Palawija: Refers to secondary crops/non-staple crops\n- Palakesimpar: Not a standard plant category\n\n3. Characteristics of the mentioned plants:\n- All are vine/creeping plants\n- All grow above ground\n- All are fruits/vegetables\n- All belong to the gourd/cucurbit family\n\n4. The term \"Palawija\" best describes these types of plants as secondary crops that are not primary staple foods like rice.\n\nAnswer: C. Palawija",
+        "predicted_answer": "C. Palawija",
+        "ground_truth": "D",
+        "is_correct": false
+    },
+    {
+        "id": 196,
+        "prompt": "I want you to act as a question answering expert for javanese.\nRequest: \u201cWiwitanipun usaha inggih namung nyobi-nyobi, krana pekarangannipun wiyar Panjenengannipun nyobi ternak lele. Dhasar mara sepuhipun pegawai Dinas Peternakan, dados saged ngangsu kawruh bab ternak lele\u201d.\n\nApa gagasan utama saka paragraf ing ndhuwur kuwi ....\nA. Wirausaha ternak lele\nB. Wirausaha\nC. Ternak lele\nD. Pegawai Dinas Peternakan\nYou should retell the request in English.\nYou should step-by-step answer to obtain an option.\nYou should tell me the answer in this format: 'Answer: [option]'.",
+        "response": "English Translation:\n\"The beginning of the business was just trying, because the yard was wide, he tried to raise catfish. Since his parents were employees of the Livestock Service, he could gain knowledge about catfish farming.\"\n\nStep-by-step solution:\n1. Analyze the key elements of the paragraph:\n- The person started a business by trying catfish farming\n- He had a wide yard\n- His parents worked in the Livestock Service, which helped him learn about catfish farming\n\n2. Identify the main theme:\n- The paragraph focuses on starting a catfish farming business\n- The emphasis is on the process of trying and learning about catfish farming\n\n3. Evaluate the options:\nA. Wirausaha ternak lele (Catfish farming business) - Most closely matches the paragraph's content\nB. Wirausaha (Entrepreneurship) - Too broad\nC. Ternak lele (Catfish farming) - Too narrow\nD. Pegawai Dinas Peternakan (Livestock Service employee) - Not the main focus\n\n4. Select the most appropriate answer based on the paragraph's main idea.\n\nAnswer: A",
+        "predicted_answer": "A",
+        "ground_truth": "A",
+        "is_correct": true
+    },
+    {
+        "id": 244,
+        "prompt": "I want you to act as a question answering expert for javanese.\nRequest: Sapu Sada\n\nJumat bersih\nResik lan sehat\nCancut tali wanda\nNandur kabecikan\nCilik gedhe bagus ayu\nOra mung padha gumuyu\nOra tinggal glanggang calon playu\nTumuju adiwiyata murih rahayu\nCrah agawe bubrah\nRukun agawe santosa\nGuyub rukun kaya sapu sada\n\nGeguritan ing ndhuwur surasane bab ....\na. kerja bakti\nb. sapu\nc. rukun\nd. gojekan\nYou should retell the request in English.\nYou should step-by-step answer to obtain an option.\nYou should tell me the answer in this format: 'Answer: [option]'.",
+        "response": "I'll help you solve this Javanese poetry question step by step.\n\nEnglish Translation of the Request:\nDetermine the main theme/content of the poem \"Sapu Sada\" by choosing the correct option.\n\nStep-by-Step Analysis:\n1. First, let's understand the poem's key themes:\n- Mentions \"Jumat bersih\" (Clean Friday)\n- Talks about cleanliness and health\n- Emphasizes unity and cooperation\n- Uses metaphors about working together\n\n2. Key phrases to note:\n- \"Resik lan sehat\" (Clean and healthy)\n- \"Crah agawe bubrah\" (Conflict causes destruction)\n- \"Rukun agawe santosa\" (Unity creates strength)\n\n3. Analyzing the options:\na. kerja bakti (community service) - Matches the poem's spirit of collective work\nb. sapu (broom) - Mentioned in title, but not the main theme\nc. rukun (harmony/unity) - Strongly represented in the poem\nd. gojekan (joking) - Not a primary theme\n\n4. The poem emphasizes unity, cooperation, and collective effort.\n\nAnswer: c. rukun\n\nThe poem's core message is about maintaining harmony and working together for community well-being.",
+        "predicted_answer": "c. rukun",
+        "ground_truth": "a",
+        "is_correct": false
+    },
+    {
+        "id": 68,
+        "prompt": "I want you to act as a question answering expert for javanese.\nRequest: Jamaah jumat ingkang kawula bhekteni, monggo kita sareng-sareng nglampahi sedaya ingkang sampun perintah dining Alloh SWT. Lan nebihi sedaya laranganlaranganipun.....\n\nUkara-ukara ing inggil minangka tuladha ....\nA. Sesorah\nB. Khotbah\nC. Atur pambagya\nD. Atur pranatacara\nYou should retell the request in English.\nYou should step-by-step answer to obtain an option.\nYou should tell me the answer in this format: 'Answer: [option]'.",
+        "response": "I'll help you solve this Javanese language question step by step.\n\nEnglish Translation of the Request:\n\"Respected Friday congregation, let us together carry out all that has been commanded by Allah SWT and avoid all of His prohibitions....\"\n\nThe question asks: What type of text/speech is represented by these sentences?\n\nStep-by-step analysis:\n1. The text begins with addressing a congregation (\"Jamaah jumat\")\n2. It contains a religious call to follow divine commands\n3. The language is formal and persuasive\n4. It seems to be spoken in a religious context\n\nCharacteristics of each option:\nA. Sesorah: General speech or address\nB. Khotbah: Religious sermon/speech, typically given during Friday prayers\nC. Atur pambagya: Congratulatory speech\nD. Atur pranatacara: Ceremonial speech/master of ceremonies text\n\nGiven the religious context, tone, and mention of \"Jamaah jumat\" (Friday congregation), this most closely resembles a religious sermon.\n\nAnswer: B. Khotbah",
+        "predicted_answer": "B. Khotbah",
+        "ground_truth": "B",
+        "is_correct": true
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "id": "71",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: Kad\u0131n uyuyakald\u0131.\nWhat is the effect?\nChoice1: Geceyi bir otelde ge\u00e7irdi.\nChoice2: \u00c7alar saatini kurmay\u0131 unuttu.\nExplanation: The premise states that \"Kad\u0131n uyuyakald\u0131,\" which means \"The woman fell asleep.\" A common reason for someone to unexpectedly fall asleep is forgetting to set an alarm, leading to them sleeping longer than intended. This aligns with choice 2, \"\u00c7alar saatini kurmay\u0131 unuttu,\" meaning \"She forgot to set her alarm clock.\" This choice directly connects to the cause of her falling asleep, while choice 1, \"Geceyi bir otelde ge\u00e7irdi,\" does not logically follow from the premise.",
+        "response": "2",
+        "explanation": "The premise states that \"Kad\u0131n uyuyakald\u0131,\" which means \"The woman fell asleep.\" A common reason for someone to unexpectedly fall asleep is forgetting to set an alarm, leading to them sleeping longer than intended. This aligns with choice 2, \"\u00c7alar saatini kurmay\u0131 unuttu,\" meaning \"She forgot to set her alarm clock.\" This choice directly connects to the cause of her falling asleep, while choice 1, \"Geceyi bir otelde ge\u00e7irdi,\" does not logically follow from the premise.",
+        "predicted_answer": "2",
+        "ground_truth": 1,
+        "is_correct": true
+    },
+    {
+        "id": "12",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: Yazd\u0131\u011f\u0131m \u00e7ek kar\u015f\u0131l\u0131ks\u0131z \u00e7\u0131kt\u0131.\nWhat is the effect?\nChoice1: Banka hesab\u0131mda para yoktu.\nChoice2: Maa\u015f zamm\u0131 kazand\u0131m.\nExplanation: The premise states that \"Yazd\u0131\u011f\u0131m \u00e7ek kar\u015f\u0131l\u0131ks\u0131z \u00e7\u0131kt\u0131,\" which means \"The check I wrote bounced.\" A bounced check typically occurs when there are insufficient funds in the bank account to cover the amount of the check. Therefore, the most logical effect of this situation is that there was no money in the bank account, making choice 1, \"Banka hesab\u0131mda para yoktu,\" the correct answer. Choice 2, \"Maa\u015f zamm\u0131 kazand\u0131m,\" which means \"I received a salary increase,\" does not directly relate to the reason for the check bouncing.",
+        "response": "1",
+        "explanation": "The premise states that \"Yazd\u0131\u011f\u0131m \u00e7ek kar\u015f\u0131l\u0131ks\u0131z \u00e7\u0131kt\u0131,\" which means \"The check I wrote bounced.\" A bounced check typically occurs when there are insufficient funds in the bank account to cover the amount of the check. Therefore, the most logical effect of this situation is that there was no money in the bank account, making choice 1, \"Banka hesab\u0131mda para yoktu,\" the correct answer. Choice 2, \"Maa\u015f zamm\u0131 kazand\u0131m,\" which means \"I received a salary increase,\" does not directly relate to the reason for the check bouncing.",
+        "predicted_answer": "1",
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "346",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: Tahta zemin \u00e7izilmeye ba\u015flad\u0131.\nWhat is the cause?\nChoice1: Gen\u00e7, koltuktaki yast\u0131klar\u0131 kald\u0131rd\u0131.\nChoice2: Gen\u00e7, bir sandalyeyi zeminde s\u00fcr\u00fckledi.\nExplanation: The premise states that \"Tahta zemin \u00e7izilmeye ba\u015flad\u0131,\" which means \"The wooden floor started to get scratched.\" Scratches on a wooden floor are typically caused by heavy objects being dragged or moved across it. In this context, choice 2, \"Gen\u00e7, bir sandalyeyi zeminde s\u00fcr\u00fckledi,\" meaning \"The young person dragged a chair on the floor,\" is the most logical cause of the scratches. Dragging a chair can easily lead to scratches on a wooden surface, while lifting cushions does not have the same effect.",
+        "response": "2",
+        "explanation": "The premise states that \"Tahta zemin \u00e7izilmeye ba\u015flad\u0131,\" which means \"The wooden floor started to get scratched.\" Scratches on a wooden floor are typically caused by heavy objects being dragged or moved across it. In this context, choice 2, \"Gen\u00e7, bir sandalyeyi zeminde s\u00fcr\u00fckledi,\" meaning \"The young person dragged a chair on the floor,\" is the most logical cause of the scratches. Dragging a chair can easily lead to scratches on a wooden surface, while lifting cushions does not have the same effect.",
+        "predicted_answer": "2",
+        "ground_truth": 1,
+        "is_correct": true
+    },
+    {
+        "id": "172",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: Can\u0131m bir bardak s\u00fct \u00e7ekti.\nWhat is the cause?\nChoice1: Kurabiye yiyordum.\nChoice2: Ekmek yap\u0131yordum.\nExplanation: The premise \"Can\u0131m bir bardak s\u00fct \u00e7ekti\" translates to \"I craved a glass of milk.\" Cravings for milk often arise in the context of enjoying certain foods that pair well with it. In this case, choice 1, \"Kurabiye yiyordum,\" which means \"I was eating cookies,\" is a likely cause for the craving. Cookies are commonly enjoyed with milk, making it a natural pairing that could lead to a desire for a glass of milk. On the other hand, choice 2, \"Ekmek yap\u0131yordum\" (I was making bread), does not typically evoke a craving for milk in the same way.",
+        "response": "1",
+        "explanation": "The premise \"Can\u0131m bir bardak s\u00fct \u00e7ekti\" translates to \"I craved a glass of milk.\" Cravings for milk often arise in the context of enjoying certain foods that pair well with it. In this case, choice 1, \"Kurabiye yiyordum,\" which means \"I was eating cookies,\" is a likely cause for the craving. Cookies are commonly enjoyed with milk, making it a natural pairing that could lead to a desire for a glass of milk. On the other hand, choice 2, \"Ekmek yap\u0131yordum\" (I was making bread), does not typically evoke a craving for milk in the same way.",
+        "predicted_answer": "1",
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "229",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: Oyuncu rakibi ile m\u00fccadele etti.\nWhat is the effect?\nChoice1: Rakibi pas\u0131 yakalad\u0131.\nChoice2: Rakibi yere d\u00fc\u015ft\u00fc.\nExplanation: The premise states that \"Oyuncu rakibi ile m\u00fccadele etti,\" which means \"The player fought with their opponent.\" In a competitive context, such as sports or games, \"m\u00fccadele\" implies a struggle or contest between players. If the player is actively fighting or competing, it is likely that their opponent may fall as a result of this struggle. Therefore, choice 2, \"Rakibi yere d\u00fc\u015ft\u00fc,\" which means \"The opponent fell,\" is the more logical effect of the player's actions. Choice 1, \"Rakibi pas\u0131 yakalad\u0131,\" suggests a different scenario that does not directly relate to the struggle implied in the premise.",
+        "response": "2",
+        "explanation": "The premise states that \"Oyuncu rakibi ile m\u00fccadele etti,\" which means \"The player fought with their opponent.\" In a competitive context, such as sports or games, \"m\u00fccadele\" implies a struggle or contest between players. If the player is actively fighting or competing, it is likely that their opponent may fall as a result of this struggle. Therefore, choice 2, \"Rakibi yere d\u00fc\u015ft\u00fc,\" which means \"The opponent fell,\" is the more logical effect of the player's actions. Choice 1, \"Rakibi pas\u0131 yakalad\u0131,\" suggests a different scenario that does not directly relate to the struggle implied in the premise.",
+        "predicted_answer": "2",
+        "ground_truth": 1,
+        "is_correct": true
+    }
+]

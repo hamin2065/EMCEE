@@ -1,0 +1,99 @@
+[
+    {
+        "id": "-6331825608100129065",
+        "prompt": "Answer the question in one or a few words in English: \nH\u1ecd ch\u1ea1y v\u1edbi nh\u1eefng con b\u00f2 \u1edf \u0111\u00e2u trong T\u00e2y Ba Nha?\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "Bullfighting\n\nAnswer: Bullfighting",
+        "predicted_answer": "Bullfighting",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q10282",
+                "text": "Pamplona",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q29",
+                "text": "T\u00e2y Ban Nha",
+                "aliases": []
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "-2636623161713410044",
+        "prompt": "Answer the question in one or a few words in English: \nnew york mets th\u00e0nh l\u1eadp khi n\u00e0o\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "N\u0103m 1962\n\nAnswer: N\u0103m 1962",
+        "predicted_answer": "N\u0103m 1962",
+        "ground_truth": [
+            {
+                "type": "date",
+                "text": "1962",
+                "aliases": [
+                    "1962"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "-7124524575011905701",
+        "prompt": "Answer the question in one or a few words in English: \nng\u00e0y c\u1ee7a cha l\u00e0 ng\u00e0y n\u00e0o\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "Ng\u00e0y c\u1ee7a cha l\u00e0 ng\u00e0y 19/3.\n\nAnswer: 19/3",
+        "predicted_answer": "19/3",
+        "ground_truth": [
+            {
+                "type": "date",
+                "text": "2020-06-21",
+                "aliases": [
+                    "21-06-2020",
+                    "21 06 2020",
+                    "06 21 2020",
+                    "2020 june, 21",
+                    "2020-06-21",
+                    "06-21-2020",
+                    "21 th\u00e1ng S\u00e1u 2020",
+                    "21/06/2020",
+                    "2020 th\u00e1ng S\u00e1u 21",
+                    "2020 06 21",
+                    "06/21/2020"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "5118505966272271760",
+        "prompt": "Answer the question in one or a few words in English: \nAi l\u00e0 nh\u00f3m tr\u01b0\u1edfng nh\u00f3m nh\u1ea1c The Beautiful South\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "Paul Heaton\n\nAnswer: Paul Heaton",
+        "predicted_answer": "Paul Heaton",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "text": "Paul Heaton",
+                "entity": "Q1938749"
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "6039981987742679389",
+        "prompt": "Answer the question in one or a few words in English: \nng\u01b0\u1eddi \u0111\u00e3 li\u00ean minh v\u1edbi ng\u01b0\u1eddi Anh trong cu\u1ed9c c\u00e1ch m\u1ea1ng M\u1ef9\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "Ng\u01b0\u1eddi Ph\u00e1p\n\nAnswer: Ng\u01b0\u1eddi Ph\u00e1p",
+        "predicted_answer": "Ng\u01b0\u1eddi Ph\u00e1p",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q183",
+                "text": "\u0110\u1ee9c",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "text": "\u0110\u1ee9c",
+                "entity": "Q183"
+            }
+        ],
+        "is_correct": null
+    }
+]

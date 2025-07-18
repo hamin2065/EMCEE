@@ -1,0 +1,42 @@
+[
+    {
+        "id": "71",
+        "prompt": "Here is a premise: Kad\u0131n uyuyakald\u0131.. What is the effect? Help me pick the more plausible option: -choice1: Geceyi bir otelde ge\u00e7irdi., -choice2: [choice]\nLet's think step-by-step in English.\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "To determine the most plausible option, let's break down the phrase \"Kad\u0131n uyuyakald\u0131\" (The woman fell asleep).\n\nSince the phrase implies a sudden loss of consciousness, we can assume that the woman was in a location where she could easily fall asleep. \n\nOption 1: \"Geceyi bir otelde ge\u00e7irdi\" (She spent the night in a hotel) doesn't necessarily imply that she fell asleep in the hotel. It's possible, but not the only option.\n\nOption 2: Since the woman fell asleep, it's more likely that she was in a familiar or comfortable environment, such as her own home. This would make it more plausible for her to fall asleep.\n\nConsidering the above points, the more plausible option is:\nAnswer: 2",
+        "predicted_answer": 2,
+        "ground_truth": 1,
+        "is_correct": true
+    },
+    {
+        "id": "12",
+        "prompt": "Here is a premise: Yazd\u0131\u011f\u0131m \u00e7ek kar\u015f\u0131l\u0131ks\u0131z \u00e7\u0131kt\u0131.. What is the effect? Help me pick the more plausible option: -choice1: Banka hesab\u0131mda para yoktu., -choice2: [choice]\nLet's think step-by-step in English.\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "To determine the more plausible option, let's break down the given premise: \"Yazd\u0131\u011f\u0131m \u00e7ek kar\u015f\u0131l\u0131ks\u0131z \u00e7\u0131kt\u0131.\"\n\n- \"Yazd\u0131\u011f\u0131m \u00e7ek\" means \"the check I wrote\" or \"the check I issued.\"\n- \"Kar\u015f\u0131l\u0131ks\u0131z \u00e7\u0131kt\u0131\" means \"bounced\" or \"came back unpaid.\"\n\nThis implies that the check was written but there were insufficient funds in the account to cover it.\n\nGiven this information, let's evaluate the options:\n\n- choice1: \"Banka hesab\u0131mda para yoktu\" means \"there was no money in my bank account.\"\n- choice2: (no option provided)\n\nSince the premise indicates that the check bounced due to insufficient funds, the most plausible option would be related to the account not having sufficient funds.\n\nAnswer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "346",
+        "prompt": "Here is a premise: Tahta zemin \u00e7izilmeye ba\u015flad\u0131.. What is the cause? Help me pick the more plausible option: -choice1: Gen\u00e7, koltuktaki yast\u0131klar\u0131 kald\u0131rd\u0131., -choice2: [choice]\nLet's think step-by-step in English.\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "To determine the cause, let's break down the situation step by step.\n\n1. The phrase \"Tahta zemin \u00e7izilmeye ba\u015flad\u0131\" translates to \"The wooden floor started to be drawn.\" This implies that something is being drawn or marked on the wooden floor.\n\n2. Considering the first option: \"Gen\u00e7, koltuktaki yast\u0131klar\u0131 kald\u0131rd\u0131\" translates to \"The young person removed the pillows from the armchair.\" This action doesn't directly relate to drawing or marking on the floor.\n\n3. To find a more plausible cause, we need an option that involves an action that could lead to drawing or marking on the floor. \n\n4. Since the first option doesn't seem to fit, let's consider the second option. However, you haven't provided the second option. \n\n5. Assuming the second option is something that could lead to drawing or marking on the floor, let's consider a possible option: \"Gen\u00e7, kalemi ald\u0131\" translates to \"The young person picked up a pen/pencil.\" This action could lead to drawing or marking on the floor.\n\nHowever, since you didn't provide the second option, I'll make an assumption. Let's assume the second option is something that involves drawing or marking on",
+        "predicted_answer": "To determine the cause, let's break down the situation step by step.\n\n1. The phrase \"Tahta zemin \u00e7izilmeye ba\u015flad\u0131\" translates to \"The wooden floor started to be drawn.\" This implies that something is being drawn or marked on the wooden floor.\n\n2. Considering the first option: \"Gen\u00e7, koltuktaki yast\u0131klar\u0131 kald\u0131rd\u0131\" translates to \"The young person removed the pillows from the armchair.\" This action doesn't directly relate to drawing or marking on the floor.\n\n3. To find a more plausible cause, we need an option that involves an action that could lead to drawing or marking on the floor. \n\n4. Since the first option doesn't seem to fit, let's consider the second option. However, you haven't provided the second option. \n\n5. Assuming the second option is something that could lead to drawing or marking on the floor, let's consider a possible option: \"Gen\u00e7, kalemi ald\u0131\" translates to \"The young person picked up a pen/pencil.\" This action could lead to drawing or marking on the floor.\n\nHowever, since you didn't provide the second option, I'll make an assumption. Let's assume the second option is something that involves drawing or marking on",
+        "ground_truth": 1,
+        "is_correct": false
+    },
+    {
+        "id": "172",
+        "prompt": "Here is a premise: Can\u0131m bir bardak s\u00fct \u00e7ekti.. What is the cause? Help me pick the more plausible option: -choice1: Kurabiye yiyordum., -choice2: [choice]\nLet's think step-by-step in English.\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "To determine the cause, let's analyze the situation step by step.\n\n1. Consuming milk (s\u00fct) is a common action that can be triggered by various factors.\n2. Choice 1: Kurabiye yiyordum (I was eating cookies) - Cookies are often sweet and can stimulate the desire for a glass of milk to balance the sweetness.\n3. Choice 2: We don't have information about this option yet, so we can't analyze it.\n\nConsidering the common association between cookies and milk, it's more plausible that the desire for milk is triggered by eating cookies.\n\nAnswer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "229",
+        "prompt": "Here is a premise: Oyuncu rakibi ile m\u00fccadele etti.. What is the effect? Help me pick the more plausible option: -choice1: Rakibi pas\u0131 yakalad\u0131., -choice2: [choice]\nLet's think step-by-step in English.\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "Let's analyze the situation step-by-step.\n\n1. The player (oyuncu) is in a competition or a game.\n2. The player is fighting or competing with their opponent (rakibi).\n3. The player is trying to achieve something, possibly scoring or winning.\n\nGiven the situation, if the player's opponent successfully receives or catches the ball (pas\u0131 yakalad\u0131), it would likely hinder the player's chances of winning or achieving their goal.\n\nTherefore, the most plausible effect of the player's opponent receiving the ball is:\n\nAnswer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 1,
+        "is_correct": false
+    }
+]

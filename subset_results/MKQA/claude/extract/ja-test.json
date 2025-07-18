@@ -1,0 +1,102 @@
+[
+    {
+        "id": "-8785178576893271242",
+        "sys_prompt": "The following is a reasoning question. Given question and explanation, write answer with format of \"Answer: [one or a few words]\".",
+        "user_prompt": "Question: \u5927\u8349\u539f\u306e\u5c0f\u3055\u306a\u5bb6\u3067\u30cd\u30ea\u30fc\u3092\u6f14\u3058\u305f\u306e\u306f\u8ab0\u3067\u3059\u304b\uff1f\nExplanation: In the popular American television series \"Little House on the Prairie\" (\u5927\u8349\u539f\u306e\u5c0f\u3055\u306a\u5bb6), Nellie Oleson was portrayed by actress Melissa Gilbert. Nellie was a memorable antagonist character known for her bratty and spoiled personality, who often served as a rival to the main character Laura Ingalls (also played by Melissa Gilbert). The show, which aired from 1974 to 1983, was based on Laura Ingalls Wilder's autobiographical book series about pioneer life in the American Midwest during the late 19th century. Melissa Gilbert's portrayal of Nellie was so iconic that she became one of the most recognizable characters in the series, embodying the classic \"mean girl\" archetype of the time.",
+        "response": "Melissa Gilbert",
+        "explanation": "In the popular American television series \"Little House on the Prairie\" (\u5927\u8349\u539f\u306e\u5c0f\u3055\u306a\u5bb6), Nellie Oleson was portrayed by actress Melissa Gilbert. Nellie was a memorable antagonist character known for her bratty and spoiled personality, who often served as a rival to the main character Laura Ingalls (also played by Melissa Gilbert). The show, which aired from 1974 to 1983, was based on Laura Ingalls Wilder's autobiographical book series about pioneer life in the American Midwest during the late 19th century. Melissa Gilbert's portrayal of Nellie was so iconic that she became one of the most recognizable characters in the series, embodying the classic \"mean girl\" archetype of the time.",
+        "predicted_answer": "Melissa Gilbert",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q265540",
+                "text": "\u30a2\u30ea\u30bd\u30f3\u30fb\u30a2\u30fc\u30f3\u30b0\u30ea\u30f3",
+                "aliases": []
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "2479806972542856767",
+        "sys_prompt": "The following is a reasoning question. Given question and explanation, write answer with format of \"Answer: [one or a few words]\".",
+        "user_prompt": "Question: \u300c\u30d8\u30f3\u30bc\u30eb\u3068\u30b0\u30ec\u30fc\u30c6\u30eb\u300d\u306e\u9b54\u5973\u5f79\u306f\u8ab0\uff1f\nExplanation: In the classic fairy tale \"Hansel and Gretel,\" the witch is typically portrayed as an evil, cannibalistic character who lives in a house made of candy and wants to eat the children. In most traditional versions of the story, the witch is not given a specific name, but is simply referred to as \"the witch\" or \"the evil witch.\" The character represents a classic fairy tale villain who tries to lure and trap children, symbolizing the dangers and fears that children might encounter. In the Grimm Brothers' original version, the witch is a cruel and cunning character who wants to cook and eat Hansel and Gretel, embodying the dark and cautionary elements common in traditional fairy tales. Understanding the witch's role helps illustrate the moral lessons and psychological themes often present in these traditional stories.",
+        "response": "\u540d\u524d\u306a\u3057\uff08\u9b54\u5973\uff09",
+        "explanation": "In the classic fairy tale \"Hansel and Gretel,\" the witch is typically portrayed as an evil, cannibalistic character who lives in a house made of candy and wants to eat the children. In most traditional versions of the story, the witch is not given a specific name, but is simply referred to as \"the witch\" or \"the evil witch.\" The character represents a classic fairy tale villain who tries to lure and trap children, symbolizing the dangers and fears that children might encounter. In the Grimm Brothers' original version, the witch is a cruel and cunning character who wants to cook and eat Hansel and Gretel, embodying the dark and cautionary elements common in traditional fairy tales. Understanding the witch's role helps illustrate the moral lessons and psychological themes often present in these traditional stories.",
+        "predicted_answer": "\u540d\u524d\u306a\u3057\uff08\u9b54\u5973\uff09",
+        "ground_truth": [
+            {
+                "type": "short_phrase",
+                "text": "\u30ed\u30b8\u30fc\u30ca \u30ec\u30c3\u30ab\u30fc\u30de\u30a6\u30eb"
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "-3578394134252581",
+        "sys_prompt": "The following is a reasoning question. Given question and explanation, write answer with format of \"Answer: [one or a few words]\".",
+        "user_prompt": "Question: \u30d2\u30de\u30e9\u30e4\u5c71\u8108\u306f\u4e16\u754c\u3067\u6700\u3082\u9ad8\u3044\u5c71\u306a\u306e\u304b\nExplanation: No, the Himalayan mountain range is not the world's highest mountain, though it contains the world's highest peak, Mount Everest. The Himalayas are a mountain range located primarily in Nepal, India, and Tibet, and Mount Everest (8,848 meters/29,029 feet) is the highest individual mountain on Earth. While the Himalayas are incredibly significant in terms of altitude and geological importance, they are a mountain range, not a single mountain. Understanding the distinction between a mountain range and an individual mountain peak is crucial for geographical accuracy. The Himalayas are remarkable for having multiple peaks over 8,000 meters, making them the highest mountain range in the world.Answer should be either \"yes\" or \"no\".",
+        "response": "no",
+        "explanation": "No, the Himalayan mountain range is not the world's highest mountain, though it contains the world's highest peak, Mount Everest. The Himalayas are a mountain range located primarily in Nepal, India, and Tibet, and Mount Everest (8,848 meters/29,029 feet) is the highest individual mountain on Earth. While the Himalayas are incredibly significant in terms of altitude and geological importance, they are a mountain range, not a single mountain. Understanding the distinction between a mountain range and an individual mountain peak is crucial for geographical accuracy. The Himalayas are remarkable for having multiple peaks over 8,000 meters, making them the highest mountain range in the world.",
+        "predicted_answer": "no",
+        "ground_truth": [
+            {
+                "type": "binary",
+                "text": "no"
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "8245563213341141772",
+        "sys_prompt": "The following is a reasoning question. Given question and explanation, write answer with format of \"Answer: [one or a few words]\".",
+        "user_prompt": "Question: \u6700\u521d\u306e\u30a8\u30af\u30bd\u30b7\u30b9\u30c8\u306e\u6620\u753b\u304c\u516c\u958b\u3055\u308c\u305f\u306e\u306f\u3044\u3064\u304b\nExplanation: The first \"Exorcist\" movie was released in 1973, directed by William Friedkin and based on William Peter Blatty's novel. This groundbreaking horror film, which premiered on December 26, 1973, was a massive cultural phenomenon that significantly impacted the horror genre and cinema history. The movie was so shocking and controversial for its time that it caused audience members to faint, vomit, and walk out of theaters during screenings. Its graphic depiction of demonic possession and intense psychological horror made it one of the most influential horror films ever made, setting a new standard for the genre and sparking widespread discussions about religious themes and supernatural experiences.",
+        "response": "1973",
+        "explanation": "The first \"Exorcist\" movie was released in 1973, directed by William Friedkin and based on William Peter Blatty's novel. This groundbreaking horror film, which premiered on December 26, 1973, was a massive cultural phenomenon that significantly impacted the horror genre and cinema history. The movie was so shocking and controversial for its time that it caused audience members to faint, vomit, and walk out of theaters during screenings. Its graphic depiction of demonic possession and intense psychological horror made it one of the most influential horror films ever made, setting a new standard for the genre and sparking widespread discussions about religious themes and supernatural experiences.",
+        "predicted_answer": "1973",
+        "ground_truth": [
+            {
+                "type": "date",
+                "text": "1973-12-26",
+                "aliases": [
+                    "1973 12 26",
+                    "12/26/1973",
+                    "12-26-1973",
+                    "26-12-1973",
+                    "1973 \u5341\u4e8c\u6708 26",
+                    "26/12/1973",
+                    "1973 december, 26",
+                    "1973-12-26",
+                    "12 26 1973",
+                    "26 12 1973",
+                    "26 \u5341\u4e8c\u6708 1973"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "2485054536940137946",
+        "sys_prompt": "The following is a reasoning question. Given question and explanation, write answer with format of \"Answer: [one or a few words]\".",
+        "user_prompt": "Question: \u30a2\u30e9\u30e2\u306e\u6226\u3044\u306f\u3069\u3053\u3067\u884c\u306a\u308f\u308c\u307e\u3057\u305f\u304b\nExplanation: The Battle of the Alamo took place in San Antonio, Texas, specifically at the Alamo Mission (Mission San Antonio de Valero). This historic battle occurred in 1836 during the Texas Revolution, where a small group of Texan defenders, including famous figures like Davy Crockett and Jim Bowie, fought against a much larger Mexican army led by General Santa Anna. The battle lasted 13 days and ended with the complete defeat of the Texan defenders, but it became a powerful symbol of resistance and ultimately inspired more Texans to join the fight for independence from Mexico. Understanding this battle is crucial to comprehending Texas history and the state's path to becoming part of the United States. The Alamo is now a museum and a significant historical landmark that symbolizes Texas pride and heroism.",
+        "response": "San Antonio",
+        "explanation": "The Battle of the Alamo took place in San Antonio, Texas, specifically at the Alamo Mission (Mission San Antonio de Valero). This historic battle occurred in 1836 during the Texas Revolution, where a small group of Texan defenders, including famous figures like Davy Crockett and Jim Bowie, fought against a much larger Mexican army led by General Santa Anna. The battle lasted 13 days and ended with the complete defeat of the Texan defenders, but it became a powerful symbol of resistance and ultimately inspired more Texans to join the fight for independence from Mexico. Understanding this battle is crucial to comprehending Texas history and the state's path to becoming part of the United States. The Alamo is now a museum and a significant historical landmark that symbolizes Texas pride and heroism.",
+        "predicted_answer": "San Antonio",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q1439",
+                "text": "\u30c6\u30ad\u30b5\u30b9\u5dde",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q975",
+                "text": "\u30b5\u30f3\u30a2\u30f3\u30c8\u30cb\u30aa",
+                "aliases": [
+                    "\u30a2\u30f3\u30c8\u30cb\u30a6\u30b9"
+                ]
+            }
+        ],
+        "is_correct": null
+    }
+]

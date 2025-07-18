@@ -1,0 +1,2763 @@
+[
+    {
+        "id": 0,
+        "question": "Die Nazi se beleid vir Lebensraum van 1939...",
+        "ground_truth": "A",
+        "options": [
+            "(A) Was 'n ekspansionistiese buitelandse beleid.",
+            "(B) Het Hitler diktatoriale mag gegee",
+            "(C) Het Hitler die Fuhrer gemaak",
+            "(D) Het die Nazi Party die enigste wettige politieke party in Duitsland gemaak."
+        ],
+        "level": "mid",
+        "subject": "history",
+        "subject_category": "social-science"
+    },
+    {
+        "id": 1,
+        "question": "Die Vryheidsmanifes is aangeneem by;",
+        "ground_truth": "B",
+        "options": [
+            "(A) PAC",
+            "(B) Kongres van die mense",
+            "(C) ANC Kongres",
+            "(D) Indiese Kongres"
+        ],
+        "level": "mid",
+        "subject": "history",
+        "subject_category": "social-science"
+    },
+    {
+        "id": 2,
+        "question": "In 'n sak met albasters is daar 7 blou, 5 rooi en 8 geel albasters. Wat is die waarskynlikheid dat 'n rooi albaster uitgehaal sal word?",
+        "ground_truth": "D",
+        "options": [
+            "(A) 1/5",
+            "(B) 1/2",
+            "(C) 1/3",
+            "(D) 1/4"
+        ],
+        "level": "mid",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 3,
+        "question": "Een van die Redes vir Nazi-ondersteuning was...",
+        "ground_truth": "A",
+        "options": [
+            "(A) Adolf Hitler se sjarme",
+            "(B) Adolf Hitler se liefde vir Joodse mense",
+            "(C) Adolf Hitler se liefde vir kuns",
+            "(D) B en C"
+        ],
+        "level": "mid",
+        "subject": "history",
+        "subject_category": "social-science"
+    },
+    {
+        "id": 5,
+        "question": "As al die geleiers van koperdraad gemaak is, watter het die grootste \nweerstand?",
+        "ground_truth": "A",
+        "options": [
+            "(A) Lank, dun en warm",
+            "(B) Kort, dun en koel",
+            "(C) Lank, dik en warm",
+            "(D) Kort, dik en koe"
+        ],
+        "level": "mid",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 7,
+        "question": "Watter van die volgende minerale kan nie in natuurlike vorm gebruik word nie?",
+        "ground_truth": "C",
+        "options": [
+            "(A) Potas",
+            "(B) Sand",
+            "(C) Goud",
+            "(D) Diamante"
+        ],
+        "level": "mid",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 8,
+        "question": "'n Eienskap van suur:",
+        "ground_truth": "D",
+        "options": [
+            "(A) voel seperig",
+            "(B) smaak bitter",
+            "(C) neutrale pH",
+            "(D) smaak suur"
+        ],
+        "level": "mid",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 9,
+        "question": "Kies die KORREKTE antwoord.\n'n Groot wolk gas waaruit 'n ster gebore word",
+        "ground_truth": "E",
+        "options": [
+            "(A) Planet\u00eare nebula",
+            "(B) Rooi reus",
+            "(C) Wit dwerg",
+            "(D) Die son",
+            "(E) Nebula",
+            "(F) Swart dwerg",
+            "(G) Kernfusie / Kernversmelting"
+        ],
+        "level": "mid",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 11,
+        "question": "12,5 liter kan in milliliter omskryf word as \u2026",
+        "ground_truth": "B",
+        "options": [
+            "(A) 1 250 ml.",
+            "(B) 12 500 ml.",
+            "(C) 125 ml.",
+            "(D) 0,125 ml."
+        ],
+        "level": "low",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 12,
+        "question": "Watter van die volgende strukture is betrokke by die handhawing van balans wanneer daar 'n verandering in die rigting en beweging van die liggaam is?",
+        "ground_truth": "A",
+        "options": [
+            "(A) Halfsirkelvormige kanale en serebellum",
+            "(B) Eustachius-buis en serebellum",
+            "(C) Halfsirkelvormige kanale en serebrum",
+            "(D) Eustachius-buis en serebrum"
+        ],
+        "level": "high",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 15,
+        "question": "$( x^{4} y^{5} z^{-2} )^{3}$ vereenvoudigd is \u2026",
+        "ground_truth": "D",
+        "options": [
+            "(A) $x^{7} y^{5} z^{-5}$",
+            "(B) $ x^{4} y^{5} z^{-6}$",
+            "(C) $x^{7} y^{8} z^{-5}$",
+            "(D) $x^{12} y^{15} z^{-6}$"
+        ],
+        "level": "mid",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 18,
+        "question": "As all die geleiers van koperdraad gemaak is, watter een het die grootste weerstand?",
+        "ground_truth": "A",
+        "options": [
+            "(A) Lank, dun en warm",
+            "(B) Kort, dun en koud",
+            "(C) Lank, dik en warm",
+            "(D) Kort, dik en koud"
+        ],
+        "level": "mid",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 19,
+        "question": "Chemiese energie word verkry uit die \u2026",
+        "ground_truth": "C",
+        "options": [
+            "(A) gloeilamp.",
+            "(B) skakelaar.",
+            "(C) sel.",
+            "(D) stroombaan."
+        ],
+        "level": "low",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 20,
+        "question": "Watter kos help om energie te voorsien?",
+        "ground_truth": "C",
+        "options": [
+            "(A) Vleis",
+            "(B) Eiers",
+            "(C) Aartappels",
+            "(D) Wortels"
+        ],
+        "level": "low",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 23,
+        "question": "Hoeveel priemgetalle is daar tussen 90 en 100?",
+        "ground_truth": "A",
+        "options": [
+            "(A) 1",
+            "(B) 2",
+            "(C) 3",
+            "(D) 0"
+        ],
+        "level": "low",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 24,
+        "question": "........ het die regte van swartmense weggeneem om te boer en grond te besit.",
+        "ground_truth": "B",
+        "options": [
+            "(A) Wet op die verbod op gemengde huwelike van 1949",
+            "(B) Wet op Naturellengrond van 1913",
+            "(C) Die Wet op Behoud van Afsonderlike Geriewe van 1953",
+            "(D) Die Wet op Bevolkingsregistrasie van 1950"
+        ],
+        "level": "mid",
+        "subject": "history",
+        "subject_category": "social-science"
+    },
+    {
+        "id": 28,
+        "question": "Watter van die volgende is \u0149 oplossing vir $2x + y = 5$?",
+        "ground_truth": "C",
+        "options": [
+            "(A) (0 ; 3)",
+            "(B) (-2 ; 1)",
+            "(C) (5 ; -5)",
+            "(D) $(-\\frac{1}{2}; 6)$"
+        ],
+        "level": "mid",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 29,
+        "question": "Watter deel van die oor bevat die reseptore vir gehoor?",
+        "ground_truth": "A",
+        "options": [
+            "(A) Koglea",
+            "(B) Timpaniese membraan/Trommelvlies",
+            "(C) Ovale venster",
+            "(D) Ronde venster"
+        ],
+        "level": "high",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 30,
+        "question": "Hoeveel getalle van 11 tot 69 het die som van hulle syfers \u0149 vierkantsgetal?",
+        "ground_truth": "D",
+        "options": [
+            "(A) 14",
+            "(B) 15",
+            "(C) 10",
+            "(D) 17"
+        ],
+        "level": "mid",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 31,
+        "question": "Wie het die Nazi's vervolg?",
+        "ground_truth": "D",
+        "options": [
+            "(A) Ari\u00ebrs",
+            "(B) politieke opponente",
+            "(C) Jehovah se Getuies",
+            "(D) B en C"
+        ],
+        "level": "mid",
+        "subject": "history",
+        "subject_category": "social-science"
+    },
+    {
+        "id": 32,
+        "question": "Melk is kos vir groei en herstel, dit bevat...",
+        "ground_truth": "B",
+        "options": [
+            "(A) koolhidrate.",
+            "(B) prote\u00efne.",
+            "(C) vette en olies.",
+            "(D) vitamiene."
+        ],
+        "level": "low",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 33,
+        "question": "$ (a + b) ^{0}$ =",
+        "ground_truth": "C",
+        "options": [
+            "(A) a + b",
+            "(B) 2",
+            "(C) 1",
+            "(D) 0"
+        ],
+        "level": "mid",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 34,
+        "question": "Watter van die volgende was deel van die voorwaardes van die Verdrag van Versailles?",
+        "ground_truth": "D",
+        "options": [
+            "(A) Die ontwapening van Duitsland.",
+            "(B) Betaling van vergoedings aan die Geallieerdes.",
+            "(C) Brand die Duitse \"Reichstag\" af.",
+            "(D) Beide A en B."
+        ],
+        "level": "mid",
+        "subject": "history",
+        "subject_category": "social-science"
+    },
+    {
+        "id": 35,
+        "question": "Wat sal die volume van \u0149 reghoekige prisma wees as al die afmetings \nverdubbel word?",
+        "ground_truth": "D",
+        "options": [
+            "(A) $2 \\times $ die volume van die oorspronklike prisma.",
+            "(B) $4 \\times $ die volume van die oorspronklike prisma.",
+            "(C) $6 \\times $ die volume van die oorspronklike prisma.",
+            "(D) $8 \\times $ die volume van die oorspronklike prisma."
+        ],
+        "level": "mid",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 36,
+        "question": "Watter EEN van die volgende hormone beheer die metaboliese tempo?",
+        "ground_truth": "B",
+        "options": [
+            "(A) Testosteroon",
+            "(B) Tiroksien",
+            "(C) Groeihormoon",
+            "(D) Insulien"
+        ],
+        "level": "high",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 37,
+        "question": "Die temperatuur om 8 in die oggend was 15 grade Celsius. Teen 4 nm was die temperatuur 9 grade Celsius warmer. Wat was die temperatuur om 4 nm?",
+        "ground_truth": "C",
+        "options": [
+            "(A) 15 grade Celsius",
+            "(B)  9 grade Celsius",
+            "(C) 24 grade Celsius",
+            "(D) 8 ure"
+        ],
+        "level": "low",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 38,
+        "question": "Watter deel beheer die hoeveelheid lig wat die oog binnedring?",
+        "ground_truth": "B",
+        "options": [
+            "(A) Kornea",
+            "(B) Iris",
+            "(C) Choro\u00efed",
+            "(D) Lens"
+        ],
+        "level": "high",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 40,
+        "question": "Die KGV van $5a^{3}$ en $60a^{2}$ is ...",
+        "ground_truth": "C",
+        "options": [
+            "(A) $60a^{5}$",
+            "(B) $30a^{3}$",
+            "(C) $60a^{3}$",
+            "(D) $300a^{6}$"
+        ],
+        "level": "mid",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 41,
+        "question": "Wat is die modus van die datastel hieronder?\n12 ; 17 ; 17 ; 12 ; 30 ; 25 ; 17 ; 10 ; 26 ; 18 ; 20",
+        "ground_truth": "D",
+        "options": [
+            "(A) 30",
+            "(B)  25",
+            "(C) 12",
+            "(D) 17"
+        ],
+        "level": "low",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 42,
+        "question": "Weerlig is 'n toepassing van \u2026",
+        "ground_truth": "B",
+        "options": [
+            "(A) magnetiese kragte.",
+            "(B) elektrostatiese kragte.",
+            "(C) gravitasiekragte.",
+            "(D) spanningskrag."
+        ],
+        "level": "mid",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 44,
+        "question": "Wat is die desimale vorm van die gemengde getal $4\\frac{2}{5}$ ?",
+        "ground_truth": "C",
+        "options": [
+            "(A) 0,4",
+            "(B) 4,2",
+            "(C) 4,4",
+            "(D) 4 400"
+        ],
+        "level": "low",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 45,
+        "question": "As T 'n punt is op die lyn gedefinieer deur $y = x$, dan is die ko\u00f6rdinate van T...",
+        "ground_truth": "D",
+        "options": [
+            "(A) (5 ; -5)",
+            "(B) (5 ; 0)",
+            "(C) (-5 ; 5)",
+            "(D) (-5 ; -5)"
+        ],
+        "level": "mid",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 46,
+        "question": "Die deel van die aarde wat die kontinente vorm, is die \u2026",
+        "ground_truth": "B",
+        "options": [
+            "(A) mantel.",
+            "(B) kors.",
+            "(C) atmosfeer.",
+            "(D) hidrosfeer."
+        ],
+        "level": "mid",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 47,
+        "question": "Adolf Hitler is gebore in...",
+        "ground_truth": "C",
+        "options": [
+            "(A) Switserland",
+            "(B) Duitsland",
+            "(C) Oostenryk",
+            "(D) Frankryk"
+        ],
+        "level": "mid",
+        "subject": "history",
+        "subject_category": "social-science"
+    },
+    {
+        "id": 48,
+        "question": "Op 'n warm dag \u2026",
+        "ground_truth": "C",
+        "options": [
+            "(A) vloei minder bloed na die oppervlak van die vel.",
+            "(B) word die sweetkliere onaktief.",
+            "(C) vloei meer bloed na die oppervlak van die vel.",
+            "(D) vind vasokonstriksie plaas."
+        ],
+        "level": "high",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 49,
+        "question": "Dele van 'n Elektriese stroombaan word ... genoem.",
+        "ground_truth": "D",
+        "options": [
+            "(A) toestelle",
+            "(B) stroombaan-diagramme",
+            "(C) koper drade",
+            "(D) komponente"
+        ],
+        "level": "low",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 50,
+        "question": "Kies die KORREKTE antwoord.\n'n Ster waarvan die kem saamgetrek het",
+        "ground_truth": "C",
+        "options": [
+            "(A) Planet\u00eare nebula",
+            "(B) Rooi reus",
+            "(C) Wit dwerg",
+            "(D) Die son",
+            "(E) Nebula",
+            "(F) Swart dwerg",
+            "(G) Kernfusie / Kernversmelting"
+        ],
+        "level": "mid",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 54,
+        "question": "Die Derde Mag was;",
+        "ground_truth": "C",
+        "options": [
+            "(A) Die PAC",
+            "(B) Wapens wat deur die USSR aan die ANC gegee is",
+            "(C) Die NP wat wapens en opleiding aan die IVP verskaf het",
+            "(D) MK en POQO"
+        ],
+        "level": "mid",
+        "subject": "history",
+        "subject_category": "social-science"
+    },
+    {
+        "id": 55,
+        "question": "Wat is die mediaan van die datastel hieronder?\n55 ; 67 ; 75 ; 42 ; 75 ; 19 ; 88 ; 31 ; 8 ; 75 ; 12",
+        "ground_truth": "D",
+        "options": [
+            "(A) 88",
+            "(B)  75",
+            "(C) 19",
+            "(D) 55"
+        ],
+        "level": "low",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 56,
+        "question": "Vir sterre soos die son, trek die kern van die ster saam om 'n ... te vorm.",
+        "ground_truth": "A",
+        "options": [
+            "(A) wit dwerg",
+            "(B) geel ster",
+            "(C) rooi reus",
+            "(D) blou ster"
+        ],
+        "level": "mid",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 57,
+        "question": "As 3 'n wortel is van $x^{2} + x + t = 0$, is die waarde van t...",
+        "ground_truth": "B",
+        "options": [
+            "(A) 12",
+            "(B) -12",
+            "(C) 1/12",
+            "(D) $-\\frac{1}{12}$"
+        ],
+        "level": "mid",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 58,
+        "question": "Watter EEN van die volgende vind onmiddellik na bevrugting plaas?",
+        "ground_truth": "D",
+        "options": [
+            "(A) Die blastula, wat 'n hol bal selle is, word deur meiose gevorm.",
+            "(B) Die morula, wat 'n hol bal selle is, word deur meiose gevorm.",
+            "(C) Die blastula, wat 'n soliede bal selle is, word deur mitose gevorm.",
+            "(D) Die morula, wat 'n soliede bal selle is, word deur mitose gevorm."
+        ],
+        "level": "high",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 59,
+        "question": "Geleiers is gewoonlik van ... gemaak.",
+        "ground_truth": "A",
+        "options": [
+            "(A) metale",
+            "(B) skakelaars",
+            "(C) wol",
+            "(D) nie-metale"
+        ],
+        "level": "low",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 61,
+        "question": "Die grootte van elke hoek in 'n re\u00eblmatige oktagoon is \u2026",
+        "ground_truth": "B",
+        "options": [
+            "(A) 60\u00b0",
+            "(B) 135\u00b0",
+            "(C) 72\u00b0",
+            "(D) 105\u00b0"
+        ],
+        "level": "mid",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 62,
+        "question": "\"<b>S</b>elfgedrewe tui<b>s</b>onderwy<b>s</b>\".\nDie s-klank wat hier herhaal is, is 'n voorbeeld van\u2026",
+        "ground_truth": "B",
+        "options": [
+            "(A) assonansie",
+            "(B) alliterasie",
+            "(C) metafoor",
+            "(D) onomatopee"
+        ],
+        "level": "mid",
+        "subject": "afrikaans",
+        "subject_category": "language"
+    },
+    {
+        "id": 64,
+        "question": "Die struktuur in die amniotiese eier wat afvalprodukte verwyder:",
+        "ground_truth": "D",
+        "options": [
+            "(A) Dooiersak",
+            "(B) Chorion",
+            "(C) Amnion",
+            "(D) Allanto\u00efs"
+        ],
+        "level": "high",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 66,
+        "question": "Wat is die HGD van 210 en 350?",
+        "ground_truth": "C",
+        "options": [
+            "(A) $2\\times 5\\times 5\\times 7$",
+            "(B) $2\\times 3\\times 5\\times 7$",
+            "(C) $2\\times 5\\times 7$",
+            "(D) $5\\times 7$"
+        ],
+        "level": "mid",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 67,
+        "question": "Watter een van die volgende gasse is \u0149 kweekhuis gas?",
+        "ground_truth": "D",
+        "options": [
+            "(A) Helium",
+            "(B) Waterstof",
+            "(C) Suurstof",
+            "(D) Metaan"
+        ],
+        "level": "mid",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 68,
+        "question": "Rotsagtige ruimtevoorwerp wat om die son wentel in die sone tussen Mars en Jupiter.",
+        "ground_truth": "D",
+        "options": [
+            "(A) Meteor\u00efed",
+            "(B) Komeet",
+            "(C) Maan",
+            "(D) Astero\u00efede"
+        ],
+        "level": "low",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 70,
+        "question": "Die kleur van die sterre kan hul oppervlaktemperatuur vertel. Watter van die volgende rangskikkings verteenwoordig die kleure van die sterre van die warmste tot die koelste?",
+        "ground_truth": "A",
+        "options": [
+            "(A) Blou -> Wit -> Rooi",
+            "(B) Rooi -> Wit -> (B) lou",
+            "(C) Rooi -> Blou -> Wit",
+            "(D) Wit -> Rooi -> Wit"
+        ],
+        "level": "mid",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 71,
+        "question": "Watter EEN van die volgende sal nadelig wees wanneer 'n biologiese metode gebruik word om indringerspesies te beheer?",
+        "ground_truth": "C",
+        "options": [
+            "(A) In staat om indringerspesies te beheer sonder die gebruik van skadelike chemikalie\u00eb",
+            "(B) 'n Deel van die indringerplant kan agtergelaat word om weer te begin groei wanneer dit meganies verwyder word",
+            "(C) Die spesies wat ingebring word, is dalk uitheems in die gebied en kan die inheemse spesies verdring",
+            "(D) Chemikalie\u00eb kan die inheemse plante in die gebied affekteer"
+        ],
+        "level": "high",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 72,
+        "question": "Die HI-virus is 0,000 000 018 m in deursnee. Uitgedruk in wetenskaplike notasie, is dit \u2026",
+        "ground_truth": "A",
+        "options": [
+            "(A) $1,8 \\times 10^{-8}$ m.",
+            "(B) $18 \\times 10^{9}$ m.",
+            "(C) $1,8 \\times 10^{9}$ m.",
+            "(D) $1,8 \\times 10^{-9}$ m."
+        ],
+        "level": "mid",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 74,
+        "question": "$\\frac{x}{y} - 1$ =",
+        "ground_truth": "D",
+        "options": [
+            "(A) $\\frac{y - x}{x}$",
+            "(B) $\\frac{y - x}{y}$",
+            "(C) $x - y$",
+            "(D) $\\frac{x - y}{y}$"
+        ],
+        "level": "mid",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 75,
+        "question": "Watter EEN van die volgende hou die vorm van die oogbal in stand?",
+        "ground_truth": "C",
+        "options": [
+            "(A) Kornea",
+            "(B) Lens",
+            "(C) Glasagtige water/vog",
+            "(D) Retina"
+        ],
+        "level": "high",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 76,
+        "question": "Die produk van 6 en 'n ander getal verminder met 4, is gelyk aan 20. Watter van die volgende vergelykings pas by die bewering?",
+        "ground_truth": "B",
+        "options": [
+            "(A) $6x + 4 = 20$",
+            "(B) $6x - 4 = 20$",
+            "(C) $6(x + 4) = 20$",
+            "(D) $6 - 4x = 20$"
+        ],
+        "level": "mid",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 77,
+        "question": "n Mineraal wat ons tande en bene sterk maak.",
+        "ground_truth": "A",
+        "options": [
+            "(A) Kalsium",
+            "(B) Yster",
+            "(C) Sink",
+            "(D) Natrium"
+        ],
+        "level": "low",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 78,
+        "question": "Wat is die waarde van die onderstreepte syfer in 3 6<u>8</u>1 257?",
+        "ground_truth": "C",
+        "options": [
+            "(A) $8\\ \\times \\ 1\\ 000$",
+            "(B) $8\\ \\times \\ 100\\ 000$",
+            "(C) $8\\ \\times \\ 10\\ 000$",
+            "(D) $8\\ \\times \\ 100$"
+        ],
+        "level": "low",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 80,
+        "question": "Watter een van die volgende is 'n priemgetal?",
+        "ground_truth": "C",
+        "options": [
+            "(A) 39",
+            "(B) 51",
+            "(C) 61",
+            "(D) 87"
+        ],
+        "level": "low",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 81,
+        "question": "Bekende persone wat aangekla was van Hoogverraad gedurende die Hoogverraad verhoor ;",
+        "ground_truth": "D",
+        "options": [
+            "(A) Robert Sobukwe en Steve Biko",
+            "(B) Thabo Mbeki en Walter Sisulu",
+            "(C) Kgalema Motlanthe en Cyril Ramaphosa",
+            "(D) Oliver Tambo en Nelson Mandela"
+        ],
+        "level": "mid",
+        "subject": "history",
+        "subject_category": "social-science"
+    },
+    {
+        "id": 83,
+        "question": "Skryf die volgende as \u0149 heelgetal.\n$( 8\\ \\times \\ 1\\ 000\\ 000) \\ +\\ ( 4\\ HTH) \\ +\\ ( 1\\ \\times \\ 1) \\ +\\ ( 3\\ Th) \\ +\\ ( 5\\ \\times \\ 10\\ 000) \\ +\\ ( 200)$",
+        "ground_truth": "A",
+        "options": [
+            "(A) 8 453 201",
+            "(B) 8 451 301",
+            "(C) 8 435 201",
+            "(D) 8 543 201"
+        ],
+        "level": "low",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 84,
+        "question": "Die gemiddelde van die gegewe getalle {1; 2; $5\\frac{3}{5}$ ; 12; $6\\frac{1}{10}$ ; 10} is:",
+        "ground_truth": "C",
+        "options": [
+            "(A) 6,98",
+            "(B) 6,93",
+            "(C) 6,12",
+            "(D) 6,75"
+        ],
+        "level": "mid",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 86,
+        "question": "\"Apartheid\" verwys na;",
+        "ground_truth": "C",
+        "options": [
+            "(A) Beleid van uitbreiding",
+            "(B) Beleid van eenheid",
+            "(C) Beleid van segregasie wat mense van verskillende rasse skei",
+            "(D) Suid Afrikaanse buitelandse beleid"
+        ],
+        "level": "mid",
+        "subject": "history",
+        "subject_category": "social-science"
+    },
+    {
+        "id": 87,
+        "question": "Uit hoeveel dele bestaan die aarde se kern?",
+        "ground_truth": "B",
+        "options": [
+            "(A) 1",
+            "(B) 2",
+            "(C) 3",
+            "(D) 4"
+        ],
+        "level": "mid",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 88,
+        "question": "Kies die KORREKTE antwoord.\n'n Skielike toename in elektrisiteit as die stroomspanning 110% bo die normale spanning in die kragdraad is",
+        "ground_truth": "C",
+        "options": [
+            "(A) Gravitasiekrag",
+            "(B) Ammeter",
+            "(C) Kragstuwing",
+            "(D) Lawa",
+            "(E) Troposfeer",
+            "(F) Stratosfeer",
+            "(G) Smeltdraad",
+            "(H) Kragtasie"
+        ],
+        "level": "mid",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 89,
+        "question": "Die Nasionale Party het in ........ aan bewind gekom .",
+        "ground_truth": "D",
+        "options": [
+            "(A) 1944",
+            "(B) 1990",
+            "(C) 1960",
+            "(D) 1948"
+        ],
+        "level": "mid",
+        "subject": "history",
+        "subject_category": "social-science"
+    },
+    {
+        "id": 91,
+        "question": "Die kleinste getal wat deur 6, 9 en 12 verdeel kan word en 'n res van 1 verlaat, is:",
+        "ground_truth": "C",
+        "options": [
+            "(A) 28",
+            "(B) 36",
+            "(C) 73",
+            "(D) 145"
+        ],
+        "level": "low",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 92,
+        "question": "Hoeveel rande het \u0149 driehoekige prisma?",
+        "ground_truth": "D",
+        "options": [
+            "(A) 5",
+            "(B) 4",
+            "(C) 6",
+            "(D) 9"
+        ],
+        "level": "low",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 94,
+        "question": "Watter van die volgende is nie 'n kweekhuis gas nie?",
+        "ground_truth": "B",
+        "options": [
+            "(A) Waterdamp",
+            "(B) Helium",
+            "(C) Koolstofdioksied",
+            "(D) Metaan"
+        ],
+        "level": "mid",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 95,
+        "question": "'n Bal word in die lug gegooi en val terug na die aarde.\nDie krag wat dit laat val is \u2026",
+        "ground_truth": "C",
+        "options": [
+            "(A) magnetiese krag.",
+            "(B) wrywingskrag.",
+            "(C) gravitasiekrag.",
+            "(D) elektrostatiese krag."
+        ],
+        "level": "mid",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 97,
+        "question": "'n ... word gedraai om elektrisiteit op te wek.",
+        "ground_truth": "D",
+        "options": [
+            "(A) nie-metaal",
+            "(B) koeltoring",
+            "(C) kondensator",
+            "(D) turbine"
+        ],
+        "level": "low",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 98,
+        "question": "Die waarde van 238,2 \u00f7 100:",
+        "ground_truth": "D",
+        "options": [
+            "(A) 0,2382",
+            "(B) 238,2",
+            "(C) 23,82",
+            "(D) 2,382"
+        ],
+        "level": "low",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 99,
+        "question": "$(2x - 3)(x + 4)$ = \u2026",
+        "ground_truth": "A",
+        "options": [
+            "(A) $2x^{2} + 5x - 12$",
+            "(B) $2x^{2} - 5x + 12$",
+            "(C) $2x^{2} - 3x + 12$",
+            "(D) $2x^{2} - 3x + 12$"
+        ],
+        "level": "mid",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 100,
+        "question": "Watter paar kragte is betrokke as 'n koppie vanaf 'n tafel val?",
+        "ground_truth": "A",
+        "options": [
+            "(A) Gravitasie en reaksie kragte",
+            "(B) Hef- en wrywingskragte",
+            "(C) Positiewe lading en negatiewe lading kragte",
+            "(D) Noord en suid kragte"
+        ],
+        "level": "mid",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 101,
+        "question": "Wat is die tiende getal in die patroon 5; 10; 15; 20; \u2026?",
+        "ground_truth": "B",
+        "options": [
+            "(A) 25",
+            "(B) 50",
+            "(C) 60",
+            "(D) 100"
+        ],
+        "level": "low",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 102,
+        "question": "Die Versetveldtog het in<u>_______________ </u> begin;",
+        "ground_truth": "D",
+        "options": [
+            "(A) 1948",
+            "(B) 1952",
+            "(C) 1960",
+            "(D) 1962"
+        ],
+        "level": "mid",
+        "subject": "history",
+        "subject_category": "social-science"
+    },
+    {
+        "id": 104,
+        "question": "Wat sal die volgende term in hierdie volgorde wees?\n25 ; 21 ; 16 ; 10 ; <u>______</u>",
+        "ground_truth": "A",
+        "options": [
+            "(A) 3",
+            "(B) 4",
+            "(C) 5",
+            "(D) 6"
+        ],
+        "level": "low",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 105,
+        "question": "Wat is die ontbrekende nommer in die getalsin?\n2 \u00d7  \u25b3 + 10 = 48 \u00f7 2",
+        "ground_truth": "D",
+        "options": [
+            "(A) 19",
+            "(B) 12",
+            "(C) 14",
+            "(D) 7"
+        ],
+        "level": "low",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 106,
+        "question": "Watter EEN van die volgende sal op 'n koue dag in die menslike liggaam plaasvind?",
+        "ground_truth": "C",
+        "options": [
+            "(A) Vasodilasie in die vel",
+            "(B) Toename in die aktiwiteit van die sweetkliere",
+            "(C) Afname in verdamping van sweet vanaf die veloppervlak",
+            "(D) Toename in bloedvloei na die oppervlak van die vel"
+        ],
+        "level": "high",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 107,
+        "question": "Watter EEN van die volgende verwys na 'n akwifer/waterdraer?",
+        "ground_truth": "C",
+        "options": [
+            "(A) 'n Styging in die temperatuur van watermassas as gevolg van water afkomstig van nywerhede",
+            "(B) Herhaaldelike aanplant van dieselfde gewas op dieselfde area",
+            "(C) 'n Ondergrondse deurdringbare rots wat met water versadig is",
+            "(D) Die vrystelling van water met chemikalie\u00eb vanaf myne"
+        ],
+        "level": "high",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 108,
+        "question": "Kies die KORREKTE antwoord.\n'n Trekkrag wat liggame op mekaar uitoefen as gevlog van hulle massa",
+        "ground_truth": "A",
+        "options": [
+            "(A) Gravitasiekrag",
+            "(B) Ammeter",
+            "(C) Kragstuwing",
+            "(D) Lawa",
+            "(E) Troposfeer",
+            "(F) Stratosfeer",
+            "(G) Smeltdraad",
+            "(H) Kragtasie"
+        ],
+        "level": "mid",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 110,
+        "question": "Kies die KORREKTE antwoord.\n'n Ster, teen die einde van sy lewe, wat opgeswel het",
+        "ground_truth": "B",
+        "options": [
+            "(A) Planet\u00eare nebula",
+            "(B) Rooi reus",
+            "(C) Wit dwerg",
+            "(D) Die son",
+            "(E) Nebula",
+            "(F) Swart dwerg",
+            "(G) Kernfusie / Kernversmelting"
+        ],
+        "level": "mid",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 111,
+        "question": "Watter getal is 'n faktor van beide 15 en 40?",
+        "ground_truth": "C",
+        "options": [
+            "(A) 3",
+            "(B) 8",
+            "(C) 5",
+            "(D) 15"
+        ],
+        "level": "low",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 114,
+        "question": "Watter een van die volgende lande het nie die Geallieerde magte saamgestel nie?",
+        "ground_truth": "C",
+        "options": [
+            "(A) Groot Brittanje",
+            "(B) Frankryk",
+            "(C) Japan",
+            "(D) VSA"
+        ],
+        "level": "mid",
+        "subject": "history",
+        "subject_category": "social-science"
+    },
+    {
+        "id": 115,
+        "question": "Wat is die waarde van die onderstreepte syfer in 80<u>3</u> 461 005?",
+        "ground_truth": "B",
+        "options": [
+            "(A) Drie",
+            "(B) Drie miljoen",
+            "(C) Dertig miljoen",
+            "(D) Dertig duisend"
+        ],
+        "level": "low",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 116,
+        "question": "Die opwekking van elektrisiteit deur steenkool te gebruik word ... genoem.",
+        "ground_truth": "B",
+        "options": [
+            "(A) kernkrag",
+            "(B) termiese elektrisiteit",
+            "(C) transformasie",
+            "(D) hidro-elektrisiteit"
+        ],
+        "level": "mid",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 117,
+        "question": "Rond die volgende nommer af tot die naaste 1 000:\n738 551",
+        "ground_truth": "D",
+        "options": [
+            "(A) 739 551",
+            "(B) 738 600",
+            "(C) 738 000",
+            "(D) 739 000"
+        ],
+        "level": "low",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 118,
+        "question": "Kies die KORREKTE antwoord.\nDie sfeer waar weerstoestande plaasvind",
+        "ground_truth": "E",
+        "options": [
+            "(A) Gravitasiekrag",
+            "(B) Ammeter",
+            "(C) Kragstuwing",
+            "(D) Lawa",
+            "(E) Troposfeer",
+            "(F) Stratosfeer",
+            "(G) Smeltdraad",
+            "(H) Kragtasie"
+        ],
+        "level": "mid",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 119,
+        "question": "Wat is die korrekte paar getalle vir $x$, as $(x - 3)(x + 2) = 0$ ?",
+        "ground_truth": "B",
+        "options": [
+            "(A) $x = -3$ en $x = -2$",
+            "(B) $x = 3$ en $x = -2$",
+            "(C) $x = -3$ en $x = 2$",
+            "(D) $x = 3$ en $x = 2$"
+        ],
+        "level": "mid",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 121,
+        "question": "Wat is die waarde van $21\\ \\times \\ 0\\ +\\ 52$?",
+        "ground_truth": "D",
+        "options": [
+            "(A) 21",
+            "(B) 0",
+            "(C) 73",
+            "(D) 52"
+        ],
+        "level": "low",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 122,
+        "question": "Die Sentrale magte bestaan uit...",
+        "ground_truth": "B",
+        "options": [
+            "(A) Brittanje en Frankryk, later VSA",
+            "(B) Duitsland, Japan en Itali\u00eb",
+            "(C) Duitsland, die VSA en Itali\u00eb",
+            "(D) Brittanje, Frankryk en Itali\u00eb"
+        ],
+        "level": "mid",
+        "subject": "history",
+        "subject_category": "social-science"
+    },
+    {
+        "id": 123,
+        "question": "n Funksie van die plasenta is om \u2026",
+        "ground_truth": "C",
+        "options": [
+            "(A) afval vanaf die moeder na die fetus te vervoer.",
+            "(B) die chorion te vorm.",
+            "(C) progesteroon af te skei.",
+            "(D) die vloeistof wat die fetus omring, af te skei."
+        ],
+        "level": "high",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 124,
+        "question": "Watter getalsin is gelykwaardig aan $15\\ \\times \\ 22$?",
+        "ground_truth": "C",
+        "options": [
+            "(A) $10 + 5 + 20 + 2$",
+            "(B) $10\\ \\times \\ 5\\ +\\ 20\\ \\times \\ 2$",
+            "(C) $15\\ \\times \\ 20\\ +\\ 15\\ \\times \\ 2$",
+            "(D) $15\\ \\times \\ 20\\ +\\ 2$"
+        ],
+        "level": "low",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 126,
+        "question": "Wat is die ontbrekende getal in die blok in die getallesin \u25a1/12= 3",
+        "ground_truth": "B",
+        "options": [
+            "(A) 4",
+            "(B) 36",
+            "(C) 15",
+            "(D) 8"
+        ],
+        "level": "low",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 129,
+        "question": "Vitamiene C voorkom 'n siekte genaamd \u2026",
+        "ground_truth": "C",
+        "options": [
+            "(A) diabetes.",
+            "(B) ragitis.",
+            "(C) skeurbuik.",
+            "(D) anemie."
+        ],
+        "level": "low",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 130,
+        "question": "Watter EEN van die volgende is 'n gevolg as die ronde venster van die oor verhard?",
+        "ground_truth": "D",
+        "options": [
+            "(A) Drukgolwe sal nie gevorm word nie.",
+            "(B) Impulse sal nie na die brein vervoer word nie.",
+            "(C) Druk tussen die uitwendige en middeloor sal nie konstant gehou word nie.",
+            "(D) 'n Eggo sal voorkom en die klank sal verwronge wees"
+        ],
+        "level": "high",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 131,
+        "question": "n Chemikalie wat in laboratoriums gebruik word, voorkom dat spoelvesels in selle wat meiose ondergaan, gevorm word. Die gevolg is dat meiose nie kan begin nadat interfase voltooi is nie.\nTydens 'n ondersoek is hierdie chemikalie by die selle in die helmknoppe van rysplante se blomme gevoeg. Elke sel in die helmknop het 24 chromosome.\n\nWat is die verwagte getal chromosome in elke sel aan die einde van die ondersoek?",
+        "ground_truth": "B",
+        "options": [
+            "(A) 12 gerepliseerde chromosome",
+            "(B) 24 gerepliseerde chromosome",
+            "(C) 24 ongerepliseerde chromosome",
+            "(D) 48 ongerepliseerde chromosome"
+        ],
+        "level": "high",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 132,
+        "question": "Mandy se nuwe haardro\u00ebr het net twee drade wat met 'n driepenprop verbind word. Moontlike rede hiervoor is dat ...",
+        "ground_truth": "C",
+        "options": [
+            "(A) daar iets fout met die haardro\u00ebr is.",
+            "(B) alle haardro\u00ebrs slegs twee drade het.",
+            "(C) die haardro\u00ebr 'n plastiekbedekking het.",
+            "(D) NIE een van bogenoemde NIE"
+        ],
+        "level": "mid",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 133,
+        "question": "In twee jaar se tyd sal Thandile 1/3 die ouderdom van haar ouer suster wees. As haar ouer suster nou 34 jaar oud, dan is Thandile se ouderdom nou ...",
+        "ground_truth": "D",
+        "options": [
+            "(A) 2 jaar.",
+            "(B) 11 jaar.",
+            "(C) 12 jaar.",
+            "(D) 10 jaar."
+        ],
+        "level": "mid",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 134,
+        "question": "Die normale plek van bevrugting by 'n vrou is die \u2026",
+        "ground_truth": "D",
+        "options": [
+            "(A) uterus.",
+            "(B) ovarium.",
+            "(C) vagina.",
+            "(D) Fallopiusbuis."
+        ],
+        "level": "high",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 135,
+        "question": "Die wet het mense van verskillende rasse verbied om dieselfde publieke fasaliteite te gebruik soos bv. badkamers;",
+        "ground_truth": "D",
+        "options": [
+            "(A) Wet op Bevolkingsregistrasie",
+            "(B) Wet op ontug",
+            "(C) Uitbreiding van universiteitswet",
+            "(D) Reservering van Afsonderlike geriewe"
+        ],
+        "level": "mid",
+        "subject": "history",
+        "subject_category": "social-science"
+    },
+    {
+        "id": 136,
+        "question": "Wat is die waarde van x as $3^{x}=1/9$",
+        "ground_truth": "C",
+        "options": [
+            "(A) -3",
+            "(B) 3",
+            "(C) -2",
+            "(D) 2"
+        ],
+        "level": "mid",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 137,
+        "question": "Rond 91 999 af tot die naaste 1 000.",
+        "ground_truth": "C",
+        "options": [
+            "(A) 90 000",
+            "(B) 91 000",
+            "(C) 92 000",
+            "(D) 94 000"
+        ],
+        "level": "low",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 138,
+        "question": "Watter van die volgende is hormone wat die ontwikkeling van die endometrium direk stimuleer?",
+        "ground_truth": "B",
+        "options": [
+            "(A) FSH en LH",
+            "(B) Progesteroon en estrogeen",
+            "(C) FSH en progesteroon",
+            "(D) LH en estrogeen"
+        ],
+        "level": "high",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 139,
+        "question": "Bereken: $6 + 6 \\div 2 - 6 \\times ( -2)$",
+        "ground_truth": "A",
+        "options": [
+            "(A) 21",
+            "(B) 18",
+            "(C) 12",
+            "(D) 0"
+        ],
+        "level": "mid",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 140,
+        "question": "In 1948, het die <u>_______________ </u>party Apartheid in Suid Afrika ingetsel.",
+        "ground_truth": "C",
+        "options": [
+            "(A) Demokratiese Party",
+            "(B) Demokratiese Alliansie",
+            "(C) Nasionale Party",
+            "(D) Federale Party"
+        ],
+        "level": "mid",
+        "subject": "history",
+        "subject_category": "social-science"
+    },
+    {
+        "id": 141,
+        "question": "Die lys hieronder sluit sekere faktore in wat voedselsekerheid be\u00efnvloed:\n\n(i) Gebruik van plaag-/onkruiddoders\n(ii) Gronderosie\n(iii) Genetiese modifikasie\n(iv) Gebruik van kunsmis\n\nWatter EEN van die volgende kombinasies sluit faktore in wat voedselsekerheid verhoog?",
+        "ground_truth": "C",
+        "options": [
+            "(A) Slegs (ii), (iii) en (iv)",
+            "(B) Slegs (i) en (iv)",
+            "(C) Slegs (i), (iii) en (iv)",
+            "(D) (i), (ii), (iii) en (iv)"
+        ],
+        "level": "high",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 143,
+        "question": "Watter van die volgende stellings het dieselfde effek as om \u0149 voorwerp om die lyn $y = x$ te roteer?",
+        "ground_truth": "C",
+        "options": [
+            "(A) Roteer die voorwerp 270\u00b0 anti-kloksgewys.",
+            "(B) Roteer die voorwerp 90\u00b0 anti-kloksgewys.",
+            "(C) Roteer die voorwerp 180\u00b0 kloksgewys.",
+            "(D) Roteer die voorwerp 90\u00b0 kloksgewys."
+        ],
+        "level": "mid",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 144,
+        "question": "Die volgende tabel gee die kraggradering vir \u0149 aantal huishoudelike toestelle wat Sarah in haar huis het:\n\nToestel | Kraggradering (W)\nElektriese klitser | 175\nBroodrooster | 700\nTelevisie | 54\n\nIdentifiseer die toestel wat die minste energie in \u0149 uur sal gebruik.",
+        "ground_truth": "D",
+        "options": [
+            "(A) Toestel",
+            "(B) Elektriese klitser",
+            "(C) Broodrooster",
+            "(D) Televisie"
+        ],
+        "level": "mid",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 145,
+        "question": "'n ... gesteente is afkomstig van 'n vulkaniese rots.",
+        "ground_truth": "B",
+        "options": [
+            "(A) Minerale",
+            "(B) Stollingsvormige",
+            "(C) Metamorfiese",
+            "(D) Sediment\u0207re"
+        ],
+        "level": "mid",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 147,
+        "question": "Die waarde van $-x^{-2} - 2(2x - 1)$, as $x = -2$, is \u2026",
+        "ground_truth": "A",
+        "options": [
+            "(A) 6",
+            "(B) 1",
+            "(C) -6",
+            "(D) -1"
+        ],
+        "level": "mid",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 148,
+        "question": "VRAAG 5: ARTIKEL EN PRENT\nLees die artikel en beantwoord die vrae.\n\nOUMA VERWERF HAAR MEESTERSGRAAD\n\nNotozi Jennifer Mgobozi is 'n 75-jarige ouma van vyf (5.1.1) (kleinkinders). Sy \nhet in (5.1.2) (November) 2021 haar meestersgraad in onderwys aan die \nWalter Sisulu Universiteit behaal. Sy s\u00ea dit was (5.1.3) (maklik), maar beslis \ndie moeite werd. Haar familie \u00e9n ander mense is baie trots (5.1.4) (...) haar.\n\nJennifer is al (5.1.5) (baie) as 40 jaar lank betrokke by onderwys. Sy werk by   [5]\nNECT, wat probeer (5.1.6) (onderwys in SA verbeter). (5.1.7) (Sy doen juis \nhaar navorsing oor NECT se program vir Engels as EAT). Sy sal (5.1.8) (bly) \nwees as haar navorsing 'n positiewe effek op onderwys het; veral in die \nlandelike gebiede.\n\nJennifer s\u00ea studies en opleiding het (5.1.9) (iets met ouderdom te doen).   [10]\nSy s\u00ea daar is nou baie (5.1.10) (geleentheid). As jy (5.1.11) (dus/dis) kan, \nmoet jy dit doen. Daarom is sy nie van plan om gou af te tree nie. Inteendeel!\n(5.1.12) (Sy wil verwerf met lof haar doktorsgraad volgende jaar).\n\nJennifer is 'n (5.1.13) (inspireer) vir ander. Sy het bewys: (5.1.14) Waar 'n wil \nis is 'n weg!   [15]\n\n[Verwerk uit Die Burger, 23 November 2021]\n\nKies die KORREKTE WOORD uit di\u00e9 tussen hakies.\nAs jy (dus/dis) kan, moet jy dit doen.",
+        "ground_truth": "A",
+        "options": [
+            "A. dus",
+            "B. dis"
+        ],
+        "level": "high",
+        "subject": "afrikaans",
+        "subject_category": "language"
+    },
+    {
+        "id": 151,
+        "question": "Die drie belangrikste rotstipes word gevorm vanaf gesmelte gesteentes in die volgende volgorde:",
+        "ground_truth": "C",
+        "options": [
+            "(A) Sediment\u00eare, Metamorfiese, Magma, Stolling",
+            "(B) Metamorfiese, Sediment\u00eare, Stolling, Magma",
+            "(C) Magma, Stolling, Sediment\u00eare, Metamorfiese",
+            "(D) Stolling, Magma, Metamorfiese, Sediment\u00eare"
+        ],
+        "level": "mid",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 152,
+        "question": "'n Stroombaanvorm wat geskik is vir die bedrading in 'n huis.",
+        "ground_truth": "B",
+        "options": [
+            "(A) Seriestroombaan",
+            "(B) Parallelstroombaan",
+            "(C) Beide parallel en serie",
+            "(D) Nie een van die twee stroombane nie"
+        ],
+        "level": "mid",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 153,
+        "question": "Die gas wat in die atmosfeer gevind word wat aardverwarming veroorsaak, is ...",
+        "ground_truth": "A",
+        "options": [
+            "(A) koolstofdioksied.",
+            "(B) osoon.",
+            "(C) stikstof.",
+            "(D) waterstof."
+        ],
+        "level": "mid",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 154,
+        "question": "Watter getal is 12 miljoen <b>meer as</b> 375 826 307?",
+        "ground_truth": "C",
+        "options": [
+            "(A) 363 826 307",
+            "(B) 253 826 307",
+            "(C) 387 826 307",
+            "(D) 375 946 195"
+        ],
+        "level": "low",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 155,
+        "question": "Watter van die volgende getalle is groter as 657 399 199?",
+        "ground_truth": "A",
+        "options": [
+            "(A) 667 399 199",
+            "(B) 657 200 199",
+            "(C) 657 389 200",
+            "(D) 576 399 991"
+        ],
+        "level": "low",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 156,
+        "question": "Watter van die volgende strukture word deur die breinvliese/ meninges beskerm?",
+        "ground_truth": "B",
+        "options": [
+            "(A) Rugmurg en reseptore",
+            "(B) Rugmurg en brein",
+            "(C) Brein en effektore",
+            "(D) Effektore en reseptore"
+        ],
+        "level": "high",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 157,
+        "question": "Watter EEN van die volgende materiale is 'n goeie geleier van elektrisiteit?",
+        "ground_truth": "A",
+        "options": [
+            "(A) Koperdraad",
+            "(B) Hout",
+            "(C) Plastiek",
+            "(D) Rubber"
+        ],
+        "level": "low",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 158,
+        "question": "n Veld krag ...",
+        "ground_truth": "C",
+        "options": [
+            "(A) is altyd 'n aantrekkingskrag.",
+            "(B) kom slegs voor tussen magnetiese en elektriese ladings.",
+            "(C) lei tot 'n aksie oor 'n afstand tussen twee liggame.",
+            "(D) is die enigste tipe krag wat in staat is om die spoed van 'n voorwerp te verander."
+        ],
+        "level": "mid",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 159,
+        "question": "Die Apartheidwet wat mense van 'n sekere ras verbied het om sekere stedelike areas te betree;",
+        "ground_truth": "A",
+        "options": [
+            "(A) Groepsgebiedewet",
+            "(B) Wet op die verbod op gemengde huwelike",
+            "(C) Wet op die onderdrukking van Kommunisme",
+            "(D) Wet op Bantoe onderwys"
+        ],
+        "level": "mid",
+        "subject": "history",
+        "subject_category": "social-science"
+    },
+    {
+        "id": 160,
+        "question": "Watter van die volgende kragte is \u0149 veldkrag?",
+        "ground_truth": "C",
+        "options": [
+            "(A) Spanning",
+            "(B) Trekkrag",
+            "(C) Magnetiese krag",
+            "(D) Samepersing"
+        ],
+        "level": "mid",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 163,
+        "question": "Watter getalsin is ekwivalent aan $76\\ \\times \\ 24$?",
+        "ground_truth": "B",
+        "options": [
+            "(A) $70\\ \\times \\ 20\\ +\\ 70\\ \\times \\ 4$",
+            "(B)  $76\\ \\times \\ 10\\ +\\ 76\\ \\times \\ 14$",
+            "(C) $76\\ \\times \\ 30\\ +\\ 76\\ \\times \\ 4$",
+            "(D) $70\\ \\times \\ 20\\ +\\ 6\\ \\times \\ 4$"
+        ],
+        "level": "low",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 164,
+        "question": "Lees die artikel en beantwoord die vrae.\n\nTEKS F: ARTIKEL\n\nMANDELA-KOEK HELP KANKERLYERS\nAltesaam 1 200 eiers en 625 (5.1.1) (kilogram) dro\u00eb bestanddele is gebruik om die w\u00eareld se grootste Nelson Mandela-koek te skep.\n\nDi\u00e9 koek het meer (5.1.2) (dan/as) 750 kilogram geweeg. Ses bakkers het vyf dae gewerk om die koek vir Cupcakes of Hope te (5.1.3) (bak). Die (5.1.4) (voltooi) koek is in die Sandton City-winkelsentrum uitgestal.\n\n(5.1.5) Cupcakes of Hope doen elke jaar iets vir kinders met kanker. Hierdie koek is gebak om Mandela se geboortedag 'n (5.1.6) (honderd jaar) gelede te vier.\n\nSandy s\u00ea sulke (5.1.7) (geleentheid) is spesiaal. Mandela se kleinkinders was ook daar. Dit het die dag nog meer spesiaal gemaak. Mandela het ges\u00ea dat dit in mense se hande is om 'n verskil in (5.1.8) (\u2026) eie gemeenskap te maak.\n\nDie mense van Cupcakes of Hope doen die (5.1.9) (goed) wat hulle kan om 'n verskil in die gemeenskap te maak. Hulle wil 'n (5.1.10) (inspireer) vir meer mense wees om Cupcake-engele te word. Dit maak 'n mens baie (5.1.11) (ongelukkig).\n\n'n Kankerlyertjie se ma was daar (5.1.12) (die organisasie vir hulle werk bedank).\n\n(5.1.13) Cupcakes of Hope het gelede jaar 'n w\u00eareldrekord vir die hoogste kolwyntjietoring opgestel. Dit was nie 'n klein (5.1.14) (toring) nie. Dit het 10,7 m hoog gestaan.\n\n[Verwerk uit Beeld, 28 Julie 2018]\n\n\nKies die korrekte WOORD tussen hakies.\nDie koek het meer (dan/as) 3 m hoog gestaan.",
+        "ground_truth": "B",
+        "options": [
+            "A. dan",
+            "B. as"
+        ],
+        "level": "high",
+        "subject": "afrikaans",
+        "subject_category": "language"
+    },
+    {
+        "id": 167,
+        "question": "Bepaal die volgende term in die patroon 2; 5; 9; 14; \u2026?",
+        "ground_truth": "B",
+        "options": [
+            "(A) 21",
+            "(B) 20",
+            "(C) 19",
+            "(D) 18"
+        ],
+        "level": "mid",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 169,
+        "question": "Watter van die volgende is beide 'n <b>volkome vierkant</b> en 'n <b>derdemaggetal</b>?",
+        "ground_truth": "C",
+        "options": [
+            "(A) 1",
+            "(B) 3",
+            "(C) 8",
+            "(D) 2"
+        ],
+        "level": "low",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 171,
+        "question": "Watter operasie sal die volgende getal in die patroon gee?\n95 ; 90 ; 80 ; 60 ; \u2026",
+        "ground_truth": "D",
+        "options": [
+            "(A) $ \\times \\ 2$",
+            "(B) $\\div \\ 2$",
+            "(C) $-20$",
+            "(D) $-40$"
+        ],
+        "level": "low",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 172,
+        "question": "Die sewende term van die ry 1; 7; 17; 31; 49; \u2026 is:",
+        "ground_truth": "B",
+        "options": [
+            "(A) 96",
+            "(B) 97",
+            "(C) 98",
+            "(D) 99"
+        ],
+        "level": "mid",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 173,
+        "question": "Watter EEN van die volgende sal tot 'n afname in watergehalte lei?",
+        "ground_truth": "A",
+        "options": [
+            "(A) Eutrofikasie",
+            "(B) Gebruik van akwifere (waterdraers)",
+            "(C) Instandhouding van moeraslande",
+            "(D) Droogte"
+        ],
+        "level": "high",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 175,
+        "question": "Die breuk met die kleinste waarde hieronder is ...\n4/6 ; 9/10 ; 1/2 ; 1/3",
+        "ground_truth": "C",
+        "options": [
+            "(A) 9/10",
+            "(B) 1/2",
+            "(C) 1/3",
+            "(D) 4/6"
+        ],
+        "level": "low",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 176,
+        "question": "Kies die KORREKTE antwoord.\nMagma wat uit die oppervlak van die aarde ontsnap",
+        "ground_truth": "D",
+        "options": [
+            "(A) Gravitasiekrag",
+            "(B) Ammeter",
+            "(C) Kragstuwing",
+            "(D) Lawa",
+            "(E) Troposfeer",
+            "(F) Stratosfeer",
+            "(G) Smeltdraad",
+            "(H) Kragtasie"
+        ],
+        "level": "mid",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 177,
+        "question": "Watter een van die volgende lande was bekend as kommunisties?",
+        "ground_truth": "A",
+        "options": [
+            "(A) Itali\u00eb",
+            "(B) Groot Brittanje",
+            "(C) Duitsland",
+            "(D) Frankryk"
+        ],
+        "level": "mid",
+        "subject": "history",
+        "subject_category": "social-science"
+    },
+    {
+        "id": 178,
+        "question": "Wat is die waarde van die onderstreepte syfer 5 in die getal hieronder?\n7<u>5</u> 987 432",
+        "ground_truth": "D",
+        "options": [
+            "(A) 5 duisend",
+            "(B) 5 tien duisend",
+            "(C) 500 000",
+            "(D) $5\\ \\times \\ 1\\ 000\\ 000$"
+        ],
+        "level": "low",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 179,
+        "question": "Die vermo\u00eb van die lens van die oog om sy vorm te verander wanneer daar gekyk word na 'n voorwerp wat naby of ver is, word ... genoem.",
+        "ground_truth": "B",
+        "options": [
+            "(A) binokul\u00eare visie",
+            "(B) akkommodasie",
+            "(C) pupilmeganisme",
+            "(D) breking van ligstrale"
+        ],
+        "level": "high",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 180,
+        "question": "'n Persoon produseer heel waarskynlik 'n kleiner hoeveelheid urien omdat die ...",
+        "ground_truth": "A",
+        "options": [
+            "(A) ADH-vlakke in die bloed hoog is en die nierbuisies meer deurlaatbaar vir water is.",
+            "(B) ADH-vlakke in die bloed hoog is en die nierbuisies minder deurlaatbaar vir water is.",
+            "(C) ADH-vlakke in die bloed laag is en die nierbuisies meer deurlaatbaar vir water is.",
+            "(D) ADH-vlakke in die bloed laag is en die nierbuisies minder deurlaatbaar vir water is."
+        ],
+        "level": "high",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 182,
+        "question": "Wat is die eenheid vir die meting van krag?",
+        "ground_truth": "B",
+        "options": [
+            "(A) Kilogram",
+            "(B) Newton",
+            "(C) Gewig",
+            "(D) Volt"
+        ],
+        "level": "mid",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 183,
+        "question": "Alistair verkoop fietse. Hy verdien R2 000 per maand, plus R15 vir elke fiets wat hy verkoop. Hy is altesaam R3 200 vir die maand van Oktober betaal. Hoeveel fietse het hy in daardie maand verkoop?",
+        "ground_truth": "D",
+        "options": [
+            "(A) 21",
+            "(B) 22",
+            "(C) 1",
+            "(D) 8"
+        ],
+        "level": "low",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 184,
+        "question": "n Wetenskaplike het 'n ondersoek ontwerp om die volgende te toets:\n\nOm meer sout te eet, sal urienproduksie laat afneem en waterverbruik laat toeneem.\nDie resultate van die ondersoek word in die tabel hieronder getoon.\n\nHOEVEELHEID SOUT GEBRUIK (g) | VOLUME URIEN GEPRODUSEER (ml) | HOEVEELHEID WATER VERBRUIK (ml)\n3 | 1 803 | 2 800\n6 | 1 800 | 2 700\n9 | 1 805 | 2 600\n12 | 1 802 | 2 500\n15 | 1 801 | 2 400\n 'n Moontlike gevolgtrekking uit die resultate hierbo is dat om meer sout te eet, ...",
+        "ground_truth": "C",
+        "options": [
+            "(A) urienproduksie laat afneem en die hoeveelheid water wat verbruik word, laat toeneem.",
+            "(B) urienproduksie laat toeneem en die hoeveelheid water wat verbruik word, laat afneem.",
+            "(C) min invloed op urienproduksie het en dat die hoeveelheid water wat verbruik word, afneem.",
+            "(D) min invloed op urienproduksie het en dat die hoeveelheid water wat verbruik word, toeneem."
+        ],
+        "level": "high",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 190,
+        "question": "Watter EEN van die volgende toon die resultaat wanneer 'n sel met 20 chromosome mitose ondergaan?",
+        "ground_truth": "A",
+        "options": [
+            "(A)\nGETAL DOGTERSELLE | GETAL CHROMOSOME\n2 | 20",
+            "(B)\nGETAL DOGTERSELLE | GETAL CHROMOSOME\n2 | 10",
+            "(C)\nGETAL DOGTERSELLE | GETAL CHROMOSOME\n4 | 20",
+            "(D)\nGETAL DOGTERSELLE | GETAL CHROMOSOME\n4 | 10"
+        ],
+        "level": "high",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 191,
+        "question": "Identifiseer die saamgestelde sin.",
+        "ground_truth": "D",
+        "options": [
+            "(A) Tradisionele kos dra nie tot 'n laekalorie-dieet by nie.",
+            "(B) Ons moet altyd gesels oor vetsug en ongesond eet.",
+            "(C) Terwyl ons vetsug beveg, gaan kosstalletjies voort om gemorskos te verkoop.",
+            "(D) Hy hou van gemorskos en sy hou van tradisionele gesonde kos."
+        ],
+        "level": "mid",
+        "subject": "afrikaans",
+        "subject_category": "language"
+    },
+    {
+        "id": 192,
+        "question": "Die kors en die boonste gedeelte van die mantel, vorm die \u2026",
+        "ground_truth": "B",
+        "options": [
+            "(A) trofosfeer.",
+            "(B) litosfeer.",
+            "(C) atmosfeer.",
+            "(D) oseaniese kors."
+        ],
+        "level": "mid",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 193,
+        "question": "Watter EEN van die volgende is 'n gevolg van die vernietiging van vleilande?",
+        "ground_truth": "B",
+        "options": [
+            "(A) Verhoogde biodiversiteit",
+            "(B) Afname in die beskikbaarheid van water",
+            "(C) Afname in aardverwarming",
+            "(D) Verhoogde watergehalte"
+        ],
+        "level": "high",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 194,
+        "question": "<b>VRAAG 3: INLIGTINGSTEKS</b>\n<b>LEES:</b>\nLees die inligting oor die voordele en nadele van MXit en beantwoord dan die vrae.\n\n<b>Waarom is MXit voordelig?</b>\n\u2022 MXit is 'n goedkoop manier om te gesels en dit is maklik om te registreer.\n\u2022 Boodskappe kan in die werklike tyd gestuur word en in kletskamers kan 'n mens met meer as een persoon gelyktydig praat.\n\u2022 'n MXit-boodskap kos minder as 'n SMS en 'n MXit-boodskap kan tot 2 048 letters h\u00ea, waar 'n SMS net 160 letters kan h\u00ea.\n\u2022 Behalwe in Engels, kan 'n mens in Afrikaans, Xhosa of Zoeloe gesels.\n\u2022 Jy kan musiek, videospeletjies, lugtyd en elektrisiteit deur MXit koop.\n\n<b>Wat is MXit se nadele?</b>\n\u2022 Leerders se skoolwerk kan verswak, want MXit is verslawend.\n\u2022 Mense MXit wanneer hulle eet, gesels, skoolgaan, huiswerk doen en selfs wanneer hulle fliek.\n\u2022 MXit is onpersoonlik en veroorsaak dat mense nie meer maklik met mense kan gesels en hulle in die o\u00eb kyk nie.\n\u2022 MXit-taal en -skryfstyl kan leerders leer om verkeerd te spel en te skryf.\n\u2022 Kinders kan maklik op verkeerde kletskamers ingaan wat nie by hulle ouderdom pas nie, want jy hoef nie te se wie jy is nie.\n\u2022 Dit is baie maklik om 'n kuberboelie te wees. Die boelie hoef nie sy slagoffer in die o\u00eb te kyk nie, maar stuur net 'n boodskap.\n\n[Verkry uit \"Afrikaans is maklik\"]\n\nKies die korrekte antwoord. Omkring die korrekte antwoord.\n'n MXit boodskap kan tot ... letters h\u00ea.",
+        "ground_truth": "B",
+        "options": [
+            "(A) 2038",
+            "(B) 2048",
+            "(C) 2068",
+            "(D) 1048"
+        ],
+        "level": "low",
+        "subject": "afrikaans",
+        "subject_category": "language"
+    },
+    {
+        "id": 195,
+        "question": "Nagdiere het die vermoe om duidelik in die donker te sien. Hulle het \u2026",
+        "ground_truth": "B",
+        "options": [
+            "(A) groter o\u00eb.",
+            "(B) meer stafies in die retina.",
+            "(C) meer ke\u00ebls in die retina.",
+            "(D) nie 'n blinde vlek nie."
+        ],
+        "level": "high",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 196,
+        "question": "Kies die KORREKTE antwoord.\nReaksie waartydens waterstof na helium verander",
+        "ground_truth": "G",
+        "options": [
+            "(A) Planet\u00eare nebula",
+            "(B) Rooi reus",
+            "(C) Wit dwerg",
+            "(D) Die son",
+            "(E) Nebula",
+            "(F) Swart dwerg",
+            "(G) Kernfusie / Kernversmelting"
+        ],
+        "level": "mid",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 197,
+        "question": "Watter EEN van die volgende is KORREK met verwysing na die homeostatiese beheer van glukose in die menslike liggaam?",
+        "ground_truth": "C",
+        "options": [
+            "(A)\nKLIER | HORMOON\u00a0AFGESKEI | EFFEK\u00a0OP\u00a0DIE\u00a0VLAK\u00a0VAN\u00a0GLUKOSE\u00a0IN\u00a0BLOED\nPankreas | Insulien | Styg",
+            "(B) \nKLIER | HORMOON\u00a0AFGESKEI | EFFEK\u00a0OP\u00a0DIE\u00a0VLAK\u00a0VAN\u00a0GLUKOSE\u00a0IN\u00a0BLOED\nPitu\u00eft\u00eare | Glukagon | Styg",
+            "(C) \nKLIER | HORMOON\u00a0AFGESKEI | EFFEK\u00a0OP\u00a0DIE\u00a0VLAK\u00a0VAN\u00a0GLUKOSE\u00a0IN\u00a0BLOED\nPankreas | Insulien | Daal",
+            "(D) \nKLIER | HORMOON\u00a0AFGESKEI | EFFEK\u00a0OP\u00a0DIE\u00a0VLAK\u00a0VAN\u00a0GLUKOSE\u00a0IN\u00a0BLOED\nPankreas | Glukagon | Daal"
+        ],
+        "level": "high",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 198,
+        "question": "Watter deel van die neuron vervoer impulse na die selliggaam?",
+        "ground_truth": "A",
+        "options": [
+            "(A) Dendriet",
+            "(B) Mi\u00eblienskede",
+            "(C) Akson",
+            "(D) Sinaps"
+        ],
+        "level": "high",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 199,
+        "question": "\u0149 Veldkrag \u2026",
+        "ground_truth": "C",
+        "options": [
+            "(A) is altyd \u0149 aantrekkingskrag.",
+            "(B) vind alleenlik plaas tussen magnetiese en elektriese ladings.",
+            "(C) is die resultate van \u0149 aksie oor die afstand tussen twee liggame.",
+            "(D) is die enigste tipe krag wat die spoed van \u0149 voorwerp verander."
+        ],
+        "level": "mid",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 200,
+        "question": "'n Eenvoudige toestel wat 'n elektriese stroombaan oop- en toemaak staan \nbekend as 'n \u2026.",
+        "ground_truth": "B",
+        "options": [
+            "(A) sel.",
+            "(B) skakelaar.",
+            "(C) battery.",
+            "(D) reostaat."
+        ],
+        "level": "mid",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 201,
+        "question": "Watter strukture skei tydens swangerskap progesteroon af?",
+        "ground_truth": "B",
+        "options": [
+            "(A) Byniere en corpus luteum",
+            "(B) Corpus luteum en plasenta",
+            "(C) Tiro\u00efedklier en Graafse follikel",
+            "(D) Pitu\u00eft\u00eare klier en Graafse follikel"
+        ],
+        "level": "high",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 204,
+        "question": "Die laag van die atmosfeer met die laagste digtheid is \ndie ...",
+        "ground_truth": "D",
+        "options": [
+            "(A) troposfeer.",
+            "(B) stratosfeer.",
+            "(C) mesosfeer.",
+            "(D) termosfeer."
+        ],
+        "level": "mid",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 205,
+        "question": "Kies die KORREKTE antwoord.\nDie instrument wat gebruik word om stroomsterkte te meet",
+        "ground_truth": "B",
+        "options": [
+            "(A) Gravitasiekrag",
+            "(B) Ammeter",
+            "(C) Kragstuwing",
+            "(D) Lawa",
+            "(E) Troposfeer",
+            "(F) Stratosfeer",
+            "(G) Smeltdraad",
+            "(H) Kragtasie"
+        ],
+        "level": "mid",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 207,
+        "question": "Wat is die modus van die tellings in die frekwensietabel hieronder?\n<b>Telling</b> | <b>Frekwensie</b>\n111 | 2\n112,1 | 7\n114,3 | 6\n115 | 2\n211 | 1",
+        "ground_truth": "C",
+        "options": [
+            "(A) 118,5",
+            "(B) 113,6",
+            "(C) 112,1",
+            "(D) 100"
+        ],
+        "level": "mid",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 208,
+        "question": "Skryf die volgende as \u0149 heelgetal.\n$( 6\\ \\times \\ 100) \\ +\\ ( 9\\ \\times \\ 1\\ 000\\ 000) \\ +\\ ( 4\\ \\times \\ 10) \\ +\\ ( 8\\ \\times \\ 1\\ 000)$",
+        "ground_truth": "A",
+        "options": [
+            "(A) 9 008 640",
+            "(B)  6 948 000",
+            "(C) 9 648",
+            "(D) 9 800 640"
+        ],
+        "level": "low",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 210,
+        "question": "Van die inligting hieronder, kies die vervoermetode wat die minste \nbrandstof/petrol gebruik.",
+        "ground_truth": "D",
+        "options": [
+            "(A) 'n Lorrie gebruik 40 liter brandstof vir 200 km",
+            "(B) 'n Kar reis 500 km op 50 liters brandstof.",
+            "(C) 'n Bus gebruik 30 liter brandstof om 165 km te reis",
+            "(D) 'n Rokker-motorfiets reis 450 km op 22,5 liter petrol"
+        ],
+        "level": "mid",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 211,
+        "question": "Wat is die volgende getal in die getalpatroon?\n15 ; 21 ; 27 ; 33 ; 39 ; <u>______</u>",
+        "ground_truth": "B",
+        "options": [
+            "(A) 43",
+            "(B) 45",
+            "(C) 47",
+            "(D) 50"
+        ],
+        "level": "low",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 212,
+        "question": "'n Voordeel van inwendige bevrugting is dat \u2026",
+        "ground_truth": "A",
+        "options": [
+            "(A) sperms en ovums in die vrou se liggaam beskerm word.",
+            "(B) daar beter ouersorg is.",
+            "(C) meer gamete geproduseer sal word.",
+            "(D) die fetus voedsel direk vanaf die ma ontvang."
+        ],
+        "level": "high",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 213,
+        "question": "'n Sirkel word in twaalfdes verdeel. Hoeveel twaalfdes maak \u0149 derde van die sirkel?",
+        "ground_truth": "B",
+        "options": [
+            "(A) 3",
+            "(B) 4",
+            "(C) 6",
+            "(D) 12"
+        ],
+        "level": "low",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 214,
+        "question": "Los die volgende getalsin op $6\\ \\times \\ \\vartriangle \\ -3 = 39$\n$\\vartriangle \\ =$ <u>______</u>.",
+        "ground_truth": "C",
+        "options": [
+            "(A) 4",
+            "(B) 6",
+            "(C) 7",
+            "(D) 11"
+        ],
+        "level": "low",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 215,
+        "question": "n Funksie van die iris van die oog is om \u2026",
+        "ground_truth": "B",
+        "options": [
+            "(A) lig te breek om 'n duidelike beeld te vorm",
+            "(B) die hoeveelheid lig wat die oog binnedring, te beheer.",
+            "(C) die ligprikkels na impulse om te skakel.",
+            "(D) die weerkaatsing van lig in die oog te voorkom."
+        ],
+        "level": "high",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 218,
+        "question": "Hoeveel is 853 951 afgerond tot die naaste 100.",
+        "ground_truth": "A",
+        "options": [
+            "(A) 854 000",
+            "(B)  854 100",
+            "(C) 853 900",
+            "(D) 853 950"
+        ],
+        "level": "low",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 219,
+        "question": "Watter van die volgende beskryf Groot depressie van 1929 die beste?",
+        "ground_truth": "D",
+        "options": [
+            "(A) 'n Ekonomiese insinking",
+            "(B) Begin in die VSA",
+            "(C) die hele w\u00eareld geraak",
+            "(D) Al bogenoemde"
+        ],
+        "level": "mid",
+        "subject": "history",
+        "subject_category": "social-science"
+    },
+    {
+        "id": 220,
+        "question": "Bonga het 'n kartondoosskyf wat hy in stukke wil sny om 'n reghoekige piramide te maak. Hy gaan die volgende stukke sny:",
+        "ground_truth": "D",
+        "options": [
+            "(A) Vier reghoeke en twee vierkante",
+            "(B) Twee reghoeke en vier vierkante",
+            "(C) Drie reghoeke en een driehoek",
+            "(D) Een reghoek en vier driehoeke"
+        ],
+        "level": "mid",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 221,
+        "question": "'n Veldkrag...",
+        "ground_truth": "C",
+        "options": [
+            "(A) is altyd 'n aantrekkingskrag.",
+            "(B) kom voor alleenlik tussen 'n magnetise en elektriese lading.",
+            "(C) Iei tot 'n aksie op 'n afstand tussen twee liggame.",
+            "(D) is die enigste tipe krag wat die spoed van 'n voorwerp kan verander."
+        ],
+        "level": "mid",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 222,
+        "question": "Kies die verskynsels wat in die advertensie voorkom wat tipies van die een en twintigste-eeu is.",
+        "ground_truth": "C",
+        "options": [
+            "(A) rekenaar en tuisonderrig",
+            "(B) boeke en rekenaar",
+            "(C) webwerf en rekenaarprogramme",
+            "(D) rekenaar, boeke, pen en leerders"
+        ],
+        "level": "mid",
+        "subject": "afrikaans",
+        "subject_category": "language"
+    },
+    {
+        "id": 224,
+        "question": "Wat sal die totale buite-oppervlakte van \u0149 kubus met \u0149 volume van 64 cm^{3} wees?",
+        "ground_truth": "A",
+        "options": [
+            "(A) 96 cm^{2}",
+            "(B) 64 cm^{2}",
+            "(C) 16 cm^{2}",
+            "(D) 4 cm^{2}"
+        ],
+        "level": "mid",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 226,
+        "question": "Opwekking van elektrisiteit deur vallende water word... genoem.",
+        "ground_truth": "B",
+        "options": [
+            "(A) kernkrag",
+            "(B) hidro-elektrisiteit",
+            "(C) transformasie",
+            "(D) aardlekkasies"
+        ],
+        "level": "mid",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 227,
+        "question": "Die algemene re\u00ebl vir die patroon 3; 8, 13, 18; 23 is \u2026",
+        "ground_truth": "B",
+        "options": [
+            "(A) $2n+1$",
+            "(B) $5n-2$",
+            "(C) $4n-1$",
+            "(D) $7n-4$"
+        ],
+        "level": "mid",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 228,
+        "question": "Wat is die waarde van $63,\\ 91\\ \\times \\ 10$?",
+        "ground_truth": "D",
+        "options": [
+            "(A) 6, 391",
+            "(B) 63, 910",
+            "(C) 6 391",
+            "(D) 639,1"
+        ],
+        "level": "low",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 229,
+        "question": "$\\frac{65^{2} - 25^{2}}{65 + 25}$ = \u22ef",
+        "ground_truth": "C",
+        "options": [
+            "(A) 50",
+            "(B) 17,8",
+            "(C) 40",
+            "(D) 4/9"
+        ],
+        "level": "mid",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 230,
+        "question": "Noem die toestel wat elektriese energie omsit in bewegingsenergie.",
+        "ground_truth": "B",
+        "options": [
+            "(A) Gloeilamp",
+            "(B) Motor",
+            "(C) Gonser",
+            "(D) Battery"
+        ],
+        "level": "low",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 231,
+        "question": "Watter van die volgende stellings is waar omtrent \u0149 vlie\u00ebr?",
+        "ground_truth": "A",
+        "options": [
+            "(A) Die langer hoeklyn halveer die korter hoeklyn teen 90\u00b0.",
+            "(B) Die korter hoeklyn halveer die langer hoeklyn teen 90\u00b0.",
+            "(C) Hoeklyne halveer mekaar.",
+            "(D) Hoeklyne is gelyk."
+        ],
+        "level": "mid",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 232,
+        "question": "Die reseptor(e) betrokke by die handhawing van balans is ...",
+        "ground_truth": "C",
+        "options": [
+            "(A) slegs die orgaan van Corti.",
+            "(B) slegs die makula.",
+            "(C) slegs die makula en die crista.",
+            "(D) die orgaan van Corti, makula en crista."
+        ],
+        "level": "high",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 233,
+        "question": "$\\sqrt{16x^{16}}$ =",
+        "ground_truth": "D",
+        "options": [
+            "(A) $8x^{8}$",
+            "(B) $8x^{4}$",
+            "(C) $4x^{4}$",
+            "(D) $4x^{8}$"
+        ],
+        "level": "mid",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 234,
+        "question": "Hoeveel meer hoeke het \u0149 oktogonale prisma as \u0149 oktogonale piramide?",
+        "ground_truth": "C",
+        "options": [
+            "(A) 10",
+            "(B) 2",
+            "(C) 8",
+            "(D) 16"
+        ],
+        "level": "low",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 235,
+        "question": "Wat is die verskil tussen \u0149 serie stroombaan en \u0149 parallelle stroombaan?",
+        "ground_truth": "A",
+        "options": [
+            "(A) \u0149 Serie stroombaan volg een baan (pad) en \u0149 parallelle stroombaan verdeel in verskillende bane (takke).",
+            "(B) \u0149 Serie stroombaan moet \u0149 smeltdraad h\u00ea.",
+            "(C) \u0149 Parallelle stroombaan moet \u0149 stroombreker h\u00ea.",
+            "(D) \u0149 Parallelle stroombaan volg een baan (pad) en \u0149 serie stroombaan verdeel in verskillende bane (takke)."
+        ],
+        "level": "mid",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 236,
+        "question": "Watter EEN van die volgende is KORREK met verwysing na astigmatisme?",
+        "ground_truth": "C",
+        "options": [
+            "(A) Lig kan nie deur die kornea beweeg nie",
+            "(B) Lig kan nie deur die lens beweeg nie",
+            "(C) Breking van ligstrale deur die kornea is oneweredig",
+            "(D) Die lens kan nie nog ronder word nie"
+        ],
+        "level": "high",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 238,
+        "question": "Die planete wentel rondom die son in 'n pad wat 'n ... genoem word.",
+        "ground_truth": "C",
+        "options": [
+            "(A) astero\u00efedegordel",
+            "(B) sonnestelsel",
+            "(C) baan",
+            "(D) rotasie"
+        ],
+        "level": "low",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 240,
+        "question": "Skryf as 'n <b>heelgetal</b>.\n$( 5\\ \\times \\ 10\\ 000\\ 000) \\ +\\ ( 2\\ \\times \\ 1\\ 000\\ 000) \\ +\\ ( 7\\ \\times \\ 100\\ 000) \\ \\times \\ ( 3\\ \\times \\ 1)$",
+        "ground_truth": "D",
+        "options": [
+            "(A) 52 070 300",
+            "(B) 52 700 030",
+            "(C) 52 730 000",
+            "(D) 52 700 003"
+        ],
+        "level": "low",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 241,
+        "question": "Die elektrostatiese krag tussen twee gelaaide voorwerpe is F. Die afstand tussen hulle word vermeerder. Hoe verander die elektrostatiese krag?",
+        "ground_truth": "B",
+        "options": [
+            "(A) Dit neem toe.",
+            "(B) Dit neem af.",
+            "(C) Dit bly dieselfde.",
+            "(D) Nie een van bogenoemde nie."
+        ],
+        "level": "mid",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 242,
+        "question": "Tydens 'n refleksaksie gaan impulse die rugmurg binne deur middel van 'n \u2026",
+        "ground_truth": "B",
+        "options": [
+            "(A) sensoriese neuron deur die ventrale wortel van die rugmurgsenuwee.",
+            "(B) sensoriese neuron deur die dorsale wortel van die rugmurgsenuwee",
+            "(C) interneuron deur die ventrale wortel van die rugmurgsenuwee.",
+            "(D) interneuron deur die dorsale wortel van die rugmurgsenuwee."
+        ],
+        "level": "high",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 243,
+        "question": "Mej. Mantewu het 48 leerders in haar klas. Daar is 36 meisies. Watter van die volgende is die verhouding seuns tot meisies?",
+        "ground_truth": "C",
+        "options": [
+            "(A) 1 : 4",
+            "(B) 2 : 3",
+            "(C) 1 : 3",
+            "(D) 3 : 4"
+        ],
+        "level": "low",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 244,
+        "question": "Kies die KORREKTE antwoord.\n'n Skouspelagtige verskynsel wat verlig word deur sy sentrale wit dwergster",
+        "ground_truth": "A",
+        "options": [
+            "(A) Planet\u00eare nebula",
+            "(B) Rooi reus",
+            "(C) Wit dwerg",
+            "(D) Die son",
+            "(E) Nebula",
+            "(F) Swart dwerg",
+            "(G) Kernfusie / Kernversmelting"
+        ],
+        "level": "mid",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 245,
+        "question": "Thandi ry 2 km, Sandy ry 1 575 m en Aviwe ry 3,5 km op hulle fietse na die skool. Wat is die totale afstand wat die drie kinders altesaam gery het?",
+        "ground_truth": "C",
+        "options": [
+            "(A) 7 km",
+            "(B) 7 000 m",
+            "(C) 7,075 km",
+            "(D) 7 750 m"
+        ],
+        "level": "low",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 246,
+        "question": "Die stowwe voor die pyltie in 'n chemiese reaksie vergelyking word \u2026 genoem.",
+        "ground_truth": "D",
+        "options": [
+            "(A) produkte",
+            "(B) sure",
+            "(C) basisse",
+            "(D) reaktante"
+        ],
+        "level": "mid",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 247,
+        "question": "Die hoofdoel van die apartheidsbeleid was om ........",
+        "ground_truth": "D",
+        "options": [
+            "(A) ryk en arm te skei.",
+            "(B) swart mense in Suid-Afrika op te lei.",
+            "(C) gelykheid tussen rasse te bevorder.",
+            "(D) mense te skei op grond van hulle ras."
+        ],
+        "level": "mid",
+        "subject": "history",
+        "subject_category": "social-science"
+    },
+    {
+        "id": 248,
+        "question": "Die choro\u00efed \u2026",
+        "ground_truth": "A",
+        "options": [
+            "(A) is ryklik van bloedvate voorsien.",
+            "(B) bevat fotoreseptore.",
+            "(C) breek die ligstrale.",
+            "(D) stuur impulse na die brein."
+        ],
+        "level": "high",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 249,
+        "question": "Die breuk 24/36 kan in sy eenvoudigste vorm geskryf word as:",
+        "ground_truth": "B",
+        "options": [
+            "(A) 1/3",
+            "(B) 2/3",
+            "(C) 3/4",
+            "(D) 4/9"
+        ],
+        "level": "low",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 250,
+        "question": "Wat is die waarde van $(\\frac{2}{3})^{-3}$",
+        "ground_truth": "D",
+        "options": [
+            "(A) $\\frac{-6}{9}$",
+            "(B) 5/6",
+            "(C) 8/27",
+            "(D) 27/8"
+        ],
+        "level": "mid",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 251,
+        "question": "Die reaksie van magnesium (metaal) met suurstof sal altyd \u0149 produk ... gee.",
+        "ground_truth": "C",
+        "options": [
+            "(A) magnesium soute",
+            "(B) magnesium hydroksiede",
+            "(C) magnesium oksiede",
+            "(D) magnesium dioksiede"
+        ],
+        "level": "mid",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 252,
+        "question": "Watter EEN van die volgende is 'n funksie van amniotiese vloeistof?",
+        "ground_truth": "B",
+        "options": [
+            "(A) Vervoer suurstof na die ontwikkelende fetus",
+            "(B) Beskerm die fetus teen temperatuurveranderinge",
+            "(C) Produseer progesteroon en estrogeen",
+            "(D) Beskerm die fetus teen siektes"
+        ],
+        "level": "high",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 253,
+        "question": "Watter getal word deur\n$( 7\\ \\times \\ 10\\ 000) +( 6\\ \\ \\times \\ 1\\ 000) +( 3\\ \\times \\ 100) +( 1\\ \\times \\ 1) $ verteenwoordig?",
+        "ground_truth": "D",
+        "options": [
+            "(A) 7 631",
+            "(B) 70 631",
+            "(C) 76 310",
+            "(D) 76 301"
+        ],
+        "level": "low",
+        "subject": "math",
+        "subject_category": "math"
+    },
+    {
+        "id": 254,
+        "question": "Die Magtigingswet van 1933...",
+        "ground_truth": "D",
+        "options": [
+            "(A) Het Hitler diktatoriale magte gegee",
+            "(B) 'n Wet wat deur die Duitse Reichstag aanvaar is",
+            "(C) Hitler die mag gegee om grondwetlike veranderinge aan te bring",
+            "(D) Al bogenoemde"
+        ],
+        "level": "mid",
+        "subject": "history",
+        "subject_category": "social-science"
+    },
+    {
+        "id": 255,
+        "question": "'n Moontlike effek van aardverwarming is \u2026",
+        "ground_truth": "B",
+        "options": [
+            "(A) korter nagte.",
+            "(B) 'n styging in die seevlak.",
+            "(C) koeler temperature.",
+            "(D) langer dae."
+        ],
+        "level": "mid",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 256,
+        "question": "Watter EEN van die volgende is die gesigsgebrek wat die gevolg van die onewe kromming van die kornea is?",
+        "ground_truth": "D",
+        "options": [
+            "(A) Katarakte",
+            "(B) Versiendheid",
+            "(C) Bysiendheid",
+            "(D) Astigmatisme"
+        ],
+        "level": "high",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    },
+    {
+        "id": 257,
+        "question": "Watter EEN van die volgende toon die korrekte volgorde van 'n impuls vanaf die reseptor in 'n eenvoudige refleksboog?",
+        "ground_truth": "A",
+        "options": [
+            "(A) Sensoriese neuron deur die dorsale wortel  -> motoriese neuron deur die ventrale wortel -> effektor",
+            "(B) Motoriese neuron deur die dorsale wortel -> sensoriese neuron deur die ventrale wortel -> effektor",
+            "(C) Sensoriese neuron deur die dorsale wortel -> effektor -> motoriese neuron deur die ventrale wortel",
+            "(D) Effektor -> interneuron deur die dorsale wortel -> motoriese neuron deur die ventrale wortel"
+        ],
+        "level": "high",
+        "subject": "lifescience",
+        "subject_category": "natural-science"
+    }
+]

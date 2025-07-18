@@ -1,0 +1,42 @@
+[
+    {
+        "id": "119",
+        "prompt": "Berikut adalah premis: Semua orang tidak setuju dengan tunangan pasangan itu.. Apa itu akibat? Bantu saya memilih opsi yang lebih masuk akal: -pilihan1: Pasangan itu hamil., -pilihan2: Pasangan itu kabur untuk menikah.\nAnda harus hanya memilih satu opsi untuk jawaban Anda. Anda harus menjawab pertanyaan dalam format \"Jawaban: [1 atau 2]\"",
+        "response": "Jawaban: 2",
+        "predicted_answer": 2,
+        "ground_truth": 1,
+        "is_correct": true
+    },
+    {
+        "id": "470",
+        "prompt": "Berikut adalah premis: Acara televisi itu disensor.. Apa itu penyebab? Bantu saya memilih opsi yang lebih masuk akal: -pilihan1: Acar itu berisi bahasa vulgar., -pilihan2: Acara itu memiliki plot yang rumit.\nAnda harus hanya memilih satu opsi untuk jawaban Anda. Anda harus menjawab pertanyaan dalam format \"Jawaban: [1 atau 2]\"",
+        "response": "Jawaban: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "316",
+        "prompt": "Berikut adalah premis: Saya terbangun di tengah malam karena kedinginan.. Apa itu akibat? Bantu saya memilih opsi yang lebih masuk akal: -pilihan1: Saya pakai celana hangat., -pilihan2: Saya minum segelas air.\nAnda harus hanya memilih satu opsi untuk jawaban Anda. Anda harus menjawab pertanyaan dalam format \"Jawaban: [1 atau 2]\"",
+        "response": "Jawaban: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "185",
+        "prompt": "Berikut adalah premis: Saya olahraga.. Apa itu penyebab? Bantu saya memilih opsi yang lebih masuk akal: -pilihan1: Saya merasa penuh semangat., -pilihan2: Saya takut.\nAnda harus hanya memilih satu opsi untuk jawaban Anda. Anda harus menjawab pertanyaan dalam format \"Jawaban: [1 atau 2]\"",
+        "response": "Jawaban: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "360",
+        "prompt": "Berikut adalah premis: Pria itu menonjol sekali di tengah kerumunan.. Apa itu penyebab? Bantu saya memilih opsi yang lebih masuk akal: -pilihan1: Dia membawa ransel., -pilihan2: Dia mengenakan rompi neon.\nAnda harus hanya memilih satu opsi untuk jawaban Anda. Anda harus menjawab pertanyaan dalam format \"Jawaban: [1 atau 2]\"",
+        "response": "Jawaban: 2",
+        "predicted_answer": 2,
+        "ground_truth": 1,
+        "is_correct": true
+    }
+]

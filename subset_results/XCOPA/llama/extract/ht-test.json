@@ -1,0 +1,52 @@
+[
+    {
+        "id": "107",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: Saldeben an te inonde.\nWhat is the cause?\nChoice1: Twal\u00e8t la te deb\u00f2de.\nChoice2: Chofdlo a te kase.\nExplanation: The premise \"Saldeben an te inonde\" means \"The fields were flooded.\" To determine the cause, let's consider the options. Choice 1, \"Twal\u00e8t la te deb\u00f2de,\" suggests that the floodgate was opened, which is a plausible reason for flooding in a field. This choice involves human action and a specific cause. \n\nOn the other hand, Choice 2, \"Chofdlo a te kase,\" means \"The child broke the dam.\" While this could also cause flooding, it's less likely, especially if the fields are not near a river or a dam. Additionally, the phrase \"chofdlo a te kase\" implies a more accidental or unintentional action, which might not be the most direct cause of the flooding.",
+        "response": "Answer: 1",
+        "explanation": "The premise \"Saldeben an te inonde\" means \"The fields were flooded.\" To determine the cause, let's consider the options. Choice 1, \"Twal\u00e8t la te deb\u00f2de,\" suggests that the floodgate was opened, which is a plausible reason for flooding in a field. This choice involves human action and a specific cause. \n\nOn the other hand, Choice 2, \"Chofdlo a te kase,\" means \"The child broke the dam.\" While this could also cause flooding, it's less likely, especially if the fields are not near a river or a dam. Additionally, the phrase \"chofdlo a te kase\" implies a more accidental or unintentional action, which might not be the most direct cause of the flooding.",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "464",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: Fanmi a te vle f\u00e8 konesans nouvo vwazen yo.\nWhat is the effect?\nChoice1: Fanmi a te envite vwazen yo pou dine.\nChoice2: Fanmi a te voye men bay vwazen yo nan lakou a.\nExplanation: To determine the correct choice, let's break down the premise. \"Fanmi a te vle f\u00e8 konesans nouvo vwazen yo\" means \"The family wanted to get to know their new neighbors.\" This implies a friendly and welcoming gesture.\n\nChoice 1: \"Fanmi a te envite vwazen yo pou dine\" means \"The family invited their neighbors to dinner.\" This is a common way to build relationships and get to know new people in many cultures, including Haitian culture. It's a warm and inviting gesture that allows people to share a meal and conversation.\n\nChoice 2: \"Fanmi a te voye men bay vwazen yo nan lakou a\" means \"The family sent a hand to their neighbors in the yard.\" This phrase could be interpreted as a gesture of kindness, but it's less clear than the invitation to dinner. In Haitian culture, sending someone to help with yard work might be seen as a practical gesture, but it's not as directly related to building relationships as an invitation to dinner.\n\nConsidering the premise and the cultural context, the most likely and welcoming gesture is the invitation to dinner.",
+        "response": "Answer: 1",
+        "explanation": "To determine the correct choice, let's break down the premise. \"Fanmi a te vle f\u00e8 konesans nouvo vwazen yo\" means \"The family wanted to get to know their new neighbors.\" This implies a friendly and welcoming gesture.\n\nChoice 1: \"Fanmi a te envite vwazen yo pou dine\" means \"The family invited their neighbors to dinner.\" This is a common way to build relationships and get to know new people in many cultures, including Haitian culture. It's a warm and inviting gesture that allows people to share a meal and conversation.\n\nChoice 2: \"Fanmi a te voye men bay vwazen yo nan lakou a\" means \"The family sent a hand to their neighbors in the yard.\" This phrase could be interpreted as a gesture of kindness, but it's less clear than the invitation to dinner. In Haitian culture, sending someone to help with yard work might be seen as a practical gesture, but it's not as directly related to building relationships as an invitation to dinner.\n\nConsidering the premise and the cultural context, the most likely and welcoming gesture is the invitation to dinner.",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "63",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: Men mwen te sezi.\nWhat is the cause?\nChoice1: Mwen te ekri redaksyon an a la men.\nChoice2: Madanm mwen kenbe men av\u00e8 mwen.\nExplanation: The premise \"Men mwen te sezi\" translates to \"My hand hurts.\" To determine the cause, let's consider the options. \n\nIf \"Mwen te ekri redaksyon an a la men\" (I was writing a letter with my hand), it's likely that the hand pain is due to the physical activity of writing, which can cause strain and fatigue in the hand. This is a common experience for many people who write for extended periods.\n\nOn the other hand, if \"Madanm mwen kenbe men av\u00e8 mwen\" (My wife is holding my hand), it's unlikely that the hand pain is caused by the gentle act of holding hands, which is a social and affectionate gesture. This option seems less plausible as a cause for hand pain. \n\nTherefore, the most reasonable choice is that the hand pain is caused by the physical activity of writing.",
+        "response": "Answer: 1",
+        "explanation": "The premise \"Men mwen te sezi\" translates to \"My hand hurts.\" To determine the cause, let's consider the options. \n\nIf \"Mwen te ekri redaksyon an a la men\" (I was writing a letter with my hand), it's likely that the hand pain is due to the physical activity of writing, which can cause strain and fatigue in the hand. This is a common experience for many people who write for extended periods.\n\nOn the other hand, if \"Madanm mwen kenbe men av\u00e8 mwen\" (My wife is holding my hand), it's unlikely that the hand pain is caused by the gentle act of holding hands, which is a social and affectionate gesture. This option seems less plausible as a cause for hand pain. \n\nTherefore, the most reasonable choice is that the hand pain is caused by the physical activity of writing.",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "454",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: Madanm nan te trebiche sou trotwa a.\nWhat is the cause?\nChoice1: Te gen yon fant nan siman an.\nChoice2: Li te tande yon moun ap rele non li.\nExplanation: Let's break down the situation. Madanm nan (the woman) is standing on the sidewalk, which is a public space. The question is asking what caused her to stand there. \n\nChoice 1 suggests that there might be a snake on the sidewalk, which is a plausible reason for someone to be hesitant or cautious about walking there. However, this might not be the most likely reason for someone to stand on the sidewalk.\n\nChoice 2 suggests that the woman heard someone calling her name, which is a common reason for someone to stop and respond to a voice. This is a more plausible explanation, especially in a public space where people often call out to each other. \n\nConsidering these options, the most likely cause of Madanm nan standing on the sidewalk is that she heard someone calling her name.",
+        "response": "Answer: 2",
+        "explanation": "Let's break down the situation. Madanm nan (the woman) is standing on the sidewalk, which is a public space. The question is asking what caused her to stand there. \n\nChoice 1 suggests that there might be a snake on the sidewalk, which is a plausible reason for someone to be hesitant or cautious about walking there. However, this might not be the most likely reason for someone to stand on the sidewalk.\n\nChoice 2 suggests that the woman heard someone calling her name, which is a common reason for someone to stop and respond to a voice. This is a more plausible explanation, especially in a public space where people often call out to each other. \n\nConsidering these options, the most likely cause of Madanm nan standing on the sidewalk is that she heard someone calling her name.",
+        "predicted_answer": 2,
+        "ground_truth": 0,
+        "is_correct": false
+    },
+    {
+        "id": "456",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: Mwen te pran antibyotik.\nWhat is the effect?\nChoice1: Enfeksyon mwen te geri.\nChoice2: Enfeksyon mwen te gaye.\nExplanation: Antibyotik se yon l\u00f2d ki gen pou li pase enfeksyon nan lespas. L\u00e8 w pran antibyotik, li pral tounen efikas kont enfeksyon. \n\nChwazi: Enfeksyon mwen te geri.",
+        "response": "Answer: 2",
+        "explanation": "Antibyotik se yon l\u00f2d ki gen pou li pase enfeksyon nan lespas. L\u00e8 w pran antibyotik, li pral tounen efikas kont enfeksyon. \n\nChwazi: Enfeksyon mwen te geri.",
+        "predicted_answer": 2,
+        "ground_truth": 0,
+        "is_correct": false
+    }
+]

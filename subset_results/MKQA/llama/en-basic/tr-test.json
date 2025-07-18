@@ -1,0 +1,89 @@
+[
+    {
+        "id": "3643218479176707788",
+        "prompt": "Answer the question in one or a few words in English: \nstranger things'in (acayip \u015feyler) ka\u00e7 sezonu vard\u0131r\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "Stranger Things'in 5 sezonu vard\u0131r.\n\nAnswer: Be\u015f sezonu vard\u0131r.",
+        "predicted_answer": "Be\u015f sezonu vard\u0131r.",
+        "ground_truth": [
+            {
+                "type": "number",
+                "text": "3.0",
+                "aliases": [
+                    "3"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "3356010362039543701",
+        "prompt": "Answer the question in one or a few words in English: \ni regret i have but one life to give for my country s\u00f6z\u00fcn\u00fc kim s\u00f6yledi\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "Bu s\u00f6z William Wallace taraf\u0131ndan s\u00f6ylendi.\n\nAnswer: William Wallace.",
+        "predicted_answer": "William Wallace.",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "text": "Nathan Hale",
+                "entity": "Q16932034"
+            },
+            {
+                "type": "entity",
+                "text": "Nathan Hale",
+                "entity": "Q16932034"
+            },
+            {
+                "type": "entity",
+                "text": "Nathan Hale",
+                "entity": "Q16932034"
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "5965447391112455356",
+        "prompt": "Answer the question in one or a few words in English: \nsansa stark'\u0131 oynayan aktris kimdir\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "Sophie Turner. \n\nAnswer: Sophie Turner.",
+        "predicted_answer": "Sophie Turner.",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q240573",
+                "text": "Sophie Turner",
+                "aliases": []
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "476368974337766528",
+        "prompt": "Answer the question in one or a few words in English: \ncumhuriyet\u00e7i parti se\u00e7imi en son ne zaman kazand\u0131\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "Cumhuriyet\u00e7i Parti se\u00e7imi en son 1946 y\u0131l\u0131nda kazand\u0131.\n\nAnswer: 1946 y\u0131l\u0131nda",
+        "predicted_answer": "1946 y\u0131l\u0131nda",
+        "ground_truth": [
+            {
+                "type": "date",
+                "text": "2004",
+                "aliases": [
+                    "2004"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "6116319690634922724",
+        "prompt": "Answer the question in one or a few words in English: \nnew albany ohio nun n\u00fcfusu nedir\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "Yakla\u015f\u0131k n\u00fcfus bilgisi bulunamad\u0131.",
+        "predicted_answer": "Yakla\u015f\u0131k n\u00fcfus bilgisi bulunamad\u0131.",
+        "ground_truth": [
+            {
+                "type": "number",
+                "text": "10889.0",
+                "aliases": [
+                    "10889"
+                ]
+            }
+        ],
+        "is_correct": null
+    }
+]

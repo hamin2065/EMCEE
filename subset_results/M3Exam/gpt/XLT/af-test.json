@@ -1,0 +1,42 @@
+[
+    {
+        "id": 220,
+        "prompt": "I want you to act as a question answering expert for afrikaans.\nRequest: Bonga het 'n kartondoosskyf wat hy in stukke wil sny om 'n reghoekige piramide te maak. Hy gaan die volgende stukke sny:\n(A) Vier reghoeke en twee vierkante\n(B) Twee reghoeke en vier vierkante\n(C) Drie reghoeke en een driehoek\n(D) Een reghoek en vier driehoeke\nYou should retell the request in English.\nYou should step-by-step answer to obtain an option.\nYou should tell me the answer in this format: 'Answer: [option]'.",
+        "response": "Request: Bonga has a cardboard sheet that he wants to cut into pieces to make a rectangular pyramid. He will cut the following pieces:\n(A) Four rectangles and two squares\n(B) Two rectangles and four squares\n(C) Three rectangles and one triangle\n(D) One rectangle and four triangles\n\nNow, let's analyze the options step-by-step to determine which one is suitable for making a rectangular pyramid.\n\n1. A rectangular pyramid consists of a rectangular base and triangular faces.\n2. The base of the pyramid is a rectangle, and the sides are triangles.\n\nNow, let's evaluate each option:\n\n(A) Four rectangles and two squares: This option has too many rectangles and squares, which do not fit the structure of a rectangular pyramid.\n\n(B) Two rectangles and four squares: This option also has too many squares and does not provide the necessary triangular faces.\n\n(C) Three rectangles and one triangle: This option has too many rectangles and lacks the required triangular faces.\n\n(D) One rectangle and four triangles: This option has one rectangle for the base and four triangles for the sides, which fits the structure of a rectangular pyramid.\n\nBased on this analysis, the correct option for making a rectangular pyramid is:\n\nAnswer: D",
+        "predicted_answer": "D",
+        "ground_truth": "D",
+        "is_correct": true
+    },
+    {
+        "id": 59,
+        "prompt": "I want you to act as a question answering expert for afrikaans.\nRequest: Geleiers is gewoonlik van ... gemaak.\n(A) metale\n(B) skakelaars\n(C) wol\n(D) nie-metale\nYou should retell the request in English.\nYou should step-by-step answer to obtain an option.\nYou should tell me the answer in this format: 'Answer: [option]'.",
+        "response": "Request: Leaders are usually made of ...\n\n(A) metals  \n(B) switches  \n(C) wool  \n(D) non-metals  \n\nStep 1: Analyze the options.  \n- (A) Metals: This option is plausible as many leaders (like electrical leaders) can be made from metals due to their conductivity.  \n- (B) Switches: This option does not fit well as switches are components rather than materials.  \n- (C) Wool: This option is unlikely as wool is not a common material for leaders.  \n- (D) Non-metals: This option could also be plausible, but it is less common for leaders to be made from non-metals compared to metals.\n\nStep 2: Determine the most appropriate answer.  \nGiven that leaders are often made from conductive materials, the most logical choice is metals.\n\nAnswer: (A) metals.  \nFinal answer: Answer: A",
+        "predicted_answer": "(A) metals.",
+        "ground_truth": "A",
+        "is_correct": true
+    },
+    {
+        "id": 2,
+        "prompt": "I want you to act as a question answering expert for afrikaans.\nRequest: In 'n sak met albasters is daar 7 blou, 5 rooi en 8 geel albasters. Wat is die waarskynlikheid dat 'n rooi albaster uitgehaal sal word?\n(A) 1/5\n(B) 1/2\n(C) 1/3\n(D) 1/4\nYou should retell the request in English.\nYou should step-by-step answer to obtain an option.\nYou should tell me the answer in this format: 'Answer: [option]'.",
+        "response": "Request: In a bag with marbles, there are 7 blue, 5 red, and 8 yellow marbles. What is the probability that a red marble will be drawn?  \n(A) 1/5  \n(B) 1/2  \n(C) 1/3  \n(D) 1/4  \n\nStep-by-step answer:\n\n1. **Determine the total number of marbles**: \n   - Blue marbles: 7\n   - Red marbles: 5\n   - Yellow marbles: 8\n   - Total = 7 + 5 + 8 = 20 marbles\n\n2. **Determine the number of favorable outcomes**: \n   - The number of red marbles = 5\n\n3. **Calculate the probability**: \n   - Probability of drawing a red marble = (Number of red marbles) / (Total number of marbles) \n   - Probability = 5 / 20 = 1 / 4\n\n4. **Identify the correct option**: \n   - The probability of drawing a red marble is 1/4.\n\nAnswer: (D) 1/4",
+        "predicted_answer": "(D) 1/4",
+        "ground_truth": "D",
+        "is_correct": true
+    },
+    {
+        "id": 235,
+        "prompt": "I want you to act as a question answering expert for afrikaans.\nRequest: Wat is die verskil tussen \u0149 serie stroombaan en \u0149 parallelle stroombaan?\n(A) \u0149 Serie stroombaan volg een baan (pad) en \u0149 parallelle stroombaan verdeel in verskillende bane (takke).\n(B) \u0149 Serie stroombaan moet \u0149 smeltdraad h\u00ea.\n(C) \u0149 Parallelle stroombaan moet \u0149 stroombreker h\u00ea.\n(D) \u0149 Parallelle stroombaan volg een baan (pad) en \u0149 serie stroombaan verdeel in verskillende bane (takke).\nYou should retell the request in English.\nYou should step-by-step answer to obtain an option.\nYou should tell me the answer in this format: 'Answer: [option]'.",
+        "response": "Request: What is the difference between a series circuit and a parallel circuit?\n\nLet's analyze the options step-by-step:\n\n(A) A series circuit follows one path and a parallel circuit divides into different paths (branches).  \nThis statement is correct. In a series circuit, all components are connected end-to-end, so there is only one path for current to flow. In a parallel circuit, components are connected across common points, creating multiple paths for current.\n\n(B) A series circuit must have a fuse.  \nThis statement is not necessarily true. While a fuse can be used in a series circuit for safety, it is not a requirement for the circuit to function.\n\n(C) A parallel circuit must have a circuit breaker.  \nThis statement is also not necessarily true. While circuit breakers can be used for safety in parallel circuits, they are not a requirement for the circuit to function.\n\n(D) A parallel circuit follows one path and a series circuit divides into different paths (branches).  \nThis statement is incorrect. It reverses the definitions of series and parallel circuits.\n\nBased on the analysis, the correct answer is option (A).\n\nAnswer: (A)",
+        "predicted_answer": "(A)",
+        "ground_truth": "A",
+        "is_correct": true
+    },
+    {
+        "id": 193,
+        "prompt": "I want you to act as a question answering expert for afrikaans.\nRequest: Watter EEN van die volgende is 'n gevolg van die vernietiging van vleilande?\n(A) Verhoogde biodiversiteit\n(B) Afname in die beskikbaarheid van water\n(C) Afname in aardverwarming\n(D) Verhoogde watergehalte\nYou should retell the request in English.\nYou should step-by-step answer to obtain an option.\nYou should tell me the answer in this format: 'Answer: [option]'.",
+        "response": "Request: Which ONE of the following is a consequence of the destruction of wetlands?  \n(A) Increased biodiversity  \n(B) Decrease in water availability  \n(C) Decrease in global warming  \n(D) Increased water quality  \n\nStep-by-step answer:  \n1. **Understanding the context**: Wetlands are crucial ecosystems that provide various environmental benefits, including water filtration, flood control, and habitat for diverse species.  \n2. **Analyzing the options**:  \n   - (A) Increased biodiversity: Wetlands typically support a wide range of species, so their destruction would likely lead to decreased biodiversity, not an increase.  \n   - (B) Decrease in water availability: Wetlands play a significant role in maintaining water levels and quality; their destruction would likely lead to a decrease in water availability.  \n   - (C) Decrease in global warming: Wetlands can act as carbon sinks, so their destruction would not decrease global warming; it could potentially increase it.  \n   - (D) Increased water quality: Wetlands help filter pollutants and improve water quality, so their destruction would likely lead to decreased water quality.  \n\n3. **Conclusion**: The most accurate consequence of wetland destruction from the options provided is (B) Decrease in water availability.  \n\nAnswer: [B]",
+        "predicted_answer": "[B]",
+        "ground_truth": "B",
+        "is_correct": true
+    }
+]

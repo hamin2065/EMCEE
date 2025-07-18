@@ -1,0 +1,89 @@
+[
+    {
+        "id": "5170765158681567047",
+        "prompt": "R\u00e9pondez \u00e0 la question en un ou quelques mots en fran\u00e7ais: \nquand a \u00e9t\u00e9 publi\u00e9e pour la premi\u00e8re fois Sourde, muette, aveugle : histoire de ma vie\nVous devez fournir la r\u00e9ponse finale \u00e0 la fin dans le format : 'R\u00e9ponse : [un ou quelques mots]'.",
+        "response": "Pour r\u00e9pondre \u00e0 cette question, je vais rechercher la date de premi\u00e8re publication du livre.\n\nApr\u00e8s v\u00e9rification, le livre \"Sourde, muette, aveugle : histoire de ma vie\" de Helen Keller a \u00e9t\u00e9 publi\u00e9 pour la premi\u00e8re fois en 1903.\n\nR\u00e9ponse : 1903",
+        "predicted_answer": "1903",
+        "ground_truth": [
+            {
+                "type": "date",
+                "text": "1903",
+                "aliases": [
+                    "1903"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "4189590166138253194",
+        "prompt": "R\u00e9pondez \u00e0 la question en un ou quelques mots en fran\u00e7ais: \nqui a le plus d'argent dans la nba\nVous devez fournir la r\u00e9ponse finale \u00e0 la fin dans le format : 'R\u00e9ponse : [un ou quelques mots]'.",
+        "response": "Pour r\u00e9pondre \u00e0 cette question, je vais consid\u00e9rer le contrat le plus \u00e9lev\u00e9 actuellement dans la NBA.\n\nStephen Curry des Golden State Warriors d\u00e9tient le contrat le plus lucratif, avec un contrat de 215 millions de dollars sur 4 ans.\n\nR\u00e9ponse : Stephen Curry",
+        "predicted_answer": "Stephen Curry",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q189240",
+                "text": "Kevin Garnett",
+                "aliases": []
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "-851149197598120689",
+        "prompt": "R\u00e9pondez \u00e0 la question en un ou quelques mots en fran\u00e7ais: \nqui joue le p\u00e8re de cole dans f the prom\nVous devez fournir la r\u00e9ponse finale \u00e0 la fin dans le format : 'R\u00e9ponse : [un ou quelques mots]'.",
+        "response": "Apr\u00e8s v\u00e9rification, je peux r\u00e9pondre :\n\nR\u00e9ponse : Kerry Washington",
+        "predicted_answer": "Kerry Washington",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q352233",
+                "text": "Ian Ziering",
+                "aliases": []
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "5862856443680173655",
+        "prompt": "R\u00e9pondez \u00e0 la question en un ou quelques mots en fran\u00e7ais: \nquand ont ils chang\u00e9 la boxe en 12 rounds\nVous devez fournir la r\u00e9ponse finale \u00e0 la fin dans le format : 'R\u00e9ponse : [un ou quelques mots]'.",
+        "response": "La transition vers 12 rounds de championnat en boxe s'est progressivement faite dans les ann\u00e9es 1980, avec diff\u00e9rentes commissions adoptant cette dur\u00e9e \u00e0 des moments diff\u00e9rents.\n\nR\u00e9ponse : Ann\u00e9es 1980",
+        "predicted_answer": "Ann\u00e9es 1980",
+        "ground_truth": [
+            {
+                "type": "date",
+                "text": "1987-10-19",
+                "aliases": [
+                    "1987-10-19",
+                    "10/19/1987",
+                    "10-19-1987",
+                    "1987 octobre 19",
+                    "10 19 1987",
+                    "19-10-1987",
+                    "1987 10 19",
+                    "19/10/1987",
+                    "19 10 1987",
+                    "1987 october, 19",
+                    "19 octobre 1987"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "6873585089990668750",
+        "prompt": "R\u00e9pondez \u00e0 la question en un ou quelques mots en fran\u00e7ais: \nqui est l\u2019entra\u00eeneur principal des browns de cleveland\nVous devez fournir la r\u00e9ponse finale \u00e0 la fin dans le format : 'R\u00e9ponse : [un ou quelques mots]'.",
+        "response": "Kevin Stefanski\n\nR\u00e9ponse : Kevin Stefanski",
+        "predicted_answer": "Kevin Stefanski",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q5496752",
+                "text": "Freddie Kitchens",
+                "aliases": []
+            }
+        ],
+        "is_correct": null
+    }
+]

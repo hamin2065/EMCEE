@@ -1,0 +1,502 @@
+{
+    "sw-3389": {
+        "premise": "Kwa utambulisho unaofwatilia, tazama waya ya CIA, fuata chnazo katika KSM, Julai 11, 2001.",
+        "hypothesis": "Hakuna mahali popote pa kupata maelezo kuhusu kitambulisho cha baadaye.",
+        "label": 2
+    },
+    "sw-2776": {
+        "premise": "Shirika lilifunguliwa kwa mara ya kwanza kutumikia Lancaster, York na Reading.",
+        "hypothesis": "Rasilimali za wakala zilifikia mipaka  hapo awali wakati zilipotumikia miji mitatu",
+        "label": 1
+    },
+    "sw-3715": {
+        "premise": "Tayari unajua umuhimu wa kueleza hadithi, ushairi, nyimbo na kuigiza katika kufunza huruma, ukarimu na kufkiria.",
+        "hypothesis": "Kueleza hadithi, mashairi, wimbo, na maonyesho ni muhimu katika kukuza uelewa, huruma, na kutumia mawazo ya mtu.",
+        "label": 0
+    },
+    "sw-3266": {
+        "premise": "Kwa kuchukua fursa kwao wote, hatuhitaji kutegemea upande mmoja ule kwa mfumo ili kufanya kazi.",
+        "hypothesis": "Tunapaswa kutegemea sehemu moja ya mfumo",
+        "label": 2
+    },
+    "sw-3407": {
+        "premise": "Haikuwa kamwe somo la mazungumzo rasmi ya ushirikiano.",
+        "hypothesis": "Mashirika tofauti hayakujadili mada kwa uzito.",
+        "label": 0
+    },
+    "sw-778": {
+        "premise": "Alafu akalipuka. Alikuwa takribani asimilia 95% yeye binafsi.",
+        "hypothesis": "Hakuwahi kutoka kwa hali hiyo.",
+        "label": 2
+    },
+    "sw-2560": {
+        "premise": "Kwa mfano rahisi ,tuseme gharama ka lazi ya kugagwa ni 10a na gharama ya msingi ni 16a.",
+        "hypothesis": "Kugawa kazi ni zaidi ya gharama ya kutuma vitu.",
+        "label": 2
+    },
+    "sw-3496": {
+        "premise": "Kama Marekani haitatenda kwa vurugu kujifasisilsha katika dunia ya Uislamu, walio na msimamo mkali watafanya kazi hiyo kwa niaba yetu kwa furaha.",
+        "hypothesis": "Wenye misimamo mikali hueleza kuwa Marekani ni nchi mbaya kwa yeyote atakayewasikiliza.",
+        "label": 1
+    },
+    "sw-2088": {
+        "premise": "Dora Stratou Folk Dance Theater inaleta ufanisi wa nyimbo za wagriki , dansi, na muziki katika kijiji cha kitamaduni katika bwalo , kilima cha Philopappos, kutoka Mei hadi Septemba kila siku isipokuwa Jumatatu.",
+        "hypothesis": "Ukumbi wa Dora Stratou Folk Dance inauza tiketi za sherehe ya Mei-Septemba.",
+        "label": 1
+    },
+    "sw-3066": {
+        "premise": "Kwa madai kuwa alikua ameshuku shughuli zote, msimamizi alijiondoa na kutojihusisha na Hazmi na Mihdhar, lakini si kabla ya kupokea msaada waliohitaji.",
+        "hypothesis": "Msimamazi alizungumza na walinda usalama wakati huo na kukataa kusaidia katika kesi.",
+        "label": 2
+    },
+    "sw-1250": {
+        "premise": "Watoto wangegonga milango ya majirani zao na",
+        "hypothesis": "Watoto wangetumia ishara maalum ya kugonga  kwenye ya milango ya majirani zao.",
+        "label": 1
+    },
+    "sw-3885": {
+        "premise": "-Maktaba ya onyesho la kina ya slaidei kwenye mada mbalimbali ya mandhari,",
+        "hypothesis": "Maonyesho ya slaidi ni kuhusu biolojia.",
+        "label": 2
+    },
+    "sw-549": {
+        "premise": "Hapana. Sidhani naifahamu vizuri hata.",
+        "hypothesis": "Sijui zaidi kuihusu.",
+        "label": 0
+    },
+    "sw-747": {
+        "premise": "Wajua kwamba haileti busara yoyote ila fujo tu.",
+        "hypothesis": "Machafuko ndio yote unayopata kutoka kwake.",
+        "label": 0
+    },
+    "sw-699": {
+        "premise": "huko unakwenda vizuri je, wewe mume wako hufikiri nini kuhusu shati lako la uh na",
+        "hypothesis": "Je, mume wako anapenda shati lako?",
+        "label": 0
+    },
+    "sw-763": {
+        "premise": "labda ni zaidi kwa sababu ninafurahia tu ripoti kuliko sababu sina muda wa kusoma gazeti.",
+        "hypothesis": "Nitachukua kama lisaa moja kusoma hilo karatasi,kwa sababu sitatazama.",
+        "label": 2
+    },
+    "sw-3537": {
+        "premise": "Ikiwa kila mtu anapokea barua hii anatoa $18 tu.",
+        "hypothesis": "Kila mtu anayepokea barua hii: usitoe mchango wako, ni kashfa",
+        "label": 2
+    },
+    "sw-791": {
+        "premise": "Naam kuna pahali pengine ni pazuri kuhusu kupeleka nje kwa njia ya UPS ama njia zingine",
+        "hypothesis": "Watatumia tu FedEx.",
+        "label": 2
+    },
+    "sw-3052": {
+        "premise": "Baadhi ya maafisa waliteuliwa kusaidia katika uokoaji wa Stairwell; wengine walichaguliwa kuharakisha uokoaji ndani ya plaza, Concourse, na stesheni ya PATH.",
+        "hypothesis": "Maafisa walikimbia tu bila mpangilio kuelekea mahali walihitajika.",
+        "label": 2
+    },
+    "sw-1065": {
+        "premise": "Inamaanisha kuwa viungo vya masi zinashughulikiwa kihesabati,ndani ya mtungi uliyo jaa na",
+        "hypothesis": "Trimers na photons zinaweza kuongezwa kwa kiwango cha mara kwa mara.",
+        "label": 0
+    },
+    "sw-4557": {
+        "premise": "Hatimaye, lazima mtu awe na wasiwasi wa upanuzi ambao hubeba maana yake tofauti kabisa.",
+        "hypothesis": "Wahariri wameajiriwa ili kuona makosa kama haya.",
+        "label": 1
+    },
+    "sw-491": {
+        "premise": "Bwana, ni kama ako nafsi mbili tofauti.",
+        "hypothesis": "Bosi wangu alikua mcheshi na thabiti.",
+        "label": 2
+    },
+    "sw-4804": {
+        "premise": "Wataalamu wa lugha ambao wanaandika vitabu wanaonekana kuwa mara kwa mara kuwa wasomi ambao wanatoa maoni yao wenyewe, ambayo baadhi yao yanajitokeza, kusema machache.",
+        "hypothesis": "Wanaisimu huunda fedha nyingi  kwa kuandika vitabu.",
+        "label": 1
+    },
+    "sw-4600": {
+        "premise": "Ikiwa nimeandika historia ya hadithi itakuwa katika majina ya kamusi ya maeneo na watu waliofafanuliwa kwa suala la umuhimu binafsi.",
+        "hypothesis": "Ni muhimu kwangu kwamba tawasifu yangu iwe na urahisi wa kupatikana iwezekanavyo.",
+        "label": 2
+    },
+    "sw-4601": {
+        "premise": "Ikiwa nimeandika historia ya hadithi itakuwa katika majina ya kamusi ya maeneo na watu waliofafanuliwa kwa suala la umuhimu binafsi.",
+        "hypothesis": "Majina mengi haya yatatambulika kwa marafiki watatu au wanne wa karibu.",
+        "label": 1
+    },
+    "sw-2700": {
+        "premise": "Ikiwa ni pamoja na kutembelea chumba cha dharura katika uchambuzi wa faida ambazo tayari huchukuliwa kuingizwa kwa hospitali, kwa mfano, itasababisha kuhesabu mara mbili ya faida ikiwa hospitali ya admissions ikiwa ni pamoja na ziara za dharura.",
+        "hypothesis": "Faida huhesabiwa mara moja daima",
+        "label": 2
+    },
+    "sw-1001": {
+        "premise": "lakini mbali na hilo natumai bado ni joto si baridi sana labda labda basi labda theluji kidogo usiku kabla ya Krismasi au hivo itakuwa nzuri lakini haikai nzuri.",
+        "hypothesis": "Natamani dhoruba kali ya theluji ije.",
+        "label": 2
+    },
+    "sw-3365": {
+        "premise": "Mnamo Mei au Juni, Clarke aliomba kuhamishwa kutoka kwingineko yake ya kupambana na ugaidi na kuwekewa majukumu mapya ya majukumu ya usalama.",
+        "hypothesis": "Clarke alikua na jukumu dhidi ya uvamizi wa April",
+        "label": 0
+    },
+    "sw-2896": {
+        "premise": "Mifano ya Uhadasi wa mifano ( mifano or mifano harari bidhaa za kwanza harari)",
+        "hypothesis": "Kuna aina saba ya miundo kwa jumla.",
+        "label": 1
+    },
+    "sw-3464": {
+        "premise": "Baadhi ya wachunguzi wa Shirika la Kitaifa la Uchunguzi wanatilia shaka hadithi ya Rababah.",
+        "hypothesis": "FBI ina ushahidi thabiti kwamba Rababah alikuwa akidanganya.",
+        "label": 2
+    },
+    "sw-421": {
+        "premise": "Nao wakahamia Creek Mallard huko Charlotte.",
+        "hypothesis": "Hawakuhamia Charlotte.",
+        "label": 2
+    },
+    "sw-2356": {
+        "premise": "Mji mkubwa zaidi katika ufuo wa kusini wa ziwa ni Siefok.",
+        "hypothesis": "Siefok iko upande wa pwani ya kaskazini.",
+        "label": 2
+    },
+    "sw-4918": {
+        "premise": "Inakaa ya kwamba kuna njia katikati ya kuabudu mungu wengi na mungu mmoja, dhana ya maana inayoleta kiungo kisichokuwa katika mcheketo wa mageuzo.",
+        "hypothesis": "Inaweza kuwa katikati kati ya ushirikina na monotheism.",
+        "label": 1
+    },
+    "sw-2559": {
+        "premise": "Kwa mfano rahisi ,tuseme gharama ka lazi ya kugagwa ni 10a na gharama ya msingi ni 16a.",
+        "hypothesis": "Gharama ya barua pepe inahitaji kuwa mingi kuliko kushiriki.",
+        "label": 1
+    },
+    "sw-2880": {
+        "premise": "Kikundi hiki kinapatana kila mwezi ili kujadili hali ya yaliyojadiliwa au mipango iliyotimizwa na pia kupendekeza na kujadili changamoto za sasa na mipango inayoweza kuzitatua.",
+        "hypothesis": "Wanachama wengi wa kikundi wanafikiria ya kwamba mikutano ya kila mwezi haifai.",
+        "label": 1
+    },
+    "sw-848": {
+        "premise": "Sijui ,lakini bado nafikiri nje ya nchi alivyosema nilikuwa.",
+        "hypothesis": "Ni sawa katikati ya jiji.",
+        "label": 2
+    },
+    "sw-4734": {
+        "premise": "schlock `shoddy, bidhaa zinazopatikana kwa bei nafuu.",
+        "hypothesis": "Bidhaa za bei nafuu na za kukwepa.",
+        "label": 1
+    },
+    "sw-4156": {
+        "premise": "Rudolph Giuliani anatetea ushujaa wake wa risasi ya Amadou Diallo kwa Newsweek. [Idara ya Polisi ya New York] sio KKK, yeye hutoa.",
+        "hypothesis": "Rudolph Giuliani aliomba msamaha kwa jinsi alivyohusika na ufayatuaji risasi wa Amadou Diallo.",
+        "label": 2
+    },
+    "sw-1742": {
+        "premise": "Pitt, katika nafasi yake kando ya msaidizi, akageuka kwa ujasiri ili kukabiliana na mwenye bunduki alikua na msisimko.",
+        "hypothesis": "Mwenye bunduki alikuwa na hasira Pitt alipomkaribia.",
+        "label": 2
+    },
+    "sw-1267": {
+        "premise": "Elewa kuwa kila maelezo rahisi yana vipengele visivyo na usawa katika mfumo na kazi inaweza tolewa wakati mifumo ya gesi inapobubujika kwa usawa.",
+        "hypothesis": "Kuna maelezo rahisi ya hiyo.",
+        "label": 0
+    },
+    "sw-3950": {
+        "premise": "Wakati idadi hiyo ni ya kuvutia, mara nyingi usomi ni muhimu katika kuajiri wanafunzi wa juu wenye mahitaji ya kifedha.",
+        "hypothesis": "Hatupeani misaada ya kifedha kwa wanafunzi",
+        "label": 2
+    },
+    "sw-1837": {
+        "premise": "Habari za asubuhi, alimuliza, na kuongezea kuwa amekosa sana.",
+        "hypothesis": "Alikuwa amemuaga habari za asubuhi kutokana na heshima.",
+        "label": 1
+    },
+    "sw-886": {
+        "premise": "Na kupewa hayo maarifa na mambo kwa hayo na anaonekana kuyafurahia.",
+        "hypothesis": "Anaipenda, kutoka kile ninachoweza kusema.",
+        "label": 0
+    },
+    "sw-2868": {
+        "premise": "4.14 Kiwango cha ziada la ukaguzi wa kifedha iliyofanywa kwa mujibu wa GAGAs",
+        "hypothesis": "Ukaguzi wowote uliofanywa ambao haufanywi kwa mujibu wa GAGAS lazima ufanywe upya.",
+        "label": 1
+    },
+    "sw-4556": {
+        "premise": "Haishauriwi kuwa masomo haya yamezuiliwa, tu kwamba ni vigumu, hata baada ya miaka ishirini ya kushirikishiwa, kwa ajili ya mgeni kutambua mengi ambayo ni ucheshi juu yao.",
+        "hypothesis": "Masomo haya ni magumu kwa watu wa nje kuelewa.",
+        "label": 0
+    },
+    "sw-3011": {
+        "premise": "Aliyekuwa kwenye nyumba na kumkodesha Hazmi na Mihdhar chumba mwaka wa 2000 ni mwananchi anayefuata sheria na liye na uwasiliano wa muda mrefu na polisi.",
+        "hypothesis": "Hazmi na Mihdhar walikodisha chumba.",
+        "label": 0
+    },
+    "sw-941": {
+        "premise": "Basi sijui, najuta ningalijua.",
+        "hypothesis": "Nina hiari ningetambua mahali alipo potelea.",
+        "label": 1
+    },
+    "sw-2282": {
+        "premise": "Zaidi ya Payangan, kichorochoro kidogo kinachotumika zaidi, hupitia katika njia ya kifahari yenye manthari nzuri kwenda Batur (tazama ukurasaa59).",
+        "hypothesis": "Barabara haipati kamwe Batur.",
+        "label": 2
+    },
+    "sw-4703": {
+        "premise": "Wiki iliyofuata, mpwa wangu aliagiza kiakisi sauti cha gitaa kwa siku ya kuzaliwa kwake.",
+        "hypothesis": "Alichokuwa akitaka binamu yangu siku ya kuzaliwa kwake ilikuwa ni zeze.",
+        "label": 2
+    },
+    "sw-1852": {
+        "premise": "Na ni bora gani ya hizi? - Je! Wewe wamwogopa mjinga Barbados mpanda?  ? Nini chakusumbua wewe, Petro? Sijawahi kukujua kuwa mwoga. Bunduki ilifyatuka nyuma yao.",
+        "hypothesis": "Sijawahi kumtambua Peter kuwa mwenye hofu.",
+        "label": 0
+    },
+    "sw-3515": {
+        "premise": "Kwani masanduku haya yatabaki katika vifungo vyao kwa muda mrefu baada ya zawadi nyingine zote kufunguliwa.",
+        "hypothesis": "Maboksi haya hayatafunguliwa kwa muda.",
+        "label": 0
+    },
+    "sw-4595": {
+        "premise": "Wakati mwingine ni erevu kabisa, pia",
+        "hypothesis": "Mara nyingi Ilikuwa rahisi sana kuchunguza kutoka umbali.",
+        "label": 2
+    },
+    "sw-4560": {
+        "premise": "Kitu moja ambacho M. Tesniares hajaafikiana nacho ni mchango wa Uingereza.",
+        "hypothesis": "Maoni ya Waingereza wa kale ni muhimu sana.",
+        "label": 1
+    },
+    "sw-215": {
+        "premise": "Ndio, vyema, mtu huyo amekuja.",
+        "hypothesis": "Huyo jamaa hakuwahi kuja hapa.",
+        "label": 2
+    },
+    "sw-4988": {
+        "premise": "Via di Ripetta hujiunganisha kwa njia ya Via Della Scrofa `Barabar ya Mzabibu, 'inayoitwa baada ya uchongaji mwingine wa zamani ambao bado umehifadhiwa huko.",
+        "hypothesis": "Kupitia della Scrofa ni jina baada ya uchongaji mwingine.",
+        "label": 0
+    },
+    "sw-2190": {
+        "premise": "Kwa uimarishaji, waspaniaji waliweza kuanzisha kichwa ya pwani.",
+        "hypothesis": "Watu wa Kihispania walikuwa na watu 100 wanaosaidia.",
+        "label": 1
+    },
+    "sw-237": {
+        "premise": "Alikuwa mtoto wa mzungu na mwafrika.",
+        "hypothesis": "Alikuwa na ngozi nyeusi ajabu.",
+        "label": 2
+    },
+    "sw-1477": {
+        "premise": "Hotuba ya pachuco, mchanganyiko wa Kiingereza na Kihispaniola, pia huitwa cale, ulikuwa mchanganyiko wa kusismua kutoka lugha nyingi.",
+        "hypothesis": "Hotuba ya Pachucho imejengwa kwa Kingereza na Kihispania.",
+        "label": 0
+    },
+    "sw-2238": {
+        "premise": "Wakati huu nafikiria ni vema kuondoka katika kisiwa ambacho hakina maelenddeleo kwa amani.",
+        "hypothesis": "Watu wanafikiria ya kwamba visiwa vinafaa kuchwa.",
+        "label": 0
+    },
+    "sw-2531": {
+        "premise": "Hii inatumika kwa mahusiano yote ya C-R yaliyoelezwa na kazi moja C-R na yale ambayo hufafanuliwa kwa kuunganisha kazi nyingi za C-R.",
+        "hypothesis": "Kuna formula saidizi mingi ya C-R zinazofanya.",
+        "label": 0
+    },
+    "sw-2783": {
+        "premise": "Ghasia iliyo sababishwa  ilikuwa chanzo cha umuhimu.",
+        "hypothesis": "Mahitaji haya yatasababisha machafuko mengi.",
+        "label": 0
+    },
+    "sw-2875": {
+        "premise": "27 Ugumu unaongezeka kadiri marekebisho ya bwela yanayohitajika kupatanisha SCR na kituo yanapoongezeka.",
+        "hypothesis": "Ugumu wa ishirini na saba unategemea marekebisho.",
+        "label": 0
+    },
+    "sw-50": {
+        "premise": "Alisema kwamba machozi ylikuwa yanamtiririka kutoka usoni. Alafu akasema pia Joe alishuka kutoka ukumbini.",
+        "hypothesis": "Alifurahi sana kuona Joe kwamba alianza kulia.",
+        "label": 1
+    },
+    "sw-1486": {
+        "premise": "Pia katika kundi hili ni Marekebisho ya Ishirini na Tatu, ambayo inaongeza haki ya kupiga kura kwa rais na makamu wa rais kwa wananchi waliohitimu katika Wilaya ya Columbia.",
+        "hypothesis": "Marekebisho ya 23 yanasema unaweza kumchagua rais kama unaishi mji mkuu isipokuwa kama ulikuwa mhalifu.",
+        "label": 1
+    },
+    "sw-1173": {
+        "premise": "Matofali ya Adobe yanajengwa kwa mchanganyiko wa udongo na mchanga, wakati mwingine huitwa matunda ya udongo, na hukaushwa polepole na joto la jua",
+        "hypothesis": "Tofali za Adobe zafaa zitengezwe palipo kavu na joto.",
+        "label": 1
+    },
+    "sw-4639": {
+        "premise": "(Imesemekana, sio kwa yote kimchezo, kwamba ikiwa Kijapani walihitaji kulipa ada ya leseni kwa kila neno la Kiingereza ambalo walitumia, ziada yao ya biashara ingeangamia.)",
+        "hypothesis": "Wajapani wanajulikana kwa utumizi wao mzuri wa Kiingereza.",
+        "label": 2
+    },
+    "sw-3283": {
+        "premise": "Alionekana kuwa na wajumbe katika pande zote mbili za mpaka.",
+        "hypothesis": "Alikuwa na wanaomuunga mkono sehemu moja tu ya mpaka.",
+        "label": 2
+    },
+    "sw-570": {
+        "premise": "naam, umesema una watoto wa umri gani",
+        "hypothesis": "Una watoto wangapi?",
+        "label": 1
+    },
+    "sw-1162": {
+        "premise": "Ni karibu na bweni ya wanafunzi inayojulikana kama Quad, tata maarufu wa Jumuiya ya Ufufuo wa Jacobean iliyopangwa kwenye mzunguko wa kumbi kadhaa.",
+        "hypothesis": "Quad ni bweni ya wanafunzi wa kike na waume wote.",
+        "label": 1
+    },
+    "sw-251": {
+        "premise": "Niko kama, najua umbali nimefika.",
+        "hypothesis": "Niliwaambia ninajua kile nilichokamilisha.",
+        "label": 0
+    },
+    "sw-751": {
+        "premise": "Ndio, hilo ndilo nililofanya leo , Nilipata Darkman , umeona hilo, sijaona, nafikiri nitaitazama leo usiku.",
+        "hypothesis": "Sijatazama Darkman bado, kwa hivo  nimeamua kuitafuta na kuitazama leo usiku.",
+        "label": 0
+    },
+    "sw-4345": {
+        "premise": "Kawaida, kwa maoni yasiyo ya ujeuri, maamuzi mengi ya kikundi cha AFI huenda hayana mwelekeo na mila thabiti.",
+        "hypothesis": "Chaguo za AFI zinawezathibitishwa kihistoria kuwa filamu za kweli na kutumiwa katika madarasa ya Historia",
+        "label": 2
+    },
+    "sw-1762": {
+        "premise": "Kupitia yeye na kupitia wewe.",
+        "hypothesis": "Risasi ilienda kwa ufanisi kupitia washiriki wote wawili.",
+        "label": 1
+    },
+    "sw-3081": {
+        "premise": "Ilibidi jenereta kuzimwa na eleveta kusimamishwa ili kuhakikisha usalama.",
+        "hypothesis": "Jenereta zinawezapitisha joto na kuanza moto.",
+        "label": 1
+    },
+    "sw-3439": {
+        "premise": "Bajeti ya uongozi iliyopeanwa siku iliyo fuata ilijumuisha na uhahifu wa bunduki, biashara ya boza na  haki za raia kama vipaumbele.",
+        "hypothesis": "Watu wengi walikataa vipaumbelee vilivyowekwa kwenye mwongozo wa bajeti",
+        "label": 1
+    },
+    "sw-3716": {
+        "premise": "Tayari unajua umuhimu wa kueleza hadithi, ushairi, nyimbo na kuigiza katika kufunza huruma, ukarimu na kufkiria.",
+        "hypothesis": "Kutoa hadithi, mashairi, wimbo, na maonyesho hayana maana na hayana maana kabisa katika kukuza uelewa, huruma, na mawazo.",
+        "label": 2
+    },
+    "sw-2792": {
+        "premise": "Utawala, Dhuluma yaUtumiaji wa Dawa za Kulevya na Huduma za Afya na Akili za Afya, na Utawala wa rasilimali za Huduma za Afya.",
+        "hypothesis": "Kuna utumizi wa dawa za kulevya na utawala wa huduma ya afya ya akili",
+        "label": 0
+    },
+    "sw-1289": {
+        "premise": "Kanuni ya jumla ya matibabu sawa, kama vile tumeifafanua, inatupa hoja ya kupunguza uhuru wa kuzungumza.",
+        "hypothesis": "Kuna hoja juu ya hotuba ya bure.",
+        "label": 0
+    },
+    "sw-3031": {
+        "premise": "Mihdhar alipewa viza jipya , siku mbili baada ya mkutano na CIA-FBI, New York.",
+        "hypothesis": "Mihdhar hakupata visa, kwahivyo hakukuja huku Marekani.",
+        "label": 2
+    },
+    "sw-2552": {
+        "premise": "mpango, tulikuwa na wasiwasi ya kwamba malipo yataidhinishwa kabla ya kuthibitisha ya kwamba usafiri kweli ulifanyika.",
+        "hypothesis": "Tulidhania malipo yaweza kuwa mapema na watulaghai.",
+        "label": 1
+    },
+    "sw-2657": {
+        "premise": "Ili Kuwa mteja wa kuunda Dhamana, Mshirika Aliyezingatia katika Matokeo ya Biashara.",
+        "hypothesis": "Washirika wanahitaji kuweka fokasi kwa wateja ili  wawe na mafanikio.",
+        "label": 1
+    },
+    "sw-4649": {
+        "premise": "Uandishi wa chuo kikuu cha Cambridge umeona inapaswa kuheshimu maadhimisho ya miaka 200 ya maisha ya Johnson katika Boswell kwa mkusanyiko wa insha kumi na nne kuhusu mwandishi na mada yake",
+        "hypothesis": "CHuo kikuu cha Cambridge Press kitaheshimu miaka 200 ya Maisha ya Johnson na filamu ya 8mm",
+        "label": 2
+    },
+    "sw-4884": {
+        "premise": "Kwa kweli kuna zaidi ya marekebisho 100 ya syllothetic.",
+        "hypothesis": "Kuna vivumishi syllothetic 200.",
+        "label": 1
+    },
+    "sw-695": {
+        "premise": "Kwa ukweli mimi sijui kwa sababu sijawahi kuvaa marinda mengi. Wanielewa kweli?",
+        "hypothesis": "Ninavaa mavazi ya dresi kila wakati.",
+        "label": 2
+    },
+    "sw-430": {
+        "premise": "Na, ni tofauti, kama kwa kila mteja, ni faili zao zote.",
+        "hypothesis": "Huwa wanaweka faili zote.",
+        "label": 0
+    },
+    "sw-1274": {
+        "premise": "Hisia ya hatima ya kawaida haijaelezewa bora mahali popote kuliko kwa Kol Jehudim eruvim ze bze ya Kiyahudi [Wayahudi wote wanahusika kwa kila mmoja].",
+        "hypothesis": "Wayahudi hutaka kufunza watu dini yao.",
+        "label": 1
+    },
+    "sw-407": {
+        "premise": "Hata hivyo, wanakuja na uvumbuzi huu wa mdhibiti wa juu wa O2.",
+        "hypothesis": "bado hawakuweza takwimu jinsi ya kutengeneza kidhibiti cha oksijeni",
+        "label": 2
+    },
+    "sw-668": {
+        "premise": "Ndivyo hivyo. Lakini namaanisha kwamba na hizi sheria mpya mambo yamekuwa magumu.",
+        "hypothesis": "Sahihi kabisa, ila ukizingatia kanuni mpya ni vigumu zaidi sasa hivi.",
+        "label": 0
+    },
+    "sw-2229": {
+        "premise": "Anglers wa maji safi lazima wawe na ruhusa kutoka ofisi ya utalii iliyo karibu na habari kuhusu jinsi ya kupata moja.",
+        "hypothesis": "Wavuvi wana kibali cha kukamata samaki.",
+        "label": 0
+    },
+    "sw-3629": {
+        "premise": "tutatengeneza lengo.",
+        "hypothesis": "Tutafikia lengo la $2.",
+        "label": 1
+    },
+    "sw-3473": {
+        "premise": "Ili kupata pasipoti safi na pasipoti mbili zilizoharibiwa, angalia Ripoti za Upelelezi, uhoji wa KSM, Julai 3, 2003; Septemba 9, 2003.",
+        "hypothesis": "KSM ilipata pasipoti safi.",
+        "label": 0
+    },
+    "sw-3978": {
+        "premise": "Katika njia hii, YMCA inatazamia kutimiza kanuni za kikristo kwa kuwiweka katika mazoezi kupitia programu inayohimiza ukuaji wa kibinafsi na kujenga afya ya roho, akili na mwili kwa wote.",
+        "hypothesis": "YMCA ina mipango zaidi ya 100 ambayo inaunga mkono kanuni za Kikristo.",
+        "label": 1
+    },
+    "sw-4973": {
+        "premise": "Hii sio kusema kuwa mila ya Magharibi ina ukiritimba juu ya Utu.",
+        "hypothesis": "Mila ya Magharibi ina ukiritimba juu ya ubaya.",
+        "label": 2
+    },
+    "sw-3621": {
+        "premise": "Kwa kuwafikia wanafunzi ambao hawafikiwi kwa njia ya shule na taasisi zingine za jamii.",
+        "hypothesis": "Kila mwanafunzi anafikiwa kupitia shule.",
+        "label": 2
+    },
+    "sw-3392": {
+        "premise": "Kuhamia San Diego Kufikia Februari 4, Hazmi na Mihdhar walikuja San Diego kutoka Los Angeles, labda wakiendeshwa na Mohdar Abdullah.",
+        "hypothesis": "Hazmi hajawai fika Los Angeles.",
+        "label": 2
+    },
+    "sw-2237": {
+        "premise": "Kuongezeka tu kwa kuandamana na viongozi kutoka chama cha ushirika cha kuongoza kunashauriwa.",
+        "hypothesis": "Unafaa kutembea ukiwa na kiongozi.",
+        "label": 0
+    },
+    "sw-1765": {
+        "premise": "Ingawa tulikuwa na mizigo ya wapwa wa Askofu haingemfanya aushikilie mkono wake.",
+        "hypothesis": "Mkono wake haukushikwa na mpwa wa Askofu.",
+        "label": 0
+    },
+    "sw-4197": {
+        "premise": "Sullivan inakaribisha mantra ya matibabu sawa kama ni tamati ya hoja.",
+        "hypothesis": "Sullivan hajui chochote kuhusu matibabu sawa.",
+        "label": 2
+    },
+    "sw-932": {
+        "premise": "Hawana theluji, hawajui theluji ni nini, Waohushtuka theluji inapokuwa kwenye ardhi , Amarillo, vizuri, hilo limefungwa hapa, umekuwa Raleigh kwa muda upi.",
+        "hypothesis": "Watu wa Amarillo wanakataa kuondoka nyumba zao wakati kuna theluji.",
+        "label": 1
+    },
+    "sw-2827": {
+        "premise": "Wakati unaohitajika kukamilisha awamu hii ya mradi wa utekelezaji ni karibu miezi 17 kwa SCR.",
+        "hypothesis": "Itachukua miezi kumi na saba kutekeleza sheria mpya.",
+        "label": 1
+    }
+}

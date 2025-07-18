@@ -1,0 +1,42 @@
+[
+    {
+        "id": "302",
+        "prompt": "Kaymi huk \u00f1awpaq rimaymi: Llimp'iwan wallpaqqa q'illutawan anqastawan chaqrurqan.. Ima rikchay? Yanapaway ima kichkanku akllayta: -akllay1: Llimp'iqa lliwpi ch'allakurqan., -akllay2: Llimp'iqa q'umirmanmi tukurqan.\nYuyayku paso paso runa simipi.\nRiqsiykipaqa \u00f1aqa akllay huklla\u00f1a hukninaypaq. Kaymi riqsiykita kutichiy nisqapi \"Kutichiy: [1 utaq 2]\"",
+        "response": "Kaymi huk \u00f1awpaq rimaymi: Llimp'iwan wallpaqqa q'illutawan anqastawan chaqrurqan.\n\nIma rikchay? Yanapaway ima kichkanku akllayta:\n\n-akllay1: Llimp'iqa lliwpi ch'allakurqan.\n-akllay2: Llimp'iqa q'umirmanmi tukurqan.\n\nYuyayku paso paso runa simipi.\nRiqsiykipaqa \u00f1aqa akllay huklla\u00f1a hukninaypaq. Kaymi riqsiykita kutichiy nisqapi \"Kutichiy: [1 utaq 2]\"\n\nRiqsiykita kutichiy nisqapi: \n\nKutichiy: 2.\n\nHuklla\u00f1aqmi hukninaypaqmi, q'umirmanmi tukurqanmi.",
+        "predicted_answer": 1,
+        "ground_truth": 1,
+        "is_correct": false
+    },
+    {
+        "id": "301",
+        "prompt": "Kaymi huk \u00f1awpaq rimaymi: Yachaqiqa hatun-yachaywasimanta graduasqa lluqsirqan.. Ima rikchay? Yanapaway ima kichkanku akllayta: -akllay1: Payqa llamk'anatam maskharqan., -akllay2: Imapi qhuchukusqankutam maskharqan.\nYuyayku paso paso runa simipi.\nRiqsiykipaqa \u00f1aqa akllay huklla\u00f1a hukninaypaq. Kaymi riqsiykita kutichiy nisqapi \"Kutichiy: [1 utaq 2]\"",
+        "response": "Rikchakuna yanapaway kichkanku akllayta:\n\n- Akllay 1: Payqa llamk'anatam maskharqan.\n- Akllay 2: Imapi qhuchukusqankutam maskharqan.\n\nRiqsiykita kutichiy nisqapi:\n\nKutichiy: 2",
+        "predicted_answer": 2,
+        "ground_truth": 0,
+        "is_correct": false
+    },
+    {
+        "id": "15",
+        "prompt": "Kaymi huk \u00f1awpaq rimaymi: C\u00f3digo nisqata warmaqa umanpi yuyanchakurqan.. Ima paqarin? Yanapaway ima kichkanku akllayta: -akllay1: Hatun kunkapi rimaspa kikinman yachachikurqan., -akllay2: Payqa qillqayta qunqarurqan.\nYuyayku paso paso runa simipi.\nRiqsiykipaqa \u00f1aqa akllay huklla\u00f1a hukninaypaq. Kaymi riqsiykita kutichiy nisqapi \"Kutichiy: [1 utaq 2]\"",
+        "response": "Kaymi riqsiykita kutichiy nisqapi \"Kutichiy: [1 utaq 2]\".\n\nWaqaychay, kaymi \u00f1awpaq rimaykunaqa:\n\n1. C\u00f3digo nisqata warmaqa umanpi yuyanchakurqan.\n2. Hatun kunkapi rimaspa kikinman yachachikurqan.\n3. Payqa qillqayta qunqarurqan.\n\nKaymi riqsiykita kutichiy nisqapi:\n\n- Kutichiy: 1 (C\u00f3digo nisqata warmaqa umanpi yuyanchakurqan, akllay1)\n- Kutichiy: 2 (Payqa qillqayta qunqarurqan, akllay2)\n\nRiqsiykita kutichiy nisqapi, kaymi riqsiykita kutichiy nisqapi \"Kutichiy: [1 utaq 2]\".",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "112",
+        "prompt": "Kaymi huk \u00f1awpaq rimaymi: Hawaman samarisqayta rikurqani.. Ima paqarin? Yanapaway ima kichkanku akllayta: -akllay1: Pachaqa as chirim karqan., -akllay2: Qhasquypi mat'ipawarqan.\nYuyayku paso paso runa simipi.\nRiqsiykipaqa \u00f1aqa akllay huklla\u00f1a hukninaypaq. Kaymi riqsiykita kutichiy nisqapi \"Kutichiy: [1 utaq 2]\"",
+        "response": "Huk \u00f1awpaq rimay: Hawaman samarisqayta rikurqani, ima paqarin?\n\nYanapaway ima kichkanku akllayta:\n\n- Akllay 1: Pachaqa as chirim karqan.\n- Akllay 2: Qhasquypi mat'ipawarqan.\n\nYuyayku paso paso runa simipi: \"Hawaman samarisqayta rikurqani, pachaqa as chirim karqan.\"\n\nRiqsiykipaqa \u00f1aqa akllay huklla\u00f1a hukninaypaq: \"Kutichiy: 1\"\n\nP'unchayku: Hawaman samarisqayta rikurqani, pachaqa as chirim karqan. (Akllay 1)",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "36",
+        "prompt": "Kaymi huk \u00f1awpaq rimaymi: Suyukunaqa aywanakuy guerra nisqamanta lluqsiyta munarirqanku.. Ima rikchay? Yanapaway ima kichkanku akllayta: -akllay1: Paykunaqa armas nucleares nisqatam ruwayta qallarirqanku., -akllay2: Paykunaqa qhasilla kanankupaq rimanakuytam qallarirqanku.\nYuyayku paso paso runa simipi.\nRiqsiykipaqa \u00f1aqa akllay huklla\u00f1a hukninaypaq. Kaymi riqsiykita kutichiy nisqapi \"Kutichiy: [1 utaq 2]\"",
+        "response": "Yuyayku paso paso runa simipi:\n\nSuyukunaqa aywanakuy guerra nisqamanta lluqsiyta munarirqanku.\n\nKaymi riqsiykita kutichiy nisqapi:\n\nKutichiy: 1\n\nRiqsiykita:\n\nAkllay1: Paykunaqa armas nucleares nisqatam ruwayta qallarirqanku.\n\nKaymi akllayta yanapaway kichkanku:\n\n- Akllay1: Armas nucleares nisqamanta ruwayta qallarirqanku, kaymi riqsiykita kutichiy nisqapi:\nKutichiy: 1\n\n- Akllay2: Paykunaqa qhasilla kanankupaq rimanakuytam qallarirqanku, kaymi riqsiykita kutichiy nisqapi:\nKutichiy: 2",
+        "predicted_answer": 1,
+        "ground_truth": 1,
+        "is_correct": false
+    }
+]

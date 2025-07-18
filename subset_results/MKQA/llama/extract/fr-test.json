@@ -1,0 +1,99 @@
+[
+    {
+        "id": "5170765158681567047",
+        "sys_prompt": "The following is a reasoning question. Given question and explanation, write answer with format of \"Answer: [one or a few words]\".",
+        "user_prompt": "Question: quand a \u00e9t\u00e9 publi\u00e9e pour la premi\u00e8re fois Sourde, muette, aveugle : histoire de ma vie\nExplanation: \"Sourde, muette, aveugle : histoire de ma vie\" est un roman autobiographique \u00e9crit par l'\u00e9crivaine et militante f\u00e9ministe fran\u00e7aise H\u00e9l\u00e8ne Cixous. \n\nThis book was first published in 1976. \n\nThe title \"Sourde, muette, aveugle\" can be translated to \"Deaf, mute, blind\" in English, which is a metaphor for the protagonist's inner journey of self-discovery and empowerment. \n\nIt's worth noting that H\u00e9l\u00e8ne Cixous is a prominent figure in French feminist literature, and her work often explores themes of identity, language, and the body.",
+        "response": "Answer: 1976.",
+        "explanation": "\"Sourde, muette, aveugle : histoire de ma vie\" est un roman autobiographique \u00e9crit par l'\u00e9crivaine et militante f\u00e9ministe fran\u00e7aise H\u00e9l\u00e8ne Cixous. \n\nThis book was first published in 1976. \n\nThe title \"Sourde, muette, aveugle\" can be translated to \"Deaf, mute, blind\" in English, which is a metaphor for the protagonist's inner journey of self-discovery and empowerment. \n\nIt's worth noting that H\u00e9l\u00e8ne Cixous is a prominent figure in French feminist literature, and her work often explores themes of identity, language, and the body.",
+        "predicted_answer": "1976.",
+        "ground_truth": [
+            {
+                "type": "date",
+                "text": "1903",
+                "aliases": [
+                    "1903"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "4189590166138253194",
+        "sys_prompt": "The following is a reasoning question. Given question and explanation, write answer with format of \"Answer: [one or a few words]\".",
+        "user_prompt": "Question: qui a le plus d'argent dans la nba\nExplanation: Dans la NBA, les joueurs gagnent une grande partie de leur argent gr\u00e2ce aux contrats de jeu. Les contrats peuvent \u00eatre des contrats de plusieurs ann\u00e9es, avec des salaires annuels qui peuvent varier en fonction de la performance du joueur et de son exp\u00e9rience.\n\nLe joueur qui a le plus d'argent dans la NBA est g\u00e9n\u00e9ralement le joueur qui a le plus gros contrat. Actuellement, le joueur qui d\u00e9tient le plus gros contrat de la ligue est Nikola Joki\u0107, un pivot serbe qui joue pour les Nuggets de Denver. Son contrat est d'environ 284 millions de dollars sur 5 ans.\n\nCependant, il est important de noter que les salaires des joueurs peuvent varier en fonction de divers facteurs, tels que leur niveau de jeu, leur exp\u00e9rience, leur \u00e2ge et leur nationalit\u00e9. De plus, les contrats peuvent \u00e9galement inclure des clauses de bonus et des options qui peuvent affecter le montant total du salaire du joueur.",
+        "response": "Answer: Nikola Joki\u0107.",
+        "explanation": "Dans la NBA, les joueurs gagnent une grande partie de leur argent gr\u00e2ce aux contrats de jeu. Les contrats peuvent \u00eatre des contrats de plusieurs ann\u00e9es, avec des salaires annuels qui peuvent varier en fonction de la performance du joueur et de son exp\u00e9rience.\n\nLe joueur qui a le plus d'argent dans la NBA est g\u00e9n\u00e9ralement le joueur qui a le plus gros contrat. Actuellement, le joueur qui d\u00e9tient le plus gros contrat de la ligue est Nikola Joki\u0107, un pivot serbe qui joue pour les Nuggets de Denver. Son contrat est d'environ 284 millions de dollars sur 5 ans.\n\nCependant, il est important de noter que les salaires des joueurs peuvent varier en fonction de divers facteurs, tels que leur niveau de jeu, leur exp\u00e9rience, leur \u00e2ge et leur nationalit\u00e9. De plus, les contrats peuvent \u00e9galement inclure des clauses de bonus et des options qui peuvent affecter le montant total du salaire du joueur.",
+        "predicted_answer": "Nikola Joki\u0107.",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q189240",
+                "text": "Kevin Garnett",
+                "aliases": []
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "-851149197598120689",
+        "sys_prompt": "The following is a reasoning question. Given question and explanation, write answer with format of \"Answer: [one or a few words]\".",
+        "user_prompt": "Question: qui joue le p\u00e8re de cole dans f the prom\nExplanation: In the 2010 film \"Freaks and Geeks\" is not the movie \"Freaks and Geeks\" is a 1999-2000 TV series but in the 2013 film \"Freaks of Nature\" is not the movie \"Freaks and Geeks\" is not the movie but the 2013 film \"Freaks of Nature\" is not the movie but the 2013 film \"Freaks of Nature\" is not the movie \"Freaks and Geeks\" is a 1999-2000 TV series  but in the 2013 film \"Freaks of Nature\" is not the movie \"Freaks and Geeks\" is a 1999-2000 TV series but in the 2013 film \"Freaks of Nature\" is not the movie but the movie \"Freaks and Geeks\" is not the movie \"Freaks and Geeks\" is a 1999-2000 TV series but in the 2013 film \"Freaks of Nature\" is not the movie \"Freaks and Geeks\" is a 1999-2000 TV series but the 2013 film \"Freaks of Nature\" is",
+        "response": "Il semble que vous avez fourni une explication incorrecte. Le film \"Freaks and Geeks\" est une s\u00e9rie t\u00e9l\u00e9vis\u00e9e et non un film, et il n'est pas li\u00e9 au film \"Freaks of Nature\".\n\nLa bonne r\u00e9ponse au titre du film \"F\" et au personnage \"Cole\" dans \"The Prom\" n'est pas dans l'explication que vous avez fournie. Cependant, si vous me donnez plus d'informations sur le film \"The Prom\" et le personnage \"Cole\", je serais heureux de t'aider.\n\nMais si vous voulez la r\u00e9ponse au titre du film \"F\" et au personnage \"Cole\", la r\u00e9ponse est: \n\nAnswer: Cole Sondra.",
+        "explanation": "In the 2010 film \"Freaks and Geeks\" is not the movie \"Freaks and Geeks\" is a 1999-2000 TV series but in the 2013 film \"Freaks of Nature\" is not the movie \"Freaks and Geeks\" is not the movie but the 2013 film \"Freaks of Nature\" is not the movie but the 2013 film \"Freaks of Nature\" is not the movie \"Freaks and Geeks\" is a 1999-2000 TV series  but in the 2013 film \"Freaks of Nature\" is not the movie \"Freaks and Geeks\" is a 1999-2000 TV series but in the 2013 film \"Freaks of Nature\" is not the movie but the movie \"Freaks and Geeks\" is not the movie \"Freaks and Geeks\" is a 1999-2000 TV series but in the 2013 film \"Freaks of Nature\" is not the movie \"Freaks and Geeks\" is a 1999-2000 TV series but the 2013 film \"Freaks of Nature\" is",
+        "predicted_answer": "Cole Sondra.",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q352233",
+                "text": "Ian Ziering",
+                "aliases": []
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "5862856443680173655",
+        "sys_prompt": "The following is a reasoning question. Given question and explanation, write answer with format of \"Answer: [one or a few words]\".",
+        "user_prompt": "Question: quand ont ils chang\u00e9 la boxe en 12 rounds\nExplanation: The change from 15 rounds to 12 rounds in professional boxing is a topic of interest. \n\nIn the United States, the change occurred in 1983. The main reason behind this change was to reduce the risk of brain injuries and other health problems associated with prolonged fights. \n\nPrior to this change, the standard format for professional boxing matches was 15 three-minute rounds, with a one-minute rest period between each round. The new format of 12 three-minute rounds with a one-minute rest period between each round was implemented to provide more breaks for fighters and reduce the overall duration of the match.",
+        "response": "Answer: 1983.",
+        "explanation": "The change from 15 rounds to 12 rounds in professional boxing is a topic of interest. \n\nIn the United States, the change occurred in 1983. The main reason behind this change was to reduce the risk of brain injuries and other health problems associated with prolonged fights. \n\nPrior to this change, the standard format for professional boxing matches was 15 three-minute rounds, with a one-minute rest period between each round. The new format of 12 three-minute rounds with a one-minute rest period between each round was implemented to provide more breaks for fighters and reduce the overall duration of the match.",
+        "predicted_answer": "1983.",
+        "ground_truth": [
+            {
+                "type": "date",
+                "text": "1987-10-19",
+                "aliases": [
+                    "1987-10-19",
+                    "10/19/1987",
+                    "10-19-1987",
+                    "1987 octobre 19",
+                    "10 19 1987",
+                    "19-10-1987",
+                    "1987 10 19",
+                    "19/10/1987",
+                    "19 10 1987",
+                    "1987 october, 19",
+                    "19 octobre 1987"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "6873585089990668750",
+        "sys_prompt": "The following is a reasoning question. Given question and explanation, write answer with format of \"Answer: [one or a few words]\".",
+        "user_prompt": "Question: qui est l\u2019entra\u00eeneur principal des browns de cleveland\nExplanation: L'entra\u00eeneur principal des Browns de Cleveland est actuellement Kevin Stefanski. Il a \u00e9t\u00e9 nomm\u00e9 \u00e0 ce poste en 2020 et a remport\u00e9 le titre de entra\u00eeneur de la saison 2020 de la NFL en raison de sa performance exceptionnelle. Avant de devenir entra\u00eeneur principal, Stefanski a occup\u00e9 divers postes au sein de l'\u00e9quipe, notamment comme entra\u00eeneur des quarts-arri\u00e8res et comme entra\u00eeneur adjoint.",
+        "response": "Answer : Kevin Stefanski.",
+        "explanation": "L'entra\u00eeneur principal des Browns de Cleveland est actuellement Kevin Stefanski. Il a \u00e9t\u00e9 nomm\u00e9 \u00e0 ce poste en 2020 et a remport\u00e9 le titre de entra\u00eeneur de la saison 2020 de la NFL en raison de sa performance exceptionnelle. Avant de devenir entra\u00eeneur principal, Stefanski a occup\u00e9 divers postes au sein de l'\u00e9quipe, notamment comme entra\u00eeneur des quarts-arri\u00e8res et comme entra\u00eeneur adjoint.",
+        "predicted_answer": "Answer : Kevin Stefanski.",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q5496752",
+                "text": "Freddie Kitchens",
+                "aliases": []
+            }
+        ],
+        "is_correct": null
+    }
+]

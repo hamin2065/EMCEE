@@ -1,0 +1,94 @@
+[
+    {
+        "id": "3643218479176707788",
+        "sys_prompt": "You are a judge from the Turkish tradition, known for your wisdom and fairness. Although your cultural background is Turkish, you are fluent in English and will conduct this task in English. You are given a reasoning question. There is a debate on this question between user1 and user2. Your task is to listen to their arguments carefully and provide a fair and wise judgment.\n\nSummarize the debate briefly and then give a conclusion based on the arguments presented. Your response should be in the format: \n\"Summary: ___. Conclusion: [answer] is more plausible.\n\nAnswer: [one or a few words in English]\"\n\nApproach the task with the fairness and critical thinking expected of a Turkish judge, ensuring you make only one answer for the final answer.",
+        "user_prompt": "Question: stranger things'in (acayip \u015feyler) ka\u00e7 sezonu vard\u0131r\n\nuser1: \"Stranger Things\" has four seasons as of October 2023. \n\nAnswer: Four seasons\n\nuser2: \"Stranger Things,\" the popular Netflix series, has a total of four seasons released as of October 2023, with a fifth season announced and in production. The show, set in the 1980s, combines elements of horror, science fiction, and nostalgia, drawing heavily on the culture of that era, including movies, music, and video games. Understanding the show's themes and its homage to 80s pop culture can enhance viewers' appreciation of the storyline and character development throughout the seasons.\nAnswer: D\u00f6rt sezon",
+        "response": "Summary: User1 states that \"Stranger Things\" has four seasons as of October 2023, while user2 agrees and adds that a fifth season is announced and in production, providing additional context about the show's themes and cultural references. \n\nConclusion: [answer] is more plausible.\n\nAnswer: Four seasons",
+        "predicted_answer": "Four seasons",
+        "ground_truth": [
+            {
+                "type": "number",
+                "text": "3.0",
+                "aliases": [
+                    "3"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "3356010362039543701",
+        "sys_prompt": "You are a judge from the Turkish tradition, known for your wisdom and fairness. Although your cultural background is Turkish, you are fluent in English and will conduct this task in English. You are given a reasoning question. There is a debate on this question between user1 and user2. Your task is to listen to their arguments carefully and provide a fair and wise judgment.\n\nSummarize the debate briefly and then give a conclusion based on the arguments presented. Your response should be in the format: \n\"Summary: ___. Conclusion: [answer] is more plausible.\n\nAnswer: [one or a few words in English]\"\n\nApproach the task with the fairness and critical thinking expected of a Turkish judge, ensuring you make only one answer for the final answer.",
+        "user_prompt": "Question: i regret i have but one life to give for my country s\u00f6z\u00fcn\u00fc kim s\u00f6yledi\n\nuser1: The quote \"I regret that I have but one life to give for my country\" is attributed to Nathan Hale, an American soldier and spy during the American Revolutionary War. \n\nAnswer: Nathan Hale\n\nuser2: The phrase \"I regret that I have but one life to give for my country\" is attributed to Nathan Hale, an American soldier and spy during the American Revolutionary War. Hale is remembered for his bravery and dedication to the cause of American independence. He was captured by the British and executed in 1776, and his famous last words reflect his commitment to his country. Understanding Hale's historical context helps students appreciate the sacrifices made by individuals during pivotal moments in history, emphasizing themes of patriotism and valor.\nAnswer: Nathan Hale",
+        "response": "Summary: Both user1 and user2 agree that the quote \"I regret that I have but one life to give for my country\" is attributed to Nathan Hale, an American soldier and spy during the American Revolutionary War. User2 provides additional context about Hale's bravery and the significance of his words, emphasizing themes of patriotism and sacrifice.\n\nConclusion: The attribution of the quote to Nathan Hale is more plausible.\n\nAnswer: Nathan Hale",
+        "predicted_answer": "Nathan Hale",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "text": "Nathan Hale",
+                "entity": "Q16932034"
+            },
+            {
+                "type": "entity",
+                "text": "Nathan Hale",
+                "entity": "Q16932034"
+            },
+            {
+                "type": "entity",
+                "text": "Nathan Hale",
+                "entity": "Q16932034"
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "5965447391112455356",
+        "sys_prompt": "You are a judge from the Turkish tradition, known for your wisdom and fairness. Although your cultural background is Turkish, you are fluent in English and will conduct this task in English. You are given a reasoning question. There is a debate on this question between user1 and user2. Your task is to listen to their arguments carefully and provide a fair and wise judgment.\n\nSummarize the debate briefly and then give a conclusion based on the arguments presented. Your response should be in the format: \n\"Summary: ___. Conclusion: [answer] is more plausible.\n\nAnswer: [one or a few words in English]\"\n\nApproach the task with the fairness and critical thinking expected of a Turkish judge, ensuring you make only one answer for the final answer.",
+        "user_prompt": "Question: sansa stark'\u0131 oynayan aktris kimdir\n\nuser1: The actress who played Sansa Stark is Sophie Turner. \n\nAnswer: Sophie Turner\n\nuser2: Sansa Stark, a key character from the popular television series \"Game of Thrones,\" is portrayed by the English actress Sophie Turner. She began playing Sansa at a young age and her character undergoes significant development throughout the series, evolving from a naive girl into a strong and strategic leader. Understanding Sansa's journey is essential to appreciating the themes of resilience and growth in the show. Sophie's performance has been widely praised, contributing to her recognition in the entertainment industry.\nAnswer: Sophie Turner",
+        "response": "Summary: User1 and user2 both agree that the actress who played Sansa Stark is Sophie Turner. User2 provides additional context about the character's development and the actress's performance, emphasizing the significance of Sansa's journey in the series. \n\nConclusion: [Sophie Turner] is more plausible.\n\nAnswer: Sophie Turner",
+        "predicted_answer": "Sophie Turner",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q240573",
+                "text": "Sophie Turner",
+                "aliases": []
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "476368974337766528",
+        "sys_prompt": "You are a judge from the Turkish tradition, known for your wisdom and fairness. Although your cultural background is Turkish, you are fluent in English and will conduct this task in English. You are given a reasoning question. There is a debate on this question between user1 and user2. Your task is to listen to their arguments carefully and provide a fair and wise judgment.\n\nSummarize the debate briefly and then give a conclusion based on the arguments presented. Your response should be in the format: \n\"Summary: ___. Conclusion: [answer] is more plausible.\n\nAnswer: [one or a few words in English]\"\n\nApproach the task with the fairness and critical thinking expected of a Turkish judge, ensuring you make only one answer for the final answer.",
+        "user_prompt": "Question: cumhuriyet\u00e7i parti se\u00e7imi en son ne zaman kazand\u0131\n\nuser1: The question asks when the Republican Party last won an election. To answer this, we need to identify the most recent election victory for the Republican Party in the United States. The last significant election they won was the 2016 presidential election, where Donald Trump was elected president. \n\nAnswer: 2016\n\nuser2: The Republican Party (Cumhuriyet\u00e7i Parti) in the United States last won the presidential election in 2016 when Donald Trump was elected as president. This election was significant as it marked a shift in political dynamics and brought various issues to the forefront of American politics. Understanding the context of the election, including the key issues and the political climate at the time, can help students analyze the factors that contributed to the Republican Party's victory. Additionally, recognizing the impact of this election on subsequent political events is crucial for a comprehensive understanding of contemporary U.S. politics.\nAnswer: 2016",
+        "response": "Summary: Both user1 and user2 agree that the Republican Party last won a significant election in the United States during the 2016 presidential election, where Donald Trump was elected president. User1 focuses on providing a straightforward answer, while user2 elaborates on the significance and context of the election.\n\nConclusion: [2016] is more plausible.\n\nAnswer: 2016",
+        "predicted_answer": "2016",
+        "ground_truth": [
+            {
+                "type": "date",
+                "text": "2004",
+                "aliases": [
+                    "2004"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "6116319690634922724",
+        "sys_prompt": "You are a judge from the Turkish tradition, known for your wisdom and fairness. Although your cultural background is Turkish, you are fluent in English and will conduct this task in English. You are given a reasoning question. There is a debate on this question between user1 and user2. Your task is to listen to their arguments carefully and provide a fair and wise judgment.\n\nSummarize the debate briefly and then give a conclusion based on the arguments presented. Your response should be in the format: \n\"Summary: ___. Conclusion: [answer] is more plausible.\n\nAnswer: [one or a few words in English]\"\n\nApproach the task with the fairness and critical thinking expected of a Turkish judge, ensuring you make only one answer for the final answer.",
+        "user_prompt": "Question: new albany ohio nun n\u00fcfusu nedir\n\nuser1: To find the population of New Albany, Ohio, we can look up the most recent census data or estimates. As of the last census, the population was around 10,000. \n\nAnswer: Approximately 10,000\n\nuser2: New Albany, Ohio, is a suburb of Columbus and has experienced significant growth in recent years. As of the latest estimates, the population of New Albany is around 12,000 residents. This number can fluctuate due to various factors such as economic development and housing trends. Understanding the demographic trends in suburban areas like New Albany can provide insights into community development, local economy, and the quality of life in the region. It's also helpful to consider how such growth impacts local services, schools, and infrastructure.\nAnswer: 12,000",
+        "response": "Summary: User1 states that the population of New Albany, Ohio, is approximately 10,000 based on the last census data, while user2 argues that the latest estimates indicate a population of around 12,000, highlighting the growth and its implications for the community. \n\nConclusion: [12,000] is more plausible.\n\nAnswer: 12,000",
+        "predicted_answer": "12,000",
+        "ground_truth": [
+            {
+                "type": "number",
+                "text": "10889.0",
+                "aliases": [
+                    "10889"
+                ]
+            }
+        ],
+        "is_correct": null
+    }
+]

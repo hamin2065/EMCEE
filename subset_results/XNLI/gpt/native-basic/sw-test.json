@@ -1,0 +1,42 @@
+[
+    {
+        "id": "sw-4600",
+        "prompt": "Wewe ni mtaalamu wa uamuzi wa lugha asilia. Ukipewa dhana na dhana nyingine, kazi yako ni kuhukumu ikiwa dhana hiyo ni kweli, si kweli au haijulikani kulingana na dhana ya awali. Uhusiano unaweza kuchaguliwa kutoka kwa mlingano, mgongano na hali ya kati.\nPremise: Ikiwa nimeandika historia ya hadithi itakuwa katika majina ya kamusi ya maeneo na watu waliofafanuliwa kwa suala la umuhimu binafsi.\nHypothesis: Ni muhimu kwangu kwamba tawasifu yangu iwe na urahisi wa kupatikana iwezekanavyo.\nUnapaswa kutoa jibu la mwisho mwishoni kwa muundo: 'Uhusiano: [Ulinganifu, Wastani au Mpingano]'.",
+        "response": "Uhusiano: Wastani",
+        "predicted_answer": 1,
+        "ground_truth": 2,
+        "is_correct": false
+    },
+    {
+        "id": "sw-2559",
+        "prompt": "Wewe ni mtaalamu wa uamuzi wa lugha asilia. Ukipewa dhana na dhana nyingine, kazi yako ni kuhukumu ikiwa dhana hiyo ni kweli, si kweli au haijulikani kulingana na dhana ya awali. Uhusiano unaweza kuchaguliwa kutoka kwa mlingano, mgongano na hali ya kati.\nPremise: Kwa mfano rahisi ,tuseme gharama ka lazi ya kugagwa ni 10a na gharama ya msingi ni 16a.\nHypothesis: Gharama ya barua pepe inahitaji kuwa mingi kuliko kushiriki.\nUnapaswa kutoa jibu la mwisho mwishoni kwa muundo: 'Uhusiano: [Ulinganifu, Wastani au Mpingano]'.",
+        "response": "Uhusiano: Mpingano",
+        "predicted_answer": 2,
+        "ground_truth": 1,
+        "is_correct": false
+    },
+    {
+        "id": "sw-2875",
+        "prompt": "Wewe ni mtaalamu wa uamuzi wa lugha asilia. Ukipewa dhana na dhana nyingine, kazi yako ni kuhukumu ikiwa dhana hiyo ni kweli, si kweli au haijulikani kulingana na dhana ya awali. Uhusiano unaweza kuchaguliwa kutoka kwa mlingano, mgongano na hali ya kati.\nPremise: 27 Ugumu unaongezeka kadiri marekebisho ya bwela yanayohitajika kupatanisha SCR na kituo yanapoongezeka.\nHypothesis: Ugumu wa ishirini na saba unategemea marekebisho.\nUnapaswa kutoa jibu la mwisho mwishoni kwa muundo: 'Uhusiano: [Ulinganifu, Wastani au Mpingano]'.",
+        "response": "Uhusiano: Wastani",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": false
+    },
+    {
+        "id": "sw-695",
+        "prompt": "Wewe ni mtaalamu wa uamuzi wa lugha asilia. Ukipewa dhana na dhana nyingine, kazi yako ni kuhukumu ikiwa dhana hiyo ni kweli, si kweli au haijulikani kulingana na dhana ya awali. Uhusiano unaweza kuchaguliwa kutoka kwa mlingano, mgongano na hali ya kati.\nPremise: Kwa ukweli mimi sijui kwa sababu sijawahi kuvaa marinda mengi. Wanielewa kweli?\nHypothesis: Ninavaa mavazi ya dresi kila wakati.\nUnapaswa kutoa jibu la mwisho mwishoni kwa muundo: 'Uhusiano: [Ulinganifu, Wastani au Mpingano]'.",
+        "response": "Uhusiano: Mpingano",
+        "predicted_answer": 2,
+        "ground_truth": 2,
+        "is_correct": true
+    },
+    {
+        "id": "sw-4884",
+        "prompt": "Wewe ni mtaalamu wa uamuzi wa lugha asilia. Ukipewa dhana na dhana nyingine, kazi yako ni kuhukumu ikiwa dhana hiyo ni kweli, si kweli au haijulikani kulingana na dhana ya awali. Uhusiano unaweza kuchaguliwa kutoka kwa mlingano, mgongano na hali ya kati.\nPremise: Kwa kweli kuna zaidi ya marekebisho 100 ya syllothetic.\nHypothesis: Kuna vivumishi syllothetic 200.\nUnapaswa kutoa jibu la mwisho mwishoni kwa muundo: 'Uhusiano: [Ulinganifu, Wastani au Mpingano]'.",
+        "response": "Uhusiano: Wastani",
+        "predicted_answer": 1,
+        "ground_truth": 1,
+        "is_correct": true
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "id": "-3007091317310168067",
+        "prompt": "I want you to act as a question answering expert for chinese.\nQuestion: \u65e0\u803b\u4e4b\u5f92\u4e2d\u626e\u6f14jupiter\u7684\u6f14\u5458\u662f\u8c01\nYou should retell the question in English.\nYou should answer the question in English in one or a few words.\nYou should step-by-step answer the request.\nYou should tell me the answer in one or a few words in English in this format 'Answer: '",
+        "response": "The question in English is: \"Who played Jupiter in Shameless?\"\n\nStep 1: Identify the show \"Shameless\" and the character \"Jupiter.\"\nStep 2: Research the actor who portrayed the character Jupiter in the show.\n\nAnswer: Answer: Jeremy Allen White",
+        "predicted_answer": "Answer: Jeremy Allen White",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "text": "\u6770\u592b\u00b7\u79d1\u4f2f",
+                "entity": "Q1469565"
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "5399144941562483470",
+        "prompt": "I want you to act as a question answering expert for chinese.\nQuestion: \u7535\u5f71\u300a\u535a\u7269\u9986\u5947\u5999\u591c\u300b\u5171\u6709\u51e0\u90e8\nYou should retell the question in English.\nYou should answer the question in English in one or a few words.\nYou should step-by-step answer the request.\nYou should tell me the answer in one or a few words in English in this format 'Answer: '",
+        "response": "The question in English is: \"How many movies are there in the 'Night at the Museum' series?\"\n\nStep 1: Identify the series in question, which is \"Night at the Museum.\"\n\nStep 2: Determine the number of films released in this series.\n\nStep 3: Provide the answer in the specified format.\n\nAnswer: 3",
+        "predicted_answer": "3",
+        "ground_truth": [
+            {
+                "type": "number",
+                "text": "3.0",
+                "aliases": [
+                    "3"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "-5990228692754281902",
+        "prompt": "I want you to act as a question answering expert for chinese.\nQuestion: \u7f8e\u56fd\u662f\u4ec0\u4e48\u65f6\u5019\u5f00\u59cb\u5f81\u6536\u8054\u90a6\u6240\u5f97\u7a0e\u7684\nYou should retell the question in English.\nYou should answer the question in English in one or a few words.\nYou should step-by-step answer the request.\nYou should tell me the answer in one or a few words in English in this format 'Answer: '",
+        "response": "The question in English is: \"When did the United States start collecting federal income tax?\"\n\nStep 1: Identify the key components of the question: \n- Subject: United States\n- Action: Start collecting\n- Object: Federal income tax\n- Time: When\n\nStep 2: Recall the historical context regarding the federal income tax in the United States.\n\nStep 3: Provide the answer based on historical knowledge.\n\nAnswer: 1913",
+        "predicted_answer": "1913",
+        "ground_truth": [
+            {
+                "type": "date",
+                "text": "1913",
+                "aliases": [
+                    "1913"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "-4933806249687973654",
+        "prompt": "I want you to act as a question answering expert for chinese.\nQuestion: \u6df7\u4e71\u4e4b\u5b50\u4e2d\u7684 jack teller \u662f\u8c01\u626e\u6f14\u7684\nYou should retell the question in English.\nYou should answer the question in English in one or a few words.\nYou should step-by-step answer the request.\nYou should tell me the answer in one or a few words in English in this format 'Answer: '",
+        "response": "The question in English is: \"Who plays Jack Teller in Sons of Anarchy?\"\n\nStep 1: Identify the character in the show \"Sons of Anarchy.\"\nStep 2: Determine the actor who portrays Jack Teller.\n\nAnswer: Charlie Hunnam",
+        "predicted_answer": "Charlie Hunnam",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "text": "\u67e5\u7406\u00b7\u6c49\u7eb3\u59c6",
+                "entity": "Q356294"
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "4992973967728216447",
+        "prompt": "I want you to act as a question answering expert for chinese.\nQuestion: \u8fc8\u514b\u5c14\u00b7\u4e54\u4e39\u8d62\u5f97\u4e86\u591a\u5c11\u4e2anba\u603b\u51a0\u519b\nYou should retell the question in English.\nYou should answer the question in English in one or a few words.\nYou should step-by-step answer the request.\nYou should tell me the answer in one or a few words in English in this format 'Answer: '",
+        "response": "The question in English is: \"How many NBA championships did Michael Jordan win?\"\n\nStep 1: Identify the subject of the question - Michael Jordan.\nStep 2: Determine what is being asked - the number of NBA championships he won.\nStep 3: Recall the information regarding Michael Jordan's NBA championships.\n\nAnswer: 6",
+        "predicted_answer": "6",
+        "ground_truth": [
+            {
+                "type": "number",
+                "text": "6.0",
+                "aliases": [
+                    "6"
+                ]
+            }
+        ],
+        "is_correct": null
+    }
+]

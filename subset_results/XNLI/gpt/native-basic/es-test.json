@@ -1,0 +1,42 @@
+[
+    {
+        "id": "es-4211",
+        "prompt": "Eres un experto en inferencia de lenguaje natural. Dada la premisa y la hip\u00f3tesis, tu tarea es juzgar si la hip\u00f3tesis es verdadera, falsa o indeterminada seg\u00fan la premisa. La relaci\u00f3n puede ser elegida entre implicaci\u00f3n, contradicci\u00f3n y neutral.\nPremise: Disparan a los estudiantes, \u00bfno?\nHypothesis: Hacen magdalenas para los estudiantes, \u00bfno?\nDebes proporcionar la respuesta final al final en el formato: 'Relaci\u00f3n: [Implicaci\u00f3n, Neutral o Contradicci\u00f3n]'.",
+        "response": "Relaci\u00f3n: Neutral",
+        "predicted_answer": 1,
+        "ground_truth": 2,
+        "is_correct": false
+    },
+    {
+        "id": "es-3872",
+        "prompt": "Eres un experto en inferencia de lenguaje natural. Dada la premisa y la hip\u00f3tesis, tu tarea es juzgar si la hip\u00f3tesis es verdadera, falsa o indeterminada seg\u00fan la premisa. La relaci\u00f3n puede ser elegida entre implicaci\u00f3n, contradicci\u00f3n y neutral.\nPremise: FOREVER PLAID, un nombre que connota la continuaci\u00f3n de los valores tradicionales, de la familia, el hogar y la armon\u00eda.\nHypothesis: Nuestro CEO ide\u00f3 el nombre POR SIEMPRE A CUADROS.\nDebes proporcionar la respuesta final al final en el formato: 'Relaci\u00f3n: [Implicaci\u00f3n, Neutral o Contradicci\u00f3n]'.",
+        "response": "Relaci\u00f3n: Neutral",
+        "predicted_answer": 1,
+        "ground_truth": 1,
+        "is_correct": true
+    },
+    {
+        "id": "es-580",
+        "prompt": "Eres un experto en inferencia de lenguaje natural. Dada la premisa y la hip\u00f3tesis, tu tarea es juzgar si la hip\u00f3tesis es verdadera, falsa o indeterminada seg\u00fan la premisa. La relaci\u00f3n puede ser elegida entre implicaci\u00f3n, contradicci\u00f3n y neutral.\nPremise: sabes, todos mis hijos son geniales, muy buenos, y creo que no, aprende de los ni\u00f1os mayores tambi\u00e9n, pero\nHypothesis: Estoy muy orgulloso de lo mucho que mis hijos saben.\nDebes proporcionar la respuesta final al final en el formato: 'Relaci\u00f3n: [Implicaci\u00f3n, Neutral o Contradicci\u00f3n]'.",
+        "response": "Relaci\u00f3n: Neutral",
+        "predicted_answer": 1,
+        "ground_truth": 1,
+        "is_correct": true
+    },
+    {
+        "id": "es-1362",
+        "prompt": "Eres un experto en inferencia de lenguaje natural. Dada la premisa y la hip\u00f3tesis, tu tarea es juzgar si la hip\u00f3tesis es verdadera, falsa o indeterminada seg\u00fan la premisa. La relaci\u00f3n puede ser elegida entre implicaci\u00f3n, contradicci\u00f3n y neutral.\nPremise: Dios solo es mencionado como el Dios de la naturaleza, en virtud del cual cualquier persona tiene el derecho a un parte igual y separada en la comunidad de las naciones.\nHypothesis: Las personas nunca son iguales.\nDebes proporcionar la respuesta final al final en el formato: 'Relaci\u00f3n: [Implicaci\u00f3n, Neutral o Contradicci\u00f3n]'.",
+        "response": "Relaci\u00f3n: Contradicci\u00f3n",
+        "predicted_answer": 2,
+        "ground_truth": 2,
+        "is_correct": true
+    },
+    {
+        "id": "es-17",
+        "prompt": "Eres un experto en inferencia de lenguaje natural. Dada la premisa y la hip\u00f3tesis, tu tarea es juzgar si la hip\u00f3tesis es verdadera, falsa o indeterminada seg\u00fan la premisa. La relaci\u00f3n puede ser elegida entre implicaci\u00f3n, contradicci\u00f3n y neutral.\nPremise: As\u00ed que no tengo muy claro por qu\u00e9.\nHypothesis: No s\u00e9 por qu\u00e9 sucedi\u00f3 eso.\nDebes proporcionar la respuesta final al final en el formato: 'Relaci\u00f3n: [Implicaci\u00f3n, Neutral o Contradicci\u00f3n]'.",
+        "response": "Relaci\u00f3n: Neutral",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": false
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "id": "302",
+        "prompt": "Here is a premise: Llimp'iwan wallpaqqa q'illutawan anqastawan chaqrurqan.. What is the effect? Help me pick the more plausible option: -choice1: Llimp'iqa lliwpi ch'allakurqan., -choice2: [choice]\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "Answer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 1,
+        "is_correct": false
+    },
+    {
+        "id": "301",
+        "prompt": "Here is a premise: Yachaqiqa hatun-yachaywasimanta graduasqa lluqsirqan.. What is the effect? Help me pick the more plausible option: -choice1: Payqa llamk'anatam maskharqan., -choice2: [choice]\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "Answer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "15",
+        "prompt": "Here is a premise: C\u00f3digo nisqata warmaqa umanpi yuyanchakurqan.. What is the cause? Help me pick the more plausible option: -choice1: Hatun kunkapi rimaspa kikinman yachachikurqan., -choice2: [choice]\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "Answer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "112",
+        "prompt": "Here is a premise: Hawaman samarisqayta rikurqani.. What is the cause? Help me pick the more plausible option: -choice1: Pachaqa as chirim karqan., -choice2: [choice]\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "Answer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "36",
+        "prompt": "Here is a premise: Suyukunaqa aywanakuy guerra nisqamanta lluqsiyta munarirqanku.. What is the effect? Help me pick the more plausible option: -choice1: Paykunaqa armas nucleares nisqatam ruwayta qallarirqanku., -choice2: [choice]\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "Answer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 1,
+        "is_correct": false
+    }
+]

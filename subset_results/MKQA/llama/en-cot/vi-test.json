@@ -1,0 +1,99 @@
+[
+    {
+        "id": "-6331825608100129065",
+        "prompt": "Answer the question in one or a few words in English: \nH\u1ecd ch\u1ea1y v\u1edbi nh\u1eefng con b\u00f2 \u1edf \u0111\u00e2u trong T\u00e2y Ba Nha?\nLet's think step-by-step in English.\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "To answer the question, we need to break it down.\n\n1. \"H\u1ecd\" means \"they\" in Vietnamese, so we're looking for a place where a group of people run with cows in Spain.\n2. The phrase \"\u1edf \u0111\u00e2u\" translates to \"where\" in English.\n3. The question mentions T\u00e2y Ba Nha, which is Spanish in Vietnamese.\n\nConsidering the context of running with cows, a possible event that comes to mind is a festival or a traditional celebration.\n\nOne famous festival in Spain where people run with bulls (not cows, but similar concept) is the Running of the Bulls (Encierro) in Pamplona.\n\nHowever, there's another festival in Spain where people run with cows, which is the Running of the Cows (Encierro de Toros, but actually with cows) in the town of Bu\u00f1ol, near Valencia.\n\nSo, considering the context of running with cows, the answer would be:\n\nAnswer: Bu\u00f1ol.",
+        "predicted_answer": "Bu\u00f1ol.",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q10282",
+                "text": "Pamplona",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q29",
+                "text": "T\u00e2y Ban Nha",
+                "aliases": []
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "-2636623161713410044",
+        "prompt": "Answer the question in one or a few words in English: \nnew york mets th\u00e0nh l\u1eadp khi n\u00e0o\nLet's think step-by-step in English.\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "To find out when the New York Mets were established, let's break down the steps:\n\n1. The New York Mets are a professional baseball team in Major League Baseball (MLB).\n2. They are based in Queens, New York City.\n3. The team was created as a result of the expansion of MLB in 1962.\n4. The expansion added two new teams to the league: the New York Mets and the Houston Colt.45s (now known as the Houston Astros).\n\nConsidering these steps, the answer is:\n\nAnswer: 1962.",
+        "predicted_answer": "1962.",
+        "ground_truth": [
+            {
+                "type": "date",
+                "text": "1962",
+                "aliases": [
+                    "1962"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "-7124524575011905701",
+        "prompt": "Answer the question in one or a few words in English: \nng\u00e0y c\u1ee7a cha l\u00e0 ng\u00e0y n\u00e0o\nLet's think step-by-step in English.\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "To find the answer, let's break it down step by step.\n\n1. \"ng\u00e0y c\u1ee7a cha\" translates to \"father's day\" in English.\n2. Father's Day is a holiday to honor fathers and father figures.\n\nConsidering the translation and the holiday, the answer is likely related to Father's Day.\n\nAnswer: Father's Day.",
+        "predicted_answer": "Father's Day.",
+        "ground_truth": [
+            {
+                "type": "date",
+                "text": "2020-06-21",
+                "aliases": [
+                    "21-06-2020",
+                    "21 06 2020",
+                    "06 21 2020",
+                    "2020 june, 21",
+                    "2020-06-21",
+                    "06-21-2020",
+                    "21 th\u00e1ng S\u00e1u 2020",
+                    "21/06/2020",
+                    "2020 th\u00e1ng S\u00e1u 21",
+                    "2020 06 21",
+                    "06/21/2020"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "5118505966272271760",
+        "prompt": "Answer the question in one or a few words in English: \nAi l\u00e0 nh\u00f3m tr\u01b0\u1edfng nh\u00f3m nh\u1ea1c The Beautiful South\nLet's think step-by-step in English.\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "To find the answer, let's break it down step by step:\n\n1. We need to identify the group The Beautiful South.\n2. The Beautiful South was a British band known for their folk-rock music.\n3. The lead vocalist of the band was also the main songwriter.\n4. The main songwriter and lead vocalist of The Beautiful South is Paul Heaton.\n\nTherefore, \nAnswer: Paul Heaton.",
+        "predicted_answer": "Paul Heaton.",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "text": "Paul Heaton",
+                "entity": "Q1938749"
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "6039981987742679389",
+        "prompt": "Answer the question in one or a few words in English: \nng\u01b0\u1eddi \u0111\u00e3 li\u00ean minh v\u1edbi ng\u01b0\u1eddi Anh trong cu\u1ed9c c\u00e1ch m\u1ea1ng M\u1ef9\nLet's think step-by-step in English.\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "\u0110\u1ec3 tr\u1ea3 l\u1eddi c\u00e2u h\u1ecfi n\u00e0y, ch\u00fang ta c\u1ea7n t\u00ecm hi\u1ec3u v\u1ec1 c\u00e1c qu\u1ed1c gia \u0111\u00e3 tham gia v\u00e0o cu\u1ed9c c\u00e1ch m\u1ea1ng M\u1ef9.\n\nCu\u1ed9c c\u00e1ch m\u1ea1ng M\u1ef9 b\u1eaft \u0111\u1ea7u v\u00e0o n\u0103m 1775 v\u00e0 k\u1ebft th\u00fac v\u00e0o n\u0103m 1783. Trong cu\u1ed9c c\u00e1ch m\u1ea1ng n\u00e0y, c\u00f3 nhi\u1ec1u qu\u1ed1c gia \u0111\u00e3 li\u00ean minh v\u1edbi ng\u01b0\u1eddi Anh.\n\nM\u1ed9t trong nh\u1eefng qu\u1ed1c gia \u0111\u00e3 li\u00ean minh v\u1edbi ng\u01b0\u1eddi Anh l\u00e0 T\u00e2y Ban Nha. Tuy nhi\u00ean, \u0111i\u1ec1u n\u00e0y kh\u00f4ng ch\u00ednh x\u00e1c v\u00ec T\u00e2y Ban Nha \u0111\u00e3 \u0111\u1ee9ng v\u1ec1 ph\u00eda ng\u01b0\u1eddi M\u1ef9 trong cu\u1ed9c c\u00e1ch m\u1ea1ng.\n\nM\u1ed9t qu\u1ed1c gia kh\u00e1c c\u00f3 th\u1ec3 \u0111\u00e3 li\u00ean minh v\u1edbi ng\u01b0\u1eddi Anh l\u00e0 H\u00e0 Lan. Tuy nhi\u00ean, \u0111i\u1ec1u n\u00e0y kh\u00f4ng ch\u00ednh x\u00e1c v\u00ec H\u00e0 Lan \u0111\u00e3 \u0111\u1ee9ng v\u1ec1 ph\u00eda ng\u01b0\u1eddi M\u1ef9 trong cu\u1ed9c c\u00e1ch m\u1ea1ng.\n\nSau khi t\u00ecm ki\u1ebfm th\u00f4ng tin, ch\u00fang ta th\u1ea5y r\u1eb1ng m\u1ed9t qu\u1ed1c gia \u0111\u00e3 li\u00ean minh v\u1edbi ng\u01b0\u1eddi Anh trong cu\u1ed9c c\u00e1ch m\u1ea1ng M\u1ef9 l\u00e0 H\u00e0 Lan kh\u00f4ng ph\u1ea3i l\u00e0 qu\u1ed1c gia li\u00ean minh v\u1edbi ng\u01b0\u1eddi Anh. \n\nSau khi t\u00ecm ki\u1ebfm th\u00f4ng tin, ch\u00fang ta th\u1ea5y r\u1eb1ng m\u1ed9t qu\u1ed1c gia \u0111\u00e3 li\u00ean minh v\u1edbi ng\u01b0\u1eddi Anh trong cu\u1ed9c c\u00e1ch m\u1ea1ng M\u1ef9 l\u00e0  m\u1ed9t s\u1ed1 bang thu\u1ed9c M\u1ef9 Latinh.",
+        "predicted_answer": "\u0110\u1ec3 tr\u1ea3 l\u1eddi c\u00e2u h\u1ecfi n\u00e0y, ch\u00fang ta c\u1ea7n t\u00ecm hi\u1ec3u v\u1ec1 c\u00e1c qu\u1ed1c gia \u0111\u00e3 tham gia v\u00e0o cu\u1ed9c c\u00e1ch m\u1ea1ng M\u1ef9.\n\nCu\u1ed9c c\u00e1ch m\u1ea1ng M\u1ef9 b\u1eaft \u0111\u1ea7u v\u00e0o n\u0103m 1775 v\u00e0 k\u1ebft th\u00fac v\u00e0o n\u0103m 1783. Trong cu\u1ed9c c\u00e1ch m\u1ea1ng n\u00e0y, c\u00f3 nhi\u1ec1u qu\u1ed1c gia \u0111\u00e3 li\u00ean minh v\u1edbi ng\u01b0\u1eddi Anh.\n\nM\u1ed9t trong nh\u1eefng qu\u1ed1c gia \u0111\u00e3 li\u00ean minh v\u1edbi ng\u01b0\u1eddi Anh l\u00e0 T\u00e2y Ban Nha. Tuy nhi\u00ean, \u0111i\u1ec1u n\u00e0y kh\u00f4ng ch\u00ednh x\u00e1c v\u00ec T\u00e2y Ban Nha \u0111\u00e3 \u0111\u1ee9ng v\u1ec1 ph\u00eda ng\u01b0\u1eddi M\u1ef9 trong cu\u1ed9c c\u00e1ch m\u1ea1ng.\n\nM\u1ed9t qu\u1ed1c gia kh\u00e1c c\u00f3 th\u1ec3 \u0111\u00e3 li\u00ean minh v\u1edbi ng\u01b0\u1eddi Anh l\u00e0 H\u00e0 Lan. Tuy nhi\u00ean, \u0111i\u1ec1u n\u00e0y kh\u00f4ng ch\u00ednh x\u00e1c v\u00ec H\u00e0 Lan \u0111\u00e3 \u0111\u1ee9ng v\u1ec1 ph\u00eda ng\u01b0\u1eddi M\u1ef9 trong cu\u1ed9c c\u00e1ch m\u1ea1ng.\n\nSau khi t\u00ecm ki\u1ebfm th\u00f4ng tin, ch\u00fang ta th\u1ea5y r\u1eb1ng m\u1ed9t qu\u1ed1c gia \u0111\u00e3 li\u00ean minh v\u1edbi ng\u01b0\u1eddi Anh trong cu\u1ed9c c\u00e1ch m\u1ea1ng M\u1ef9 l\u00e0 H\u00e0 Lan kh\u00f4ng ph\u1ea3i l\u00e0 qu\u1ed1c gia li\u00ean minh v\u1edbi ng\u01b0\u1eddi Anh. \n\nSau khi t\u00ecm ki\u1ebfm th\u00f4ng tin, ch\u00fang ta th\u1ea5y r\u1eb1ng m\u1ed9t qu\u1ed1c gia \u0111\u00e3 li\u00ean minh v\u1edbi ng\u01b0\u1eddi Anh trong cu\u1ed9c c\u00e1ch m\u1ea1ng M\u1ef9 l\u00e0  m\u1ed9t s\u1ed1 bang thu\u1ed9c M\u1ef9 Latinh.",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q183",
+                "text": "\u0110\u1ee9c",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "text": "\u0110\u1ee9c",
+                "entity": "Q183"
+            }
+        ],
+        "is_correct": null
+    }
+]

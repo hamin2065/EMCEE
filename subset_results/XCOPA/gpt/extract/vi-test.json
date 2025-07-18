@@ -1,0 +1,52 @@
+[
+    {
+        "id": "373",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: Xe t\u00f4i b\u1ecb h\u1ecfng.\nWhat is the effect?\nChoice1: T\u00f4i \u0111\u00e3 \u0111i \u0111\u1ebfn trung t\u00e2m mua s\u1eafm.\nChoice2: T\u00f4i g\u1ecdi th\u1ee3 s\u1eeda m\u00e1y.\nExplanation: When a car is broken down, a typical and logical response is to seek help to fix the issue. Calling a mechanic is a direct action to address the problem and get the car repaired, making it a reasonable effect of the car being broken. On the other hand, going to the shopping mall does not directly relate to resolving the car issue. Therefore, the correct choice is that the effect of the car being broken is that the person calls a mechanic.",
+        "response": "Answer: 2",
+        "explanation": "When a car is broken down, a typical and logical response is to seek help to fix the issue. Calling a mechanic is a direct action to address the problem and get the car repaired, making it a reasonable effect of the car being broken. On the other hand, going to the shopping mall does not directly relate to resolving the car issue. Therefore, the correct choice is that the effect of the car being broken is that the person calls a mechanic.",
+        "predicted_answer": 2,
+        "ground_truth": 1,
+        "is_correct": true
+    },
+    {
+        "id": "395",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: Gia \u0111\u00ecnh ch\u00fac m\u1eebng c\u1eb7p \u0111\u00f4i.\nWhat is the cause?\nChoice1: C\u1eb7p \u0111\u00f4i tuy\u00ean b\u1ed1 h\u1ecd \u0111ang ly th\u00e2n.\nChoice2: C\u1eb7p \u0111\u00f4i tuy\u00ean b\u1ed1 h\u1ecd s\u1eafp c\u00f3 con.\nExplanation: The premise states that the family is congratulating the couple. Typically, congratulations are given for positive news or milestones, such as an engagement, marriage, or the announcement of a pregnancy. In this context, the couple announcing that they are expecting a child (choice 2) is a joyful occasion that would warrant congratulations from family members. On the other hand, announcing a separation (choice 1) is generally not a cause for celebration. Therefore, the correct choice is that the family is congratulating the couple because they announced they are expecting a child.",
+        "response": "Answer: 2",
+        "explanation": "The premise states that the family is congratulating the couple. Typically, congratulations are given for positive news or milestones, such as an engagement, marriage, or the announcement of a pregnancy. In this context, the couple announcing that they are expecting a child (choice 2) is a joyful occasion that would warrant congratulations from family members. On the other hand, announcing a separation (choice 1) is generally not a cause for celebration. Therefore, the correct choice is that the family is congratulating the couple because they announced they are expecting a child.",
+        "predicted_answer": 2,
+        "ground_truth": 1,
+        "is_correct": true
+    },
+    {
+        "id": "483",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: T\u00f4i h\u00fat b\u1ee5i th\u1ea3m.\nWhat is the cause?\nChoice1: B\u1ea1n c\u00f9ng ph\u00f2ng c\u1ee7a t\u00f4i l\u00e0m \u0111\u1ed5 \u0111\u1ed3 u\u1ed1ng.\nChoice2: Con ch\u00f3 c\u1ee7a t\u00f4i r\u1ee5ng l\u00f4ng.\nExplanation: The premise states that you are vacuuming the carpet. Both choices could be valid reasons for vacuuming, but one is more directly related to the need for cleaning. If your roommate spilled a drink, it would create a mess on the carpet that needs to be cleaned up, making it a strong cause for vacuuming. However, if your dog is shedding fur, that would also necessitate vacuuming to keep the carpet clean. In this context, while both choices are plausible, the more immediate cause for vacuuming would likely be the spill from your roommate, as it typically requires urgent attention to prevent stains or stickiness. Thus, choice 1 is the more direct cause.",
+        "response": "Answer: 1",
+        "explanation": "The premise states that you are vacuuming the carpet. Both choices could be valid reasons for vacuuming, but one is more directly related to the need for cleaning. If your roommate spilled a drink, it would create a mess on the carpet that needs to be cleaned up, making it a strong cause for vacuuming. However, if your dog is shedding fur, that would also necessitate vacuuming to keep the carpet clean. In this context, while both choices are plausible, the more immediate cause for vacuuming would likely be the spill from your roommate, as it typically requires urgent attention to prevent stains or stickiness. Thus, choice 1 is the more direct cause.",
+        "predicted_answer": 1,
+        "ground_truth": 1,
+        "is_correct": false
+    },
+    {
+        "id": "308",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: B\u1ed1 m\u1eb9 v\u1ed9i ch\u1ea1y v\u00e0o ph\u00f2ng ng\u1ee7 c\u1ee7a con.\nWhat is the cause?\nChoice1: \u0110\u1ee9a tr\u1ebb t\u1ec9nh d\u1eady g\u00e0o th\u00e9t t\u1eeb m\u1ed9t c\u01a1n \u00e1c m\u1ed9ng.\nChoice2: \u0110\u1ee9a tr\u1ebb s\u1ee3 h\u00e3i nh\u00ecn xu\u1ed1ng g\u1ea7m gi\u01b0\u1eddng.\nExplanation: The premise indicates that the parents hurried into their child's bedroom, which suggests a sense of urgency or concern. The most likely cause for this urgency is that the child woke up screaming from a nightmare, as this would naturally prompt parents to rush in to comfort and check on their child. While the child being scared of something under the bed could also cause concern, the immediate reaction of the parents is more directly linked to the distress caused by a nightmare. Therefore, the correct choice is that the child woke up screaming from a nightmare.",
+        "response": "1",
+        "explanation": "The premise indicates that the parents hurried into their child's bedroom, which suggests a sense of urgency or concern. The most likely cause for this urgency is that the child woke up screaming from a nightmare, as this would naturally prompt parents to rush in to comfort and check on their child. While the child being scared of something under the bed could also cause concern, the immediate reaction of the parents is more directly linked to the distress caused by a nightmare. Therefore, the correct choice is that the child woke up screaming from a nightmare.",
+        "predicted_answer": "1",
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "110",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: T\u00f4i nh\u1ee1 cu\u1ed9c g\u1ecdi c\u1ee7a b\u1ea1n g\u00e1i t\u00f4i.\nWhat is the effect?\nChoice1: T\u00f4i g\u1ecdi l\u1ea1i cho c\u00f4 \u1ea5y.\nChoice2: T\u00f4i g\u1eb7p c\u00f4 \u1ea5y \u0111i \u0103n t\u1ed1i.\nExplanation: The premise states that you missed a call from your girlfriend. A common and immediate response to missing a call is to return the call to explain why you couldn't answer or to check in with her. This makes choice 1, calling her back, the most logical effect of missing her call. While meeting her for dinner could also be a possibility later, it is not a direct response to the missed call. Therefore, the correct choice is to call her back.",
+        "response": "Answer: 1",
+        "explanation": "The premise states that you missed a call from your girlfriend. A common and immediate response to missing a call is to return the call to explain why you couldn't answer or to check in with her. This makes choice 1, calling her back, the most logical effect of missing her call. While meeting her for dinner could also be a possibility later, it is not a direct response to the missed call. Therefore, the correct choice is to call her back.",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    }
+]

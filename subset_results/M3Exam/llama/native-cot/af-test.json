@@ -1,0 +1,42 @@
+[
+    {
+        "id": 220,
+        "prompt": "Die volgende is 'n meerkeusevraag.\nBonga het 'n kartondoosskyf wat hy in stukke wil sny om 'n reghoekige piramide te maak. Hy gaan die volgende stukke sny:\n(A) Vier reghoeke en twee vierkante\n(B) Twee reghoeke en vier vierkante\n(C) Drie reghoeke en een driehoek\n(D) Een reghoek en vier driehoeke\nKom ons dink stap-vir-stap in Afrikaans, en gee die finale antwoord aan die einde in die formaat: 'Antwoord: [opsie]'\nJy moet die finale antwoord aan die einde verskaf in die formaat: 'Antwoord: [opsie]'",
+        "response": "Laat ons stap-vir-stap dink hoe Bonga die piramide kan maak.\n\n1. 'n Piramide het 'n basis wat 'n reghoek is. Om 'n reghoekige piramide te maak, moet Bonga dus 'n reghoek sny.\n\n2. Die volgende stap is om die piramide te bou. Dit kan hy doen deur 'n vierkantige piramide te sny, wat bestaan uit vier driehoeke wat by die basis van die piramide aanmekaar gesny word.\n\n3. Om 'n piramide te bou, moet Bonga dus 'n reghoek en vier driehoeke sny.\n\nDus, die antwoord is duidelik.\n\nAntwoord: D",
+        "predicted_answer": "D",
+        "ground_truth": "D",
+        "is_correct": true
+    },
+    {
+        "id": 59,
+        "prompt": "Die volgende is 'n meerkeusevraag.\nGeleiers is gewoonlik van ... gemaak.\n(A) metale\n(B) skakelaars\n(C) wol\n(D) nie-metale\nKom ons dink stap-vir-stap in Afrikaans, en gee die finale antwoord aan die einde in die formaat: 'Antwoord: [opsie]'\nJy moet die finale antwoord aan die einde verskaf in die formaat: 'Antwoord: [opsie]'",
+        "response": "Laat ons stap vir stap deurgee:\n\n1. Die vraag vra na die materiaal van geleiers. \n2. Geleiers is komponente in elektriese toestelle wat elektrisiteit lei.\n3. Die meeste geleiers is van nie-metale gemaak, soos koper, aluminium en silwer.\n4. Hierdie materiaal is goed gele\u00ebrs van elektrisiteit en is gebruik in verskeie toestelle.\n\nAntwoord: (D)",
+        "predicted_answer": "(D)",
+        "ground_truth": "A",
+        "is_correct": false
+    },
+    {
+        "id": 2,
+        "prompt": "Die volgende is 'n meerkeusevraag.\nIn 'n sak met albasters is daar 7 blou, 5 rooi en 8 geel albasters. Wat is die waarskynlikheid dat 'n rooi albaster uitgehaal sal word?\n(A) 1/5\n(B) 1/2\n(C) 1/3\n(D) 1/4\nKom ons dink stap-vir-stap in Afrikaans, en gee die finale antwoord aan die einde in die formaat: 'Antwoord: [opsie]'\nJy moet die finale antwoord aan die einde verskaf in die formaat: 'Antwoord: [opsie]'",
+        "response": "Laat ons stap-vir-stap nader kyk by die vraag.\n\n1. Ons het 'n sak met 7 blou, 5 rooi en 8 geel albasters. Om die totale aantal albasters te bepaal, tel ons die aantal van elk van die kleure by mekaar: 7 (blou) + 5 (rooi) + 8 (geel) = 20 albasters.\n\n2. Die vraag vra na die waarskynlikheid dat 'n rooi albaster uitgehaal sal word. Om die waarskynlikheid te bepaal, deel ons die aantal rooi albasters (5) deur die totale aantal albasters (20): 5/20.\n\n3. Om die fraksie te vereenvoudig, deel ons beide getalle deur 5: 5/20 \u00f7 5/5 = 1/4.\n\nDus, die waarskynlikheid dat 'n rooi albaster uitgehaal sal word, is 1/4.\n\nAntwoord: (D)",
+        "predicted_answer": "(D)",
+        "ground_truth": "D",
+        "is_correct": true
+    },
+    {
+        "id": 235,
+        "prompt": "Die volgende is 'n meerkeusevraag.\nWat is die verskil tussen \u0149 serie stroombaan en \u0149 parallelle stroombaan?\n(A) \u0149 Serie stroombaan volg een baan (pad) en \u0149 parallelle stroombaan verdeel in verskillende bane (takke).\n(B) \u0149 Serie stroombaan moet \u0149 smeltdraad h\u00ea.\n(C) \u0149 Parallelle stroombaan moet \u0149 stroombreker h\u00ea.\n(D) \u0149 Parallelle stroombaan volg een baan (pad) en \u0149 serie stroombaan verdeel in verskillende bane (takke).\nKom ons dink stap-vir-stap in Afrikaans, en gee die finale antwoord aan die einde in die formaat: 'Antwoord: [opsie]'\nJy moet die finale antwoord aan die einde verskaf in die formaat: 'Antwoord: [opsie]'",
+        "response": "Laat ons stap-vir-stap deurgegaan:\n\n1. \u0149 Serie stroombaan is 'n soort elektriese stroomkanaal waarin die stroom deur 'n enkele baan (pad) vloei. Dit beteken dat die stroom deur 'n enkele draad vloei en geen takke of bane verdeel nie.\n2. \u0149 Parallelle stroombaan is 'n soort elektriese stroomkanaal waarin die stroom deur verskillende bane (takke) vloei. Dit beteken dat die stroom deur meerdere drade vloei, wat verdeel word in verskillende bane.\n\nOp grond van hierdie definisies kan ons nou die verskil tussen 'n serie stroombaan en 'n parallelle stroombaan identifiseer:\n\n* \u0149 Serie stroombaan volg een baan (pad) en verdeel nie in verskillende bane (takke) nie.\n* \u0149 Parallelle stroombaan verdeel in verskillende bane (takke) en volg nie een baan (pad) nie.\n\nDit",
+        "predicted_answer": "Laat ons stap-vir-stap deurgegaan:\n\n1. \u0149 Serie stroombaan is 'n soort elektriese stroomkanaal waarin die stroom deur 'n enkele baan (pad) vloei. Dit beteken dat die stroom deur 'n enkele draad vloei en geen takke of bane verdeel nie.\n2. \u0149 Parallelle stroombaan is 'n soort elektriese stroomkanaal waarin die stroom deur verskillende bane (takke) vloei. Dit beteken dat die stroom deur meerdere drade vloei, wat verdeel word in verskillende bane.\n\nOp grond van hierdie definisies kan ons nou die verskil tussen 'n serie stroombaan en 'n parallelle stroombaan identifiseer:\n\n* \u0149 Serie stroombaan volg een baan (pad) en verdeel nie in verskillende bane (takke) nie.\n* \u0149 Parallelle stroombaan verdeel in verskillende bane (takke) en volg nie een baan (pad) nie.\n\nDit",
+        "ground_truth": "A",
+        "is_correct": false
+    },
+    {
+        "id": 193,
+        "prompt": "Die volgende is 'n meerkeusevraag.\nWatter EEN van die volgende is 'n gevolg van die vernietiging van vleilande?\n(A) Verhoogde biodiversiteit\n(B) Afname in die beskikbaarheid van water\n(C) Afname in aardverwarming\n(D) Verhoogde watergehalte\nKom ons dink stap-vir-stap in Afrikaans, en gee die finale antwoord aan die einde in die formaat: 'Antwoord: [opsie]'\nJy moet die finale antwoord aan die einde verskaf in die formaat: 'Antwoord: [opsie]'",
+        "response": "Laat ons stap vir stap die moontlike gevolge van die vernietiging van vleilande oorweeg.\n\nVleilande speel 'n belangrike rol in die ekosisteem, veral in terme van waterkwaliteit en -gehalte. Hulle help om water te filter en om die water te reinig. Wanneer vleilande vernietig word, kan dit tot 'n afname in die waterkwaliteit lei.\n\n(A) Verhoogde biodiversiteit: Hierdie is nie 'n direkte gevolg van die vernietiging van vleilande nie. Vleilande is 'n habitat vir baie spesies wat afhanklik is van die unieke omgewing van die vleiland.\n\n(B) Afname in die beskikbaarheid van water: Hierdie is 'n moontlike gevolg van die vernietiging van vleilande. Wanneer vleilande vernietig word, kan dit tot 'n afname in die waterkwaliteit lei, wat op sy beurt kan lei tot 'n afname in die beskikbaarheid van water.\n\n",
+        "predicted_answer": "Laat ons stap vir stap die moontlike gevolge van die vernietiging van vleilande oorweeg.\n\nVleilande speel 'n belangrike rol in die ekosisteem, veral in terme van waterkwaliteit en -gehalte. Hulle help om water te filter en om die water te reinig. Wanneer vleilande vernietig word, kan dit tot 'n afname in die waterkwaliteit lei.\n\n(A) Verhoogde biodiversiteit: Hierdie is nie 'n direkte gevolg van die vernietiging van vleilande nie. Vleilande is 'n habitat vir baie spesies wat afhanklik is van die unieke omgewing van die vleiland.\n\n(B) Afname in die beskikbaarheid van water: Hierdie is 'n moontlike gevolg van die vernietiging van vleilande. Wanneer vleilande vernietig word, kan dit tot 'n afname in die waterkwaliteit lei, wat op sy beurt kan lei tot 'n afname in die beskikbaarheid van water.\n\n",
+        "ground_truth": "B",
+        "is_correct": false
+    }
+]

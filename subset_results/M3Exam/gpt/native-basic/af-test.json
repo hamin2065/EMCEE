@@ -1,0 +1,42 @@
+[
+    {
+        "id": 220,
+        "prompt": "Die volgende is 'n meerkeusevraag.\nBonga het 'n kartondoosskyf wat hy in stukke wil sny om 'n reghoekige piramide te maak. Hy gaan die volgende stukke sny:\n(A) Vier reghoeke en twee vierkante\n(B) Twee reghoeke en vier vierkante\n(C) Drie reghoeke en een driehoek\n(D) Een reghoek en vier driehoeke\nJy moet die finale antwoord aan die einde verskaf in die formaat: 'Antwoord: [opsie]'",
+        "response": "Om 'n reghoekige piramide te maak, benodig jy 'n basis en driehoeke om die sye te vorm. Die basis van die piramide is 'n reghoek, en die sye is driehoeke. \n\nKyk na die opsies:\n(A) Vier reghoeke en twee vierkante - nie geskik nie, want dit het nie die nodige driehoeke nie.\n(B) Twee reghoeke en vier vierkante - nie geskik nie, want dit het nie die nodige driehoeke nie.\n(C) Drie reghoeke en een driehoek - nie geskik nie, want jy het nie genoeg driehoeke nie.\n(D) Een reghoek en vier driehoeke - geskik, want jy het 'n basis en die nodige sye.\n\nDie korrekte opsie is dus (D).\n\nAntwoord: D",
+        "predicted_answer": "D",
+        "ground_truth": "D",
+        "is_correct": true
+    },
+    {
+        "id": 59,
+        "prompt": "Die volgende is 'n meerkeusevraag.\nGeleiers is gewoonlik van ... gemaak.\n(A) metale\n(B) skakelaars\n(C) wol\n(D) nie-metale\nJy moet die finale antwoord aan die einde verskaf in die formaat: 'Antwoord: [opsie]'",
+        "response": "Antwoord: (A) metale",
+        "predicted_answer": "(A) metale",
+        "ground_truth": "A",
+        "is_correct": true
+    },
+    {
+        "id": 2,
+        "prompt": "Die volgende is 'n meerkeusevraag.\nIn 'n sak met albasters is daar 7 blou, 5 rooi en 8 geel albasters. Wat is die waarskynlikheid dat 'n rooi albaster uitgehaal sal word?\n(A) 1/5\n(B) 1/2\n(C) 1/3\n(D) 1/4\nJy moet die finale antwoord aan die einde verskaf in die formaat: 'Antwoord: [opsie]'",
+        "response": "Eerstens, bereken die totale aantal albasters in die sak:\n\n- Blou albasters: 7\n- Rooi albasters: 5\n- Geel albasters: 8\n\nTotale aantal albasters = 7 + 5 + 8 = 20\n\nNou, bereken die waarskynlikheid om 'n rooi albaster uit te haal. Die waarskynlikheid (P) is die aantal rooi albasters gedeel deur die totale aantal albasters:\n\nP(rooi) = Aantal rooi albasters / Totale aantal albasters = 5 / 20 = 1 / 4\n\nDie korrekte antwoord is dus (D) 1/4.\n\nAntwoord: [D]",
+        "predicted_answer": "[D]",
+        "ground_truth": "D",
+        "is_correct": true
+    },
+    {
+        "id": 235,
+        "prompt": "Die volgende is 'n meerkeusevraag.\nWat is die verskil tussen \u0149 serie stroombaan en \u0149 parallelle stroombaan?\n(A) \u0149 Serie stroombaan volg een baan (pad) en \u0149 parallelle stroombaan verdeel in verskillende bane (takke).\n(B) \u0149 Serie stroombaan moet \u0149 smeltdraad h\u00ea.\n(C) \u0149 Parallelle stroombaan moet \u0149 stroombreker h\u00ea.\n(D) \u0149 Parallelle stroombaan volg een baan (pad) en \u0149 serie stroombaan verdeel in verskillende bane (takke).\nJy moet die finale antwoord aan die einde verskaf in die formaat: 'Antwoord: [opsie]'",
+        "response": "Antwoord: (A) \u0149 Serie stroombaan volg een baan (pad) en \u0149 parallelle stroombaan verdeel in verskillende bane (takke).",
+        "predicted_answer": "(A) \u0149 Serie stroombaan volg een baan (pad) en \u0149 parallelle stroombaan verdeel in verskillende bane (takke).",
+        "ground_truth": "A",
+        "is_correct": true
+    },
+    {
+        "id": 193,
+        "prompt": "Die volgende is 'n meerkeusevraag.\nWatter EEN van die volgende is 'n gevolg van die vernietiging van vleilande?\n(A) Verhoogde biodiversiteit\n(B) Afname in die beskikbaarheid van water\n(C) Afname in aardverwarming\n(D) Verhoogde watergehalte\nJy moet die finale antwoord aan die einde verskaf in die formaat: 'Antwoord: [opsie]'",
+        "response": "Antwoord: (B) Afname in die beskikbaarheid van water",
+        "predicted_answer": "(B) Afname in die beskikbaarheid van water",
+        "ground_truth": "B",
+        "is_correct": true
+    }
+]

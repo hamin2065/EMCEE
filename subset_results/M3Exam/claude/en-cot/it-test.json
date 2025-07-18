@@ -1,0 +1,42 @@
+[
+    {
+        "id": 395,
+        "prompt": "The following is a multiple-choice question.\nVuoi costruire un portapenne di forma cilindrica, di volume 192\u03c0 cm^{3}. Se il diametro di base misura 8 cm, quanto sar\u00e0 alto il portapenne?\nA. \u00a03 cm\nB. \u00a06 cm\nC. \u00a09 cm\nD. \u00a012 cm\nLet's think step-by-step in English, and provide the final answer at the end in the format: 'Answer: [option]'\nYou should provide the final answer at the end in the format: 'Answer: [option]'",
+        "response": "Let's solve this step by step:\n\n1. We know the volume of the cylindrical pencil holder is 192\u03c0 cm\u00b3\n\n2. The formula for the volume of a cylinder is: V = \u03c0r\u00b2h\n   Where:\n   \u2022 V = volume\n   \u2022 r = radius of the base\n   \u2022 h = height of the cylinder\n\n3. We're given that the diameter is 8 cm, so the radius is 4 cm\n\n4. Let's substitute the known values into the volume formula:\n   192\u03c0 = \u03c0(4)\u00b2h\n\n5. Simplify the right side:\n   192\u03c0 = 16\u03c0h\n\n6. Divide both sides by 16\u03c0:\n   192\u03c0 \u00f7 16\u03c0 = h\n   12 = h\n\n7. Therefore, the height of the pencil holder is 12 cm\n\n8. Looking at the given options, 12 cm corresponds to option D\n\nAnswer: D",
+        "predicted_answer": "D",
+        "ground_truth": "D",
+        "is_correct": true
+    },
+    {
+        "id": 217,
+        "prompt": "The following is a multiple-choice question.\nLe potenze $\\left(\\frac{4}{3}\\right) ^{2}$ e $\\frac{4\\^ {2}}{3}$ hanno lo stesso valore?\nA. \u00a0No, la prima vale 16/3 e la seconda 16/9.\nB. \u00a0No, la prima vale 16/9 e la seconda 16/3.\nC. \u00a0S\u00ec, valgono entrambe 16/3.\nC. \u00a0S\u00ec, valgono entrambe 16/9.\nLet's think step-by-step in English, and provide the final answer at the end in the format: 'Answer: [option]'\nYou should provide the final answer at the end in the format: 'Answer: [option]'",
+        "response": "Let's solve this step by step:\n\n1) First, let's calculate $\\left(\\frac{4}{3}\\right)^{2}$:\n   \u2022 This means $\\frac{4}{3} \\times \\frac{4}{3}$\n   \u2022 $= \\frac{16}{9}$\n\n2) Next, let's calculate $\\frac{4^{2}}{3}$:\n   \u2022 First, $4^{2} = 16$\n   \u2022 Then, $\\frac{16}{3}$\n\n3) Comparing the two values:\n   \u2022 $\\left(\\frac{4}{3}\\right)^{2} = \\frac{16}{9}$\n   \u2022 $\\frac{4^{2}}{3} = \\frac{16}{3}$\n\n4) These are clearly different values.\n\n5) Looking at the options:\n   \u2022 Option A correctly states that the first value is 16/9 and the second is 16/3\n   \u2022 This matches our calculations\n\nTherefore:\n\nAnswer: A",
+        "predicted_answer": "A",
+        "ground_truth": "B",
+        "is_correct": false
+    },
+    {
+        "id": 360,
+        "prompt": "The following is a multiple-choice question.\nIl periodo \"Non ho rispettato il limite di velocit\u00e0 e ho preso una multa. \" \u00e8 costituito da due frasi connesse dalla congiunzione e, che le collega logicamente introducendo\n(A) un confronto rispetto a quanto viene detto prima\n(B) una limitazione rispetto a quanto viene detto prima\n(C) una conseguenza rispetto a quanto viene detto prima\n(D) una precisazione rispetto a quanto viene detto prima\nLet's think step-by-step in English, and provide the final answer at the end in the format: 'Answer: [option]'\nYou should provide the final answer at the end in the format: 'Answer: [option]'",
+        "response": "Let's solve this step by step:\n\n1. First, let's understand the sentence:\n   \"Non ho rispettato il limite di velocit\u00e0 e ho preso una multa.\"\n   (Translation: \"I did not respect the speed limit and I got a fine.\")\n\n2. Let's analyze the logical connection between the two parts of the sentence:\n   - First part: \"Non ho rispettato il limite di velocit\u00e0\" (I did not respect the speed limit)\n   - Second part: \"ho preso una multa\" (I got a fine)\n\n3. The conjunction \"e\" (and) connects these two parts\n\n4. Let's consider the logical relationship:\n   - Is it a comparison? No\n   - Is it a limitation? No\n   - Is it a consequence? Yes! Not respecting the speed limit directly leads to getting a fine\n   - Is it a precision? No\n\n5. The second part (getting a fine) is a direct result of the first part (not respecting the speed limit)\n\n6. This suggests a cause-and-effect relationship, which is best described as a consequence\n\nTherefore:\n\nAnswer: (C)",
+        "predicted_answer": "(C)",
+        "ground_truth": "C",
+        "is_correct": true
+    },
+    {
+        "id": 149,
+        "prompt": "The following is a multiple-choice question.\nUna fabbrica produce 1000 lampadine, di cui 30 difettose. Ne vende 100 e tra queste 12 risultano difettose.\nSe si sceglie a caso una lampadina tra quelle rimaste da vendere, qual \u00e8 la probabilit\u00e0 che sia difettosa?\nA. 18/900\nB. 108/900\nC. 30/1000\nD. 120/1000\nLet's think step-by-step in English, and provide the final answer at the end in the format: 'Answer: [option]'\nYou should provide the final answer at the end in the format: 'Answer: [option]'",
+        "response": "Let's solve this step by step:\n\n1. Total lampadines initially produced: 1000\n   - Total defective lampadines: 30\n   - Total good lampadines: 970\n\n2. Lampadines sold: 100\n   - Defective lampadines sold: 12\n   - Good lampadines sold: 88\n\n3. Remaining lampadines:\n   - Total remaining: 1000 - 100 = 900\n   - Remaining defective lampadines: 30 - 12 = 18\n   - Remaining good lampadines: 970 - 88 = 882\n\n4. Probability of choosing a defective lampadine:\n   - Probability = Number of defective lampadines / Total remaining lampadines\n   - Probability = 18 / 900\n   - Probability = 1 / 50\n\n5. Looking at the options, 18/900 corresponds to option A.\n\nAnswer: A",
+        "predicted_answer": "A",
+        "ground_truth": "A",
+        "is_correct": true
+    },
+    {
+        "id": 422,
+        "prompt": "The following is a multiple-choice question.\nQual \u00e8 il valore di x che soddisfa l'equazione $3(2x \u2013 1) + 2x = 21$ ?\nA. -3\nB. -11/4\nC. 11/4\nD. 3\nLet's think step-by-step in English, and provide the final answer at the end in the format: 'Answer: [option]'\nYou should provide the final answer at the end in the format: 'Answer: [option]'",
+        "response": "Let's solve this step by step:\n\n1. First, let's expand the left side of the equation:\n   \u2022 $3(2x \u2013 1) + 2x = 21$\n\n2. Distribute the 3:\n   \u2022 $6x \u2013 3 + 2x = 21$\n\n3. Combine like terms on the left side:\n   \u2022 $6x + 2x \u2013 3 = 21$\n   \u2022 $8x \u2013 3 = 21$\n\n4. Add 3 to both sides:\n   \u2022 $8x = 24$\n\n5. Divide both sides by 8:\n   \u2022 $x = 3$\n\n6. Check the given options:\n   \u2022 A. -3\n   \u2022 B. -11/4\n   \u2022 C. 11/4\n   \u2022 D. 3\n\n7. We found that $x = 3$, which corresponds to option D.\n\n8. Let's verify:\n   \u2022 $3(2(3) \u2013 1) + 2(3) = 21$\n   \u2022 $3(6 \u2013 1) + 6 = 21$\n   \u2022 $3(5) + 6 = 21$\n   \u2022 $15 + 6 = 21$ \u2713\n\nAnswer: D",
+        "predicted_answer": "D",
+        "ground_truth": "D",
+        "is_correct": true
+    }
+]

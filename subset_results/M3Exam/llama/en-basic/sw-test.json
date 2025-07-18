@@ -1,0 +1,42 @@
+[
+    {
+        "id": 349,
+        "prompt": "The following is a multiple-choice question.\nSentensi inayounganisha sentensi: \"Juma ni mzee. Juma anasoma kitabu bila miwani\", kisahihi ni:\nA. Juma ni mzee maadamu anasoma kitabu bila miwani.\nB. Juma anasoma kitabu bila miwani licha ya kuwa yeye ni mzee.\nC. Juma ni mzee madhali anasoma kitabu bila miwani.\nD. Juma anasoma kitabu bila miwani minghairi ya yeye ni mzee.\nYou should provide the final answer at the end in the format: 'Answer: [option]'",
+        "response": "Kwa kuwa jibu sahihi linahitaji kuunganisha sentensi mbili kwa usahihi, tunahitaji kuzingatia muktadha wa sentensi zote mbili. \n\n\"Juma ni mzee\" ina maana kwamba Juma ana umri mkubwa. \n\"Huma anasoma kitabu bila miwani\" ina maana kwamba Juma hana uwezo wa kusoma kitabu bila miwani.\n\nKwa hivyo, uunganisho sahihi unapaswa kuwa \"Juma anasoma kitabu bila miwani licha ya kuwa yeye ni mzee.\"\n\nKwa hivyo, jibu sahihi ni:\n\nAnswer: B",
+        "predicted_answer": "B",
+        "ground_truth": "B",
+        "is_correct": true
+    },
+    {
+        "id": 408,
+        "prompt": "The following is a multiple-choice question.\nTashbihi\nPopo amekonda kama _________\nA. sindano\nB. ng'onda\nC. kijiti\nD. kasuku\nYou should provide the final answer at the end in the format: 'Answer: [option]'",
+        "response": "Kumbuka kuwa swali lililotolewa ni katika lugha ya Kiswahili.\n\nJibu sahihi linaweza kuwa kijiti, kwa kuwa kijiti mara nyingi hukonda popo.\n\nAnswer: C.",
+        "predicted_answer": "C.",
+        "ground_truth": "B",
+        "is_correct": false
+    },
+    {
+        "id": 72,
+        "prompt": "The following is a multiple-choice question.\nMethali zifuatazo zinahusu bidii. Ipi haifai kuwepo?\nA. Mgaagaa na upwa hali wali mkavu.\nB. Umoja ni nguvu utengano ni udhaifu.\nC. Ukiona vyaelea jua vimeundwa.\nD. Mtaka cha mvunguni sharti ainame.\nYou should provide the final answer at the end in the format: 'Answer: [option]'",
+        "response": "Ninauliza ni ipi haifai kuwepo, lakini niliweka maandishi kwa Kiswani, na majibu yaliyo nayo pia ni kwa Kiswani. Hata hivyo, nitaendelea kujibu kwa kuzingatia maana ya maandishi yaliyotolewa.\n\nMethali zilizotolewa zinafaa kuwepo kwa sababu zinahusiana na maadili ya bidii. Kwa hivyo, hakuna chaguo sahihi la kuwepo kwao.\n\nHata hivyo, nitaendelea kusema ni ipi haifai kuwepo. \nMethali zilizotolewa ni kama ifuatavyo:\n\n- A. Mgaagaa na upwa hali wali mkavu. (Hii ina maana ya watu wanaoga na wana upwa, lakini hii haifai kuwepo kwani inamaanisha kuwa watu hao wana uoga na upwa, ambayo haifai kuwepo",
+        "predicted_answer": "Ninauliza ni ipi haifai kuwepo, lakini niliweka maandishi kwa Kiswani, na majibu yaliyo nayo pia ni kwa Kiswani. Hata hivyo, nitaendelea kujibu kwa kuzingatia maana ya maandishi yaliyotolewa.\n\nMethali zilizotolewa zinafaa kuwepo kwa sababu zinahusiana na maadili ya bidii. Kwa hivyo, hakuna chaguo sahihi la kuwepo kwao.\n\nHata hivyo, nitaendelea kusema ni ipi haifai kuwepo. \nMethali zilizotolewa ni kama ifuatavyo:\n\n- A. Mgaagaa na upwa hali wali mkavu. (Hii ina maana ya watu wanaoga na wana upwa, lakini hii haifai kuwepo kwani inamaanisha kuwa watu hao wana uoga na upwa, ambayo haifai kuwepo",
+        "ground_truth": "C",
+        "is_correct": false
+    },
+    {
+        "id": 381,
+        "prompt": "The following is a multiple-choice question.\nChagua neno ambalo limetumia silabi changamano:\nA. Mbuga.\nB. Kituta.\nC. Ziwa.\nD. Utulivu.\nYou should provide the final answer at the end in the format: 'Answer: [option]'",
+        "response": "Silabi changamano ni silabi ambazo zina kipindi cha sauti changamano kwa kawaida, kama vile \"u\", \"o\", \"i\", au \"e\" kwenye neno. \n\nKati ya chaguo zilizotolewa, neno ambalo limetumia silabi changamano ni \"Utulivu\".\n\nAnswer: D.",
+        "predicted_answer": "D.",
+        "ground_truth": "A",
+        "is_correct": false
+    },
+    {
+        "id": 237,
+        "prompt": "The following is a multiple-choice question.\nTegua kitendawili hiki: \nMava hapo mava pale\nA. kifo\nB. kioo\nC. kumetameta\nD. kivuli\nYou should provide the final answer at the end in the format: 'Answer: [option]'",
+        "response": "Kwanza, hebu tuchambue shida. \"Mava hapo mava pale\" ina maana ya kitu ambacho hupishana na mwili wote, ambacho ni kivuli. \n\nKwa hiyo, jibu sahihi ni:\nAnswer: D",
+        "predicted_answer": "D",
+        "ground_truth": "D",
+        "is_correct": true
+    }
+]

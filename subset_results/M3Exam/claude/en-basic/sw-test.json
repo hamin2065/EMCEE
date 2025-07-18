@@ -1,0 +1,42 @@
+[
+    {
+        "id": 349,
+        "prompt": "The following is a multiple-choice question.\nSentensi inayounganisha sentensi: \"Juma ni mzee. Juma anasoma kitabu bila miwani\", kisahihi ni:\nA. Juma ni mzee maadamu anasoma kitabu bila miwani.\nB. Juma anasoma kitabu bila miwani licha ya kuwa yeye ni mzee.\nC. Juma ni mzee madhali anasoma kitabu bila miwani.\nD. Juma anasoma kitabu bila miwani minghairi ya yeye ni mzee.\nYou should provide the final answer at the end in the format: 'Answer: [option]'",
+        "response": "Let's analyze each option carefully:\n\nA. \"Juma ni mzee maadamu anasoma kitabu bila miwani\"\n- \"Maadamu\" means \"since\" or \"because\"\n- This option suggests that Juma reads a book without glasses because he is old\n- This doesn't seem to capture the intended meaning well\n\nB. \"Juma anasoma kitabu bila miwani licha ya kuwa yeye ni mzee\"\n- \"Licha ya\" means \"despite\" or \"in spite of\"\n- This suggests that Juma reads a book without glasses even though he is old\n- This option best connects the two original sentences, showing a contrast\n\nC. \"Juma ni mzee madhali anasoma kitabu bila miwani\"\n- \"Madhali\" means \"while\" or \"as\"\n- This option doesn't create a meaningful connection between the sentences\n\nD. \"Juma anasoma kitabu bila miwani minghairi ya yeye ni mzee\"\n- This translation doesn't make clear sense\n- The connection between the sentences is not well established\n\nBased on the analysis, option B provides the most logical and grammatically sound connection between the two original sentences.\n\nAnswer: B",
+        "predicted_answer": "B",
+        "ground_truth": "B",
+        "is_correct": true
+    },
+    {
+        "id": 408,
+        "prompt": "The following is a multiple-choice question.\nTashbihi\nPopo amekonda kama _________\nA. sindano\nB. ng'onda\nC. kijiti\nD. kasuku\nYou should provide the final answer at the end in the format: 'Answer: [option]'",
+        "response": "Let me help you solve this Swahili language multiple-choice question.\n\nThe question is asking for a simile (tashbihi) to complete the sentence \"Popo amekonda kama...\" which means \"Popo is thin like...\"\n\nLet's analyze the options:\nA. sindano = needle\nB. ng'onda = stick/rod\nC. kijiti = small stick\nD. kasuku = parrot\n\nAmong these options, the most appropriate comparison for describing someone being very thin would be \"sindano\" (needle), as a needle is extremely thin.\n\nTherefore, the sentence would read: \"Popo amekonda kama sindano\" (Popo is thin like a needle).\n\nAnswer: A",
+        "predicted_answer": "A",
+        "ground_truth": "B",
+        "is_correct": false
+    },
+    {
+        "id": 72,
+        "prompt": "The following is a multiple-choice question.\nMethali zifuatazo zinahusu bidii. Ipi haifai kuwepo?\nA. Mgaagaa na upwa hali wali mkavu.\nB. Umoja ni nguvu utengano ni udhaifu.\nC. Ukiona vyaelea jua vimeundwa.\nD. Mtaka cha mvunguni sharti ainame.\nYou should provide the final answer at the end in the format: 'Answer: [option]'",
+        "response": "Let me analyze each methali (proverb) related to effort/determination:\n\nA. \"Mgaagaa na upwa hali wali mkavu\" - This means someone who struggles/works hard even when conditions are difficult (like eating dry rice with fish).\n\nB. \"Umoja ni nguvu utengano ni udhaifu\" - This means unity is strength, and division is weakness. It emphasizes collective effort.\n\nC. \"Ukiona vyaelea jua vimeundwa\" - This suggests that when something appears to be progressing smoothly, it has been carefully planned/prepared.\n\nD. \"Mtaka cha mvunguni sharti ainame\" - This means that to get something from under the bed, one must bend down/make an effort.\n\nAll of these proverbs relate to effort, hard work, or determination. However, the question asks which one does NOT fit.\n\nOption B is the most general statement about collective strength, while the others specifically talk about personal effort or preparation.\n\nTherefore, option B seems least directly related to the concept of individual bidii (effort).\n\nAnswer: B",
+        "predicted_answer": "B",
+        "ground_truth": "C",
+        "is_correct": false
+    },
+    {
+        "id": 381,
+        "prompt": "The following is a multiple-choice question.\nChagua neno ambalo limetumia silabi changamano:\nA. Mbuga.\nB. Kituta.\nC. Ziwa.\nD. Utulivu.\nYou should provide the final answer at the end in the format: 'Answer: [option]'",
+        "response": "Let's solve this step by step:\n\n1. First, let's understand what \"silabi changamano\" means:\n   - \"Silabi\" means syllable\n   - \"Changamano\" suggests mixed or complex\n\n2. Let's break down each word into syllables:\n\n   A. Mbuga = Mbu-ga (2 syllables)\n   B. Kituta = Ki-tu-ta (3 syllables)\n   C. Ziwa = Zi-wa (2 syllables)\n   D. Utulivu = U-tu-li-vu (4 syllables)\n\n3. The question asks which word has a complex/mixed syllable structure.\n\n4. Looking at the syllable count and structure, \"Kituta\" stands out as having a more complex syllable arrangement.\n\n5. \"Kituta\" has 3 syllables and a more varied syllable structure compared to the other options.\n\nTherefore, the answer that best represents a word with complex syllables is \"Kituta\".\n\nAnswer: B",
+        "predicted_answer": "B",
+        "ground_truth": "A",
+        "is_correct": false
+    },
+    {
+        "id": 237,
+        "prompt": "The following is a multiple-choice question.\nTegua kitendawili hiki: \nMava hapo mava pale\nA. kifo\nB. kioo\nC. kumetameta\nD. kivuli\nYou should provide the final answer at the end in the format: 'Answer: [option]'",
+        "response": "Let me solve this Swahili riddle step by step:\n\nThe riddle goes: \"Mava hapo mava pale\" which translates roughly to \"Here a shadow, there a shadow\"\n\nLet's analyze the options:\nA. kifo (death)\nB. kioo (mirror)\nC. kumetameta (to be scattered/spread out)\nD. kivuli (shadow)\n\nThe key phrase \"Mava hapo mava pale\" suggests something that appears and disappears, or is present in multiple places at once.\n\nThe word \"kivuli\" means \"shadow\" which perfectly matches the riddle's description of something that appears here and there.\n\nA shadow moves and changes position depending on light, appearing in different places, which fits the riddle's description.\n\nTherefore, the answer is:\n\nAnswer: D",
+        "predicted_answer": "D",
+        "ground_truth": "D",
+        "is_correct": true
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "id": "fr-4363",
+        "prompt": "You are an expert at natural language inference. Given the premise and hypothesis, your task is to judge whether the hypothesis is true, false, or undetermined given the premise. The relationship can be chosen from entailment, contradiction, and neutral.\nPremise: Marcher sur les pieds des puissants\nHypothesis: Les orteils sont consid\u00e9r\u00e9s comme petits.\nYou should provide the final answer at the end in the format: 'Relationship: [entailment, neutral or contradiction]'.",
+        "response": "The premise \"Marcher sur les pieds des puissants\" translates to \"Stepping on the feet of the powerful,\" which suggests an action that may imply a confrontation or challenge to authority. The hypothesis \"Les orteils sont consid\u00e9r\u00e9s comme petits\" translates to \"Toes are considered small,\" which is a statement about the size of toes.\n\nThere is no direct connection between the premise and the hypothesis. The premise does not provide any information about the size of toes, nor does it imply anything about them being small. Therefore, we cannot determine the truth of the hypothesis based on the premise.\n\nFinal answer: Relationship: neutral",
+        "predicted_answer": 1,
+        "ground_truth": 2,
+        "is_correct": false
+    },
+    {
+        "id": "fr-913",
+        "prompt": "You are an expert at natural language inference. Given the premise and hypothesis, your task is to judge whether the hypothesis is true, false, or undetermined given the premise. The relationship can be chosen from entailment, contradiction, and neutral.\nPremise: d\u00e9pensez-le pour ceux qui ont r\u00e9ellement une chance\nHypothesis: D\u00e9pensez-le sur les options qui pourraient fonctionner.\nYou should provide the final answer at the end in the format: 'Relationship: [entailment, neutral or contradiction]'.",
+        "response": "The premise suggests spending resources on those who truly have a chance, while the hypothesis suggests spending on options that might work. The two statements are related but do not directly imply one another. The premise focuses on individuals with a real chance, while the hypothesis is more general about options that could potentially succeed. Therefore, the relationship is not one of direct entailment or contradiction, but rather a neutral relationship.\n\nRelationship: neutral",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": false
+    },
+    {
+        "id": "fr-2769",
+        "prompt": "You are an expert at natural language inference. Given the premise and hypothesis, your task is to judge whether the hypothesis is true, false, or undetermined given the premise. The relationship can be chosen from entailment, contradiction, and neutral.\nPremise: Pr\u00e9sentez ce sur quoi vous vous appuyez pour \u00e9valuer la fiabilit\u00e9 des donn\u00e9es comme ind\u00e9termin\u00e9e.\nHypothesis: Il faut expliquer pourquoi la fiabilit\u00e9 des donn\u00e9es n'a pas \u00e9t\u00e9 d\u00e9termin\u00e9e.\nYou should provide the final answer at the end in the format: 'Relationship: [entailment, neutral or contradiction]'.",
+        "response": "The premise states that one should present what they rely on to evaluate the reliability of the data as indeterminate. The hypothesis suggests that it is necessary to explain why the reliability of the data has not been determined. \n\nThe premise indicates that the reliability is considered indeterminate, but it does not explicitly state that an explanation is required for this indeterminacy. Therefore, while the hypothesis is related to the premise, it does not necessarily follow from it. \n\nThus, the relationship is neutral because the hypothesis does not contradict the premise, but it also does not directly follow from it.\n\nRelationship: neutral",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": false
+    },
+    {
+        "id": "fr-1961",
+        "prompt": "You are an expert at natural language inference. Given the premise and hypothesis, your task is to judge whether the hypothesis is true, false, or undetermined given the premise. The relationship can be chosen from entailment, contradiction, and neutral.\nPremise: Et s'il peut? Sang interrompu n\u00e9gligemment.\nHypothesis: Et s'il ne peut pas ? demanda poliment Sang.\nYou should provide the final answer at the end in the format: 'Relationship: [entailment, neutral or contradiction]'.",
+        "response": "The premise suggests a scenario where someone is questioning the possibility of something happening (\"Et s'il peut?\") and mentions \"Sang interrompu n\u00e9gligemment,\" which implies a casual or careless interruption by someone named Sang. The hypothesis presents a different question, \"Et s'il ne peut pas?\" which translates to \"And if he cannot?\" and indicates that Sang is asking this politely.\n\nThe relationship between the premise and the hypothesis is not directly supported or contradicted by the premise. The premise does not provide enough information to determine whether Sang's polite question about the inability to do something is true or false based on the initial statement.\n\nTherefore, the relationship is neutral.\n\nFinal answer: Relationship: neutral",
+        "predicted_answer": 1,
+        "ground_truth": 2,
+        "is_correct": false
+    },
+    {
+        "id": "fr-4",
+        "prompt": "You are an expert at natural language inference. Given the premise and hypothesis, your task is to judge whether the hypothesis is true, false, or undetermined given the premise. The relationship can be chosen from entailment, contradiction, and neutral.\nPremise: Et je pensais que c'\u00e9tait un privil\u00e8ge, et \u00e7a l'est toujours, toujours, j'\u00e9tais le seul 922 Ex-O, c'est l\u00e0 que j'avais effectu\u00e9 ma carri\u00e8re dans l'AFFC Air Force.\nHypothesis: J'avais l'impression que j'\u00e9tais le seul \u00e0 avoir ce num\u00e9ro dans le domaine de carri\u00e8re de l'AFFC Air Force.\nYou should provide the final answer at the end in the format: 'Relationship: [entailment, neutral or contradiction]'.",
+        "response": "The premise states that the speaker thought it was a privilege to be the only one with a certain designation (922 Ex-O) in their career in the AFFC Air Force. The hypothesis expresses a similar sentiment, indicating that the speaker felt they were the only one with that number in the same career field. Since both the premise and hypothesis convey the idea of exclusivity regarding the number in the context of the AFFC Air Force, the hypothesis logically follows from the premise.\n\nTherefore, the relationship is:\n\nRelationship: entailment",
+        "predicted_answer": 0,
+        "ground_truth": 0,
+        "is_correct": true
+    }
+]

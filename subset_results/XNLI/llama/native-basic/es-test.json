@@ -1,0 +1,42 @@
+[
+    {
+        "id": "es-4211",
+        "prompt": "Dada la premisa y la hip\u00f3tesis, tu tarea es juzgar si la hip\u00f3tesis es verdadera, falsa o indeterminada seg\u00fan la premisa. La relaci\u00f3n puede ser elegida entre implicaci\u00f3n, contradicci\u00f3n y neutral.\nPremise: Disparan a los estudiantes, \u00bfno?\nHypothesis: Hacen magdalenas para los estudiantes, \u00bfno?\nDebes proporcionar la respuesta final al final en el formato: 'Relaci\u00f3n: [Implicaci\u00f3n, Neutral o Contradicci\u00f3n]'.",
+        "response": "La premisa establece una situaci\u00f3n de violencia y peligro hacia los estudiantes, lo que sugiere un contexto negativo y amenazante. \n\nLa hip\u00f3tesis, por otro lado, sugiere una acci\u00f3n positiva y amable hacia los estudiantes, que consiste en hacer magdalenas para ellos.\n\nDado que la premisa y la hip\u00f3tesis se refieren a dos situaciones completamente opuestas, no es posible determinar si la hip\u00f3tesis es verdadera o falsa bas\u00e1ndose en la premisa. Sin embargo, se puede establecer una relaci\u00f3n de contradicci\u00f3n entre la premisa y la hip\u00f3tesis, ya que son mutuamente excluyentes y no pueden ocurrir al mismo tiempo.\n\nPor lo tanto, la relaci\u00f3n entre la premisa y la hip\u00f3tesis es: Relaci\u00f3n: Contradicci\u00f3n.",
+        "predicted_answer": 2,
+        "ground_truth": 2,
+        "is_correct": true
+    },
+    {
+        "id": "es-3872",
+        "prompt": "Dada la premisa y la hip\u00f3tesis, tu tarea es juzgar si la hip\u00f3tesis es verdadera, falsa o indeterminada seg\u00fan la premisa. La relaci\u00f3n puede ser elegida entre implicaci\u00f3n, contradicci\u00f3n y neutral.\nPremise: FOREVER PLAID, un nombre que connota la continuaci\u00f3n de los valores tradicionales, de la familia, el hogar y la armon\u00eda.\nHypothesis: Nuestro CEO ide\u00f3 el nombre POR SIEMPRE A CUADROS.\nDebes proporcionar la respuesta final al final en el formato: 'Relaci\u00f3n: [Implicaci\u00f3n, Neutral o Contradicci\u00f3n]'.",
+        "response": "Analicemos la premisa y la hip\u00f3tesis:\n\nPremisa: FOREVER PLAID connota la continuaci\u00f3n de los valores tradicionales, de la familia, el hogar y la armon\u00eda.\n\nHip\u00f3tesis: Nuestro CEO ide\u00f3 el nombre POR SIEMPRE A CUADROS.\n\nAl comparar las dos, notamos que FOREVER PLAID tiene un connotado positivo y tradicional, mientras que POR SIEMPRE A CUADROS parece ser un nombre m\u00e1s informal y ligero, que no necesariamente connota los mismos valores tradicionales.\n\nSin embargo, no hay una contradicci\u00f3n expl\u00edcita entre las dos, ya que no se menciona expl\u00edcitamente que el nombre POR SIEMPRE A CUADROS tenga un significado opuesto a los valores tradicionales. Por lo tanto, no podemos determinar con certeza que la hip\u00f3tesis sea falsa.\n\nEn consecuencia, la relaci\u00f3n entre la premisa y la hip\u00f3tesis es neutral, ya que no hay una implicaci\u00f3n clara ni una contradicci\u00f3n expl\u00edcita.\n\nRelaci\u00f3n: Neutral",
+        "predicted_answer": 1,
+        "ground_truth": 1,
+        "is_correct": true
+    },
+    {
+        "id": "es-580",
+        "prompt": "Dada la premisa y la hip\u00f3tesis, tu tarea es juzgar si la hip\u00f3tesis es verdadera, falsa o indeterminada seg\u00fan la premisa. La relaci\u00f3n puede ser elegida entre implicaci\u00f3n, contradicci\u00f3n y neutral.\nPremise: sabes, todos mis hijos son geniales, muy buenos, y creo que no, aprende de los ni\u00f1os mayores tambi\u00e9n, pero\nHypothesis: Estoy muy orgulloso de lo mucho que mis hijos saben.\nDebes proporcionar la respuesta final al final en el formato: 'Relaci\u00f3n: [Implicaci\u00f3n, Neutral o Contradicci\u00f3n]'.",
+        "response": "Analicemos la relaci\u00f3n entre la premisa y la hip\u00f3tesis:\n\nLa premisa menciona que \"todos mis hijos son geniales, muy buenos\" lo que sugiere que tienen habilidades y cualidades destacadas. Tambi\u00e9n menciona que \"aprende de los ni\u00f1os mayores tambi\u00e9n\" lo que implica que los ni\u00f1os tienen un nivel de conocimiento y habilidad que es valorado.\n\nLa hip\u00f3tesis \"Estoy muy orgulloso de lo mucho que mis hijos saben\" se basa en la idea de que los hijos tienen un alto nivel de conocimiento y habilidad.\n\nConsiderando la premisa y la hip\u00f3tesis, podemos concluir que la hip\u00f3tesis se implica en la premisa. La premisa proporciona evidencia que respalda la hip\u00f3tesis, ya que describe a los hijos como geniales y buenos, y sugiere que tienen un alto nivel de conocimiento y habilidad.\n\nRelaci\u00f3n: Implicaci\u00f3n.",
+        "predicted_answer": 0,
+        "ground_truth": 1,
+        "is_correct": false
+    },
+    {
+        "id": "es-1362",
+        "prompt": "Dada la premisa y la hip\u00f3tesis, tu tarea es juzgar si la hip\u00f3tesis es verdadera, falsa o indeterminada seg\u00fan la premisa. La relaci\u00f3n puede ser elegida entre implicaci\u00f3n, contradicci\u00f3n y neutral.\nPremise: Dios solo es mencionado como el Dios de la naturaleza, en virtud del cual cualquier persona tiene el derecho a un parte igual y separada en la comunidad de las naciones.\nHypothesis: Las personas nunca son iguales.\nDebes proporcionar la respuesta final al final en el formato: 'Relaci\u00f3n: [Implicaci\u00f3n, Neutral o Contradicci\u00f3n]'.",
+        "response": "Para determinar la relaci\u00f3n entre la premisa y la hip\u00f3tesis, debemos analizar el contenido de ambas.\n\nLa premisa establece que Dios es mencionado como el Dios de la naturaleza, y que cualquier persona tiene derecho a una parte igual y separada en la comunidad de las naciones. Esto implica que la igualdad y la justicia son fundamentales en la comunidad de las naciones.\n\nLa hip\u00f3tesis, por otro lado, afirma que las personas nunca son iguales. Esto contradice directamente la idea de igualdad mencionada en la premisa.\n\nPor tanto, la relaci\u00f3n entre la premisa y la hip\u00f3tesis es una contradicci\u00f3n, ya que la hip\u00f3tesis niega expl\u00edcitamente la idea de igualdad que se establece en la premisa.\n\nRelaci\u00f3n: Contradicci\u00f3n.",
+        "predicted_answer": 2,
+        "ground_truth": 2,
+        "is_correct": true
+    },
+    {
+        "id": "es-17",
+        "prompt": "Dada la premisa y la hip\u00f3tesis, tu tarea es juzgar si la hip\u00f3tesis es verdadera, falsa o indeterminada seg\u00fan la premisa. La relaci\u00f3n puede ser elegida entre implicaci\u00f3n, contradicci\u00f3n y neutral.\nPremise: As\u00ed que no tengo muy claro por qu\u00e9.\nHypothesis: No s\u00e9 por qu\u00e9 sucedi\u00f3 eso.\nDebes proporcionar la respuesta final al final en el formato: 'Relaci\u00f3n: [Implicaci\u00f3n, Neutral o Contradicci\u00f3n]'.",
+        "response": "Analicemos la premisa y la hip\u00f3tesis:\n\nPremisa: \"As\u00ed que no tengo muy claro por qu\u00e9.\"\n- Esta oraci\u00f3n sugiere que no hay una respuesta clara o evidente sobre por qu\u00e9 algo sucedi\u00f3.\n\nHip\u00f3tesis: \"No s\u00e9 por qu\u00e9 sucedi\u00f3 eso.\"\n- Esta oraci\u00f3n expresa una falta de conocimiento o comprensi\u00f3n sobre la raz\u00f3n por la que algo sucedi\u00f3.\n\nEn este caso, la premisa y la hip\u00f3tesis expresan ideas similares, es decir, una falta de claridad o conocimiento sobre la raz\u00f3n por la que algo sucedi\u00f3. Por lo tanto, la hip\u00f3tesis no contradice la premisa, ni implica necesariamente que la premisa sea falsa. Simplemente se refuerza la idea de que no se tiene una respuesta clara.\n\nLa relaci\u00f3n entre la premisa y la hip\u00f3tesis es de neutralidad, ya que ambas expresan ideas similares y no hay una implicaci\u00f3n o contradicci\u00f3n expl\u00edcita.\n\nRelaci\u00f3n: Neutral",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": false
+    }
+]

@@ -1,0 +1,89 @@
+[
+    {
+        "id": "5170765158681567047",
+        "prompt": "R\u00e9pondez \u00e0 la question en un ou quelques mots en fran\u00e7ais: \nquand a \u00e9t\u00e9 publi\u00e9e pour la premi\u00e8re fois Sourde, muette, aveugle : histoire de ma vie\nVous devez fournir la r\u00e9ponse finale \u00e0 la fin dans le format : 'R\u00e9ponse : [un ou quelques mots]'.",
+        "response": "Je ne dispose pas d'informations sur le livre \"Sourde, muette, aveugle : histoire de ma vie\". \n\nPouvez-vous fournir plus de contexte ou des informations sur l'auteur ou le livre? J'essaierai de vous aider \u00e0 trouver la r\u00e9ponse.",
+        "predicted_answer": "Je ne dispose pas d'informations sur le livre \"Sourde, muette, aveugle : histoire de ma vie\". \n\nPouvez-vous fournir plus de contexte ou des informations sur l'auteur ou le livre? J'essaierai de vous aider \u00e0 trouver la r\u00e9ponse.",
+        "ground_truth": [
+            {
+                "type": "date",
+                "text": "1903",
+                "aliases": [
+                    "1903"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "4189590166138253194",
+        "prompt": "R\u00e9pondez \u00e0 la question en un ou quelques mots en fran\u00e7ais: \nqui a le plus d'argent dans la nba\nVous devez fournir la r\u00e9ponse finale \u00e0 la fin dans le format : 'R\u00e9ponse : [un ou quelques mots]'.",
+        "response": "Les propri\u00e9taires des \u00e9quipes NBA ont des fortunes vari\u00e9es. Cependant, certains des plus riches propri\u00e9taires incluent :\n\n- Steve Ballmer (Los Angeles Clippers) : milliardaire et ancien PDG de Microsoft\n- Joe Tsai (Brooklyn Nets) : milliardaire et PDG de Alibaba Group\n- Mark Cuban (Dallas Mavericks) : entrepreneur et PDG de Broadcast.com\n- Steve Ballmer (Los Angeles Clippers) : milliardaire et ancien PDG de Microsoft\n- Robert Pera (Memphis Grizzlies) : entrepreneur et PDG de Ubiquiti Networks\n\nR\u00e9ponse : Les propri\u00e9taires des Clippers et Nets.",
+        "predicted_answer": "Les propri\u00e9taires des Clippers et Nets.",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q189240",
+                "text": "Kevin Garnett",
+                "aliases": []
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "-851149197598120689",
+        "prompt": "R\u00e9pondez \u00e0 la question en un ou quelques mots en fran\u00e7ais: \nqui joue le p\u00e8re de cole dans f the prom\nVous devez fournir la r\u00e9ponse finale \u00e0 la fin dans le format : 'R\u00e9ponse : [un ou quelques mots]'.",
+        "response": "Je ne connais pas de film intitul\u00e9 \"f the prom\". \n\nPuis-je vous aider avec autre chose?",
+        "predicted_answer": "Je ne connais pas de film intitul\u00e9 \"f the prom\". \n\nPuis-je vous aider avec autre chose?",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q352233",
+                "text": "Ian Ziering",
+                "aliases": []
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "5862856443680173655",
+        "prompt": "R\u00e9pondez \u00e0 la question en un ou quelques mots en fran\u00e7ais: \nquand ont ils chang\u00e9 la boxe en 12 rounds\nVous devez fournir la r\u00e9ponse finale \u00e0 la fin dans le format : 'R\u00e9ponse : [un ou quelques mots]'.",
+        "response": "La boxe professionnelle est pass\u00e9e de 15 \u00e0 12 rounds en 1924.\n\nR\u00e9ponse : 1924.",
+        "predicted_answer": "1924.",
+        "ground_truth": [
+            {
+                "type": "date",
+                "text": "1987-10-19",
+                "aliases": [
+                    "1987-10-19",
+                    "10/19/1987",
+                    "10-19-1987",
+                    "1987 octobre 19",
+                    "10 19 1987",
+                    "19-10-1987",
+                    "1987 10 19",
+                    "19/10/1987",
+                    "19 10 1987",
+                    "1987 october, 19",
+                    "19 octobre 1987"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "6873585089990668750",
+        "prompt": "R\u00e9pondez \u00e0 la question en un ou quelques mots en fran\u00e7ais: \nqui est l\u2019entra\u00eeneur principal des browns de cleveland\nVous devez fournir la r\u00e9ponse finale \u00e0 la fin dans le format : 'R\u00e9ponse : [un ou quelques mots]'.",
+        "response": "Je n'ai pas de renseignements \u00e0 jour sur l'entra\u00eeneur principal des Browns de Cleveland.\n\nCependant, je peux vous donner quelques informations sur les entra\u00eeneurs principaux des Browns de Cleveland r\u00e9cents, mais je ne peux pas confirmer qui est l'actuel entra\u00eeneur principal.\n\nLes entra\u00eeneurs principaux r\u00e9cents des Browns de Cleveland sont :\n\n- Kevin Stefanski (2020-2022)\n- Mike Pettine (2014-2015)\n- Rob Chudzinski (2012-2013)\n\nPour obtenir des informations \u00e0 jour sur l'entra\u00eeneur principal actuel des Browns de Cleveland, je vous recommande de v\u00e9rifier les sources de football am\u00e9ricain \u00e0 jour.\n\nR\u00e9ponse : Kevin Stefanski.",
+        "predicted_answer": "Kevin Stefanski.",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q5496752",
+                "text": "Freddie Kitchens",
+                "aliases": []
+            }
+        ],
+        "is_correct": null
+    }
+]

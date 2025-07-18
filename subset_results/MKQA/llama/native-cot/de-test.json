@@ -1,0 +1,114 @@
+[
+    {
+        "id": "81543553621132354",
+        "prompt": "Beantworte die Frage mit einem oder wenigen Worten auf Deutsch: \nWo wurde \"Hilfe, die Amis kommen\" gefilmt?\nLass uns Schritt f\u00fcr Schritt auf Deutsch nachdenken.\nSie sollten die endg\u00fcltige Antwort am Ende im folgenden Format angeben: 'Antwort: [ein oder wenige W\u00f6rter]'.",
+        "response": "\"Berlin\".\n\n\"Schritt 1: Wir m\u00fcssen den Titel des Films finden, n\u00e4mlich 'Hilfe, die Amis kommen'.\nSchritt 2: Der Film ist eine deutsche Kom\u00f6die, daher sollte er in Deutschland gedreht worden sein.\nSchritt 3: Wir wissen, dass es in Deutschland viele St\u00e4dte gibt, aber wir m\u00fcssen herausfinden, welche Stadt der Film zeigt.\n\nAntwort: Berlin.\"",
+        "predicted_answer": "Berlin.\"",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q38",
+                "text": "Italien",
+                "aliases": [
+                    "Italienische Republik"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q142",
+                "text": "Frankreich",
+                "aliases": [
+                    "Franz\u00f6sische Republik",
+                    "Republik Frankreich",
+                    "fr"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q21",
+                "text": "England",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q713750",
+                "text": "Geschichte der Bundesrepublik Deutschland (bis 1990)",
+                "aliases": [
+                    "Alte Bundesrepublik",
+                    "Alte Bundesrepublik Deutschland",
+                    "Westdeutschland",
+                    "Bundesrepublik Deutschland (1949-1990)",
+                    "BR Dtld."
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "8627228541151141053",
+        "prompt": "Beantworte die Frage mit einem oder wenigen Worten auf Deutsch: \nwer singt das lied love will keep us together\nLass uns Schritt f\u00fcr Schritt auf Deutsch nachdenken.\nSie sollten die endg\u00fcltige Antwort am Ende im folgenden Format angeben: 'Antwort: [ein oder wenige W\u00f6rter]'.",
+        "response": "Wir k\u00f6nnen das Lied \"Love Will Keep Us Together\" analysieren. \n\nSchritt 1: Das Lied \"Love Will Keep Us Together\" ist ein bekanntes Lied.\nSchritt 2: Es wurde 1973 von Neil Diamond geschrieben und aufgenommen.\nSchritt 3: Das Lied wurde zu einem Nummer-eins-Hit f\u00fcr die Country-S\u00e4ngerin Oak Ridge Boys, aber auch von Neil Diamond selbst.\nSchritt 4: Neil Diamond hat das Lied 1973 aufgenommen und ver\u00f6ffentlicht.\n\nAntwort: Neil Diamond.",
+        "predicted_answer": "Neil Diamond.",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q1035077",
+                "text": "Captain & Tennille",
+                "aliases": [
+                    "The Captain and Tennille",
+                    "Captain and Tennille",
+                    "The Captain & Tennille",
+                    "Darrly Dragon",
+                    "Toni Tenille",
+                    "Tony Tennille"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "-7634638252335162798",
+        "prompt": "Beantworte die Frage mit einem oder wenigen Worten auf Deutsch: \nWie viele Staaten gibt es in den Continental United States\nLass uns Schritt f\u00fcr Schritt auf Deutsch nachdenken.\nSie sollten die endg\u00fcltige Antwort am Ende im folgenden Format angeben: 'Antwort: [ein oder wenige W\u00f6rter]'.",
+        "response": "Es gibt 48 Bundesstaaten in den Continental United States. \n\nAntwort: 48 Bundesstaaten.",
+        "predicted_answer": "48 Bundesstaaten.",
+        "ground_truth": [
+            {
+                "type": "number",
+                "text": "48.0",
+                "aliases": [
+                    "48"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "8643588946565257997",
+        "prompt": "Beantworte die Frage mit einem oder wenigen Worten auf Deutsch: \nwer ist der mann im i dont always meme\nLass uns Schritt f\u00fcr Schritt auf Deutsch nachdenken.\nSie sollten die endg\u00fcltige Antwort am Ende im folgenden Format angeben: 'Antwort: [ein oder wenige W\u00f6rter]'.",
+        "response": "Um die Frage zu beantworten, m\u00fcssen wir zun\u00e4chst den Kontext des \"I Don't Always\"-Memes verstehen. \n\nSchritt 1: Das \"I Don't Always\"-Meme ist ein Internetmeme, das urspr\u00fcnglich aus einer Werbespot-Serie von Taco Bell stammt. \n\nSchritt 2: In diesem Werbespot wird ein Mann gezeigt, der sagt: \"I don't always drink beer, but when I do, I prefer Taco Bell.\"\n\nSchritt 3: Der Mann im Werbespot wurde von dem Schauspieler Dan Marino gespielt, aber Marino ist nicht der Mann im I Don't Always Meme.\n\nSchritt 4: Der Mann im I Don't Always Meme ist tats\u00e4chlich Dan Nyhaug, der in einer anderen Werbespot-Serie von Taco Bell auftrat.\n\nSchritt 5: Dan Nyhaug wurde zum Symbol des \"I Don't Always\"-Memes und wird oft als der \"Mann\" bezeichnet, der diese Phrase sagt.\n\nAntwort: Dan Nyhaug.",
+        "predicted_answer": "Dan Nyhaug.",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q1255362",
+                "text": "Jonathan Goldsmith",
+                "aliases": []
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "6747693054679197435",
+        "prompt": "Beantworte die Frage mit einem oder wenigen Worten auf Deutsch: \nWer ist das j\u00fcngste Mitglied von \"why don't we\"\nLass uns Schritt f\u00fcr Schritt auf Deutsch nachdenken.\nSie sollten die endg\u00fcltige Antwort am Ende im folgenden Format angeben: 'Antwort: [ein oder wenige W\u00f6rter]'.",
+        "response": "Um die Frage zu beantworten, m\u00fcssen wir zun\u00e4chst wissen, wer die Mitglieder der Band \"Why Don't We\" sind. Die Band besteht aus f\u00fcnf Mitgliedern: Jonah Marais, Corbyn Besson, Daniel Seavey, Jack Avery und Zach Herron.\n\nUm das j\u00fcngste Mitglied zu ermitteln, m\u00fcssen wir ihre Geburtsdaten kennen:\n\n- Jonah Marais: 10. September 1998\n- Corbyn Besson: 25. M\u00e4rz 1998\n- Daniel Seavey: 2. April 1999\n- Jack Avery: 1. Juli 1999\n- Zach Herron: 27. Mai 2001\n\nDas j\u00fcngste Mitglied ist Zach Herron, der am 27. Mai 2001 geboren wurde.\n\nAntwort: Zach Herron.",
+        "predicted_answer": "Zach Herron.",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "text": "Zachary Dean Herron",
+                "entity": "Q50437010"
+            }
+        ],
+        "is_correct": null
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "id": 395,
+        "prompt": "La seguente \u00e8 una domanda a scelta multipla.\nVuoi costruire un portapenne di forma cilindrica, di volume 192\u03c0 cm^{3}. Se il diametro di base misura 8 cm, quanto sar\u00e0 alto il portapenne?\nA. \u00a03 cm\nB. \u00a06 cm\nC. \u00a09 cm\nD. \u00a012 cm\nPensiamo passo dopo passo in italiano e forniamo la risposta finale alla fine nel formato: 'Risposta: [opzione]'\nDovresti fornire la risposta finale alla fine nel formato: 'Risposta: [opzione]'",
+        "response": "Per risolvere questo problema, dobbiamo utilizzare la formula del volume di un cilindro:\n\nV = \u03c0r\u00b2h\n\ndove V \u00e8 il volume, \u03c0 \u00e8 il numero di Pi, r \u00e8 il raggio della base e h \u00e8 l'altezza del cilindro.\n\nSappiamo che il diametro di base misura 8 cm, quindi il raggio \u00e8 la met\u00e0 del diametro, ovvero 4 cm.\n\nSappiamo anche che il volume del cilindro \u00e8 di 192\u03c0 cm\u00b3.\n\nPossiamo sostituire questi valori nella formula:\n\n192\u03c0 = \u03c0(4)\u00b2h\n\nSemplicando l'equazione, otteniamo:\n\n192 = 16h\n\nPer trovare l'altezza h, dobbiamo dividere entrambi i lati dell'equazione per 16:\n\nh = 192 / 16\nh = 12\n\nQuindi, l'altezza del portapenne sar\u00e0 di 12 cm.\n\nRisposta: D",
+        "predicted_answer": "D",
+        "ground_truth": "D",
+        "is_correct": true
+    },
+    {
+        "id": 217,
+        "prompt": "La seguente \u00e8 una domanda a scelta multipla.\nLe potenze $\\left(\\frac{4}{3}\\right) ^{2}$ e $\\frac{4\\^ {2}}{3}$ hanno lo stesso valore?\nA. \u00a0No, la prima vale 16/3 e la seconda 16/9.\nB. \u00a0No, la prima vale 16/9 e la seconda 16/3.\nC. \u00a0S\u00ec, valgono entrambe 16/3.\nC. \u00a0S\u00ec, valgono entrambe 16/9.\nPensiamo passo dopo passo in italiano e forniamo la risposta finale alla fine nel formato: 'Risposta: [opzione]'\nDovresti fornire la risposta finale alla fine nel formato: 'Risposta: [opzione]'",
+        "response": "Per risolvere questo problema, dobbiamo calcolare il valore delle due espressioni e confrontarli.\n\nLa prima espressione \u00e8 $\\left(\\frac{4}{3}\\right)^{2}$. Per calcolare il suo valore, dobbiamo applicare la regola dei poteri, che afferma che $(a/b)^n = (a^n)/(b^n)$. Quindi, $\\left(\\frac{4}{3}\\right)^{2} = \\frac{4^2}{3^2} = \\frac{16}{9}$.\n\nLa seconda espressione \u00e8 $\\frac{4^{2}}{3}$. Questa espressione \u00e8 diversa dalla prima perch\u00e9 il potere viene applicato prima alla base 4 e poi il risultato viene diviso per 3. Quindi, $4^2 = 16$ e quindi $\\frac{4^{2}}{3} = \\frac{16}{3}$.\n\nOra che abbiamo calcolato il valore delle due espressioni, possiamo confrontarli. Abbiamo trovato che la prima espressione vale $\\frac{16}{9}$ e la seconda espressione vale $\\frac",
+        "predicted_answer": "Per risolvere questo problema, dobbiamo calcolare il valore delle due espressioni e confrontarli.\n\nLa prima espressione \u00e8 $\\left(\\frac{4}{3}\\right)^{2}$. Per calcolare il suo valore, dobbiamo applicare la regola dei poteri, che afferma che $(a/b)^n = (a^n)/(b^n)$. Quindi, $\\left(\\frac{4}{3}\\right)^{2} = \\frac{4^2}{3^2} = \\frac{16}{9}$.\n\nLa seconda espressione \u00e8 $\\frac{4^{2}}{3}$. Questa espressione \u00e8 diversa dalla prima perch\u00e9 il potere viene applicato prima alla base 4 e poi il risultato viene diviso per 3. Quindi, $4^2 = 16$ e quindi $\\frac{4^{2}}{3} = \\frac{16}{3}$.\n\nOra che abbiamo calcolato il valore delle due espressioni, possiamo confrontarli. Abbiamo trovato che la prima espressione vale $\\frac{16}{9}$ e la seconda espressione vale $\\frac",
+        "ground_truth": "B",
+        "is_correct": false
+    },
+    {
+        "id": 360,
+        "prompt": "La seguente \u00e8 una domanda a scelta multipla.\nIl periodo \"Non ho rispettato il limite di velocit\u00e0 e ho preso una multa. \" \u00e8 costituito da due frasi connesse dalla congiunzione e, che le collega logicamente introducendo\n(A) un confronto rispetto a quanto viene detto prima\n(B) una limitazione rispetto a quanto viene detto prima\n(C) una conseguenza rispetto a quanto viene detto prima\n(D) una precisazione rispetto a quanto viene detto prima\nPensiamo passo dopo passo in italiano e forniamo la risposta finale alla fine nel formato: 'Risposta: [opzione]'\nDovresti fornire la risposta finale alla fine nel formato: 'Risposta: [opzione]'",
+        "response": "Analizziamo la frase:\n\n\"Non ho rispettato il limite di velocit\u00e0 e ho preso una multa.\"\n\nLa congiunzione \"e\" collega due frasi:\n\n1. \"Non ho rispettato il limite di velocit\u00e0\" (azione)\n2. \"ho preso una multa\" (conseguenza dell'azione)\n\nLa frase \"ho preso una multa\" \u00e8 una conseguenza della prima frase, poich\u00e9 la seconda frase spiega il risultato o l'esito della prima.\n\nQuindi, la congiunzione \"e\" introduce una conseguenza rispetto a quanto viene detto prima.\n\nRisposta: C",
+        "predicted_answer": "C",
+        "ground_truth": "C",
+        "is_correct": true
+    },
+    {
+        "id": 149,
+        "prompt": "La seguente \u00e8 una domanda a scelta multipla.\nUna fabbrica produce 1000 lampadine, di cui 30 difettose. Ne vende 100 e tra queste 12 risultano difettose.\nSe si sceglie a caso una lampadina tra quelle rimaste da vendere, qual \u00e8 la probabilit\u00e0 che sia difettosa?\nA. 18/900\nB. 108/900\nC. 30/1000\nD. 120/1000\nPensiamo passo dopo passo in italiano e forniamo la risposta finale alla fine nel formato: 'Risposta: [opzione]'\nDovresti fornire la risposta finale alla fine nel formato: 'Risposta: [opzione]'",
+        "response": "Per risolvere questo problema, possiamo seguire i seguenti passaggi:\n\n1. Calcoliamo il numero di lampadine difettose rimaste da vendere: 30 (difettose iniziali) - 12 (difettose vendute) = 18 lampadine difettose.\n\n2. Calcoliamo il numero totale di lampadine rimaste da vendere: 1000 (lampadine iniziali) - 100 (lampadine vendute) = 900 lampadine.\n\n3. Calcoliamo la probabilit\u00e0 che una lampadina scelta a caso sia difettosa: il numero di lampadine difettose (18) diviso per il numero totale di lampadine rimaste da vendere (900).\n\nQuindi, la probabilit\u00e0 che una lampadina scelta a caso sia difettosa \u00e8 di 18/900.\n\nRisposta: A",
+        "predicted_answer": "A",
+        "ground_truth": "A",
+        "is_correct": true
+    },
+    {
+        "id": 422,
+        "prompt": "La seguente \u00e8 una domanda a scelta multipla.\nQual \u00e8 il valore di x che soddisfa l'equazione $3(2x \u2013 1) + 2x = 21$ ?\nA. -3\nB. -11/4\nC. 11/4\nD. 3\nPensiamo passo dopo passo in italiano e forniamo la risposta finale alla fine nel formato: 'Risposta: [opzione]'\nDovresti fornire la risposta finale alla fine nel formato: 'Risposta: [opzione]'",
+        "response": "Per risolvere l'equazione, possiamo seguire i seguenti passaggi:\n\n1. Espandere il termine $3(2x \u2013 1)$:\n$3(2x \u2013 1) = 6x - 3$\n\n2. Sostituire l'espressione espansa nell'equazione originale:\n$6x - 3 + 2x = 21$\n\n3. Combinare i termini simili:\n$8x - 3 = 21$\n\n4. Aggiungere 3 a entrambi i lati dell'equazione per isolare i termini con la variabile:\n$8x = 24$\n\n5. Dividere entrambi i lati dell'equazione per 8 per risolvere per x:\n$x = 24/8$\n$x = 3$\n\nQuindi, il valore di x che soddisfa l'equazione \u00e8 3.\n\nRisposta: D",
+        "predicted_answer": "D",
+        "ground_truth": "D",
+        "is_correct": true
+    }
+]

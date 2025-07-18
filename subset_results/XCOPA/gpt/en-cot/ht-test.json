@@ -1,0 +1,42 @@
+[
+    {
+        "id": "107",
+        "prompt": "Here is a premise: Saldeben an te inonde.. What is the cause? Help me pick the more plausible option: -choice1: Twal\u00e8t la te deb\u00f2de., -choice2: [choice]\nLet's think step-by-step in English.\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "To determine the cause of the premise \"Saldeben an te inonde,\" which translates to \"The bathroom was flooded,\" we need to analyze the provided choices.\n\n- Choice 1: \"Twal\u00e8t la te deb\u00f2de,\" which translates to \"The toilet overflowed.\" This directly suggests a reason for the flooding in the bathroom, as an overflowing toilet can lead to water spilling out and causing a flood.\n\n- Choice 2: [choice] is not provided, so we cannot evaluate it.\n\nGiven that choice 1 provides a clear and plausible cause for the flooding in the bathroom, it is the most logical option.\n\nAnswer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "464",
+        "prompt": "Here is a premise: Fanmi a te vle f\u00e8 konesans nouvo vwazen yo.. What is the effect? Help me pick the more plausible option: -choice1: Fanmi a te envite vwazen yo pou dine., -choice2: [choice]\nLet's think step-by-step in English.\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "To analyze the premise \"Fanmi a te vle f\u00e8 konesans nouvo vwazen yo,\" which translates to \"The family wanted to get to know the new neighbors,\" we need to consider the implications of this desire.\n\n1. The family wants to establish a relationship or connection with their new neighbors.\n2. A common way to get to know someone is by inviting them over for a social gathering, such as dinner.\n\nNow, let's evaluate the options:\n\n- **Choice 1**: \"Fanmi a te envite vwazen yo pou dine.\" translates to \"The family invited the neighbors for dinner.\" This directly aligns with the premise, as inviting neighbors for dinner is a typical way to get to know them.\n\n- **Choice 2**: This option is unspecified, so we cannot evaluate it.\n\nGiven that Choice 1 is a plausible action that directly supports the premise of wanting to get to know the neighbors, it is the most logical choice.\n\nAnswer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "63",
+        "prompt": "Here is a premise: Men mwen te sezi.. What is the cause? Help me pick the more plausible option: -choice1: Mwen te ekri redaksyon an a la men., -choice2: [choice]\nLet's think step-by-step in English.\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "To determine the cause of the statement \"Men mwen te sezi\" (which translates to \"But I was surprised\"), we need to analyze the options provided.\n\n- **Choice 1: Mwen te ekri redaksyon an a la men.** (I wrote the essay by hand.)\n- **Choice 2: [choice]** (This option is unspecified, so we cannot evaluate it.)\n\nSince we only have one specific option to analyze, we can consider whether writing an essay by hand could lead to surprise. It is possible that the act of writing by hand could lead to unexpected results or feelings, but without more context, it's hard to definitively link it to the feeling of surprise.\n\nHowever, since choice 2 is unspecified, we cannot evaluate it. Therefore, we will go with the only available option.\n\nAnswer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "454",
+        "prompt": "Here is a premise: Madanm nan te trebiche sou trotwa a.. What is the cause? Help me pick the more plausible option: -choice1: Te gen yon fant nan siman an., -choice2: [choice]\nLet's think step-by-step in English.\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "To determine the cause of \"Madanm nan te trebiche sou trotwa a\" (The woman tripped on the sidewalk), we need to analyze the options provided.\n\n- **Choice 1: Te gen yon fant nan siman an.** (There was a crack in the concrete.)\n- **Choice 2: [choice]** (This option is unspecified.)\n\nSince choice 1 provides a specific reason (a crack in the concrete) that could cause someone to trip, it is a plausible explanation for the woman tripping on the sidewalk. Without knowing what choice 2 is, we cannot evaluate it.\n\nTherefore, the most logical answer based on the information given is:\n\nAnswer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "456",
+        "prompt": "Here is a premise: Mwen te pran antibyotik.. What is the effect? Help me pick the more plausible option: -choice1: Enfeksyon mwen te geri., -choice2: [choice]\nLet's think step-by-step in English.\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "To analyze the premise \"Mwen te pran antibyotik\" (I took antibiotics), we need to consider the typical effects of antibiotics. Antibiotics are used to treat bacterial infections, and taking them usually leads to the resolution of the infection if it is effective.\n\nNow, let's evaluate the options:\n\n- Choice 1: \"Enfeksyon mwen te geri.\" (My infection was cured.)\n- Choice 2: [choice] (This option is unspecified, so we cannot evaluate it.)\n\nSince choice 1 directly correlates with the premise that taking antibiotics can lead to the curing of an infection, it is a plausible outcome.\n\nTherefore, the more plausible option is:\n\nAnswer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    }
+]

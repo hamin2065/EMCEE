@@ -1,0 +1,52 @@
+[
+    {
+        "id": 395,
+        "sys_prompt": "The following is a multiple choice question. Given question, explanation and options, write only the correct option without any other details or explanations.",
+        "user_prompt": "Question: Vuoi costruire un portapenne di forma cilindrica, di volume 192\u03c0 cm^{3}. Se il diametro di base misura 8 cm, quanto sar\u00e0 alto il portapenne?\nOptions: A. \u00a03 cm\nB. \u00a06 cm\nC. \u00a09 cm\nD. \u00a012 cm\nExplanation: To solve this problem, you need to use the formula for the volume of a cylinder, which is V = \u03c0r^2h, where V is the volume, r is the radius of the base, and h is the height.\n\nGiven that the volume is 192\u03c0 cm^3 and the diameter of the base is 8 cm, the radius (r) is half of the diameter, which is 4 cm.\n\nNow, plug in the values into the formula: 192\u03c0 = \u03c0(4)^2h. Simplify the equation to find the height (h).\n\nFirst, calculate the square of the radius: (4)^2 = 16.\n\nNow, rewrite the equation: 192\u03c0 = \u03c0(16)h.\n\nDivide both sides by \u03c0 (which cancels out) and 16: h = 192 / 16 = 12.\n\nTherefore, the correct answer is D) 12 cm.",
+        "response": "D",
+        "explanation": "To solve this problem, you need to use the formula for the volume of a cylinder, which is V = \u03c0r^2h, where V is the volume, r is the radius of the base, and h is the height.\n\nGiven that the volume is 192\u03c0 cm^3 and the diameter of the base is 8 cm, the radius (r) is half of the diameter, which is 4 cm.\n\nNow, plug in the values into the formula: 192\u03c0 = \u03c0(4)^2h. Simplify the equation to find the height (h).\n\nFirst, calculate the square of the radius: (4)^2 = 16.\n\nNow, rewrite the equation: 192\u03c0 = \u03c0(16)h.\n\nDivide both sides by \u03c0 (which cancels out) and 16: h = 192 / 16 = 12.\n\nTherefore, the correct answer is D) 12 cm.",
+        "predicted_answer": "D",
+        "ground_truth": "D",
+        "is_correct": true
+    },
+    {
+        "id": 217,
+        "sys_prompt": "The following is a multiple choice question. Given question, explanation and options, write only the correct option without any other details or explanations.",
+        "user_prompt": "Question: Le potenze $\\left(\\frac{4}{3}\\right) ^{2}$ e $\\frac{4\\^ {2}}{3}$ hanno lo stesso valore?\nOptions: A. \u00a0No, la prima vale 16/3 e la seconda 16/9.\nB. \u00a0No, la prima vale 16/9 e la seconda 16/3.\nC. \u00a0S\u00ec, valgono entrambe 16/3.\nC. \u00a0S\u00ec, valgono entrambe 16/9.\nExplanation: To determine the correct answer, we need to calculate the values of both expressions. The first expression, $\\left(\\frac{4}{3}\\right)^2$, is a squared fraction, which means we multiply the fraction by itself. This gives us $\\frac{4}{3} \\times \\frac{4}{3} = \\frac{16}{9}$.\n\nThe second expression, $\\frac{4^2}{3}$, involves exponentiation and division. First, we calculate the exponentiation $4^2$, which equals $16$. Then, we divide $16$ by $3$, resulting in $\\frac{16}{3}$.\n\nSince $\\frac{16}{9}$ is not equal to $\\frac{16}{3}$, we can conclude that the two expressions do not have the same value.",
+        "response": "A.",
+        "explanation": "To determine the correct answer, we need to calculate the values of both expressions. The first expression, $\\left(\\frac{4}{3}\\right)^2$, is a squared fraction, which means we multiply the fraction by itself. This gives us $\\frac{4}{3} \\times \\frac{4}{3} = \\frac{16}{9}$.\n\nThe second expression, $\\frac{4^2}{3}$, involves exponentiation and division. First, we calculate the exponentiation $4^2$, which equals $16$. Then, we divide $16$ by $3$, resulting in $\\frac{16}{3}$.\n\nSince $\\frac{16}{9}$ is not equal to $\\frac{16}{3}$, we can conclude that the two expressions do not have the same value.",
+        "predicted_answer": "A.",
+        "ground_truth": "B",
+        "is_correct": false
+    },
+    {
+        "id": 360,
+        "sys_prompt": "The following is a multiple choice question. Given question, explanation and options, write only the correct option without any other details or explanations.",
+        "user_prompt": "Question: Il periodo \"Non ho rispettato il limite di velocit\u00e0 e ho preso una multa. \" \u00e8 costituito da due frasi connesse dalla congiunzione e, che le collega logicamente introducendo\nOptions: (A) un confronto rispetto a quanto viene detto prima\n(B) una limitazione rispetto a quanto viene detto prima\n(C) una conseguenza rispetto a quanto viene detto prima\n(D) una precisazione rispetto a quanto viene detto prima\nExplanation: La congiunzione \"e\" in questo contesto \u00e8 usata per collegare due frasi che rappresentano una causa ed un effetto. La prima frase \"Non ho rispettato il limite di velocit\u00e0\" \u00e8 la causa, mentre la seconda frase \"ho preso una multa\" \u00e8 l'effetto. In questo modo, la congiunzione \"e\" introduce una conseguenza logica rispetto a quanto viene detto prima, cio\u00e8 l'effetto di non aver rispettato il limite di velocit\u00e0.",
+        "response": "(C)",
+        "explanation": "La congiunzione \"e\" in questo contesto \u00e8 usata per collegare due frasi che rappresentano una causa ed un effetto. La prima frase \"Non ho rispettato il limite di velocit\u00e0\" \u00e8 la causa, mentre la seconda frase \"ho preso una multa\" \u00e8 l'effetto. In questo modo, la congiunzione \"e\" introduce una conseguenza logica rispetto a quanto viene detto prima, cio\u00e8 l'effetto di non aver rispettato il limite di velocit\u00e0.",
+        "predicted_answer": "(C)",
+        "ground_truth": "C",
+        "is_correct": true
+    },
+    {
+        "id": 149,
+        "sys_prompt": "The following is a multiple choice question. Given question, explanation and options, write only the correct option without any other details or explanations.",
+        "user_prompt": "Question: Una fabbrica produce 1000 lampadine, di cui 30 difettose. Ne vende 100 e tra queste 12 risultano difettose.\nSe si sceglie a caso una lampadina tra quelle rimaste da vendere, qual \u00e8 la probabilit\u00e0 che sia difettosa?\nOptions: A. 18/900\nB. 108/900\nC. 30/1000\nD. 120/1000\nExplanation: To solve this problem, we need to find out quanti sono i difetti rimasti dopo aver venduto 100 lampadine. Inizialmente, c'erano 30 difetti su 1000 lampadine. Dopo aver venduto 100 lampadine, 12 risultarono difettose. Quindi, i difetti rimasti sono 30 - 12 = 18. Ora, ci sono 900 lampadine rimaste da vendere. Quindi, la probabilit\u00e0 di scegliere una lampadina difettosa \u00e8 il numero di difetti rimasti (18) diviso per il numero totale di lampadine rimaste (900), ovvero 18/900.",
+        "response": "A. 18/900",
+        "explanation": "To solve this problem, we need to find out quanti sono i difetti rimasti dopo aver venduto 100 lampadine. Inizialmente, c'erano 30 difetti su 1000 lampadine. Dopo aver venduto 100 lampadine, 12 risultarono difettose. Quindi, i difetti rimasti sono 30 - 12 = 18. Ora, ci sono 900 lampadine rimaste da vendere. Quindi, la probabilit\u00e0 di scegliere una lampadina difettosa \u00e8 il numero di difetti rimasti (18) diviso per il numero totale di lampadine rimaste (900), ovvero 18/900.",
+        "predicted_answer": "A. 18/900",
+        "ground_truth": "A",
+        "is_correct": true
+    },
+    {
+        "id": 422,
+        "sys_prompt": "The following is a multiple choice question. Given question, explanation and options, write only the correct option without any other details or explanations.",
+        "user_prompt": "Question: Qual \u00e8 il valore di x che soddisfa l'equazione $3(2x \u2013 1) + 2x = 21$ ?\nOptions: A. -3\nB. -11/4\nC. 11/4\nD. 3\nExplanation: To solve this equation, we need to follow the order of operations (PEMDAS) and simplify the expression step by step. First, we need to distribute the 3 to the terms inside the parentheses: $3(2x) - 3(1) + 2x = 21$. This simplifies to $6x - 3 + 2x = 21$. Next, we combine like terms by adding $6x$ and $2x$ to get $8x - 3 = 21$. To isolate the variable $x$, we add 3 to both sides of the equation, resulting in $8x = 24$. Finally, we divide both sides by 8 to solve for $x$, giving us $x = 3$. \n\nTherefore, the correct answer is D. 3.",
+        "response": "D",
+        "explanation": "To solve this equation, we need to follow the order of operations (PEMDAS) and simplify the expression step by step. First, we need to distribute the 3 to the terms inside the parentheses: $3(2x) - 3(1) + 2x = 21$. This simplifies to $6x - 3 + 2x = 21$. Next, we combine like terms by adding $6x$ and $2x$ to get $8x - 3 = 21$. To isolate the variable $x$, we add 3 to both sides of the equation, resulting in $8x = 24$. Finally, we divide both sides by 8 to solve for $x$, giving us $x = 3$. \n\nTherefore, the correct answer is D. 3.",
+        "predicted_answer": "D",
+        "ground_truth": "D",
+        "is_correct": true
+    }
+]

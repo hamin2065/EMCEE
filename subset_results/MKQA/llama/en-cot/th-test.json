@@ -1,0 +1,84 @@
+[
+    {
+        "id": "-1825233558955302451",
+        "prompt": "Answer the question in one or a few words in English: \n\u0e15\u0e2d\u0e19\u0e2d\u0e30\u0e44\u0e23\u0e17\u0e35\u0e48\u0e19\u0e35\u0e25\u0e41\u0e25\u0e30\u0e0b\u0e32\u0e23\u0e32\u0e2b\u0e4c\u0e08\u0e39\u0e1a\u0e01\u0e31\u0e19\u0e04\u0e23\u0e31\u0e49\u0e07\u0e41\u0e23\u0e01\nLet's think step-by-step in English.\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "I can provide the answer in English. However, I need more information about Neil and Sarah. \n\nAre they from a movie, book, or real people? If you provide more context, I can try to help you.\n\n(If you're referring to Neil and Sarah from the movie \"Love Actually\", I can try to provide the answer.)\n\nPlease provide more context or clarify who Neil and Sarah are.",
+        "predicted_answer": "I can provide the answer in English. However, I need more information about Neil and Sarah. \n\nAre they from a movie, book, or real people? If you provide more context, I can try to help you.\n\n(If you're referring to Neil and Sarah from the movie \"Love Actually\", I can try to provide the answer.)\n\nPlease provide more context or clarify who Neil and Sarah are.",
+        "ground_truth": [
+            {
+                "type": "short_phrase",
+                "text": "\u0e40\u0e1e\u0e32\u0e40\u0e27\u0e2d\u0e23\u0e4c\u0e40\u0e1e\u0e25\u0e22\u0e4c"
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "2200477946455799863",
+        "prompt": "Answer the question in one or a few words in English: \n\u0e04\u0e38\u0e13\u0e2a\u0e32\u0e21\u0e32\u0e23\u0e16\u0e02\u0e31\u0e1a\u0e23\u0e16\u0e43\u0e19\u0e22\u0e38\u0e42\u0e23\u0e1b\u0e44\u0e14\u0e49\u0e15\u0e2d\u0e19\u0e2d\u0e32\u0e22\u0e38\u0e40\u0e17\u0e48\u0e32\u0e44\u0e2b\u0e23\u0e48\nLet's think step-by-step in English.\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "To answer this question, we need to consider the age requirements for driving in Europe. \n\nStep 1:  In most European countries, you need a valid driver's license to drive a vehicle. \n\nStep 2:  The minimum age to obtain a driver's license varies from country to country, but it's typically between 17 and 18 years old.\n\nStep 3:  However, some countries have different requirements for driving a car, motorbike, or other vehicles. \n\nStep 4:  Considering the most common scenario, the minimum age to drive a car in Europe is usually around 18 years old.\n\nAnswer: 18 years.",
+        "predicted_answer": "18 years.",
+        "ground_truth": [
+            {
+                "type": "number",
+                "text": "18.0",
+                "aliases": [
+                    "18"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "4022415118513457748",
+        "prompt": "Answer the question in one or a few words in English: \n\u0e04\u0e38\u0e13\u0e15\u0e49\u0e2d\u0e07\u0e40\u0e01\u0e34\u0e14\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e44\u0e2b\u0e23\u0e48\u0e16\u0e36\u0e07\u0e16\u0e39\u0e01\u0e1e\u0e34\u0e08\u0e32\u0e23\u0e13\u0e32\u0e27\u0e48\u0e32\u0e40\u0e1b\u0e47\u0e19 millennial\nLet's think step-by-step in English.\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "To determine when someone is considered a millennial, we need to consider the birth years associated with this generation. \n\n1. The term \"millennial\" was first used to describe people born in the 2000s, but it later shifted to describe people born between 1981 and 1996.\n2. The Pew Research Center defines millennials as people born between 1981 and 1996.\n3. The US Census Bureau defines millennials as people born between 1982 and 1996.\n\nConsidering these sources, the birth years that are commonly associated with millennials are between 1981 and 1996.\n\nAnswer: 1981-1996.",
+        "predicted_answer": "1981-1996.",
+        "ground_truth": [
+            {
+                "type": "date",
+                "text": "1981-1996",
+                "aliases": [
+                    "1",
+                    "6",
+                    "-",
+                    "9",
+                    "8"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "7777319570801182403",
+        "prompt": "Answer the question in one or a few words in English: \n\u0e43\u0e04\u0e23\u0e04\u0e37\u0e2d\u0e1b\u0e23\u0e30\u0e18\u0e32\u0e19\u0e28\u0e32\u0e25\u0e2a\u0e39\u0e07\u0e2a\u0e38\u0e14\u0e2a\u0e2b\u0e23\u0e31\u0e10\nLet's think step-by-step in English.\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "To find the current Chief Justice of the United States, let's consider the following steps:\n\n1. The Chief Justice of the United States is the head of the Supreme Court.\n2. The current Chief Justice may have been appointed by a recent President of the United States.\n3. To find the current Chief Justice, we need to know the current President of the United States and their appointments.\n\nHowever, since I'm a large language model, I do not have real-time information. But I can suggest ways to find the answer.\n\nYou can check the official website of the Supreme Court of the United States or search for recent news articles to find the current Chief Justice.\n\nBased on my knowledge cutoff in 2023, the Chief Justice of the United States was John G. Roberts Jr.\n\nAnswer: John Roberts",
+        "predicted_answer": "John Roberts",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q11153",
+                "text": "\u0e08\u0e2d\u0e2b\u0e4c\u0e19 \u0e23\u0e2d\u0e40\u0e1a\u0e34\u0e15\u0e2a\u0e4c",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "text": "\u0e08\u0e2d\u0e2b\u0e4c\u0e19 \u0e23\u0e2d\u0e40\u0e1a\u0e34\u0e15\u0e2a\u0e4c",
+                "entity": "Q11153"
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "96744865645392956",
+        "prompt": "Answer the question in one or a few words in English: \nFirst ride \u0e43\u0e19\u0e2a\u0e27\u0e19\u0e2a\u0e19\u0e38\u0e01 Knott's Berry Farm  \u0e04\u0e37\u0e2d\u0e2d\u0e30\u0e44\u0e23\nLet's think step-by-step in English.\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "To find the answer, let's break down the question.\n\n1. First ride: This refers to the first ride or attraction experienced in a place.\n2. \u0e43\u0e19\u0e2a\u0e27\u0e19\u0e2a\u0e19\u0e38\u0e01 (in an amusement park): This specifies the location where the first ride is experienced.\n3. Knott's Berry Farm: This is the name of the amusement park.\n\nGiven this information, the question is asking about the first ride at Knott's Berry Farm amusement park.\n\nSince I don't have information on the specific first ride at Knott's Berry Farm, let's consider a common approach to find the answer.\n\n1. Check the park's official website or social media for information on the first ride.\n2. Look for reviews or articles about visiting Knott's Berry Farm.\n\nHowever, I can provide a general answer based on common amusement park experiences.\n\nAnswer: Calico Mine Ride.",
+        "predicted_answer": "Calico Mine Ride.",
+        "ground_truth": [
+            {
+                "type": "short_phrase",
+                "text": "Butterfield Stagecoach"
+            }
+        ],
+        "is_correct": null
+    }
+]

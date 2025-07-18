@@ -1,0 +1,42 @@
+[
+    {
+        "id": "464",
+        "prompt": "Here is a premise: \u0e04\u0e23\u0e2d\u0e1a\u0e04\u0e23\u0e31\u0e27\u0e2d\u0e22\u0e32\u0e01\u0e17\u0e33\u0e04\u0e27\u0e32\u0e21\u0e23\u0e39\u0e49\u0e08\u0e31\u0e01\u0e01\u0e31\u0e1a\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e1a\u0e49\u0e32\u0e19. What is the effect? Help me pick the more plausible option: -choice1: \u0e04\u0e23\u0e2d\u0e1a\u0e04\u0e23\u0e31\u0e27\u0e40\u0e0a\u0e34\u0e0d\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e1a\u0e49\u0e32\u0e19\u0e21\u0e32\u0e01\u0e34\u0e19\u0e21\u0e37\u0e49\u0e2d\u0e40\u0e22\u0e47\u0e19, -choice2: [choice]\nLet's think step-by-step in English.\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "Let's break it down step by step.\n\n1. The premise is about a family wanting to get to know their neighbors.\n2. Inviting them over for dinner (choice 1) is a common way to build relationships and create a welcoming atmosphere.\n3. Considering alternative options, choice 2 could be:\n   - choice2: \u0e04\u0e23\u0e2d\u0e1a\u0e04\u0e23\u0e31\u0e27\u0e08\u0e30\u0e2a\u0e48\u0e07\u0e02\u0e2d\u0e07\u0e02\u0e27\u0e31\u0e0d\u0e2b\u0e23\u0e37\u0e2d\u0e02\u0e2d\u0e07\u0e2b\u0e27\u0e32\u0e19\u0e44\u0e1b\u0e43\u0e2b\u0e49\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e1b\u0e47\u0e19\u0e01\u0e32\u0e23\u0e40\u0e23\u0e34\u0e48\u0e21\u0e15\u0e49\u0e19\n\nHowever, in this context, inviting them over for dinner is more direct and likely to lead to a more meaningful interaction.\n\nAnswer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "172",
+        "prompt": "Here is a premise: \u0e09\u0e31\u0e19\u0e2d\u0e22\u0e32\u0e01\u0e14\u0e37\u0e48\u0e21\u0e19\u0e21\u0e41\u0e01\u0e49\u0e27\u0e2b\u0e19\u0e36\u0e48\u0e07. What is the effect? Help me pick the more plausible option: -choice1: \u0e09\u0e31\u0e19\u0e01\u0e34\u0e19\u0e04\u0e38\u0e01\u0e01\u0e35\u0e49\u0e2d\u0e22\u0e39\u0e48, -choice2: [choice]\nLet's think step-by-step in English.\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "To determine the effect of \"\u0e09\u0e31\u0e19\u0e2d\u0e22\u0e32\u0e01\u0e14\u0e37\u0e48\u0e21\u0e19\u0e21\u0e41\u0e01\u0e49\u0e27\u0e2b\u0e19\u0e36\u0e48\u0e07\" (I want to drink one glass of milk), let's analyze the situation.\n\n1. The statement \"\u0e09\u0e31\u0e19\u0e2d\u0e22\u0e32\u0e01\u0e14\u0e37\u0e48\u0e21\u0e19\u0e21\u0e41\u0e01\u0e49\u0e27\u0e2b\u0e19\u0e36\u0e48\u0e07\" implies a desire or intention to drink milk.\n2. This desire or intention is not directly related to eating cookies (kugkee in Thai).\n\nConsidering these points, the most plausible option is:\n\nAnswer: 2",
+        "predicted_answer": 2,
+        "ground_truth": 0,
+        "is_correct": false
+    },
+    {
+        "id": "433",
+        "prompt": "Here is a premise: \u0e40\u0e14\u0e47\u0e01\u0e46 \u0e16\u0e39\u0e01\u0e2a\u0e48\u0e07\u0e44\u0e1b\u0e2a\u0e16\u0e32\u0e19\u0e40\u0e25\u0e35\u0e49\u0e22\u0e07\u0e40\u0e14\u0e47\u0e01\u0e01\u0e33\u0e1e\u0e23\u0e49\u0e32. What is the effect? Help me pick the more plausible option: -choice1: \u0e1e\u0e48\u0e2d\u0e41\u0e21\u0e48\u0e02\u0e2d\u0e07\u0e40\u0e14\u0e47\u0e01\u0e40\u0e2a\u0e35\u0e22\u0e0a\u0e35\u0e27\u0e34\u0e15, -choice2: [choice]\nLet's think step-by-step in English.\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "To determine the more plausible option, let's break down the situation step by step.\n\n1. \u0e40\u0e14\u0e47\u0e01\u0e46 \u0e16\u0e39\u0e01\u0e2a\u0e48\u0e07\u0e44\u0e1b\u0e2a\u0e16\u0e32\u0e19\u0e40\u0e25\u0e35\u0e49\u0e22\u0e07\u0e40\u0e14\u0e47\u0e01\u0e01\u0e33\u0e1e\u0e23\u0e49\u0e32 (Children are sent to an orphanage) implies that the children are no longer living with their biological parents.\n\n2. The reason for this could be due to various circumstances, such as the parents' death, abandonment, or inability to care for the children.\n\nConsidering the given options:\n- choice1: \u0e1e\u0e48\u0e2d\u0e41\u0e21\u0e48\u0e02\u0e2d\u0e07\u0e40\u0e14\u0e47\u0e01\u0e40\u0e2a\u0e35\u0e22\u0e0a\u0e35\u0e27\u0e34\u0e15 (The parents of the children have died)\n\n- choice2: (missing option)\n\nSince we only have one complete option, let's assume a more plausible reason for the children being sent to an orphanage.\n\nGiven the context, the more plausible option would be that the parents are no longer alive, which is a common reason for children to be sent to an orphanage.\n\nAnswer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "379",
+        "prompt": "Here is a premise: \u0e09\u0e31\u0e19\u0e2b\u0e25\u0e07\u0e40\u0e27\u0e25\u0e32. What is the effect? Help me pick the more plausible option: -choice1: \u0e09\u0e31\u0e19\u0e43\u0e08\u0e25\u0e2d\u0e22, -choice2: [choice]\nLet's think step-by-step in English.\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "Let's break it down step by step.\n\n\"\u0e09\u0e31\u0e19\u0e2b\u0e25\u0e07\u0e40\u0e27\u0e25\u0e32\" is a Thai phrase that translates to \"I lost time\" or \"I lost track of time.\" \n\nThis phrase implies that the person has become so engrossed in an activity or thought that they have forgotten how much time has passed.\n\nConsidering the meaning of the phrase, the more plausible effect would be:\n\n- choice1: \u0e09\u0e31\u0e19\u0e43\u0e08\u0e25\u0e2d\u0e22 (I'm daydreaming or my mind is wandering)\n\nThis option aligns with the idea of losing track of time due to being engrossed in one's thoughts or an activity.\n\nAnswer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "142",
+        "prompt": "Here is a premise: \u0e41\u0e1c\u0e25\u0e02\u0e48\u0e27\u0e19\u0e1a\u0e19\u0e1c\u0e34\u0e27\u0e09\u0e31\u0e19\u0e25\u0e36\u0e01. What is the effect? Help me pick the more plausible option: -choice1: \u0e41\u0e1c\u0e25\u0e2a\u0e21\u0e32\u0e19\u0e40\u0e23\u0e47\u0e27, -choice2: [choice]\nLet's think step-by-step in English.\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "To help choose the more plausible option, let's analyze the situation step by step.\n\n1. \u0e41\u0e1c\u0e25\u0e02\u0e48\u0e27\u0e19\u0e1a\u0e19\u0e1c\u0e34\u0e27\u0e09\u0e31\u0e19\u0e25\u0e36\u0e01 (The wound is deep) - This implies that the wound is not superficial and may be more prone to infection.\n\n2. \u0e41\u0e1c\u0e25\u0e2a\u0e21\u0e32\u0e19\u0e40\u0e23\u0e47\u0e27 (The wound heals quickly) - This is less likely to happen with a deep wound, as deep wounds often take longer to heal.\n\nConsidering the depth of the wound, a more plausible option would be:\n\nAnswer: 2",
+        "predicted_answer": 2,
+        "ground_truth": 1,
+        "is_correct": true
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "id": "71",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: Kad\u0131n uyuyakald\u0131.\nWhat is the effect?\nChoice1: Geceyi bir otelde ge\u00e7irdi.\nChoice2: \u00c7alar saatini kurmay\u0131 unuttu.\nExplanation: Let's analyze the situation. The premise says \"Kad\u0131n uyuyakald\u0131\", which means \"The woman fell asleep\". This implies that the woman was awake before, but now she's asleep. \n\nConsidering this, we need to think about what could cause someone to fall asleep. In this case, it's likely that the woman was trying to wake up to something, but she fell asleep instead. Choice 2, \"\u00c7alar saatini kurmay\u0131 unuttu\", suggests that the woman forgot to set her alarm clock, which means she might not wake up on time. This is a plausible reason for her to fall asleep. \n\nChoice 1, \"Geceyi bir otelde ge\u00e7irdi\", means \"She spent the night at a hotel\". While it's possible that she spent the night at a hotel and fell asleep, it's not directly related to her falling asleep. This choice doesn't provide a clear reason for her to fall asleep. \n\nTherefore, the most logical choice is 2: \u00c7alar saatini kurmay\u0131 unuttu.",
+        "response": "Answer: 2",
+        "explanation": "Let's analyze the situation. The premise says \"Kad\u0131n uyuyakald\u0131\", which means \"The woman fell asleep\". This implies that the woman was awake before, but now she's asleep. \n\nConsidering this, we need to think about what could cause someone to fall asleep. In this case, it's likely that the woman was trying to wake up to something, but she fell asleep instead. Choice 2, \"\u00c7alar saatini kurmay\u0131 unuttu\", suggests that the woman forgot to set her alarm clock, which means she might not wake up on time. This is a plausible reason for her to fall asleep. \n\nChoice 1, \"Geceyi bir otelde ge\u00e7irdi\", means \"She spent the night at a hotel\". While it's possible that she spent the night at a hotel and fell asleep, it's not directly related to her falling asleep. This choice doesn't provide a clear reason for her to fall asleep. \n\nTherefore, the most logical choice is 2: \u00c7alar saatini kurmay\u0131 unuttu.",
+        "predicted_answer": 2,
+        "ground_truth": 1,
+        "is_correct": true
+    },
+    {
+        "id": "12",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: Yazd\u0131\u011f\u0131m \u00e7ek kar\u015f\u0131l\u0131ks\u0131z \u00e7\u0131kt\u0131.\nWhat is the effect?\nChoice1: Banka hesab\u0131mda para yoktu.\nChoice2: Maa\u015f zamm\u0131 kazand\u0131m.\nExplanation: Let's analyze the situation. The premise states that the check you wrote was bounced, which means it was not honored by the bank. This usually happens when there's not enough money in the account to cover the check's value. \n\nNow, let's consider the two choices. Choice 1 suggests that there was no money in your bank account, which is a plausible reason for the check to be bounced. Choice 2, on the other hand, mentions that you gained a salary increase. While this might be a positive development, it doesn't directly explain why the check was bounced. \n\nGiven this information, the most logical choice is Choice 1, as it directly addresses the reason for the bounced check.",
+        "response": "Answer: 1",
+        "explanation": "Let's analyze the situation. The premise states that the check you wrote was bounced, which means it was not honored by the bank. This usually happens when there's not enough money in the account to cover the check's value. \n\nNow, let's consider the two choices. Choice 1 suggests that there was no money in your bank account, which is a plausible reason for the check to be bounced. Choice 2, on the other hand, mentions that you gained a salary increase. While this might be a positive development, it doesn't directly explain why the check was bounced. \n\nGiven this information, the most logical choice is Choice 1, as it directly addresses the reason for the bounced check.",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "346",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: Tahta zemin \u00e7izilmeye ba\u015flad\u0131.\nWhat is the cause?\nChoice1: Gen\u00e7, koltuktaki yast\u0131klar\u0131 kald\u0131rd\u0131.\nChoice2: Gen\u00e7, bir sandalyeyi zeminde s\u00fcr\u00fckledi.\nExplanation: Let's analyze the situation. If \"Tahta zemin \u00e7izilmeye ba\u015flad\u0131\" (the wooden floor is starting to be scratched), it implies that something is moving or rubbing against the floor, causing the scratches. In this case, we need to consider what could be causing the scratches.\n\nChoice1, \"Gen\u00e7, koltuktaki yast\u0131klar\u0131 kald\u0131rd\u0131\" (the young person removed the cushions from the chair), doesn't necessarily imply that the floor is being scratched. Removing cushions wouldn't typically cause damage to the floor.\n\nChoice2, \"Gen\u00e7, bir sandalyeyi zeminde s\u00fcr\u00fckledi\" (the young person dragged a chair across the floor), is more likely to cause scratches on the floor. When a chair is dragged across the floor, the legs or other parts of the chair can rub against the floor, causing damage.\n\nTherefore, the correct choice is Choice2: Gen\u00e7, bir sandalyeyi zeminde s\u00fcr\u00fckledi.",
+        "response": "Answer: 2",
+        "explanation": "Let's analyze the situation. If \"Tahta zemin \u00e7izilmeye ba\u015flad\u0131\" (the wooden floor is starting to be scratched), it implies that something is moving or rubbing against the floor, causing the scratches. In this case, we need to consider what could be causing the scratches.\n\nChoice1, \"Gen\u00e7, koltuktaki yast\u0131klar\u0131 kald\u0131rd\u0131\" (the young person removed the cushions from the chair), doesn't necessarily imply that the floor is being scratched. Removing cushions wouldn't typically cause damage to the floor.\n\nChoice2, \"Gen\u00e7, bir sandalyeyi zeminde s\u00fcr\u00fckledi\" (the young person dragged a chair across the floor), is more likely to cause scratches on the floor. When a chair is dragged across the floor, the legs or other parts of the chair can rub against the floor, causing damage.\n\nTherefore, the correct choice is Choice2: Gen\u00e7, bir sandalyeyi zeminde s\u00fcr\u00fckledi.",
+        "predicted_answer": 2,
+        "ground_truth": 1,
+        "is_correct": true
+    },
+    {
+        "id": "172",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: Can\u0131m bir bardak s\u00fct \u00e7ekti.\nWhat is the cause?\nChoice1: Kurabiye yiyordum.\nChoice2: Ekmek yap\u0131yordum.\nExplanation: In this scenario, the person is experiencing a sudden craving for a glass of milk. To determine the cause, let's analyze the choices. Eating a cookie (kurabiye) might be a common cause of milk cravings, especially if the cookie is sweet and the person wants to wash it down with milk. On the other hand, making bread (ekmek) is not typically associated with a sudden craving for milk. Therefore, the most logical choice is Choice1: Kurabiye yiyordum.",
+        "response": "Answer: 1",
+        "explanation": "In this scenario, the person is experiencing a sudden craving for a glass of milk. To determine the cause, let's analyze the choices. Eating a cookie (kurabiye) might be a common cause of milk cravings, especially if the cookie is sweet and the person wants to wash it down with milk. On the other hand, making bread (ekmek) is not typically associated with a sudden craving for milk. Therefore, the most logical choice is Choice1: Kurabiye yiyordum.",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "229",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: Oyuncu rakibi ile m\u00fccadele etti.\nWhat is the effect?\nChoice1: Rakibi pas\u0131 yakalad\u0131.\nChoice2: Rakibi yere d\u00fc\u015ft\u00fc.\nExplanation: Let's analyze the situation. If the oyuncu (player) fought with their rakibi (opponent), it's likely that they were in a physical competition, such as a sport. In this context, fighting or struggling with an opponent often results in them losing their balance or falling. Therefore, the most plausible effect would be that the opponent (rakibi) yere d\u00fc\u015ft\u00fc (fell to the ground).",
+        "response": "Answer: 2",
+        "explanation": "Let's analyze the situation. If the oyuncu (player) fought with their rakibi (opponent), it's likely that they were in a physical competition, such as a sport. In this context, fighting or struggling with an opponent often results in them losing their balance or falling. Therefore, the most plausible effect would be that the opponent (rakibi) yere d\u00fc\u015ft\u00fc (fell to the ground).",
+        "predicted_answer": 2,
+        "ground_truth": 1,
+        "is_correct": true
+    }
+]

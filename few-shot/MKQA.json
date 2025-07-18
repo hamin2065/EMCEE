@@ -1,0 +1,562 @@
+{
+    "de": {
+        "4245459233518232419": {
+            "query": "wer ist auf dem mount rushmore monument",
+            "answer": [
+                {
+                    "type": "entity",
+                    "entity": "Q23",
+                    "text": "George Washington",
+                    "aliases": [
+                        "President Washington",
+                        "G. Washington",
+                        "Washington",
+                        "Father of the United States"
+                    ]
+                },
+                {
+                    "type": "entity",
+                    "entity": "Q91",
+                    "text": "Abraham Lincoln",
+                    "aliases": [
+                        "Lincoln",
+                        "Honest Abe",
+                        "A. Lincoln",
+                        "President Lincoln",
+                        "Abe Lincoln"
+                    ]
+                },
+                {
+                    "type": "entity",
+                    "entity": "Q33866",
+                    "text": "Theodore Roosevelt",
+                    "aliases": [
+                        "Teddy Roosevelt",
+                        "President Roosevelt",
+                        "Teddy",
+                        "Theodore \"Teddy\" Roosevelt",
+                        "T. Roosevelt",
+                        "Theodore Roosevelt, Jr."
+                    ]
+                },
+                {
+                    "type": "entity",
+                    "entity": "Q11812",
+                    "text": "Thomas Jefferson",
+                    "aliases": [
+                        "T. Jefferson",
+                        "President Jefferson"
+                    ]
+                }
+            ],
+            "explanation": "Mount Rushmore is a famous monument located in South Dakota, USA, featuring the carved faces of four significant American presidents: George Washington, Thomas Jefferson, Theodore Roosevelt, and Abraham Lincoln. George Washington, as the first President of the United States and a key figure in the American Revolution, represents the founding of the nation. The monument was created to symbolize the birth, growth, and preservation of the United States, highlighting Washington's pivotal role in its history. Thus, when referring to who is on the monument, Washington is indeed one of the most prominent figures represented."
+        },
+        "-4648190977869014937": {
+            "query": "Wer spielte Mike Brady in Drei M\u00e4dchen und drei Jungen",
+            "answer": [
+                {
+                    "type": "entity",
+                    "entity": "Q726298",
+                    "text": "Robert Reed",
+                    "aliases": [
+                        "John Robert Rietz Jr",
+                        "John Robert Rietz",
+                        "John Robert Rietz, Jr."
+                    ]
+                }
+            ],
+            "explanation": "In the television show \"Drei M\u00e4dchen und drei Jungen,\" which is the German title for \"The Brady Bunch,\" Robert Reed played the character Mike Brady, the father of the blended Brady family. Understanding the show's premise is crucial; it revolves around a widowed man and a divorced woman who marry and bring their children together, highlighting themes of family dynamics and relationships. Reed's portrayal of Mike Brady was significant in shaping the character as a loving and supportive father figure, which contributed to the show's enduring popularity. Recognizing the cultural impact of \"The Brady Bunch\" can also help students appreciate its place in television history."
+        },
+        "-6700154812997580833": {
+            "query": "Wer war der \u00e4lteste Spieler, der jemals in der NFL gespielt hat",
+            "answer": [
+                {
+                    "type": "entity",
+                    "entity": "Q980691",
+                    "text": "George Blanda",
+                    "aliases": []
+                }
+            ],
+            "explanation": "George Blanda holds the record for being the oldest player to ever compete in the NFL, playing until he was 48 years old. His career spanned 26 seasons, from 1949 to 1975, showcasing his remarkable longevity in a physically demanding sport. Blanda was not just a quarterback but also a kicker, which contributed to his extended career. His ability to perform at a high level well into his late forties is a testament to his skill, fitness, and dedication to the game, making him an iconic figure in American football history."
+        }
+    },
+    "en": {
+        "-6252479211836433999": {
+            "query": "where is growth hormone releasing hormone secreted from",
+            "answer": [
+                {
+                    "type": "entity",
+                    "entity": "Q164386",
+                    "text": "hypothalamus",
+                    "aliases": []
+                }
+            ],
+            "explanation": "Growth hormone releasing hormone (GHRH) is secreted from the hypothalamus, a critical region of the brain that plays a vital role in regulating various endocrine functions. The hypothalamus produces GHRH to stimulate the pituitary gland to release growth hormone, which is essential for growth, metabolism, and overall body composition. Understanding the relationship between the hypothalamus and the pituitary gland is key in grasping the endocrine system's workings and how hormones influence bodily functions."
+        },
+        "945245682369053103": {
+            "query": "who sings high on the mountain of love",
+            "answer": [
+                {
+                    "type": "entity",
+                    "entity": "Q1702399",
+                    "text": "Johnny Rivers",
+                    "aliases": []
+                }
+            ],
+            "explanation": "\"High on the Mountain of Love\" is a classic song performed by Johnny Rivers, an American singer-songwriter known for his rock and pop music in the 1960s. The song captures themes of longing and love, set against the metaphor of a mountain, which symbolizes both challenge and aspiration. Rivers' rendition showcases his distinctive voice and style, contributing to the song's enduring popularity. Understanding the cultural significance of love songs from this era can enhance appreciation for Rivers' work and the emotions conveyed in his music."
+        },
+        "-6700154812997580833": {
+            "query": "who was the oldest player to play in the nfl",
+            "answer": [
+                {
+                    "type": "entity",
+                    "entity": "Q980691",
+                    "text": "George Blanda",
+                    "aliases": []
+                }
+            ],
+            "explanation": "George Blanda holds the record as the oldest player to compete in the NFL, retiring at the age of 48. His remarkable career spanned over three decades, during which he played as both a quarterback and a placekicker. Blanda's longevity in the league is a testament to his skill, adaptability, and fitness, which is particularly impressive given the physical demands of professional football. His achievements have made him a legendary figure in sports history, showcasing that age can be just a number when it comes to talent and determination."
+        }
+    },
+    "es": {
+        "5119832201968395759": {
+            "query": "A qui\u00e9n interpret\u00f3 edward g robinson en los diez mandamientos",
+            "answer": [
+                {
+                    "type": "short_phrase",
+                    "text": "dathan"
+                }
+            ],
+            "explanation": "In the classic film \"The Ten Commandments,\" Edward G. Robinson portrayed the character Dathan. Dathan is depicted as a Hebrew who is somewhat of a turncoat, showing disloyalty to Moses and the Hebrew people. Understanding the character's role is essential to grasp the broader themes of loyalty and faith in the film, which is set in the context of the Exodus story from the Bible. This film, directed by Cecil B. DeMille, is known for its dramatic portrayal of biblical events and characters, making it an important cultural reference point in American cinema."
+        },
+        "5802522646802594877": {
+            "query": "quien canta la cancion I can't live if living is without you",
+            "answer": [
+                {
+                    "type": "entity",
+                    "entity": "Q281034",
+                    "text": "Harry Nilsson",
+                    "aliases": [
+                        "Harry Edward Nilsson III",
+                        "Nilsson"
+                    ]
+                }
+            ],
+            "explanation": "The song \"I Can't Live (If Living Is Without You)\" was famously performed by Harry Nilsson, an American singer-songwriter known for his emotive voice and unique style. The song, originally released in 1971, explores themes of love and longing, making it a classic ballad. It's important to note that this song has been covered by several artists over the years, but Nilsson's version is the most well-known. Understanding the emotional depth of the lyrics can enhance your appreciation of the song and its impact on listeners."
+        },
+        "-6919762201874810116": {
+            "query": "\u00bfqui\u00e9n cantaba la canci\u00f3n \"first time ever i saw your face\"?",
+            "answer": [
+                {
+                    "type": "entity",
+                    "entity": "Q231484",
+                    "text": "Roberta Flack",
+                    "aliases": []
+                }
+            ],
+            "explanation": "The song \"The First Time Ever I Saw Your Face\" was famously sung by Roberta Flack, who is known for her soulful voice and emotional delivery. Originally written by Ewan MacColl, it gained widespread popularity after Flack's rendition was released in 1972. The song's heartfelt lyrics and Flack's powerful interpretation have made it a classic, often associated with themes of love and deep connection. Understanding Flack's impact on music helps to appreciate why her version of this song remains so memorable."
+        }
+    },
+    "fr": {
+        "2429844308386530131": {
+            "query": "Qui est mort des Bee Gees",
+            "answer": [
+                {
+                    "type": "entity",
+                    "entity": "Q188482",
+                    "text": "Robin Gibb",
+                    "aliases": [
+                        "Robin Hugh Gibb",
+                        "00011812038 IPI"
+                    ]
+                },
+                {
+                    "type": "entity",
+                    "entity": "Q296876",
+                    "text": "Maurice Gibb",
+                    "aliases": [
+                        "Maurice Ernest Gibb",
+                        "00011811825 IPI"
+                    ]
+                }
+            ],
+            "explanation": "Robin Gibb was one of the three brothers who formed the famous pop group the Bee Gees, known for their distinctive harmonies and contributions to disco music in the 1970s. While all three brothers\u2014Barry, Maurice, and Robin\u2014were integral to the band's success, it is important to note that Maurice Gibb also passed away in 2003. However, Robin Gibb is often highlighted in discussions about the band's legacy, as he was known for his unique vocal style and songwriting. Understanding the impact of the Bee Gees on music and the close-knit nature of the Gibb brothers can help clarify why Robin's death is particularly significant in the context of the group's history."
+        },
+        "-513135961892075659": {
+            "query": "qui chante this heart needs a second chance",
+            "answer": [
+                {
+                    "type": "entity",
+                    "entity": "Q228648",
+                    "text": "38 Special",
+                    "aliases": [
+                        ".38 Special"
+                    ]
+                }
+            ],
+            "explanation": "The song \"This Heart Needs a Second Chance\" is performed by the band .38 Special, which is known for their Southern rock style and hits from the late 1970s and 1980s. It's important to recognize the band's unique blend of rock and country influences, which contributed to their popularity. When answering questions about music, especially regarding specific songs, it's helpful to remember both the artist and their broader musical context or era, as this can deepen your understanding of their work and influence."
+        },
+        "-6700154812997580833": {
+            "query": "qui a \u00e9t\u00e9 le plus vieux joueur \u00e0 jouer en NFL",
+            "answer": [
+                {
+                    "type": "entity",
+                    "entity": "Q980691",
+                    "text": "George Blanda",
+                    "aliases": []
+                }
+            ],
+            "explanation": "George Blanda holds the record as the oldest player to compete in the National Football League (NFL), making his last appearance at the age of 48. He had a long and versatile career, playing both as a quarterback and a kicker. Blanda's longevity in the sport is noteworthy, especially since the NFL is known for its physically demanding nature, making it rare for players to have such extended careers. His achievement reflects not only his skill but also his dedication to fitness and the game, making him a significant figure in NFL history."
+        }
+    },
+    "ja": {
+        "8510411126702766011": {
+            "query": "\u30a2\u30a4\u30fb\u30a2\u30e0\u30fb\u30ca\u30f3\u30d0\u30fc4\u306e\u7d9a\u7de8\u6620\u753b\u306f\u3042\u308a\u307e\u3059\u304b\uff1f",
+            "answer": [
+                {
+                    "type": "binary",
+                    "text": "no"
+                }
+            ],
+            "explanation": "The answer to the question about whether there is a sequel to the movie \"I Am Number Four\" is \"no.\" Although the film was adapted from a popular book series by Pittacus Lore, it did not receive a sequel due to various factors, including its mixed critical reception and box office performance. In Japanese pop culture, adaptations of novels often lead to sequels if they are successful, but in this case, the lack of a sequel reflects the challenges that can come with film adaptations. Understanding the context of a film's success can provide insight into why certain stories continue while others do not."
+        },
+        "-7019396479901527809": {
+            "query": "thats the night the lights went out in georgia\u3092\u6b4c\u3063\u305f\u306e\u306f\u8ab0\u3067\u3059\u304b",
+            "answer": [
+                {
+                    "type": "entity",
+                    "entity": "Q292103",
+                    "text": "Vicki Lawrence",
+                    "aliases": []
+                },
+                {
+                    "type": "entity",
+                    "entity": "Q229430",
+                    "text": "Reba McEntire",
+                    "aliases": [
+                        "Reba",
+                        "Reba Nell McEntire"
+                    ]
+                }
+            ],
+            "explanation": "The song \"The Night the Lights Went Out in Georgia\" was performed by Vicki Lawrence. This song, released in 1972, is a Southern Gothic tale that tells a story of betrayal, injustice, and revenge. Vicki Lawrence, who is also known for her work on \"The Carol Burnett Show,\" gained significant recognition for this song, which became a classic in country music. Understanding the narrative style and themes of Southern culture can help appreciate why this song resonates with many listeners."
+        },
+        "-6135694148896109505": {
+            "query": "NFL\u3067\u6700\u5927\u306e\u30b8\u30e3\u30f3\u30dc\u30c8\u30ed\u30f3\u3092\u6709\u3057\u3066\u3044\u308b\u306e\u306f\u8ab0\u3067\u3057\u3087\u3046\u304b\uff1f",
+            "answer": [
+                {
+                    "type": "entity",
+                    "entity": "Q223514",
+                    "text": "Houston Texans",
+                    "aliases": [
+                        "Texans"
+                    ]
+                }
+            ],
+            "explanation": "The Houston Texans hold the title for having the largest Jumbotron in the NFL, known as the \"HD Video Board.\" This large video display enhances the game experience for fans by providing high-definition replays, statistics, and entertainment during the game. Understanding the significance of such technology in sports venues illustrates how teams invest in enhancing fan engagement and the overall atmosphere during games. The Texans' Reliant Stadium, now known as NRG Stadium, is notable not just for its Jumbotron but also for its modern amenities, reflecting the trend in the NFL towards creating more immersive experiences for fans."
+        }
+    },
+    "ru": {
+        "-7460858061693543840": {
+            "query": "\u043a\u043e\u0433\u0434\u0430 \u044d\u0442\u043e \u043c\u043e\u0441\u0442 \u0441\u0435\u0440\u0438\u0438 4 \u043d\u0430 \u0411\u0438-\u0431\u0438-\u0441\u0438 2",
+            "answer": [
+                {
+                    "type": "date",
+                    "text": "2018-05-11",
+                    "aliases": [
+                        "05 11 2018",
+                        "11 05 2018",
+                        "11/05/2018",
+                        "05/11/2018",
+                        "11-05-2018",
+                        "2018 May 11",
+                        "11 May 2018",
+                        "2018-05-11",
+                        "2018 05 11",
+                        "05-11-2018",
+                        "2018 May, 11"
+                    ]
+                }
+            ],
+            "explanation": "The question refers to a specific episode of a show known as \"Bridge\" or \"\u041c\u043e\u0441\u0442\" from the BBC series, which is likely about a bridge connecting two places. The answer given is a precise date, May 11, 2018. In the context of television series, it is common for episodes to be released on specific dates. Knowing the release schedule of a series can help pinpoint when certain episodes aired, which is useful for fans and viewers tracking their favorite shows. Understanding the significance of the date might also highlight important events or themes presented in that particular episode."
+        },
+        "5802522646802594877": {
+            "query": "\u041a\u0442\u043e \u043f\u043e\u0435\u0442 \u043f\u0435\u0441\u043d\u044e \"I can't live if living is without you\"?",
+            "answer": [
+                {
+                    "type": "entity",
+                    "entity": "Q281034",
+                    "text": "Harry Nilsson",
+                    "aliases": [
+                        "Harry Edward Nilsson III",
+                        "Nilsson"
+                    ]
+                }
+            ],
+            "explanation": "The song \"I Can't Live (If Living Is Without You)\" was famously performed by Harry Nilsson. Originally released in 1971, it became one of his signature songs and is known for its emotional depth and powerful melody. Understanding the song's themes of love and longing can also help students appreciate Nilsson's impact on music during that era. Additionally, Nilsson's unique vocal style and songwriting have influenced many artists, making him an important figure in the pop and rock genres."
+        },
+        "2636854670992768357": {
+            "query": "\u043a\u0442\u043e \u0441\u0435\u043d\u0430\u0442\u043e\u0440\u044b \u0448\u0442\u0430\u0442\u0430 \u043a\u0430\u043b\u0438\u0444\u043e\u0440\u043d\u0438\u044f",
+            "answer": [
+                {
+                    "type": "entity",
+                    "entity": "Q230733",
+                    "text": "Dianne Feinstein",
+                    "aliases": [
+                        "Dianne Goldman Berman Feinstein",
+                        "Dianne Emiel Goldman"
+                    ]
+                },
+                {
+                    "type": "entity",
+                    "entity": "Q10853588",
+                    "text": "Kamala Harris",
+                    "aliases": [
+                        "Senator Kamala Devi Harris",
+                        "Kamala Devi Harris",
+                        "Senator Harris",
+                        "Sen. Kamala Devi Harris",
+                        "Sen. Kamala Harris",
+                        "Sen. Harris",
+                        "Senator Kamala Harris"
+                    ]
+                }
+            ],
+            "explanation": "In the context of the United States government, each state has two senators who represent them in the Senate. As of the time indicated, Dianne Feinstein has been a prominent senator from California, known for her long tenure and influence on various legislative issues. Understanding the role of senators, especially from a significant state like California, helps to appreciate how they impact national policies and local issues. In addition to Feinstein, students should also be aware of other senators from California to grasp the full political landscape of the state."
+        }
+    },
+    "th": {
+        "-6252479211836433999": {
+            "query": "\u0e42\u0e01\u0e23\u0e17\u0e2e\u0e2d\u0e23\u0e4c\u0e42\u0e21\u0e19 \u0e23\u0e35\u0e25\u0e34\u0e2a\u0e0b\u0e34\u0e07\u0e2e\u0e2d\u0e23\u0e4c\u0e42\u0e21\u0e19 \u0e2b\u0e25\u0e31\u0e48\u0e07\u0e2d\u0e2d\u0e01\u0e21\u0e32\u0e08\u0e32\u0e01\u0e17\u0e35\u0e48\u0e44\u0e2b\u0e19",
+            "answer": [
+                {
+                    "type": "entity",
+                    "entity": "Q164386",
+                    "text": "hypothalamus",
+                    "aliases": []
+                }
+            ],
+            "explanation": "The correct answer is that growth hormone-releasing hormone (GHRH) is produced in the hypothalamus. The hypothalamus is a crucial part of the brain that regulates various bodily functions, including the release of hormones from the pituitary gland. Understanding the role of the hypothalamus is key because it acts as a control center, influencing growth, metabolism, and various physiological processes. This knowledge highlights the interconnectedness of the endocrine system and the importance of the hypothalamus in hormonal regulation."
+        },
+        "5802522646802594877": {
+            "query": "\u0e43\u0e04\u0e23\u0e23\u0e49\u0e2d\u0e07\u0e40\u0e1e\u0e25\u0e07 i can't live if living is without you",
+            "answer": [
+                {
+                    "type": "entity",
+                    "entity": "Q281034",
+                    "text": "Harry Nilsson",
+                    "aliases": [
+                        "Harry Edward Nilsson III",
+                        "Nilsson"
+                    ]
+                }
+            ],
+            "explanation": "The song \"I Can't Live If Living Is Without You\" was famously performed by Harry Nilsson. This track, released in 1971, is often regarded as a classic ballad that expresses deep emotional longing. Nilsson's soulful delivery and the poignant lyrics resonate with many listeners, which contributes to the song's enduring popularity. It's important to recognize that while other artists have covered this song, Nilsson's version is the most well-known and is often the one people refer to."
+        },
+        "-6919762201874810116": {
+            "query": "\u0e43\u0e04\u0e23\u0e23\u0e49\u0e2d\u0e07\u0e40\u0e1e\u0e25\u0e07 first time ever i saw your face",
+            "answer": [
+                {
+                    "type": "entity",
+                    "entity": "Q231484",
+                    "text": "Roberta Flack",
+                    "aliases": []
+                }
+            ],
+            "explanation": "The song \"The First Time Ever I Saw Your Face\" was famously performed by Roberta Flack, an American singer-songwriter known for her soulful voice and emotive delivery. This song, originally written by Ewan MacColl, gained widespread recognition after Flack's version was released in 1972, and it won the Grammy Award for Record of the Year in 1973. Understanding the significance of Flack's rendition can enhance appreciation for the song's emotional depth and its impact on music history."
+        }
+    },
+    "tr": {
+        "-6785769079609581190": {
+            "query": "wonder woman'\u0131 oynayan oyuncunun ad\u0131 ne",
+            "answer": [
+                {
+                    "type": "entity",
+                    "entity": "Q185654",
+                    "text": "Gal Gadot",
+                    "aliases": [
+                        "Gal Gadot-Versano",
+                        "Gal Gadot-Varsano"
+                    ]
+                }
+            ],
+            "explanation": "Wonder Woman, the iconic superheroine from DC Comics, is portrayed by the Israeli actress Gal Gadot. She gained international fame for her role in the 2017 film \"Wonder Woman\" and its sequels. Gadot's portrayal has been praised for bringing strength, grace, and depth to the character, making her a significant figure in popular culture. Understanding the importance of casting in superhero films helps appreciate how Gadot's background and acting skills contribute to the character's appeal and the overall success of the franchise."
+        },
+        "-8893446992337995523": {
+            "query": "Bug\u00fcne kadarki en ya\u015fl\u0131 devlet ba\u015fkan\u0131m\u0131z kimdir?",
+            "answer": [
+                {
+                    "type": "entity",
+                    "entity": "Q22686",
+                    "text": "Donald Trump",
+                    "aliases": [
+                        "President Donald John Trump",
+                        "The Donald",
+                        "DJT",
+                        "Donald John Trump",
+                        "Mr Trump",
+                        "Donald J. Trump",
+                        "POTUS 45",
+                        "President Donald J. Trump",
+                        "President Donald Trump",
+                        "Donald J Trump",
+                        "President Trump",
+                        "John Barron",
+                        "Trump"
+                    ]
+                },
+                {
+                    "type": "entity",
+                    "entity": "Q9960",
+                    "text": "Ronald Reagan",
+                    "aliases": [
+                        "Ronald Wilson Reagan",
+                        "Ronald W. Reagan",
+                        "R. W. Reagan",
+                        "Ronald W Reagan",
+                        "President Ronald Reagan",
+                        "President Reagan"
+                    ]
+                }
+            ],
+            "explanation": "The question asks about the oldest president in Turkey's history, but the answer provided is incorrect. The oldest president of Turkey to date is Recep Tayyip Erdo\u011fan, who took office in 2014 and has served multiple terms. It's important to distinguish between different countries when discussing political leaders, as names like Donald Trump, who was the President of the United States, may come up in discussions about leadership, but they do not pertain to Turkey's presidential history. Understanding the context of each country's political landscape will help clarify such questions."
+        },
+        "-6432845632246153563": {
+            "query": "days of our lives'da horton'u kim canland\u0131racak",
+            "answer": [
+                {
+                    "type": "entity",
+                    "entity": "Q983828",
+                    "text": "Dylan Patton",
+                    "aliases": []
+                },
+                {
+                    "type": "entity",
+                    "entity": "Q3122207",
+                    "text": "Guy Wilson",
+                    "aliases": []
+                },
+                {
+                    "type": "entity",
+                    "entity": "Q5112404",
+                    "text": "Christopher Gerse",
+                    "aliases": []
+                },
+                {
+                    "type": "entity",
+                    "entity": "Q1708823",
+                    "text": "Chandler Massey",
+                    "aliases": []
+                }
+            ],
+            "explanation": "In the context of the long-running soap opera \"Days of Our Lives,\" the character Horton is part of a prominent family in the series. The show often features significant changes in casting, and Dylan Patton is known for taking on the role of a younger version of a Horton family member. Understanding the character dynamics and family lineage in soap operas can help students grasp why certain actors are chosen for specific roles, especially in a show with a rich history like \"Days of Our Lives.\" It's important to note that casting decisions can change, but at the time, Dylan Patton was associated with the Horton character."
+        }
+    },
+    "vi": {
+        "-8993111873500153502": {
+            "query": "Khi n\u00e0o c\u00f3 curse of oak island m\u00f9a 5 ",
+            "answer": [
+                {
+                    "type": "date",
+                    "text": "2017-11-07",
+                    "aliases": [
+                        "2017-11-07",
+                        "2017 November 07",
+                        "11/07/2017",
+                        "07/11/2017",
+                        "07 November 2017",
+                        "07 11 2017",
+                        "11 07 2017",
+                        "2017 11 07",
+                        "07-11-2017",
+                        "2017 November, 07",
+                        "11-07-2017"
+                    ]
+                }
+            ],
+            "explanation": "The \"Curse of Oak Island\" is a reality television series that follows a team of treasure hunters as they search for historical artifacts on Oak Island, Nova Scotia. Season 5 of the show premiered on November 7, 2017. This date is significant because it marks the continuation of the team's quest for uncovering mysteries related to the island, which has been the subject of legend and intrigue for centuries. Understanding the timeline of the show helps viewers appreciate the ongoing nature of the search and the historical context that surrounds the island's lore."
+        },
+        "-7882710204067820087": {
+            "query": "D\u00e2n s\u1ed1 hi\u1ec7n t\u1ea1i c\u1ee7a th\u00e0nh ph\u1ed1 Los Angeles l\u00e0 bao nhi\u00eau?",
+            "answer": [
+                {
+                    "type": "number",
+                    "text": "4000000.0",
+                    "aliases": [
+                        "4000000"
+                    ]
+                }
+            ],
+            "explanation": "The population of Los Angeles is often cited to be around 4 million people, making it one of the largest cities in the United States. When discussing population figures, it's important to note that these numbers can fluctuate over time due to factors such as migration, birth rates, and census updates. The figure of 4,000,000 aligns with estimates from recent data, highlighting the city's status as a major urban center known for its diverse culture, economy, and entertainment industry. Understanding these dynamics can help students appreciate the significance of population statistics in urban planning and social services."
+        },
+        "-6432845632246153563": {
+            "query": "Ai s\u1ebd \u0111\u00f3ng Horton trong Nh\u1eefng ng\u00e0y c\u1ee7a cu\u1ed9c \u0111\u1eddi ch\u00fang ta?",
+            "answer": [
+                {
+                    "type": "entity",
+                    "entity": "Q983828",
+                    "text": "Dylan Patton",
+                    "aliases": []
+                },
+                {
+                    "type": "entity",
+                    "entity": "Q3122207",
+                    "text": "Guy Wilson",
+                    "aliases": []
+                },
+                {
+                    "type": "entity",
+                    "entity": "Q5112404",
+                    "text": "Christopher Gerse",
+                    "aliases": []
+                },
+                {
+                    "type": "entity",
+                    "entity": "Q1708823",
+                    "text": "Chandler Massey",
+                    "aliases": []
+                }
+            ],
+            "explanation": "In the context of the film \"Nh\u1eefng ng\u00e0y c\u1ee7a cu\u1ed9c \u0111\u1eddi ch\u00fang ta\" (The Days of Our Lives), Dylan Patton is the actor who portrays the character Horton. It's important to note that casting choices can often reflect an actor's ability to embody the character's essence, and Dylan Patton has been recognized for his talent in bringing depth to his roles. Understanding the significance of character portrayals in films can enhance appreciation for the performances and the storytelling process."
+        }
+    },
+    "zh_cn": {
+        "8218795514695997044": {
+            "query": "\u7ebd\u7ea6\u5bcc\u4eba\u5728\u54ea\u91cc\u5efa\u9020\u590f\u5b63\u522b\u5885",
+            "answer": [
+                {
+                    "type": "entity",
+                    "entity": "Q18438",
+                    "text": "Long Island",
+                    "aliases": []
+                }
+            ],
+            "explanation": "The wealthy in New York often build summer homes in Long Island, which is known for its beautiful beaches, upscale neighborhoods, and proximity to New York City. Long Island has been a traditional retreat for affluent families seeking a summer getaway, offering a tranquil environment away from the hustle and bustle of the city. The region features luxurious estates and a vibrant social scene, making it a popular choice for seasonal residences among the elite. This cultural practice reflects the historical trend of urban dwellers seeking leisure spaces in more serene environments during the summer months."
+        },
+        "-7882710204067820087": {
+            "query": "\u6d1b\u6749\u77f6\u73b0\u5728\u7684\u4eba\u53e3\u662f\u591a\u5c11",
+            "answer": [
+                {
+                    "type": "number",
+                    "text": "4000000.0",
+                    "aliases": [
+                        "4000000"
+                    ]
+                }
+            ],
+            "explanation": "Los Angeles is a major city in the United States known for its diverse population and cultural influence. As of recent estimates, the population of Los Angeles is around 4 million people. This figure reflects the city's role as a global hub for entertainment, business, and various industries, attracting residents from all over the world. Understanding the population size helps contextualize the city's vibrancy and the challenges it faces, such as urban development and resource management."
+        },
+        "-6700154812997580833": {
+            "query": "\u8c01\u662fNFL\u4e2d\u5e74\u9f84\u6700\u5927\u7684\u7403\u5458",
+            "answer": [
+                {
+                    "type": "entity",
+                    "entity": "Q980691",
+                    "text": "George Blanda",
+                    "aliases": []
+                }
+            ],
+            "explanation": "George Blanda is known as the oldest player in NFL history, having played until the age of 48. His long career spanned multiple decades, showcasing not only his talent but also his remarkable physical fitness and adaptability in a highly competitive sport. Understanding Blanda's impact on the game can help students appreciate the history of the NFL and the evolution of player longevity, as well as the increasing emphasis on training and health in modern football."
+        }
+    }
+}

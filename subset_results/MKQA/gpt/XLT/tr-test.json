@@ -1,0 +1,89 @@
+[
+    {
+        "id": "3643218479176707788",
+        "prompt": "I want you to act as a question answering expert for turkish.\nQuestion: stranger things'in (acayip \u015feyler) ka\u00e7 sezonu vard\u0131r\nYou should retell the question in English.\nYou should answer the question in English in one or a few words.\nYou should step-by-step answer the request.\nYou should tell me the answer in one or a few words in English in this format 'Answer: '",
+        "response": "Step 1: Retell the question in English.  \nThe question is: \"How many seasons does Stranger Things have?\"\n\nStep 2: Answer the question in one or a few words.  \nAs of October 2023, Stranger Things has four seasons.\n\nStep 3: Provide the answer in the specified format.  \nAnswer: Four seasons.",
+        "predicted_answer": "Four seasons.",
+        "ground_truth": [
+            {
+                "type": "number",
+                "text": "3.0",
+                "aliases": [
+                    "3"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "3356010362039543701",
+        "prompt": "I want you to act as a question answering expert for turkish.\nQuestion: i regret i have but one life to give for my country s\u00f6z\u00fcn\u00fc kim s\u00f6yledi\nYou should retell the question in English.\nYou should answer the question in English in one or a few words.\nYou should step-by-step answer the request.\nYou should tell me the answer in one or a few words in English in this format 'Answer: '",
+        "response": "The question in English is: \"Who said the phrase 'I regret I have but one life to give for my country'?\"\n\nStep 1: Identify the speaker of the quote.\nStep 2: Recognize that this quote is attributed to Nathan Hale.\n\nAnswer: Nathan Hale",
+        "predicted_answer": "Nathan Hale",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "text": "Nathan Hale",
+                "entity": "Q16932034"
+            },
+            {
+                "type": "entity",
+                "text": "Nathan Hale",
+                "entity": "Q16932034"
+            },
+            {
+                "type": "entity",
+                "text": "Nathan Hale",
+                "entity": "Q16932034"
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "5965447391112455356",
+        "prompt": "I want you to act as a question answering expert for turkish.\nQuestion: sansa stark'\u0131 oynayan aktris kimdir\nYou should retell the question in English.\nYou should answer the question in English in one or a few words.\nYou should step-by-step answer the request.\nYou should tell me the answer in one or a few words in English in this format 'Answer: '",
+        "response": "The question in English is: \"Who is the actress that plays Sansa Stark?\"\n\nStep 1: Identify the character - Sansa Stark is a character from the television series \"Game of Thrones.\"\n\nStep 2: Recall the actress - The actress who portrayed Sansa Stark is Sophie Turner.\n\nStep 3: Provide the answer in the specified format.\n\nAnswer: Sophie Turner",
+        "predicted_answer": "Sophie Turner",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q240573",
+                "text": "Sophie Turner",
+                "aliases": []
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "476368974337766528",
+        "prompt": "I want you to act as a question answering expert for turkish.\nQuestion: cumhuriyet\u00e7i parti se\u00e7imi en son ne zaman kazand\u0131\nYou should retell the question in English.\nYou should answer the question in English in one or a few words.\nYou should step-by-step answer the request.\nYou should tell me the answer in one or a few words in English in this format 'Answer: '",
+        "response": "Sure! Let's break down the request step by step.\n\n1. **Retell the question in English**: \"When did the Republican Party last win an election?\"\n\n2. **Answer the question in one or a few words**: The Republican Party in Turkey last won an election in 2018.\n\n3. **Provide the answer in the specified format**: \n\nAnswer: 2018",
+        "predicted_answer": "2018",
+        "ground_truth": [
+            {
+                "type": "date",
+                "text": "2004",
+                "aliases": [
+                    "2004"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "6116319690634922724",
+        "prompt": "I want you to act as a question answering expert for turkish.\nQuestion: new albany ohio nun n\u00fcfusu nedir\nYou should retell the question in English.\nYou should answer the question in English in one or a few words.\nYou should step-by-step answer the request.\nYou should tell me the answer in one or a few words in English in this format 'Answer: '",
+        "response": "The question in English is: \"What is the population of New Albany, Ohio?\"\n\nTo answer the question step-by-step:\n\n1. Identify the location: New Albany, Ohio.\n2. Determine the type of information requested: population.\n3. Look up the most recent population data for New Albany, Ohio.\n\nAs of the latest available data, the population of New Albany, Ohio is approximately 12,000.\n\nAnswer: 12,000",
+        "predicted_answer": "12,000",
+        "ground_truth": [
+            {
+                "type": "number",
+                "text": "10889.0",
+                "aliases": [
+                    "10889"
+                ]
+            }
+        ],
+        "is_correct": null
+    }
+]

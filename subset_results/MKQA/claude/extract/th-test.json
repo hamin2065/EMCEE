@@ -1,0 +1,94 @@
+[
+    {
+        "id": "-1825233558955302451",
+        "sys_prompt": "The following is a reasoning question. Given question and explanation, write answer with format of \"Answer: [one or a few words]\".",
+        "user_prompt": "Question: \u0e15\u0e2d\u0e19\u0e2d\u0e30\u0e44\u0e23\u0e17\u0e35\u0e48\u0e19\u0e35\u0e25\u0e41\u0e25\u0e30\u0e0b\u0e32\u0e23\u0e32\u0e2b\u0e4c\u0e08\u0e39\u0e1a\u0e01\u0e31\u0e19\u0e04\u0e23\u0e31\u0e49\u0e07\u0e41\u0e23\u0e01\nExplanation: In the popular TV series \"Chuck\", Neil and Sarah (played by Zachary Levi and Yvonne Strahovski) share their first kiss in Season 2, Episode 3, titled \"Chuck Versus the Break-Up\". This moment is significant because it occurs after a period of tension and unresolved romantic feelings between the two characters. The context of their relationship is unique, as Sarah is a CIA agent assigned to protect Chuck, who becomes entangled in spy missions. Their first kiss represents a pivotal moment in their developing relationship, marking a shift from purely professional interactions to a more personal connection. This scene is memorable for fans of the show because it symbolizes the growing emotional bond between Chuck and Sarah.",
+        "response": "Season 2, Episode 3",
+        "explanation": "In the popular TV series \"Chuck\", Neil and Sarah (played by Zachary Levi and Yvonne Strahovski) share their first kiss in Season 2, Episode 3, titled \"Chuck Versus the Break-Up\". This moment is significant because it occurs after a period of tension and unresolved romantic feelings between the two characters. The context of their relationship is unique, as Sarah is a CIA agent assigned to protect Chuck, who becomes entangled in spy missions. Their first kiss represents a pivotal moment in their developing relationship, marking a shift from purely professional interactions to a more personal connection. This scene is memorable for fans of the show because it symbolizes the growing emotional bond between Chuck and Sarah.",
+        "predicted_answer": "Season 2, Episode 3",
+        "ground_truth": [
+            {
+                "type": "short_phrase",
+                "text": "\u0e40\u0e1e\u0e32\u0e40\u0e27\u0e2d\u0e23\u0e4c\u0e40\u0e1e\u0e25\u0e22\u0e4c"
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "2200477946455799863",
+        "sys_prompt": "The following is a reasoning question. Given question and explanation, write answer with format of \"Answer: [one or a few words]\".",
+        "user_prompt": "Question: \u0e04\u0e38\u0e13\u0e2a\u0e32\u0e21\u0e32\u0e23\u0e16\u0e02\u0e31\u0e1a\u0e23\u0e16\u0e43\u0e19\u0e22\u0e38\u0e42\u0e23\u0e1b\u0e44\u0e14\u0e49\u0e15\u0e2d\u0e19\u0e2d\u0e32\u0e22\u0e38\u0e40\u0e17\u0e48\u0e32\u0e44\u0e2b\u0e23\u0e48\nExplanation: In most European countries, the standard minimum age to legally drive a car is 18 years old. However, there are some variations and nuanced regulations across different European nations. Some countries like the United Kingdom allow individuals to start learning to drive at 17, but full driving privileges typically begin at 18. It's important to note that driving regulations can differ slightly between countries, so always check the specific rules of the country you plan to drive in. Additionally, rental car companies may have their own age restrictions, often requiring drivers to be at least 21 or 25 years old.",
+        "response": "18",
+        "explanation": "In most European countries, the standard minimum age to legally drive a car is 18 years old. However, there are some variations and nuanced regulations across different European nations. Some countries like the United Kingdom allow individuals to start learning to drive at 17, but full driving privileges typically begin at 18. It's important to note that driving regulations can differ slightly between countries, so always check the specific rules of the country you plan to drive in. Additionally, rental car companies may have their own age restrictions, often requiring drivers to be at least 21 or 25 years old.",
+        "predicted_answer": "18",
+        "ground_truth": [
+            {
+                "type": "number",
+                "text": "18.0",
+                "aliases": [
+                    "18"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "4022415118513457748",
+        "sys_prompt": "The following is a reasoning question. Given question and explanation, write answer with format of \"Answer: [one or a few words]\".",
+        "user_prompt": "Question: \u0e04\u0e38\u0e13\u0e15\u0e49\u0e2d\u0e07\u0e40\u0e01\u0e34\u0e14\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e44\u0e2b\u0e23\u0e48\u0e16\u0e36\u0e07\u0e16\u0e39\u0e01\u0e1e\u0e34\u0e08\u0e32\u0e23\u0e13\u0e32\u0e27\u0e48\u0e32\u0e40\u0e1b\u0e47\u0e19 millennial\nExplanation: To be considered a Millennial (Generation Y), you typically need to be born between the early 1980s and the mid-1990s to early 2000s. Most demographers and researchers define the Millennial generation as those born between 1981 and 1996, which means individuals who are currently between 27 and 42 years old (as of 2023). This generation is characterized by being the first digital natives, growing up during the rise of the internet, mobile technology, and significant social and economic changes. Understanding the generational boundaries helps contextualize shared experiences, technological adaptations, and cultural perspectives unique to Millennials.",
+        "response": "1981-1996",
+        "explanation": "To be considered a Millennial (Generation Y), you typically need to be born between the early 1980s and the mid-1990s to early 2000s. Most demographers and researchers define the Millennial generation as those born between 1981 and 1996, which means individuals who are currently between 27 and 42 years old (as of 2023). This generation is characterized by being the first digital natives, growing up during the rise of the internet, mobile technology, and significant social and economic changes. Understanding the generational boundaries helps contextualize shared experiences, technological adaptations, and cultural perspectives unique to Millennials.",
+        "predicted_answer": "1981-1996",
+        "ground_truth": [
+            {
+                "type": "date",
+                "text": "1981-1996",
+                "aliases": [
+                    "1",
+                    "6",
+                    "-",
+                    "9",
+                    "8"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "7777319570801182403",
+        "sys_prompt": "The following is a reasoning question. Given question and explanation, write answer with format of \"Answer: [one or a few words]\".",
+        "user_prompt": "Question: \u0e43\u0e04\u0e23\u0e04\u0e37\u0e2d\u0e1b\u0e23\u0e30\u0e18\u0e32\u0e19\u0e28\u0e32\u0e25\u0e2a\u0e39\u0e07\u0e2a\u0e38\u0e14\u0e2a\u0e2b\u0e23\u0e31\u0e10\nExplanation: Currently, John Roberts serves as the Chief Justice of the Supreme Court of the United States. He was nominated by President George W. Bush and confirmed by the Senate in 2005, becoming the 17th Chief Justice of the United States. As Chief Justice, Roberts leads the Supreme Court and plays a crucial role in interpreting the Constitution and federal laws. His position is significant because the Supreme Court is the highest court in the U.S. judicial system and has the power to make landmark decisions that can profoundly impact American society and legal precedents.",
+        "response": "John Roberts",
+        "explanation": "Currently, John Roberts serves as the Chief Justice of the Supreme Court of the United States. He was nominated by President George W. Bush and confirmed by the Senate in 2005, becoming the 17th Chief Justice of the United States. As Chief Justice, Roberts leads the Supreme Court and plays a crucial role in interpreting the Constitution and federal laws. His position is significant because the Supreme Court is the highest court in the U.S. judicial system and has the power to make landmark decisions that can profoundly impact American society and legal precedents.",
+        "predicted_answer": "John Roberts",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q11153",
+                "text": "\u0e08\u0e2d\u0e2b\u0e4c\u0e19 \u0e23\u0e2d\u0e40\u0e1a\u0e34\u0e15\u0e2a\u0e4c",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "text": "\u0e08\u0e2d\u0e2b\u0e4c\u0e19 \u0e23\u0e2d\u0e40\u0e1a\u0e34\u0e15\u0e2a\u0e4c",
+                "entity": "Q11153"
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "96744865645392956",
+        "sys_prompt": "The following is a reasoning question. Given question and explanation, write answer with format of \"Answer: [one or a few words]\".",
+        "user_prompt": "Question: First ride \u0e43\u0e19\u0e2a\u0e27\u0e19\u0e2a\u0e19\u0e38\u0e01 Knott's Berry Farm  \u0e04\u0e37\u0e2d\u0e2d\u0e30\u0e44\u0e23\nExplanation: A \"First Ride\" at Knott's Berry Farm typically refers to a special milestone for children experiencing their first amusement park ride. In theme parks like Knott's Berry Farm, this is often a memorable moment where young children overcome their initial fear and experience the excitement of riding a roller coaster or another attraction for the first time. The park usually provides a commemorative badge or certificate to mark this significant childhood experience, making it a cherished memory for both children and parents. This concept highlights the emotional and developmental importance of overcoming fears and trying new experiences in a safe, controlled environment.",
+        "response": "Ghost Rider",
+        "explanation": "A \"First Ride\" at Knott's Berry Farm typically refers to a special milestone for children experiencing their first amusement park ride. In theme parks like Knott's Berry Farm, this is often a memorable moment where young children overcome their initial fear and experience the excitement of riding a roller coaster or another attraction for the first time. The park usually provides a commemorative badge or certificate to mark this significant childhood experience, making it a cherished memory for both children and parents. This concept highlights the emotional and developmental importance of overcoming fears and trying new experiences in a safe, controlled environment.",
+        "predicted_answer": "Ghost Rider",
+        "ground_truth": [
+            {
+                "type": "short_phrase",
+                "text": "Butterfield Stagecoach"
+            }
+        ],
+        "is_correct": null
+    }
+]

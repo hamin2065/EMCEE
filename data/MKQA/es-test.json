@@ -1,0 +1,1763 @@
+{
+    "-6898781019949067297": {
+        "query": "Cuándo sale la tercera temporada de scream",
+        "answer": [
+            {
+                "type": "date",
+                "text": "2019-07-08",
+                "aliases": [
+                    "2019 july, 08",
+                    "07/08/2019",
+                    "2019-07-08",
+                    "08 07 2019",
+                    "08/07/2019",
+                    "08 julio 2019",
+                    "07 08 2019",
+                    "07-08-2019",
+                    "2019 07 08",
+                    "08-07-2019",
+                    "2019 julio 08"
+                ]
+            }
+        ]
+    },
+    "7861381397122222459": {
+        "query": "¿Quién ganó las 5 últimas super bowls?",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q223507",
+                "text": "Denver Broncos",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q193390",
+                "text": "New England Patriots",
+                "aliases": [
+                    "Patriotas de Nueva Inglaterra",
+                    "Boston Patriots"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q219714",
+                "text": "Philadelphia Eagles",
+                "aliases": [
+                    "Águilas de Filadelfia"
+                ]
+            }
+        ]
+    },
+    "6270502406378791413": {
+        "query": "quien compuso la cancion never gonna give you up",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q219237",
+                "text": "Rick Astley",
+                "aliases": [
+                    "Richard Paul Astley"
+                ]
+            }
+        ]
+    },
+    "8109679614228793740": {
+        "query": "quien interpreta a avery en dog with a blog",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q236343",
+                "text": "Genevieve Hannelius",
+                "aliases": [
+                    "G. Hannelius",
+                    "Genevieve Knight Hannelius"
+                ]
+            }
+        ]
+    },
+    "6794426408637543034": {
+        "query": "cuando empezo y cuando termino la guerra de korea",
+        "answer": [
+            {
+                "type": "date",
+                "text": "1950-06-25",
+                "aliases": [
+                    "1950 junio 25",
+                    "06 25 1950",
+                    "25-06-1950",
+                    "25/06/1950",
+                    "25 junio 1950",
+                    "1950-06-25",
+                    "06/25/1950",
+                    "1950 june, 25",
+                    "1950 06 25",
+                    "06-25-1950",
+                    "25 06 1950"
+                ]
+            },
+            {
+                "type": "date",
+                "text": "1953-07-27",
+                "aliases": [
+                    "07-27-1953",
+                    "1953-07-27",
+                    "1953 julio 27",
+                    "1953 07 27",
+                    "07 27 1953",
+                    "1953 july, 27",
+                    "27-07-1953",
+                    "27/07/1953",
+                    "07/27/1953",
+                    "27 07 1953",
+                    "27 julio 1953"
+                ]
+            }
+        ]
+    },
+    "-7370774985713456088": {
+        "query": "Cuando se firmó la constitución de los Estados Unidos",
+        "answer": [
+            {
+                "type": "date",
+                "text": "1787-09-17",
+                "aliases": [
+                    "1787-09-17",
+                    "09 17 1787",
+                    "09-17-1787",
+                    "1787 09 17",
+                    "17 09 1787",
+                    "17 septiembre 1787",
+                    "1787 september, 17",
+                    "17-09-1787",
+                    "09/17/1787",
+                    "17/09/1787",
+                    "1787 septiembre 17"
+                ]
+            }
+        ]
+    },
+    "-6412417606016046895": {
+        "query": "cuántas temporadas de diners drive-ins and dives hay",
+        "answer": [
+            {
+                "type": "number",
+                "text": "30.0",
+                "aliases": [
+                    "30"
+                ]
+            }
+        ]
+    },
+    "-4670358332103076641": {
+        "query": "quien anotó 401 carreras en un partido de prueba",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q202877",
+                "text": "Brian Lara",
+                "aliases": []
+            }
+        ]
+    },
+    "-222125100030723097": {
+        "query": "muere el capitán garfio en erase una vez",
+        "answer": [
+            {
+                "type": "binary",
+                "text": "yes"
+            }
+        ]
+    },
+    "-8156759893817045640": {
+        "query": "¿Quién interpretaba a Opie en \"El Show de Andy Griffith\"?",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q103646",
+                "text": "Ron Howard",
+                "aliases": []
+            }
+        ]
+    },
+    "1863258277991902131": {
+        "query": "quien es el dueño de the washington post",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q312556",
+                "text": "Jeff Bezos",
+                "aliases": [
+                    "Jeffrey Preston Bezos",
+                    "Jeffrey Preston Jorgenson",
+                    "J. Bezos"
+                ]
+            }
+        ]
+    },
+    "7348005180629503206": {
+        "query": "quien interpreta a morgan y a christina ross en jessie",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q1064297",
+                "text": "Charles Esten",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q289518",
+                "text": "Christina Moore",
+                "aliases": []
+            }
+        ]
+    },
+    "1505700753776210282": {
+        "query": "quien escribió la canción call me the breeze",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q44833",
+                "text": "J.J. Cale",
+                "aliases": [
+                    "J J Cale",
+                    "J. J. Cale",
+                    "John W. Cale",
+                    "John W Cale",
+                    "J J. Cale"
+                ]
+            }
+        ]
+    },
+    "2577838491389923899": {
+        "query": "donde se filmo el video pontoon de little big town",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q30",
+                "text": "Estados Unidos",
+                "aliases": [
+                    "USA",
+                    "EUA",
+                    "EE. UU.",
+                    "EE.UU.",
+                    "EEUU",
+                    "América",
+                    "America",
+                    "Estados Unidos de America",
+                    "Estados Unidos de América"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q49",
+                "text": "América del Norte",
+                "aliases": [
+                    "America del Norte y America Central",
+                    "Norteamérica"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q1509",
+                "text": "Tennessee",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "text": "Lago Percy Priest",
+                "entity": "Q7167526"
+            }
+        ]
+    },
+    "9194054088793021849": {
+        "query": "¿Quién escribió la serie de libros de Hairy MacLary?",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q3841019",
+                "text": "Lynley Dodd",
+                "aliases": []
+            }
+        ]
+    },
+    "4477300473899301723": {
+        "query": "¿Cuándo comenzó la policía a usar chalecos antibalas?",
+        "answer": [
+            {
+                "type": "date",
+                "text": "1970",
+                "aliases": [
+                    "1970"
+                ]
+            }
+        ]
+    },
+    "3947524562237613038": {
+        "query": "cuál es la película más taquillera en los estados unidos",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q23781155",
+                "text": "Vengadores: Endgame",
+                "aliases": [
+                    "Vengadores 4",
+                    "El final de los vengadores",
+                    "Vengadores",
+                    "Juego final",
+                    "Final del juego",
+                    "Los Vengadores: Fin del Juego"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q2875",
+                "text": "Lo que el viento se llevó",
+                "aliases": [
+                    "Gone with the Wind"
+                ]
+            }
+        ]
+    },
+    "-4742303300919965988": {
+        "query": "Cuándo se construyó el Bay Bridge en Maryland?",
+        "answer": [
+            {
+                "type": "date",
+                "text": "1952",
+                "aliases": [
+                    "1952"
+                ]
+            },
+            {
+                "type": "date",
+                "text": "1949",
+                "aliases": [
+                    "1949"
+                ]
+            }
+        ]
+    },
+    "4775749128428213452": {
+        "query": "quién interpretó a Dorothy en el mago de oz el original",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q11637",
+                "text": "Judy Garland",
+                "aliases": []
+            }
+        ]
+    },
+    "-8736636849047411907": {
+        "query": "quien dobla a elsa en frozen",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q20740624",
+                "text": "Eva Bella",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q157400",
+                "text": "Idina Menzel",
+                "aliases": [
+                    "Idina Kim Mentzel"
+                ]
+            }
+        ]
+    },
+    "9143002260757869752": {
+        "query": "cuándo ganaron los wallabies la última copa del mundo",
+        "answer": [
+            {
+                "type": "date",
+                "text": "1999",
+                "aliases": [
+                    "1999"
+                ]
+            }
+        ]
+    },
+    "810965131652061210": {
+        "query": "sigue siendo eli el quarterback de los giants",
+        "answer": [
+            {
+                "type": "binary",
+                "text": "no"
+            },
+            {
+                "type": "binary",
+                "text": "yes"
+            }
+        ]
+    },
+    "2323940396027002611": {
+        "query": "quien presenta el premio nacional de cine tradicionalmente en la India",
+        "answer": [
+            {
+                "type": "entity",
+                "text": "Dirección de festivales de cine",
+                "entity": "Q5280643"
+            }
+        ]
+    },
+    "-7124524575011905701": {
+        "query": "cuándo es el día del padre",
+        "answer": [
+            {
+                "type": "date",
+                "text": "2020-06-21",
+                "aliases": [
+                    "21 junio 2020",
+                    "2020 junio 21",
+                    "21-06-2020",
+                    "21 06 2020",
+                    "06 21 2020",
+                    "2020 june, 21",
+                    "2020-06-21",
+                    "06-21-2020",
+                    "21/06/2020",
+                    "2020 06 21",
+                    "06/21/2020"
+                ]
+            }
+        ]
+    },
+    "6804231395663863524": {
+        "query": "De dónde viene el apellido Camp",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q142",
+                "text": "Francia",
+                "aliases": [
+                    "República Francesa",
+                    "Republica Francesa"
+                ]
+            }
+        ]
+    },
+    "8528218624797092582": {
+        "query": "cuando salió la canción 99 problems",
+        "answer": [
+            {
+                "type": "date",
+                "text": "2003",
+                "aliases": [
+                    "2003"
+                ]
+            }
+        ]
+    },
+    "-9030146435606644037": {
+        "query": "quien gano el open frances femenino en 2018",
+        "answer": [
+            {
+                "type": "short_phrase",
+                "entity": "Q230156",
+                "text": "Simona Halep",
+                "aliases": []
+            }
+        ]
+    },
+    "3439377836653572305": {
+        "query": "Quién le pone voz a la madre  en alien covenant",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q3836823",
+                "text": "Lorelei King",
+                "aliases": []
+            }
+        ]
+    },
+    "7085106776345711096": {
+        "query": "a quién se representa en la canción Can't say",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q13605596",
+                "text": "Travis Scott",
+                "aliases": []
+            }
+        ]
+    },
+    "7151309510061464910": {
+        "query": "¿Cuántos episodios de Stranger Things hay?",
+        "answer": [
+            {
+                "type": "number",
+                "text": "25.0",
+                "aliases": [
+                    "25"
+                ]
+            }
+        ]
+    },
+    "-7537881845967545834": {
+        "query": "quién es el entrenador de los indiana pacers",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q1343136",
+                "text": "Nate McMillan",
+                "aliases": []
+            }
+        ]
+    },
+    "3609901418190074273": {
+        "query": "dónde se rodó el conde de montecristo",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q233",
+                "text": "Malta",
+                "aliases": [
+                    "República de Malta"
+                ]
+            }
+        ]
+    },
+    "2152509482437574022": {
+        "query": "donde estaba localizada la republica del pueblo de china",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q48",
+                "text": "Asia",
+                "aliases": []
+            }
+        ]
+    },
+    "2775319337885001906": {
+        "query": "quién luchó en el frente oriental en la primera guerra mundial",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q183",
+                "text": "Alemania",
+                "aliases": [
+                    "República Federal de Alemania",
+                    "Republica Federal de Alemania"
+                ]
+            },
+            {
+                "type": "entity",
+                "text": "Alemania",
+                "entity": "Q183"
+            }
+        ]
+    },
+    "-2792777910263458048": {
+        "query": "¿Quién era el rey de Inglaterra en 1700?",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q129987",
+                "text": "Guillermo III de Inglaterra",
+                "aliases": [
+                    "Guillermo III de Orange Nasau",
+                    "Guillermo III, Principe de Orange",
+                    "Guillermo III Príncipe de Orange",
+                    "Wilhelm III. von Oranien",
+                    "Guillermo III Principe de Orange",
+                    "Guillermo III, Príncipe de Orange",
+                    "Guillermo III de Orange-Nasau",
+                    "Guillermo III de Orange"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q130805",
+                "text": "Jorge I de Gran Bretaña",
+                "aliases": [
+                    "Jorge I",
+                    "Jorge I de Inglaterra",
+                    "Jorge I de Hannover",
+                    "Jorge I de Gran Bretana"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q119702",
+                "text": "Ana de Gran Bretaña",
+                "aliases": [
+                    "Ana Estuardo",
+                    "Ana de Gran Bretana",
+                    "Ana I de Gran Bretana",
+                    "Ana de Inglaterra",
+                    "Ana I de Gran Bretaña",
+                    "Ana I de Inglaterra",
+                    "Ana I de Escocia",
+                    "Ana de Escocia"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q131981",
+                "text": "Jorge II de Gran Bretaña",
+                "aliases": [
+                    "Jorge II de Gran Bretana",
+                    "Jorge II",
+                    "Jorge II de Inglaterra",
+                    "Jorge II del Reino Unido"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q127318",
+                "text": "Jorge III del Reino Unido",
+                "aliases": [
+                    "George III",
+                    "Jorge III de Inglaterra",
+                    "Jorge III"
+                ]
+            }
+        ]
+    },
+    "4573065992833094938": {
+        "query": "cuánto vale el premio de so you think you can dance",
+        "answer": [
+            {
+                "type": "number_with_unit",
+                "text": "250000.0 dólar estadounidense",
+                "aliases": [
+                    "250000 dólar estadounidense"
+                ]
+            }
+        ]
+    },
+    "-4323484322101686867": {
+        "query": "¿Dónde se encuentra el parque universitario de la Universidad de Maryland?",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q1391",
+                "text": "Maryland",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q30",
+                "text": "Estados Unidos",
+                "aliases": [
+                    "USA",
+                    "EUA",
+                    "EE. UU.",
+                    "EE.UU.",
+                    "EEUU",
+                    "América",
+                    "America",
+                    "Estados Unidos de America",
+                    "Estados Unidos de América"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q49",
+                "text": "América del Norte",
+                "aliases": [
+                    "America del Norte y America Central",
+                    "Norteamérica"
+                ]
+            },
+            {
+                "type": "entity",
+                "text": "Maryland",
+                "entity": "Q1391"
+            }
+        ]
+    },
+    "-5524370408722306136": {
+        "query": "cuando se hizo hotel dulce hotel las aventuras de zack y cody",
+        "answer": [
+            {
+                "type": "date",
+                "text": "2005-03-18",
+                "aliases": [
+                    "18/03/2005",
+                    "18 marzo 2005",
+                    "2005-03-18",
+                    "2005 03 18",
+                    "18-03-2005",
+                    "2005 marzo 18",
+                    "18 03 2005",
+                    "03-18-2005",
+                    "2005 march, 18",
+                    "03/18/2005",
+                    "03 18 2005"
+                ]
+            }
+        ]
+    },
+    "-7946650758728438508": {
+        "query": "que nacion fue la primera en ratificar la carta de las naciones unidas en 1945",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q811",
+                "text": "Nicaragua",
+                "aliases": [
+                    "República de Nicaragua",
+                    "Republica de Nicaragua",
+                    "Salve a ti, Nicaragua"
+                ]
+            }
+        ]
+    },
+    "-4766029169354683727": {
+        "query": "quién canta love you like there's no tomorrow",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q952176",
+                "text": "Chris Young",
+                "aliases": []
+            }
+        ]
+    },
+    "5610563369401480961": {
+        "query": "quien interpreta al senador en el planeta de los simios",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q720553",
+                "text": "Glenn Shadix",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q363271",
+                "text": "David Warner",
+                "aliases": []
+            }
+        ]
+    },
+    "-1567014621019158780": {
+        "query": "cuándo se estrenó la película the giver",
+        "answer": [
+            {
+                "type": "date",
+                "text": "2014-08-11",
+                "aliases": [
+                    "2014 08 11",
+                    "08 11 2014",
+                    "11 08 2014",
+                    "2014 agosto 11",
+                    "08-11-2014",
+                    "2014-08-11",
+                    "11 agosto 2014",
+                    "08/11/2014",
+                    "11-08-2014",
+                    "2014 august, 11",
+                    "11/08/2014"
+                ]
+            },
+            {
+                "type": "date",
+                "text": "2014-08-15",
+                "aliases": [
+                    "08-15-2014",
+                    "2014 agosto 15",
+                    "08 15 2014",
+                    "15/08/2014",
+                    "2014-08-15",
+                    "15 agosto 2014",
+                    "08/15/2014",
+                    "2014 august, 15",
+                    "2014 08 15",
+                    "15 08 2014",
+                    "15-08-2014"
+                ]
+            }
+        ]
+    },
+    "-6058308562633160323": {
+        "query": "¿Quién es el mayor en \"Why don't we\"?",
+        "answer": [
+            {
+                "type": "short_phrase",
+                "text": "Jonah Marais"
+            }
+        ]
+    },
+    "8825193307814367454": {
+        "query": "¿Cuándo va a ser la próxima vez que votemos para presidente?",
+        "answer": [
+            {
+                "type": "date",
+                "text": "2020-11-03",
+                "aliases": [
+                    "03 noviembre 2020",
+                    "11 03 2020",
+                    "2020 november, 03",
+                    "2020-11-03",
+                    "2020 11 03",
+                    "2020 noviembre 03",
+                    "03/11/2020",
+                    "03-11-2020",
+                    "03 11 2020",
+                    "11/03/2020",
+                    "11-03-2020"
+                ]
+            }
+        ]
+    },
+    "7447657595303884076": {
+        "query": "cuales son los nombres de la serie de los juegos del hambre",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q212965",
+                "text": "Los juegos del hambre",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q11679",
+                "text": "Los juegos del hambre",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q40354",
+                "text": "Sinsajo",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q837140",
+                "text": "En llamas",
+                "aliases": [
+                    "Catching Fire",
+                    "Los juegos del hambre 2: En llamas"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q11678",
+                "text": "Los juegos del hambre",
+                "aliases": [
+                    "The Hunger Games"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q574583",
+                "text": "Los juegos del hambre: En llamas",
+                "aliases": [
+                    "The Hunger Games: Catching Fire"
+                ]
+            }
+        ]
+    },
+    "-1870063306648453159": {
+        "query": "quien interpreta al gemelo de manos idénticas en friends",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q1319539",
+                "text": "Thomas Lennon",
+                "aliases": [
+                    "Thomas Patrick Lennon"
+                ]
+            }
+        ]
+    },
+    "-7420768735021343100": {
+        "query": "quién escribió variaciones de Campanita del lugar",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q254",
+                "text": "Wolfgang Amadeus Mozart",
+                "aliases": [
+                    "Mozart"
+                ]
+            }
+        ]
+    },
+    "4378915745164926766": {
+        "query": "Reparto de la primera temporada de Bailando con las Estrellas",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q3734625",
+                "text": "Trista Sutter",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q740877",
+                "text": "Joey McIntyre",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q313451",
+                "text": "Evander Holyfield",
+                "aliases": [
+                    "Holyfield"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q259993",
+                "text": "Rachel Hunter",
+                "aliases": []
+            }
+        ]
+    },
+    "7661985249554578902": {
+        "query": "qué dos cuerpos de agua unen el canal erie",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q3140",
+                "text": "Río Hudson",
+                "aliases": [
+                    "Rio Hudson"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q5492",
+                "text": "Erie",
+                "aliases": []
+            },
+            {
+                "type": "short_phrase",
+                "text": "conecta el río Hudson en Albania, Nueva York, con el lago Eire en Búfalo."
+            }
+        ]
+    },
+    "-8080273652888190604": {
+        "query": "cuando salio la edicion especial de star wars",
+        "answer": [
+            {
+                "type": "date",
+                "text": "1997",
+                "aliases": [
+                    "1997"
+                ]
+            }
+        ]
+    },
+    "-1312044215205078776": {
+        "query": "¿Cuándo se estrenó El Origen De Los Guardianes?",
+        "answer": [
+            {
+                "type": "date",
+                "text": "2012",
+                "aliases": [
+                    "2012"
+                ]
+            }
+        ]
+    },
+    "6213306834749827575": {
+        "query": "quién canta i feel the earth move under my feet",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q217787",
+                "text": "Carole King",
+                "aliases": [
+                    "Carol Joan Klein"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q310300",
+                "text": "James Taylor",
+                "aliases": [
+                    "James Vernon Taylor"
+                ]
+            }
+        ]
+    },
+    "-3321938931931776750": {
+        "query": "cuál fue el partido de béisbol de ligas mayores más largo de la historia",
+        "answer": [
+            {
+                "type": "entity",
+                "text": "Partido profesional de béisbol más largo",
+                "entity": "Q6673745"
+            }
+        ]
+    },
+    "-5023277270139337207": {
+        "query": "cuales son los nombres de los cachorros de paw patrol",
+        "answer": [
+            {
+                "type": "entity",
+                "text": "Zuma",
+                "entity": "Q59463454"
+            },
+            {
+                "type": "entity",
+                "text": "Sjye",
+                "entity": "Q59318105"
+            },
+            {
+                "type": "entity",
+                "text": "Rubble",
+                "entity": "Q59318384"
+            },
+            {
+                "type": "entity",
+                "text": "Chase",
+                "entity": "Q59319488"
+            },
+            {
+                "type": "entity",
+                "text": "Marshall",
+                "entity": "Q59317891"
+            }
+        ]
+    },
+    "1585316578999504970": {
+        "query": "cuándo fue la última vez que organizó estados unidos los juegos olímpicos",
+        "answer": [
+            {
+                "type": "date",
+                "text": "2002",
+                "aliases": [
+                    "2002"
+                ]
+            }
+        ]
+    },
+    "-3583320020709637733": {
+        "query": "cuando salió el rey león por primera vez",
+        "answer": [
+            {
+                "type": "date",
+                "text": "1994-08-10",
+                "aliases": [
+                    "1994 august, 10",
+                    "10 agosto 1994",
+                    "08-10-1994",
+                    "10 08 1994",
+                    "08 10 1994",
+                    "08/10/1994",
+                    "1994 08 10",
+                    "1994-08-10",
+                    "10/08/1994",
+                    "1994 agosto 10",
+                    "10-08-1994"
+                ]
+            },
+            {
+                "type": "date",
+                "text": "1994-05-07",
+                "aliases": [
+                    "07/05/1994",
+                    "1994 mayo 07",
+                    "07 mayo 1994",
+                    "05 07 1994",
+                    "1994-05-07",
+                    "05-07-1994",
+                    "07 05 1994",
+                    "05/07/1994",
+                    "1994 may, 07",
+                    "07-05-1994",
+                    "1994 05 07"
+                ]
+            }
+        ]
+    },
+    "4519477430472514341": {
+        "query": "cuántas millas hay de medford en oregón a sacramento en california",
+        "answer": [
+            {
+                "type": "number_with_unit",
+                "text": "307.7 milla",
+                "aliases": []
+            }
+        ]
+    },
+    "-593155168859050257": {
+        "query": "cuántos capítulos hay en Epístola a los efesios",
+        "answer": [
+            {
+                "type": "number",
+                "text": "6.0",
+                "aliases": [
+                    "6"
+                ]
+            }
+        ]
+    },
+    "-5071654247570504425": {
+        "query": "es lo mismo código postal que código zip",
+        "answer": [
+            {
+                "type": "binary",
+                "text": "yes"
+            }
+        ]
+    },
+    "5979958328447810229": {
+        "query": "quién canta la canción what's going on",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q238263",
+                "text": "4 Non Blondes",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q189758",
+                "text": "Marvin Gaye",
+                "aliases": [
+                    "Marvin Gay",
+                    "Marvin Pentz Gaye",
+                    "Marvin Pentz Gay",
+                    "Marvin Pentz Gay Jr.",
+                    "Marvin Pentz Gaye Jr",
+                    "Marvin Pentz Gaye Jr."
+                ]
+            }
+        ]
+    },
+    "8871000238380963845": {
+        "query": "quién es la jueza de American Idol",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q166197",
+                "text": "Luke Bryan",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q42493",
+                "text": "Katy Perry",
+                "aliases": [
+                    "Katy Hudson",
+                    "Katheryn Hudson",
+                    "Katheryn Elizabeth Hudson Perry",
+                    "Katheryn Elizabeth \"Katy\" Hudson",
+                    "Katheryn Elizabeth Hudson"
+                ]
+            }
+        ]
+    },
+    "-4680253170854412960": {
+        "query": "quien hace de brandi max en parks and rec",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q6754510",
+                "text": "Mara Marini",
+                "aliases": []
+            }
+        ]
+    },
+    "-1236121250701808469": {
+        "query": "¿Qual team tiene la mayoria de world series rings",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q213417",
+                "text": "New York Yankees",
+                "aliases": [
+                    "Yankees de Nueva York",
+                    "New York Highlanders",
+                    "Yankees",
+                    "Yanquis",
+                    "Yanquis de Nueva York"
+                ]
+            }
+        ]
+    },
+    "1059762400340964817": {
+        "query": "cuántas super bowls ha ganado tom brady",
+        "answer": [
+            {
+                "type": "number",
+                "text": "6.0",
+                "aliases": [
+                    "6"
+                ]
+            }
+        ]
+    },
+    "-3510001169823039030": {
+        "query": "¿Quien cantó we don't need no education?",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q2306",
+                "text": "Pink Floyd",
+                "aliases": []
+            }
+        ]
+    },
+    "-7206127442759222825": {
+        "query": "quién hizo de bella en la bella y la bestia",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q39476",
+                "text": "Emma Watson",
+                "aliases": []
+            }
+        ]
+    },
+    "-4074671075177564365": {
+        "query": "cuando fue la última vez que michigan venció a ohio state",
+        "answer": [
+            {
+                "type": "date",
+                "text": "2011",
+                "aliases": [
+                    "2011"
+                ]
+            }
+        ]
+    },
+    "6247343972170271376": {
+        "query": "cuántas centrales eléctricas hay en srisailam dam",
+        "answer": [
+            {
+                "type": "number",
+                "text": "2.0",
+                "aliases": [
+                    "2"
+                ]
+            }
+        ]
+    },
+    "1887982148086162345": {
+        "query": "Qué es lo que ganas con dos números y una estrella en el euromillón",
+        "answer": [
+            {
+                "type": "number_with_unit",
+                "text": "6.0 other currency",
+                "aliases": [
+                    "6 other currency"
+                ]
+            }
+        ]
+    },
+    "2447638342656723012": {
+        "query": "Dónde se celebra el John Deere Classic de golf",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q1204",
+                "text": "Illinois",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "text": "TPC en Deere Run",
+                "entity": "Q12004985"
+            }
+        ]
+    },
+    "6567256020694440783": {
+        "query": "cuando fue construido y terminado el canal erie",
+        "answer": [
+            {
+                "type": "date",
+                "text": "1825-10-26",
+                "aliases": [
+                    "10/26/1825",
+                    "26-10-1825",
+                    "10-26-1825",
+                    "1825 october, 26",
+                    "26 octubre 1825",
+                    "10 26 1825",
+                    "1825 10 26",
+                    "1825-10-26",
+                    "1825 octubre 26",
+                    "26 10 1825",
+                    "26/10/1825"
+                ]
+            }
+        ]
+    },
+    "4469008859543926185": {
+        "query": "quien interpreta a la madre de rose en downton abbey",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q3381355",
+                "text": "Phoebe Nicholls",
+                "aliases": []
+            }
+        ]
+    },
+    "-6905205205636703090": {
+        "query": "cuantos equipos de la nba nunca han ganado un campeonato",
+        "answer": [
+            {
+                "type": "number",
+                "text": "11.0",
+                "aliases": [
+                    "11"
+                ]
+            }
+        ]
+    },
+    "7604267324256157253": {
+        "query": "¿Quién dijo \"life is a bowl of cherries\"?",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q4096110",
+                "text": "Lew Brown",
+                "aliases": [
+                    "Louis Brownstein"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q129087",
+                "text": "Ethel Merman",
+                "aliases": [
+                    "Ethel Agnes Zimmermann"
+                ]
+            }
+        ]
+    },
+    "-2597595626409302649": {
+        "query": "Dragón Ball Z Personajes que empiezan con J",
+        "answer": [
+            {
+                "type": "short_phrase",
+                "text": "Jheese"
+            },
+            {
+                "type": "short_phrase",
+                "text": "Jewel"
+            },
+            {
+                "type": "short_phrase",
+                "text": "jaco"
+            },
+            {
+                "type": "short_phrase",
+                "text": "janemba"
+            },
+            {
+                "type": "short_phrase",
+                "text": "jacunks"
+            },
+            {
+                "type": "short_phrase",
+                "text": "Jiku"
+            }
+        ]
+    },
+    "-8927162930124383382": {
+        "query": "quién interpreta a freddy krueger en nightmare return to elm street",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q310389",
+                "text": "Robert Englund",
+                "aliases": []
+            }
+        ]
+    },
+    "-3140869096194957539": {
+        "query": "cuánto dura el señor de los anillos el retorno del rey",
+        "answer": [
+            {
+                "type": "number_with_unit",
+                "text": "251.0 minuto",
+                "aliases": [
+                    "251 minuto"
+                ]
+            }
+        ]
+    },
+    "-2182432805970228191": {
+        "query": "quien está en la portada de band on the run",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q622988",
+                "text": "Wings",
+                "aliases": [
+                    "Paul McCartney and Wings",
+                    "Paul McCartney & Wings"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q180338",
+                "text": "Christopher Lee",
+                "aliases": [
+                    "Christopher Frank Carandini Lee",
+                    "Sir Christopher Frank Carandini Lee",
+                    "Sir Christopher F. Carandini Lee",
+                    "Sir Christopher F. C. Lee",
+                    "Christopher F. Carandini Lee",
+                    "Christopher F. C. Lee"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q6035890",
+                "text": "Michael Parkinson",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q4227",
+                "text": "James Coburn",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q3195230",
+                "text": "Kenny Lynch",
+                "aliases": []
+            }
+        ]
+    },
+    "-4817156562472137489": {
+        "query": "qué edad hay que tener para poder comprar tabaco en el estado de nueva york",
+        "answer": [
+            {
+                "type": "number_with_unit",
+                "text": "21.0 año terrestre",
+                "aliases": [
+                    "21 año terrestre"
+                ]
+            }
+        ]
+    },
+    "8848030408511989657": {
+        "query": "quién conquistó Inglaterra en el año 1066",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q203647",
+                "text": "Harald III de Noruega",
+                "aliases": [
+                    "Harald Hardråde",
+                    "Norðbrikt",
+                    "Harald III el Despiadado",
+                    "Harald III",
+                    "Haraldr harðráði",
+                    "Harold Hardråde",
+                    "Harald Hardrada",
+                    "Harald Hardraade",
+                    "Harald Hardrade",
+                    "Harald Haarderade"
+                ]
+            }
+        ]
+    },
+    "5879525975812438275": {
+        "query": "cuántas clases diferentes de pulpos hay",
+        "answer": [
+            {
+                "type": "number",
+                "text": "300.0",
+                "aliases": [
+                    "300"
+                ]
+            }
+        ]
+    },
+    "3965322379589577846": {
+        "query": "quién hace la voz de Tintín en Las aventuras de Tintín",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q297071",
+                "text": "Jamie Bell",
+                "aliases": []
+            }
+        ]
+    },
+    "199825077536341316": {
+        "query": "quién tiene poderes para esteblacer el consejo interestatal",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q30461",
+                "text": "presidente",
+                "aliases": [
+                    "Pdte.",
+                    "Pdte",
+                    "presidenta",
+                    "máximo mandatario",
+                    "maximo mandatario"
+                ]
+            }
+        ]
+    },
+    "4077698931842467403": {
+        "query": "¿Quién canta Put the Lime in the Coconut?",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q281034",
+                "text": "Harry Nilsson",
+                "aliases": []
+            }
+        ]
+    },
+    "-6162333554866458614": {
+        "query": "¿Cuáles son los nombres de los monos en el planeta de los simios?",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q85750041",
+                "text": "César",
+                "aliases": [
+                    "Cesar",
+                    "Lista de personajes de El planeta de los simios"
+                ]
+            },
+            {
+                "type": "entity",
+                "text": "Koba",
+                "entity": "Q85774749"
+            },
+            {
+                "type": "entity",
+                "text": "César",
+                "entity": "Q85750041"
+            },
+            {
+                "type": "short_phrase",
+                "text": "Cornelius "
+            },
+            {
+                "type": "short_phrase",
+                "text": "Ojos Azules"
+            }
+        ]
+    },
+    "-595650446576941707": {
+        "query": "cuál es el lago más grande de los grandes lagos",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q1066",
+                "text": "Lago Superior",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "text": "Lago Michigan-Huron",
+                "entity": "Q1377732"
+            }
+        ]
+    },
+    "7154426407538663547": {
+        "query": "cual es el nombre del coche amarillo en cars 3",
+        "answer": [
+            {
+                "type": "entity",
+                "text": "Cruz Ramirez",
+                "entity": "Q24265055"
+            }
+        ]
+    },
+    "8305712435416596505": {
+        "query": "cual es el record en el tablero de cien yardas",
+        "answer": [
+            {
+                "type": "number_with_unit",
+                "text": "9.58 segundos",
+                "aliases": []
+            }
+        ]
+    },
+    "-5251885204345996078": {
+        "query": "qué significa FAST en relación con los accidentes cerebrovasculares",
+        "answer": [
+            {
+                "type": "entity",
+                "text": "FAST",
+                "entity": "Q5424487"
+            }
+        ]
+    },
+    "-7070067265434939483": {
+        "query": "Qué día es el desfile del orgullo en Toronto",
+        "answer": [
+            {
+                "type": "date",
+                "text": "2020-06-26",
+                "aliases": [
+                    "2020 june, 26",
+                    "2020 06 26",
+                    "06-26-2020",
+                    "2020-06-26",
+                    "2020 junio 26",
+                    "06/26/2020",
+                    "26 06 2020",
+                    "26-06-2020",
+                    "06 26 2020",
+                    "26/06/2020",
+                    "26 junio 2020"
+                ]
+            }
+        ]
+    },
+    "8170950913865010587": {
+        "query": "qué tamaño tiene un ipad mini",
+        "answer": [
+            {
+                "type": "number_with_unit",
+                "text": "7.9 pulgada",
+                "aliases": []
+            }
+        ]
+    },
+    "46933305726586862": {
+        "query": "quien cantó la canción she wears my ring",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q7558692",
+                "text": "Solomon King",
+                "aliases": []
+            }
+        ]
+    },
+    "-1562894219989408434": {
+        "query": "cual es nombre del hijo de simba",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q123118",
+                "text": "Raymond Kopa",
+                "aliases": []
+            },
+            {
+                "type": "short_phrase",
+                "text": "Kopa"
+            }
+        ]
+    },
+    "1337245947825406175": {
+        "query": "¿Cuándo salió a la venta el primer móvil?",
+        "answer": [
+            {
+                "type": "date",
+                "text": "1973",
+                "aliases": [
+                    "1973"
+                ]
+            },
+            {
+                "type": "date",
+                "text": "1973-04-03",
+                "aliases": [
+                    "1973-04-03",
+                    "04/03/1973",
+                    "1973 04 03",
+                    "1973 april, 03",
+                    "03 04 1973",
+                    "04 03 1973",
+                    "03 abril 1973",
+                    "03-04-1973",
+                    "04-03-1973",
+                    "03/04/1973",
+                    "1973 abril 03"
+                ]
+            }
+        ]
+    },
+    "-1711577940839725776": {
+        "query": "quien hace de Eric en days of our lives",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q193513",
+                "text": "Jensen Ackles",
+                "aliases": [
+                    "Jensen Ackles Ross"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q530500",
+                "text": "Greg Vaughan",
+                "aliases": []
+            }
+        ]
+    },
+    "1650309494326541834": {
+        "query": "cuántos parques estatales hay en virginia",
+        "answer": [
+            {
+                "type": "number",
+                "text": "38.0",
+                "aliases": [
+                    "38"
+                ]
+            }
+        ]
+    },
+    "-3364802036692917473": {
+        "query": "quien hizo el eslogan no taxation without representation",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q557531",
+                "text": "James Otis, Jr.",
+                "aliases": []
+            }
+        ]
+    },
+    "-3201274624895632446": {
+        "query": "cuándo se estrenó Somos los Miller",
+        "answer": [
+            {
+                "type": "date",
+                "text": "2013",
+                "aliases": [
+                    "2013"
+                ]
+            }
+        ]
+    },
+    "7031684813017286074": {
+        "query": "cuando se convirtio goa en un estado de la india",
+        "answer": [
+            {
+                "type": "date",
+                "text": "1987-05-30",
+                "aliases": [
+                    "30 05 1987",
+                    "05-30-1987",
+                    "30 mayo 1987",
+                    "30-05-1987",
+                    "30/05/1987",
+                    "1987 may, 30",
+                    "05 30 1987",
+                    "1987 mayo 30",
+                    "1987 05 30",
+                    "1987-05-30",
+                    "05/30/1987"
+                ]
+            }
+        ]
+    },
+    "9078744492958649205": {
+        "query": "¿cuál es la estatura media de los hombres en francia?",
+        "answer": [
+            {
+                "type": "number_with_unit",
+                "text": "179.7 centímetro",
+                "aliases": []
+            }
+        ]
+    }
+}

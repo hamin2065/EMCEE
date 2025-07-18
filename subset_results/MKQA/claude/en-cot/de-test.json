@@ -1,0 +1,114 @@
+[
+    {
+        "id": "81543553621132354",
+        "prompt": "Answer the question in one or a few words in English: \nWo wurde \"Hilfe, die Amis kommen\" gefilmt?\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "To answer this, I'll recall details about the film \"Hilfe, die Amis kommen\" (Help, the Americans are Coming).\n\nThe film was primarily filmed in Germany, specifically in Bavaria. The exact location details suggest it was shot in the Munich area.\n\nAnswer: Bavaria, Germany",
+        "predicted_answer": "Bavaria, Germany",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q38",
+                "text": "Italien",
+                "aliases": [
+                    "Italienische Republik"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q142",
+                "text": "Frankreich",
+                "aliases": [
+                    "Franz\u00f6sische Republik",
+                    "Republik Frankreich",
+                    "fr"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q21",
+                "text": "England",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q713750",
+                "text": "Geschichte der Bundesrepublik Deutschland (bis 1990)",
+                "aliases": [
+                    "Alte Bundesrepublik",
+                    "Alte Bundesrepublik Deutschland",
+                    "Westdeutschland",
+                    "Bundesrepublik Deutschland (1949-1990)",
+                    "BR Dtld."
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "8627228541151141053",
+        "prompt": "Answer the question in one or a few words in English: \nwer singt das lied love will keep us together\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "Answer: Captain and Tennille",
+        "predicted_answer": "Captain and Tennille",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q1035077",
+                "text": "Captain & Tennille",
+                "aliases": [
+                    "The Captain and Tennille",
+                    "Captain and Tennille",
+                    "The Captain & Tennille",
+                    "Darrly Dragon",
+                    "Toni Tenille",
+                    "Tony Tennille"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "-7634638252335162798",
+        "prompt": "Answer the question in one or a few words in English: \nWie viele Staaten gibt es in den Continental United States\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "Answer: 48 states",
+        "predicted_answer": "48 states",
+        "ground_truth": [
+            {
+                "type": "number",
+                "text": "48.0",
+                "aliases": [
+                    "48"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "8643588946565257997",
+        "prompt": "Answer the question in one or a few words in English: \nwer ist der mann im i dont always meme\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "Answer: The Most Interesting Man in the World",
+        "predicted_answer": "The Most Interesting Man in the World",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q1255362",
+                "text": "Jonathan Goldsmith",
+                "aliases": []
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "6747693054679197435",
+        "prompt": "Answer the question in one or a few words in English: \nWer ist das j\u00fcngste Mitglied von \"why don't we\"\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "Answer: Corbyn Besson",
+        "predicted_answer": "Corbyn Besson",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "text": "Zachary Dean Herron",
+                "entity": "Q50437010"
+            }
+        ],
+        "is_correct": null
+    }
+]

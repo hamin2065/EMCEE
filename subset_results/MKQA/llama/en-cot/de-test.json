@@ -1,0 +1,114 @@
+[
+    {
+        "id": "81543553621132354",
+        "prompt": "Answer the question in one or a few words in English: \nWo wurde \"Hilfe, die Amis kommen\" gefilmt?\nLet's think step-by-step in English.\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "To find the location where \"Hilfe, die Amis kommen\" was filmed, let's break down the process:\n\n1. The title \"Hilfe, die Amis kommen\" is German, which means it's a German production.\n2. The title translates to \"Help, the Yanks are coming\" in English, which is a reference to the American military intervention.\n3. Considering it's a German production and the title's theme, it's likely a satirical or comedy film about the American military presence in Germany.\n4. Without more information, it's difficult to pinpoint the exact location. However, given the theme, it's possible that the film was shot in Germany.\n\nGiven the information and process, the answer would likely be a location in Germany. \n\nHowever, the exact location isn't specified in the question. Therefore, I will provide a general location based on the process.\n\nAnswer: Germany.",
+        "predicted_answer": "Germany.",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q38",
+                "text": "Italien",
+                "aliases": [
+                    "Italienische Republik"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q142",
+                "text": "Frankreich",
+                "aliases": [
+                    "Franz\u00f6sische Republik",
+                    "Republik Frankreich",
+                    "fr"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q21",
+                "text": "England",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q713750",
+                "text": "Geschichte der Bundesrepublik Deutschland (bis 1990)",
+                "aliases": [
+                    "Alte Bundesrepublik",
+                    "Alte Bundesrepublik Deutschland",
+                    "Westdeutschland",
+                    "Bundesrepublik Deutschland (1949-1990)",
+                    "BR Dtld."
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "8627228541151141053",
+        "prompt": "Answer the question in one or a few words in English: \nwer singt das lied love will keep us together\nLet's think step-by-step in English.\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "To find out who sings the song \"Love Will Keep Us Together,\" let's break it down step-by-step:\n\n1. The song \"Love Will Keep Us Together\" is a well-known hit from the 1970s.\n2. It was a number one single in several countries, including the United States.\n3. The song was performed by a famous American duo.\n\nConsidering these points, the most likely answer would be a well-known American duo from the 1970s.\n\nThe song \"Love Will Keep Us Together\" is famously performed by Captain & Tennille.\n\nAnswer: Captain & Tennille.",
+        "predicted_answer": "Captain & Tennille.",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q1035077",
+                "text": "Captain & Tennille",
+                "aliases": [
+                    "The Captain and Tennille",
+                    "Captain and Tennille",
+                    "The Captain & Tennille",
+                    "Darrly Dragon",
+                    "Toni Tenille",
+                    "Tony Tennille"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "-7634638252335162798",
+        "prompt": "Answer the question in one or a few words in English: \nWie viele Staaten gibt es in den Continental United States\nLet's think step-by-step in English.\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "The Continental United States refers to the 48 states excluding Alaska and Hawaii.\n\nTo determine the number of states, we can count the states that are not Alaska and Hawaii. \n\nThere are 50 states in total in the United States. \n\nSubtracting Alaska and Hawaii from the total number of states, we get: 50 - 2 = 48.\n\nAnswer: 48 states.",
+        "predicted_answer": "48 states.",
+        "ground_truth": [
+            {
+                "type": "number",
+                "text": "48.0",
+                "aliases": [
+                    "48"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "8643588946565257997",
+        "prompt": "Answer the question in one or a few words in English: \nwer ist der mann im i dont always meme\nLet's think step-by-step in English.\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "The \"I Don't Always\" meme typically features a man. \n\nTo identify the man, we need to consider popular memes or commercials associated with the phrase. \n\nOne well-known example is a commercial for Old Spice, featuring a spokesperson named Isaiah Mustafa. However, this is not the typical \"I Don't Always\" meme.\n\nA more common example is a series of memes featuring a man named Doug Williams, but this is not the most well-known.\n\nThe most well-known \"I Don't Always\" meme features a man named Doug, but he is not the main character. The main character is a man named Doug's friend, played by a man named Doug's friend, who is played by a man named Doug's friend, who is played by a man named  Doug's friend, who is played by a man named Doug's friend, who is played by a man named Doug's friend, who is played by a man named Doug's friend, who is played by a man named Doug's friend, who is played by a man named Doug's friend, who is played by a man named Doug's friend, who is played by a man named Doug's friend, who is played by a man named Doug's friend, who is played by a man named Doug's",
+        "predicted_answer": "The \"I Don't Always\" meme typically features a man. \n\nTo identify the man, we need to consider popular memes or commercials associated with the phrase. \n\nOne well-known example is a commercial for Old Spice, featuring a spokesperson named Isaiah Mustafa. However, this is not the typical \"I Don't Always\" meme.\n\nA more common example is a series of memes featuring a man named Doug Williams, but this is not the most well-known.\n\nThe most well-known \"I Don't Always\" meme features a man named Doug, but he is not the main character. The main character is a man named Doug's friend, played by a man named Doug's friend, who is played by a man named Doug's friend, who is played by a man named  Doug's friend, who is played by a man named Doug's friend, who is played by a man named Doug's friend, who is played by a man named Doug's friend, who is played by a man named Doug's friend, who is played by a man named Doug's friend, who is played by a man named Doug's friend, who is played by a man named Doug's friend, who is played by a man named Doug's friend, who is played by a man named Doug's",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q1255362",
+                "text": "Jonathan Goldsmith",
+                "aliases": []
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "6747693054679197435",
+        "prompt": "Answer the question in one or a few words in English: \nWer ist das j\u00fcngste Mitglied von \"why don't we\"\nLet's think step-by-step in English.\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "To answer this question, we need to know the members of the band \"Why Don't We\". \n\nThe band consists of Jonah Marais, Corbyn Besson, Daniel Seavey, Jack Avery, and Zach Herron.\n\nHowever, I do not have the most up-to-date information on the current members of the band. \n\nSince Zach Herron left the band in 2021, the current members are Jonah Marais, Corbyn Besson, Daniel Seavey, and Jack Avery.",
+        "predicted_answer": "To answer this question, we need to know the members of the band \"Why Don't We\". \n\nThe band consists of Jonah Marais, Corbyn Besson, Daniel Seavey, Jack Avery, and Zach Herron.\n\nHowever, I do not have the most up-to-date information on the current members of the band. \n\nSince Zach Herron left the band in 2021, the current members are Jonah Marais, Corbyn Besson, Daniel Seavey, and Jack Avery.",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "text": "Zachary Dean Herron",
+                "entity": "Q50437010"
+            }
+        ],
+        "is_correct": null
+    }
+]

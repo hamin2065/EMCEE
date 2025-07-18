@@ -1,0 +1,42 @@
+[
+    {
+        "id": "119",
+        "prompt": "Berikut adalah premis: Semua orang tidak setuju dengan tunangan pasangan itu.. Apa itu akibat? Bantu saya memilih opsi yang lebih masuk akal: -pilihan1: Pasangan itu hamil., -pilihan2: Pasangan itu kabur untuk menikah.\nMari kita berpikir langkah demi langkah dalam bahasa Indonesia.\nAnda harus hanya memilih satu opsi untuk jawaban Anda. Anda harus menjawab pertanyaan dalam format \"Jawaban: [1 atau 2]\"",
+        "response": "Mari kita analisis premis yang diberikan: \"Semua orang tidak setuju dengan tunangan pasangan itu.\" Ini menunjukkan bahwa ada penolakan atau ketidaksetujuan dari orang-orang di sekitar pasangan tersebut terhadap keputusan mereka untuk bertunangan.\n\nSekarang, kita lihat kedua pilihan yang ada:\n\n- Pilihan 1: Pasangan itu hamil. \n  - Ini tidak secara langsung berkaitan dengan ketidaksetujuan orang lain terhadap tunangan. Hamil bisa menjadi alasan untuk menikah, tetapi tidak menjelaskan mengapa semua orang tidak setuju dengan tunangan.\n\n- Pilihan 2: Pasangan itu kabur untuk menikah.\n  - Ini lebih masuk akal dalam konteks ketidaksetujuan. Jika semua orang tidak setuju dengan tunangan, pasangan tersebut mungkin merasa tertekan dan memutuskan untuk kabur dan menikah tanpa persetujuan orang lain.\n\nBerdasarkan analisis ini, pilihan yang lebih masuk akal adalah pilihan kedua.\n\nJawaban: 2",
+        "predicted_answer": 2,
+        "ground_truth": 1,
+        "is_correct": true
+    },
+    {
+        "id": "470",
+        "prompt": "Berikut adalah premis: Acara televisi itu disensor.. Apa itu penyebab? Bantu saya memilih opsi yang lebih masuk akal: -pilihan1: Acar itu berisi bahasa vulgar., -pilihan2: Acara itu memiliki plot yang rumit.\nMari kita berpikir langkah demi langkah dalam bahasa Indonesia.\nAnda harus hanya memilih satu opsi untuk jawaban Anda. Anda harus menjawab pertanyaan dalam format \"Jawaban: [1 atau 2]\"",
+        "response": "Mari kita analisis kedua pilihan yang ada.\n\n- Pilihan 1: \"Acar itu berisi bahasa vulgar.\" \n  - Ini adalah alasan yang umum untuk penyensoran. Banyak acara televisi disensor karena mengandung kata-kata kasar atau bahasa yang tidak pantas untuk semua usia.\n\n- Pilihan 2: \"Acara itu memiliki plot yang rumit.\"\n  - Meskipun plot yang rumit bisa membuat acara sulit dipahami, itu bukan alasan yang umum untuk penyensoran. Penyensoran biasanya lebih berkaitan dengan konten yang dianggap tidak pantas.\n\nBerdasarkan analisis di atas, pilihan yang lebih masuk akal sebagai penyebab penyensoran adalah pilihan pertama.\n\nJawaban: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "316",
+        "prompt": "Berikut adalah premis: Saya terbangun di tengah malam karena kedinginan.. Apa itu akibat? Bantu saya memilih opsi yang lebih masuk akal: -pilihan1: Saya pakai celana hangat., -pilihan2: Saya minum segelas air.\nMari kita berpikir langkah demi langkah dalam bahasa Indonesia.\nAnda harus hanya memilih satu opsi untuk jawaban Anda. Anda harus menjawab pertanyaan dalam format \"Jawaban: [1 atau 2]\"",
+        "response": "Mari kita analisis premisnya: \"Saya terbangun di tengah malam karena kedinginan.\" Dari situ, kita mencari akibat yang paling logis dari situasi tersebut.\n\n- Pilihan 1: \"Saya pakai celana hangat.\" Ini adalah respons yang logis terhadap kedinginan, karena mengenakan celana hangat dapat membantu mengatasi rasa dingin.\n\n- Pilihan 2: \"Saya minum segelas air.\" Meskipun minum air bisa menjadi hal yang baik, itu tidak langsung berkaitan dengan mengatasi kedinginan.\n\nDengan mempertimbangkan kedua pilihan tersebut, pilihan yang lebih masuk akal sebagai akibat dari terbangun karena kedinginan adalah pilihan 1.\n\nJawaban: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "185",
+        "prompt": "Berikut adalah premis: Saya olahraga.. Apa itu penyebab? Bantu saya memilih opsi yang lebih masuk akal: -pilihan1: Saya merasa penuh semangat., -pilihan2: Saya takut.\nMari kita berpikir langkah demi langkah dalam bahasa Indonesia.\nAnda harus hanya memilih satu opsi untuk jawaban Anda. Anda harus menjawab pertanyaan dalam format \"Jawaban: [1 atau 2]\"",
+        "response": "Mari kita analisis kedua pilihan tersebut.\n\n1. **Pilihan 1: Saya merasa penuh semangat.** - Jika seseorang berolahraga, biasanya itu karena mereka merasa bersemangat untuk menjaga kesehatan, meningkatkan kebugaran, atau menikmati aktivitas fisik. Rasa semangat ini bisa menjadi motivasi yang kuat untuk berolahraga.\n\n2. **Pilihan 2: Saya takut.** - Meskipun ada orang yang mungkin berolahraga karena takut akan konsekuensi kesehatan (seperti penyakit), rasa takut umumnya bukanlah motivasi yang positif untuk berolahraga. Biasanya, orang lebih termotivasi oleh perasaan positif daripada perasaan negatif.\n\nBerdasarkan analisis di atas, pilihan yang lebih masuk akal sebagai penyebab dari \"Saya olahraga\" adalah pilihan yang mencerminkan motivasi positif.\n\nJawaban: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "360",
+        "prompt": "Berikut adalah premis: Pria itu menonjol sekali di tengah kerumunan.. Apa itu penyebab? Bantu saya memilih opsi yang lebih masuk akal: -pilihan1: Dia membawa ransel., -pilihan2: Dia mengenakan rompi neon.\nMari kita berpikir langkah demi langkah dalam bahasa Indonesia.\nAnda harus hanya memilih satu opsi untuk jawaban Anda. Anda harus menjawab pertanyaan dalam format \"Jawaban: [1 atau 2]\"",
+        "response": "Mari kita analisis kedua pilihan tersebut.\n\n- Pilihan 1: \"Dia membawa ransel.\" Ransel adalah barang yang umum dan banyak orang di kerumunan mungkin juga membawanya. Jadi, ini tidak terlalu menonjolkan pria tersebut di tengah kerumunan.\n\n- Pilihan 2: \"Dia mengenakan rompi neon.\" Rompi neon biasanya memiliki warna yang sangat mencolok dan dapat dengan mudah menarik perhatian orang lain. Ini akan membuat pria tersebut lebih menonjol di tengah kerumunan.\n\nBerdasarkan analisis di atas, pilihan yang lebih masuk akal adalah pilihan yang membuat pria tersebut lebih terlihat.\n\nJawaban: 2",
+        "predicted_answer": 2,
+        "ground_truth": 1,
+        "is_correct": true
+    }
+]

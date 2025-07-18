@@ -1,0 +1,52 @@
+[
+    {
+        "id": "349",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: Niliondoa tunda juu ya meza.\nWhat is the effect?\nChoice1: Tunda lilitoa mbegu.\nChoice2: Nzi walilizunguka tunda.\nExplanation: The premise states that \"I removed the fruit from the table.\" When fruit is left out, especially if it is ripe, it can attract insects like flies. This is a common occurrence in many cultures, as fruit emits scents that can draw in flies looking for food. Therefore, the effect of removing the fruit from the table would likely lead to fewer flies being attracted to it. Choice 2, \"Nzi walilizunguka tunda,\" which means \"Flies surrounded the fruit,\" is a direct consequence of the fruit being present on the table. However, since the premise indicates that the fruit was removed, this choice does not align with the effect of the action taken. Thus, the correct understanding is that removing the fruit would prevent flies from surrounding it, making choice 1, \"Tunda lilitoa mbegu,\" less relevant in this context.",
+        "response": "2",
+        "explanation": "The premise states that \"I removed the fruit from the table.\" When fruit is left out, especially if it is ripe, it can attract insects like flies. This is a common occurrence in many cultures, as fruit emits scents that can draw in flies looking for food. Therefore, the effect of removing the fruit from the table would likely lead to fewer flies being attracted to it. Choice 2, \"Nzi walilizunguka tunda,\" which means \"Flies surrounded the fruit,\" is a direct consequence of the fruit being present on the table. However, since the premise indicates that the fruit was removed, this choice does not align with the effect of the action taken. Thus, the correct understanding is that removing the fruit would prevent flies from surrounding it, making choice 1, \"Tunda lilitoa mbegu,\" less relevant in this context.",
+        "predicted_answer": "2",
+        "ground_truth": 1,
+        "is_correct": true
+    },
+    {
+        "id": "216",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: Alipiga mbweu.\nWhat is the cause?\nChoice1: Alibugia soda.\nChoice2: Alifungua kopo la soda.\nExplanation: The premise states that someone \"popped\" or \"opened\" something, which in this context likely refers to the sound made when opening a can. Choice 1, \"Alibugia soda,\" means \"He/she drank soda,\" which does not directly relate to the action of popping. On the other hand, Choice 2, \"Alifungua kopo la soda,\" means \"He/she opened a can of soda,\" which directly explains the cause of the popping sound. Opening a can of soda typically creates a distinct sound due to the release of pressure. Therefore, the correct choice is that the person opened a can of soda.",
+        "response": "2",
+        "explanation": "The premise states that someone \"popped\" or \"opened\" something, which in this context likely refers to the sound made when opening a can. Choice 1, \"Alibugia soda,\" means \"He/she drank soda,\" which does not directly relate to the action of popping. On the other hand, Choice 2, \"Alifungua kopo la soda,\" means \"He/she opened a can of soda,\" which directly explains the cause of the popping sound. Opening a can of soda typically creates a distinct sound due to the release of pressure. Therefore, the correct choice is that the person opened a can of soda.",
+        "predicted_answer": "2",
+        "ground_truth": 0,
+        "is_correct": false
+    },
+    {
+        "id": "193",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: Mwanamke  ana mviringo chini ya jicho lake.\nWhat is the cause?\nChoice1: Alibakia macho  usiku kucha.\nChoice2: Alimpeleka mtoto wake wa kiume kulala.\nExplanation: The premise states that a woman has a circle (or dark circle) under her eye, which is often associated with lack of sleep or fatigue. Choice 1 suggests that she stayed awake all night, which is a common cause of dark circles under the eyes due to tiredness and strain. On the other hand, choice 2 mentions that she took her son to bed, which does not directly explain the presence of dark circles. While caring for a child can be tiring, the more direct cause of dark circles in this context is staying awake all night. Therefore, the correct choice is \"Alibakia macho usiku kucha,\" meaning \"She stayed awake all night.\"",
+        "response": "1",
+        "explanation": "The premise states that a woman has a circle (or dark circle) under her eye, which is often associated with lack of sleep or fatigue. Choice 1 suggests that she stayed awake all night, which is a common cause of dark circles under the eyes due to tiredness and strain. On the other hand, choice 2 mentions that she took her son to bed, which does not directly explain the presence of dark circles. While caring for a child can be tiring, the more direct cause of dark circles in this context is staying awake all night. Therefore, the correct choice is \"Alibakia macho usiku kucha,\" meaning \"She stayed awake all night.\"",
+        "predicted_answer": "1",
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "309",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: Wmwanamke aliwasiliana kwa lugha ya alama.\nWhat is the cause?\nChoice1: Alizaliwa kabla ya wakati.\nChoice2: Alizaliwa kiziwi.\nExplanation: The premise states that a woman communicated using sign language. Sign language is primarily used by individuals who are deaf or hard of hearing, as it provides a visual means of communication. Choice 1, which suggests that she was born prematurely, does not directly relate to the use of sign language. In contrast, choice 2 states that she was born deaf, which is a common reason for someone to use sign language as their primary mode of communication. Therefore, the correct choice is \"Alizaliwa kiziwi,\" meaning \"She was born deaf,\" as it directly explains why she would communicate using sign language.",
+        "response": "2",
+        "explanation": "The premise states that a woman communicated using sign language. Sign language is primarily used by individuals who are deaf or hard of hearing, as it provides a visual means of communication. Choice 1, which suggests that she was born prematurely, does not directly relate to the use of sign language. In contrast, choice 2 states that she was born deaf, which is a common reason for someone to use sign language as their primary mode of communication. Therefore, the correct choice is \"Alizaliwa kiziwi,\" meaning \"She was born deaf,\" as it directly explains why she would communicate using sign language.",
+        "predicted_answer": "2",
+        "ground_truth": 1,
+        "is_correct": true
+    },
+    {
+        "id": "379",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: Nilipoteza muda mwingi.\nWhat is the cause?\nChoice1: Nilikuwa na msururu wa mawazo mazuri.\nChoice2: Nilikuwa na kichefuchefu.\nExplanation: The premise states that the speaker lost a lot of time. To understand the cause, we need to consider which choice logically explains the loss of time. Choice 1 suggests that the speaker had a stream of good ideas, which typically would not lead to losing time; instead, it might lead to productive outcomes. On the other hand, choice 2 indicates that the speaker was feeling nauseous. Feeling unwell can certainly cause someone to lose time, as they may be unable to focus or complete tasks effectively. Therefore, the correct choice is \"Nilikuwa na kichefuchefu,\" meaning \"I was feeling nauseous,\" as it directly relates to the experience of losing time.",
+        "response": "2",
+        "explanation": "The premise states that the speaker lost a lot of time. To understand the cause, we need to consider which choice logically explains the loss of time. Choice 1 suggests that the speaker had a stream of good ideas, which typically would not lead to losing time; instead, it might lead to productive outcomes. On the other hand, choice 2 indicates that the speaker was feeling nauseous. Feeling unwell can certainly cause someone to lose time, as they may be unable to focus or complete tasks effectively. Therefore, the correct choice is \"Nilikuwa na kichefuchefu,\" meaning \"I was feeling nauseous,\" as it directly relates to the experience of losing time.",
+        "predicted_answer": "2",
+        "ground_truth": 0,
+        "is_correct": false
+    }
+]

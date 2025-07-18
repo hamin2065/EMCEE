@@ -1,0 +1,42 @@
+[
+    {
+        "id": "279",
+        "prompt": "Siin on eeltingimus: T\u00fcdruk \u00fchines v\u00e4itlusmeeskonnaga.. Mis on tagaj\u00e4rg? Aita mul valida usutavam variant: -valik1: Ta \u00f5ppis arvutit kasutama., -valik2: Ta \u00f5ppis suhtlusoskusi.\nSa peaksid oma vastuseks valima ainult \u00fche variandi. Sa peaksid vastama k\u00fcsimusele vormis \"Vastus: [1 v\u00f5i 2]\"",
+        "response": "Vastus: 2",
+        "predicted_answer": 2,
+        "ground_truth": 1,
+        "is_correct": true
+    },
+    {
+        "id": "112",
+        "prompt": "Siin on eeltingimus: Ma n\u00e4gin oma hinge\u00f5hku, kui ma v\u00e4lja hindasin.. Mis on p\u00f5hjus? Aita mul valida usutavam variant: -valik1: Ilm oli jahe., -valik2: Mul oli rinnus kitsas.\nSa peaksid oma vastuseks valima ainult \u00fche variandi. Sa peaksid vastama k\u00fcsimusele vormis \"Vastus: [1 v\u00f5i 2]\"",
+        "response": "Vastus: 2",
+        "predicted_answer": 2,
+        "ground_truth": 0,
+        "is_correct": false
+    },
+    {
+        "id": "23",
+        "prompt": "Siin on eeltingimus: \u00d5pilane teadis k\u00fcsimusele vastust.. Mis on tagaj\u00e4rg? Aita mul valida usutavam variant: -valik1: Ta t\u00f5stis oma k\u00e4e., -valik2: Ta viilis.\nSa peaksid oma vastuseks valima ainult \u00fche variandi. Sa peaksid vastama k\u00fcsimusele vormis \"Vastus: [1 v\u00f5i 2]\"",
+        "response": "Vastus: 2",
+        "predicted_answer": 2,
+        "ground_truth": 0,
+        "is_correct": false
+    },
+    {
+        "id": "140",
+        "prompt": "Siin on eeltingimus: Poiss teritas pliiatsit.. Mis on p\u00f5hjus? Aita mul valida usutavam variant: -valik1: See oli odav., -valik2: See oli n\u00fcri.\nSa peaksid oma vastuseks valima ainult \u00fche variandi. Sa peaksid vastama k\u00fcsimusele vormis \"Vastus: [1 v\u00f5i 2]\"",
+        "response": "Vastus: 2",
+        "predicted_answer": 2,
+        "ground_truth": 1,
+        "is_correct": true
+    },
+    {
+        "id": "445",
+        "prompt": "Siin on eeltingimus: Naine haaras oma k\u00f5rist.. Mis on p\u00f5hjus? Aita mul valida usutavam variant: -valik1: Ta neelas oma toidu alla., -valik2: Ta l\u00e4mbus oma toidu k\u00e4es.\nSa peaksid oma vastuseks valima ainult \u00fche variandi. Sa peaksid vastama k\u00fcsimusele vormis \"Vastus: [1 v\u00f5i 2]\"",
+        "response": "Vastus: 1",
+        "predicted_answer": 1,
+        "ground_truth": 1,
+        "is_correct": false
+    }
+]

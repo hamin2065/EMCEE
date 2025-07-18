@@ -1,0 +1,119 @@
+[
+    {
+        "id": "81543553621132354",
+        "sys_prompt": "You are a judge from the German tradition, known for your wisdom and fairness. Although your cultural background is German, you are fluent in English and will conduct this task in English. You are given a reasoning question. There is a debate on this question between user1 and user2. Your task is to listen to their arguments carefully and provide a fair and wise judgment.\nYour response should be in English.\nSummarize the debate briefly and then give a conclusion based on the arguments presented. Your response should be in the format: \n\"Summary: ___. Conclusion: [answer] is more plausible.\n\nAnswer: [one or a few words in English]\"\n\nApproach the task with the fairness and critical thinking expected of a German judge, ensuring you make only one answer for the final answer.",
+        "user_prompt": "Question: Wo wurde \"Hilfe, die Amis kommen\" gefilmt?\n\nuser1: To find the location where \"Hilfe, die Amis kommen\" was filmed, let's break down the process:\n\n1. The title \"Hilfe, die Amis kommen\" is German, which means it's a German production.\n2. The title translates to \"Help, the Yanks are coming\" in English, which is a reference to the American military intervention.\n3. Considering it's a German production and the title's theme, it's likely a satirical or comedy film about the American military presence in Germany.\n4. Without more information, it's difficult to pinpoint the exact location. However, given the theme, it's possible that the film was shot in Germany.\n\nGiven the information and process, the answer would likely be a location in Germany. \n\nHowever, the exact location isn't specified in the question. Therefore, I will provide a general location based on the process.\n\nAnswer: Germany.\n\nuser2: \"Hilfe, die Amis kommen\" ist eine deutsche Filmkom\u00f6die aus dem Jahr 2002. Der Film spielt in der deutschen Stadt Sankt Augustin, die in der N\u00e4he von Bonn liegt. Die Handlung dreht sich um die Begegnung zwischen deutschen Jugendlichen und amerikanischen Soldaten, die in Deutschland stationiert sind. Der Film wurde in Sankt Augustin und Umgebung gedreht, um die authentische Atmosph\u00e4re der Stadt und ihrer Bewohner zu erfassen.\nAnswer: Sankt Augustin.",
+        "response": "Summary: User1 provided a general location based on the title and theme of the film, concluding that it was likely filmed in Germany. User2, however, provided specific information about the film, stating that it was set and filmed in Sankt Augustin, a city near Bonn, Germany.\n\nConclusion: Sankt Augustin is more plausible.\n\nAnswer: Sankt Augustin.",
+        "predicted_answer": "Sankt Augustin.",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q38",
+                "text": "Italien",
+                "aliases": [
+                    "Italienische Republik"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q142",
+                "text": "Frankreich",
+                "aliases": [
+                    "Franz\u00f6sische Republik",
+                    "Republik Frankreich",
+                    "fr"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q21",
+                "text": "England",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q713750",
+                "text": "Geschichte der Bundesrepublik Deutschland (bis 1990)",
+                "aliases": [
+                    "Alte Bundesrepublik",
+                    "Alte Bundesrepublik Deutschland",
+                    "Westdeutschland",
+                    "Bundesrepublik Deutschland (1949-1990)",
+                    "BR Dtld."
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "8627228541151141053",
+        "sys_prompt": "You are a judge from the German tradition, known for your wisdom and fairness. Although your cultural background is German, you are fluent in English and will conduct this task in English. You are given a reasoning question. There is a debate on this question between user1 and user2. Your task is to listen to their arguments carefully and provide a fair and wise judgment.\nYour response should be in English.\nSummarize the debate briefly and then give a conclusion based on the arguments presented. Your response should be in the format: \n\"Summary: ___. Conclusion: [answer] is more plausible.\n\nAnswer: [one or a few words in English]\"\n\nApproach the task with the fairness and critical thinking expected of a German judge, ensuring you make only one answer for the final answer.",
+        "user_prompt": "Question: wer singt das lied love will keep us together\n\nuser1: To find out who sings the song \"Love Will Keep Us Together,\" let's break it down step-by-step:\n\n1. The song \"Love Will Keep Us Together\" is a well-known hit from the 1970s.\n2. It was a number one single in several countries, including the United States.\n3. The song was performed by a famous American duo.\n\nConsidering these points, the most likely answer would be a well-known American duo from the 1970s.\n\nThe song \"Love Will Keep Us Together\" is famously performed by Captain & Tennille.\n\nAnswer: Captain & Tennille.\n\nuser2: The song \"Love Will Keep Us Together\" is a popular hit from the 1970s. It was performed by the American duo Captain & Tennille, which consisted of husband and wife Toni Tennille and Daryl Dragon. The song was released in 1975 and became a huge success, topping the Billboard Hot 100 chart. To answer the question, the correct answer would be Captain & Tennille.\nAnswer: Answer: Captain & Tennille.",
+        "response": "Summary: Both user1 and user2 agree that the song \"Love Will Keep Us Together\" is a well-known hit from the 1970s, performed by the American duo Captain & Tennille, which consisted of Toni Tennille and Daryl Dragon. They both conclude that the correct answer is Captain & Tennille.\n\nConclusion: Captain & Tennille.\n\nNote: Since both user1 and user2 presented the same information and conclusion, it is clear and straightforward that Captain & Tennille indeed performs the song \"Love Will Keep Us Together.\"",
+        "predicted_answer": "Summary: Both user1 and user2 agree that the song \"Love Will Keep Us Together\" is a well-known hit from the 1970s, performed by the American duo Captain & Tennille, which consisted of Toni Tennille and Daryl Dragon. They both conclude that the correct answer is Captain & Tennille.\n\nConclusion: Captain & Tennille.\n\nNote: Since both user1 and user2 presented the same information and conclusion, it is clear and straightforward that Captain & Tennille indeed performs the song \"Love Will Keep Us Together.\"",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q1035077",
+                "text": "Captain & Tennille",
+                "aliases": [
+                    "The Captain and Tennille",
+                    "Captain and Tennille",
+                    "The Captain & Tennille",
+                    "Darrly Dragon",
+                    "Toni Tenille",
+                    "Tony Tennille"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "-7634638252335162798",
+        "sys_prompt": "You are a judge from the German tradition, known for your wisdom and fairness. Although your cultural background is German, you are fluent in English and will conduct this task in English. You are given a reasoning question. There is a debate on this question between user1 and user2. Your task is to listen to their arguments carefully and provide a fair and wise judgment.\nYour response should be in English.\nSummarize the debate briefly and then give a conclusion based on the arguments presented. Your response should be in the format: \n\"Summary: ___. Conclusion: [answer] is more plausible.\n\nAnswer: [one or a few words in English]\"\n\nApproach the task with the fairness and critical thinking expected of a German judge, ensuring you make only one answer for the final answer.",
+        "user_prompt": "Question: Wie viele Staaten gibt es in den Continental United States\n\nuser1: The Continental United States refers to the 48 states excluding Alaska and Hawaii.\n\nTo determine the number of states, we can count the states that are not Alaska and Hawaii. \n\nThere are 50 states in total in the United States. \n\nSubtracting Alaska and Hawaii from the total number of states, we get: 50 - 2 = 48.\n\nAnswer: 48 states.\n\nuser2: In den Continental United States (der kontinentalen Vereinigten Staaten, also ohne Hawaii und Alaska) gibt es 48 Bundesstaaten. Dieser Begriff bezieht sich auf die 48 Bundesstaaten, die auf dem nordamerikanischen Kontinent liegen, aber nicht auf die beiden westlichen Bundesstaaten, Alaska und Hawaii, die auf Inseln liegen.\nAnswer: Answer: 48",
+        "response": "Summary: User1 and User2 both agree that the Continental United States refers to the 48 states excluding Alaska and Hawaii. They both use a similar method to calculate the number of states, which is to subtract Alaska and Hawaii from the total number of states (50). They both arrive at the same conclusion that there are 48 states in the Continental United States.\n\nConclusion: 48 states.",
+        "predicted_answer": "Summary: User1 and User2 both agree that the Continental United States refers to the 48 states excluding Alaska and Hawaii. They both use a similar method to calculate the number of states, which is to subtract Alaska and Hawaii from the total number of states (50). They both arrive at the same conclusion that there are 48 states in the Continental United States.\n\nConclusion: 48 states.",
+        "ground_truth": [
+            {
+                "type": "number",
+                "text": "48.0",
+                "aliases": [
+                    "48"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "8643588946565257997",
+        "sys_prompt": "You are a judge from the German tradition, known for your wisdom and fairness. Although your cultural background is German, you are fluent in English and will conduct this task in English. You are given a reasoning question. There is a debate on this question between user1 and user2. Your task is to listen to their arguments carefully and provide a fair and wise judgment.\nYour response should be in English.\nSummarize the debate briefly and then give a conclusion based on the arguments presented. Your response should be in the format: \n\"Summary: ___. Conclusion: [answer] is more plausible.\n\nAnswer: [one or a few words in English]\"\n\nApproach the task with the fairness and critical thinking expected of a German judge, ensuring you make only one answer for the final answer.",
+        "user_prompt": "Question: wer ist der mann im i dont always meme\n\nuser1: The \"I Don't Always\" meme typically features a man. \n\nTo identify the man, we need to consider popular memes or commercials associated with the phrase. \n\nOne well-known example is a commercial for Old Spice, featuring a spokesperson named Isaiah Mustafa. However, this is not the typical \"I Don't Always\" meme.\n\nA more common example is a series of memes featuring a man named Doug Williams, but this is not the most well-known.\n\nThe most well-known \"I Don't Always\" meme features a man named Doug, but he is not the main character. The main character is a man named Doug's friend, played by a man named Doug's friend, who is played by a man named Doug's friend, who is played by a man named  Doug's friend, who is played by a man named Doug's friend, who is played by a man named Doug's friend, who is played by a man named Doug's friend, who is played by a man named Doug's friend, who is played by a man named Doug's friend, who is played by a man named Doug's friend, who is played by a man named Doug's friend, who is played by a man named Doug's friend, who is played by a man named Doug's\n\nuser2: The \"I Don't Always\" meme is a popular internet meme that originated from a series of commercials for the beer brand Dos Equis. The character in the meme is a fictional character named \"The Most Interesting Man in the World,\" played by actor Jonathan Goldsmith. He is a charismatic and adventurous figure with a distinctive mustache and a charming personality. In the commercials, he would often start a sentence with \"I don't always,\" followed by a humorous and unexpected statement about his life experiences.\nAnswer: Answer: Jonathan Goldsmith.",
+        "response": "Summary: User1 argues that the \"I Don't Always\" meme features a man named Doug, but the main character is Doug's friend, who is played by a series of men named Doug's friend. User2 argues that the meme originated from a series of commercials for Dos Equis, featuring a fictional character named \"The Most Interesting Man in the World,\" played by Jonathan Goldsmith.\n\nConclusion: Jonathan Goldsmith is more plausible.\n\nReasoning: User2's argument is more convincing as it directly references the origin of the meme from the Dos Equis commercials, which is widely recognized as the source of the \"I Don't Always\" meme. Jonathan Goldsmith's character is also a well-known and iconic figure associated with the meme. In contrast, User1's argument is based on a series of vague and confusing statements about a man named Doug's friend, which does not provide a clear or reliable identification of the character.",
+        "predicted_answer": "Summary: User1 argues that the \"I Don't Always\" meme features a man named Doug, but the main character is Doug's friend, who is played by a series of men named Doug's friend. User2 argues that the meme originated from a series of commercials for Dos Equis, featuring a fictional character named \"The Most Interesting Man in the World,\" played by Jonathan Goldsmith.\n\nConclusion: Jonathan Goldsmith is more plausible.\n\nReasoning: User2's argument is more convincing as it directly references the origin of the meme from the Dos Equis commercials, which is widely recognized as the source of the \"I Don't Always\" meme. Jonathan Goldsmith's character is also a well-known and iconic figure associated with the meme. In contrast, User1's argument is based on a series of vague and confusing statements about a man named Doug's friend, which does not provide a clear or reliable identification of the character.",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q1255362",
+                "text": "Jonathan Goldsmith",
+                "aliases": []
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "6747693054679197435",
+        "sys_prompt": "You are a judge from the German tradition, known for your wisdom and fairness. Although your cultural background is German, you are fluent in English and will conduct this task in English. You are given a reasoning question. There is a debate on this question between user1 and user2. Your task is to listen to their arguments carefully and provide a fair and wise judgment.\nYour response should be in English.\nSummarize the debate briefly and then give a conclusion based on the arguments presented. Your response should be in the format: \n\"Summary: ___. Conclusion: [answer] is more plausible.\n\nAnswer: [one or a few words in English]\"\n\nApproach the task with the fairness and critical thinking expected of a German judge, ensuring you make only one answer for the final answer.",
+        "user_prompt": "Question: Wer ist das j\u00fcngste Mitglied von \"why don't we\"\n\nuser1: To answer this question, we need to know the members of the band \"Why Don't We\". \n\nThe band consists of Jonah Marais, Corbyn Besson, Daniel Seavey, Jack Avery, and Zach Herron.\n\nHowever, I do not have the most up-to-date information on the current members of the band. \n\nSince Zach Herron left the band in 2021, the current members are Jonah Marais, Corbyn Besson, Daniel Seavey, and Jack Avery.\n\nuser2: \"why don't we\" ist eine US-amerikanische Boyband, die 2016 gegr\u00fcndet wurde. Das Gruppenmitglied Jonah Marais ist eines der j\u00fcngsten Mitglieder der Band.\nAnswer: Answer: Jonah Marais",
+        "response": "Summary: User1 provided a general overview of the band members of \"Why Don't We\", mentioning that Zach Herron left the band in 2021, which would make the current members Jonah Marais, Corbyn Besson, Daniel Seavey, and Jack Avery. User2 stated that Jonah Marais is one of the youngest members of the band, without providing further information on the band's current members.\n\nConclusion: Jonah Marais is more plausible.\n\nAnswer: Jonah",
+        "predicted_answer": "Jonah",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "text": "Zachary Dean Herron",
+                "entity": "Q50437010"
+            }
+        ],
+        "is_correct": null
+    }
+]

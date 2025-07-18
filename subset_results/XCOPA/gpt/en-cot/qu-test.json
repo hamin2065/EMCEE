@@ -1,0 +1,42 @@
+[
+    {
+        "id": "302",
+        "prompt": "Here is a premise: Llimp'iwan wallpaqqa q'illutawan anqastawan chaqrurqan.. What is the effect? Help me pick the more plausible option: -choice1: Llimp'iqa lliwpi ch'allakurqan., -choice2: [choice]\nLet's think step-by-step in English.\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "To analyze the premise \"Llimp'iwan wallpaqqa q'illutawan anqastawan chaqrurqan,\" we need to understand its meaning. It seems to describe a situation involving a bird (wallpa) and possibly some action related to it (q'illutawan, anqastawan, chaqrurqan).\n\nNow, let's look at the choices:\n\n- **Choice 1**: \"Llimp'iqa lliwpi ch'allakurqan.\" This could imply that something related to Llimp'i (perhaps a bird or a person) is being nurtured or cared for (ch'allakurqan).\n\n- **Choice 2**: [choice] (not provided).\n\nSince we don't have the content of choice 2, we can only evaluate choice 1. It seems to suggest a positive outcome or effect related to nurturing or caring for something.\n\nGiven that we are looking for a plausible effect based on the premise, and since choice 2 is not available for comparison, I will select choice 1 as the more plausible option.\n\nAnswer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 1,
+        "is_correct": false
+    },
+    {
+        "id": "301",
+        "prompt": "Here is a premise: Yachaqiqa hatun-yachaywasimanta graduasqa lluqsirqan.. What is the effect? Help me pick the more plausible option: -choice1: Payqa llamk'anatam maskharqan., -choice2: [choice]\nLet's think step-by-step in English.\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "To analyze the premise \"Yachaqiqa hatun-yachaywasimanta graduasqa lluqsirqan,\" we can break it down. It seems to refer to a person (Yachaqiqa hatun) who has graduated from a place of learning (yachaywasimanta). The phrase suggests a positive outcome related to education or achievement.\n\nNow, let's consider the choices:\n\n- **Choice 1**: \"Payqa llamk'anatam maskharqan.\" This translates to something like \"They have made fun of their work.\" This seems negative and does not align with the positive implication of graduation.\n\n- **Choice 2**: The second choice is not provided, but we can infer that it should ideally reflect a positive outcome or effect related to the graduation mentioned in the premise.\n\nSince choice 1 does not align with the positive context of graduation, it is less plausible. Without knowing what choice 2 is, we can still conclude that choice 1 is not a suitable effect of the premise.\n\nThus, the more plausible option is:\n\nAnswer: 2",
+        "predicted_answer": 2,
+        "ground_truth": 0,
+        "is_correct": false
+    },
+    {
+        "id": "15",
+        "prompt": "Here is a premise: C\u00f3digo nisqata warmaqa umanpi yuyanchakurqan.. What is the cause? Help me pick the more plausible option: -choice1: Hatun kunkapi rimaspa kikinman yachachikurqan., -choice2: [choice]\nLet's think step-by-step in English.\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "To analyze the premise \"C\u00f3digo nisqata warmaqa umanpi yuyanchakurqan,\" which translates to \"The code has been thought of in the mind of the child,\" we need to determine the cause of this situation.\n\nNow, let's look at the choices:\n\n- **Choice 1**: \"Hatun kunkapi rimaspa kikinman yachachikurqan,\" which translates to \"By speaking from the great sleep, they have learned for themselves.\"\n- **Choice 2**: [choice]\n\nThe premise suggests that the child has thought about or conceptualized something based on a code. Choice 1 implies that there is a process of learning or understanding that comes from a deeper state of awareness or experience (\"great sleep\"). This could be interpreted as a metaphor for gaining knowledge or insight.\n\nGiven that the premise involves a child thinking about a code, it seems plausible that the cause of this thought process could be linked to a learning experience or a form of communication that has led to this understanding.\n\nTherefore, the more plausible option that connects the premise to a cause is:\n\nAnswer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "112",
+        "prompt": "Here is a premise: Hawaman samarisqayta rikurqani.. What is the cause? Help me pick the more plausible option: -choice1: Pachaqa as chirim karqan., -choice2: [choice]\nLet's think step-by-step in English.\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "To analyze the premise \"Hawaman samarisqayta rikurqani,\" which translates to \"I will show you the way to the future,\" we need to consider the options provided.\n\n- Choice 1: \"Pachaqa as chirim karqan,\" which could be interpreted as \"The future is like a cold breeze.\"\n- Choice 2: [choice] (not provided).\n\nSince we only have one option to analyze, we can infer that the first choice relates to the idea of the future being uncertain or challenging, akin to a cold breeze. \n\nGiven that the premise is about showing the way to the future, it seems more plausible that the cause relates to the nature of the future itself, which is often described in metaphorical terms.\n\nTherefore, the more plausible option is:\n\nAnswer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "36",
+        "prompt": "Here is a premise: Suyukunaqa aywanakuy guerra nisqamanta lluqsiyta munarirqanku.. What is the effect? Help me pick the more plausible option: -choice1: Paykunaqa armas nucleares nisqatam ruwayta qallarirqanku., -choice2: [choice]\nLet's think step-by-step in English.\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "To analyze the premise \"Suyukunaqa aywanakuy guerra nisqamanta lluqsiyta munarirqanku,\" we can break it down. The premise suggests that there is a desire for war or conflict among certain groups or individuals.\n\nNow, let's evaluate the choices:\n\n- **Choice 1**: \"Paykunaqa armas nucleares nisqatam ruwayta qallarirqanku.\" This translates to \"They are preparing to use nuclear weapons.\" This choice implies a serious escalation of conflict, which aligns with the idea of a desire for war.\n\n- **Choice 2**: [choice] (not provided, so we cannot evaluate it).\n\nSince we only have one choice to evaluate, and it directly relates to the premise of wanting war, it seems plausible.\n\nTherefore, the answer is:\n\nAnswer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 1,
+        "is_correct": false
+    }
+]

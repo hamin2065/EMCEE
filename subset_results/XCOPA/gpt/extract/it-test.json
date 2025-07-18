@@ -1,0 +1,52 @@
+[
+    {
+        "id": "136",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: Il palazzo in centro citt\u00e0 \u00e8 crollato.\nWhat is the cause?\nChoice1: Un terremoto ha colpito la citt\u00e0.\nChoice2: La criminalit\u00e0 nella citt\u00e0 \u00e8 aumentata.\nExplanation: The premise states that a building in the city center has collapsed. The most logical cause of a building collapsing is typically a significant structural issue or an external force, such as an earthquake. Earthquakes can cause severe damage to buildings, leading to their collapse, especially if they are not built to withstand seismic activity. On the other hand, an increase in crime in the city does not directly relate to the physical integrity of a building. Therefore, the correct choice for the cause of the building's collapse is that an earthquake struck the city, making choice 1 the appropriate answer.",
+        "response": "1",
+        "explanation": "The premise states that a building in the city center has collapsed. The most logical cause of a building collapsing is typically a significant structural issue or an external force, such as an earthquake. Earthquakes can cause severe damage to buildings, leading to their collapse, especially if they are not built to withstand seismic activity. On the other hand, an increase in crime in the city does not directly relate to the physical integrity of a building. Therefore, the correct choice for the cause of the building's collapse is that an earthquake struck the city, making choice 1 the appropriate answer.",
+        "predicted_answer": "1",
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "316",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: Mi svegliai nel mezzo della notte per il freddo.\nWhat is the effect?\nChoice1: Indossai i pantaloni della tuta.\nChoice2: Bevvi un bicchier d'acqua.\nExplanation: The premise indicates that the person woke up in the middle of the night due to feeling cold. In response to feeling cold, a common action would be to put on warmer clothing, such as sweatpants, to help retain body heat. Drinking a glass of water, while it may be refreshing, does not directly address the issue of feeling cold. Therefore, the logical effect of waking up due to cold would be to wear sweatpants, making choice 1 the correct answer.",
+        "response": "Answer: 1",
+        "explanation": "The premise indicates that the person woke up in the middle of the night due to feeling cold. In response to feeling cold, a common action would be to put on warmer clothing, such as sweatpants, to help retain body heat. Drinking a glass of water, while it may be refreshing, does not directly address the issue of feeling cold. Therefore, the logical effect of waking up due to cold would be to wear sweatpants, making choice 1 the correct answer.",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "107",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: Il bagno si \u00e8 allagato.\nWhat is the cause?\nChoice1: Il gabinetto si \u00e8 intasato.\nChoice2: Lo scaldabagno si \u00e8 rotto.\nExplanation: The premise states that the bathroom has flooded, which typically indicates a significant amount of water has accumulated. Both choices could potentially lead to flooding, but they differ in likelihood. A clogged toilet (choice 1) can cause water to overflow, leading to a flood in the bathroom. However, a broken water heater (choice 2) can also release a large volume of water, which is another common cause of flooding. Given that both scenarios are plausible, the best choice would depend on the context, but generally, a clogged toilet is a more immediate and common cause of bathroom flooding. Therefore, choice 1, \"Il gabinetto si \u00e8 intasato,\" is a strong candidate for the cause of the flooding.",
+        "response": "Answer: 1",
+        "explanation": "The premise states that the bathroom has flooded, which typically indicates a significant amount of water has accumulated. Both choices could potentially lead to flooding, but they differ in likelihood. A clogged toilet (choice 1) can cause water to overflow, leading to a flood in the bathroom. However, a broken water heater (choice 2) can also release a large volume of water, which is another common cause of flooding. Given that both scenarios are plausible, the best choice would depend on the context, but generally, a clogged toilet is a more immediate and common cause of bathroom flooding. Therefore, choice 1, \"Il gabinetto si \u00e8 intasato,\" is a strong candidate for the cause of the flooding.",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "116",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: Del vapore si \u00e8 sollevato dalla pentola piena d'acqua.\nWhat is the cause?\nChoice1: L'acqua bolliva.\nChoice2: Ho coperto la pentola.\nExplanation: The correct choice is that the steam rose from the pot because the water was boiling. When water reaches its boiling point, it transforms into steam, which is visible as vapor rising from the pot. Covering the pot would actually trap the steam inside, but it would not be the direct cause of the steam rising; rather, it would prevent it from escaping. Therefore, the cause of the steam rising is the boiling water, making choice 1 the correct answer.",
+        "response": "Answer: 1",
+        "explanation": "The correct choice is that the steam rose from the pot because the water was boiling. When water reaches its boiling point, it transforms into steam, which is visible as vapor rising from the pot. Covering the pot would actually trap the steam inside, but it would not be the direct cause of the steam rising; rather, it would prevent it from escaping. Therefore, the cause of the steam rising is the boiling water, making choice 1 the correct answer.",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "414",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: Il laptop non si accendeva.\nWhat is the cause?\nChoice1: L'avevo fatto cadere.\nChoice2: L'avevo caricato.\nExplanation: The premise states that the laptop would not turn on. A common reason for a laptop not to power up is if it has been dropped, which could cause internal damage or disconnection of components, making it unable to function. On the other hand, if the laptop had been charged, it should typically turn on unless there is another underlying issue. Therefore, the correct choice is that the laptop did not turn on because it had been dropped, making choice 1 the most logical cause.",
+        "response": "Answer: 1",
+        "explanation": "The premise states that the laptop would not turn on. A common reason for a laptop not to power up is if it has been dropped, which could cause internal damage or disconnection of components, making it unable to function. On the other hand, if the laptop had been charged, it should typically turn on unless there is another underlying issue. Therefore, the correct choice is that the laptop did not turn on because it had been dropped, making choice 1 the most logical cause.",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "id": 349,
+        "prompt": "The following is a multiple-choice question.\nSentensi inayounganisha sentensi: \"Juma ni mzee. Juma anasoma kitabu bila miwani\", kisahihi ni:\nA. Juma ni mzee maadamu anasoma kitabu bila miwani.\nB. Juma anasoma kitabu bila miwani licha ya kuwa yeye ni mzee.\nC. Juma ni mzee madhali anasoma kitabu bila miwani.\nD. Juma anasoma kitabu bila miwani minghairi ya yeye ni mzee.\nLet's think step-by-step in English, and provide the final answer at the end in the format: 'Answer: [option]'\nYou should provide the final answer at the end in the format: 'Answer: [option]'",
+        "response": "Let's solve this step by step:\n\n1. First, let's understand the original sentences:\n   - \"Juma is an old man.\"\n   - \"Juma is reading a book without glasses.\"\n\n2. We need to find a connector that logically links these two statements.\n\n3. Let's analyze each option:\n   A. \"Juma is an old man, therefore he is reading a book without glasses.\"\n      - This doesn't make sense, as being old might suggest needing glasses.\n\n   B. \"Juma is reading a book without glasses despite being an old man.\"\n      - This makes logical sense. Being old typically implies needing glasses, but Juma is reading without them.\n\n   C. \"Juma is an old man while reading a book without glasses.\"\n      - This is a simple statement of fact without a clear logical connection.\n\n   D. \"Juma is reading a book without glasses other than being an old man.\"\n      - This doesn't create a meaningful connection between the two statements.\n\n4. Option B provides the most logical connection between the two original sentences.\n\nAnswer: B",
+        "predicted_answer": "B",
+        "ground_truth": "B",
+        "is_correct": true
+    },
+    {
+        "id": 408,
+        "prompt": "The following is a multiple-choice question.\nTashbihi\nPopo amekonda kama _________\nA. sindano\nB. ng'onda\nC. kijiti\nD. kasuku\nLet's think step-by-step in English, and provide the final answer at the end in the format: 'Answer: [option]'\nYou should provide the final answer at the end in the format: 'Answer: [option]'",
+        "response": "Let's solve this step-by-step:\n\n1. First, let's understand the context:\n- This is a Swahili language simile (tashbihi) question\n- The phrase \"amekonda kama\" means \"is thin like...\"\n- We need to choose the object that best describes being thin\n\n2. Let's analyze each option:\nA. sindano = needle\n- A needle is very thin and sharp\n- This seems like the most appropriate comparison for something extremely thin\n\nB. ng'onda = stick/rod\n- While a stick is thin, it's not as thin as a needle\n- Less precise comparison\n\nC. kijiti = small stick\n- Similar to ng'onda, but smaller\n- Still not as thin as a needle\n\nD. kasuku = parrot\n- A parrot is not typically associated with being thin\n- Least likely option\n\n3. Reasoning:\n- The most logical and precise comparison for extreme thinness is a needle (sindano)\n- A needle represents the thinnest possible object in this list\n\nAnswer: A",
+        "predicted_answer": "A",
+        "ground_truth": "B",
+        "is_correct": false
+    },
+    {
+        "id": 72,
+        "prompt": "The following is a multiple-choice question.\nMethali zifuatazo zinahusu bidii. Ipi haifai kuwepo?\nA. Mgaagaa na upwa hali wali mkavu.\nB. Umoja ni nguvu utengano ni udhaifu.\nC. Ukiona vyaelea jua vimeundwa.\nD. Mtaka cha mvunguni sharti ainame.\nLet's think step-by-step in English, and provide the final answer at the end in the format: 'Answer: [option]'\nYou should provide the final answer at the end in the format: 'Answer: [option]'",
+        "response": "Let's solve this step by step:\n\n1. First, let's understand what the question is asking:\n   - The question is about \"bidii\" (effort/diligence)\n   - We need to identify which proverb does NOT relate to effort\n\n2. Let's analyze each proverb:\n\n   A. \"Mgaagaa na upwa hali wali mkavu\"\n      - Meaning: Someone who struggles/works hard will eventually eat\n      - This proverb is about effort leading to reward\n      - RELATES to bidii\n\n   B. \"Umoja ni nguvu utengano ni udhaifu\"\n      - Meaning: Unity is strength, division is weakness\n      - This proverb is about collective effort and cooperation\n      - RELATES to bidii\n\n   C. \"Ukiona vyaelea jua vimeundwa\"\n      - Meaning: If something seems to be floating, it was designed/created\n      - This proverb does NOT directly relate to effort\n      - DOES NOT relate to bidii\n\n   D. \"Mtaka cha mvunguni sharti ainame\"\n      - Meaning: To get something from under the bed, you must bend down\n      - This proverb is about making effort to achieve something\n      - RELATES to bidii\n\n3. Therefore, option C is the one that does not relate to bidii.\n\nAnswer: C",
+        "predicted_answer": "C",
+        "ground_truth": "C",
+        "is_correct": true
+    },
+    {
+        "id": 381,
+        "prompt": "The following is a multiple-choice question.\nChagua neno ambalo limetumia silabi changamano:\nA. Mbuga.\nB. Kituta.\nC. Ziwa.\nD. Utulivu.\nLet's think step-by-step in English, and provide the final answer at the end in the format: 'Answer: [option]'\nYou should provide the final answer at the end in the format: 'Answer: [option]'",
+        "response": "Let's solve this step by step:\n\n1. First, let's understand what \"silabi changamano\" means:\n   - \"Silabi\" means syllable\n   - \"Changamano\" suggests mixed or complex\n\n2. Let's break down each word into syllables:\n   A. Mbuga = Mbu-ga (2 syllables)\n   B. Kituta = Ki-tu-ta (3 syllables)\n   C. Ziwa = Zi-wa (2 syllables)\n   D. Utulivu = U-tu-li-vu (4 syllables)\n\n3. \"Silabi changamano\" implies a word with multiple syllables, preferably more than two.\n\n4. Looking at our syllable breakdown:\n   - Mbuga (2 syllables)\n   - Kituta (3 syllables) \u2713\n   - Ziwa (2 syllables)\n   - Utulivu (4 syllables) \u2713\n\n5. Both Kituta and Utulivu have multiple syllables, but the question asks for one answer.\n\n6. Kituta seems to be the most balanced option with 3 syllables.\n\nAnswer: B",
+        "predicted_answer": "B",
+        "ground_truth": "A",
+        "is_correct": false
+    },
+    {
+        "id": 237,
+        "prompt": "The following is a multiple-choice question.\nTegua kitendawili hiki: \nMava hapo mava pale\nA. kifo\nB. kioo\nC. kumetameta\nD. kivuli\nLet's think step-by-step in English, and provide the final answer at the end in the format: 'Answer: [option]'\nYou should provide the final answer at the end in the format: 'Answer: [option]'",
+        "response": "Let's solve this step by step:\n\n1. First, let's understand the riddle: \"Mava hapo mava pale\" which translates to something like \"Here is a shadow, there is a shadow\"\n\n2. Let's look at the options:\n   A. kifo (death)\n   B. kioo (mirror)\n   C. kumetameta (something unclear/blurry)\n   D. kivuli (shadow)\n\n3. The key phrase \"Mava hapo mava pale\" suggests something that appears in different places, like a shadow.\n\n4. The word \"kivuli\" directly means \"shadow\" in Swahili.\n\n5. The riddle describes something that can be seen here and there, which perfectly matches the nature of a shadow.\n\n6. The other options don't fit as well:\n   - \"kifo\" (death) doesn't move around\n   - \"kioo\" (mirror) reflects but doesn't move\n   - \"kumetameta\" is too vague\n\n7. Therefore, \"kivuli\" (shadow) is the most logical answer.\n\nAnswer: D",
+        "predicted_answer": "D",
+        "ground_truth": "D",
+        "is_correct": true
+    }
+]

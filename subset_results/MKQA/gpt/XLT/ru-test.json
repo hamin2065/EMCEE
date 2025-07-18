@@ -1,0 +1,102 @@
+[
+    {
+        "id": "-1768532999191146026",
+        "prompt": "I want you to act as a question answering expert for russian.\nQuestion: \u043a\u0430\u043a\u0438\u0435 \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0438\u0435 \u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u043d\u044b\u0435 \u0428\u0442\u0430\u0442\u044b \u0432 \u0418\u043d\u0434\u0438\u0438\nYou should retell the question in English.\nYou should answer the question in English in one or a few words.\nYou should step-by-step answer the request.\nYou should tell me the answer in one or a few words in English in this format 'Answer: '",
+        "response": "The question in English is: \"What are the most recently formed states in India?\"\n\nStep 1: Identify the most recent states formed in India.\nStep 2: Provide the names of those states.\n\nAnswer: Telangana, Jharkhand, Chhattisgarh.",
+        "predicted_answer": "Telangana, Jharkhand, Chhattisgarh.",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q1168",
+                "text": "\u0427\u0445\u0430\u0442\u0442\u0438\u0441\u0433\u0430\u0440\u0445",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q1184",
+                "text": "\u0414\u0436\u0430\u0440\u043a\u0445\u0430\u043d\u0434",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q1499",
+                "text": "\u0423\u0442\u0442\u0430\u0440\u0430\u043a\u0445\u0430\u043d\u0434",
+                "aliases": [
+                    "\u0423\u0442\u0442\u0430\u0440\u0430\u043d\u0447\u0430\u043b"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q677037",
+                "text": "\u0422\u0435\u043b\u0430\u043d\u0433\u0430\u043d\u0430",
+                "aliases": [
+                    "\u0422\u0435\u043b\u0438\u043d\u0433\u0430\u043d\u0430"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "7232773031032315501",
+        "prompt": "I want you to act as a question answering expert for russian.\nQuestion: \u043a\u0442\u043e \u043d\u0430\u043f\u0438\u0441\u0430\u043b \u043c\u0443\u0437\u044b\u043a\u0443 \u0434\u043b\u044f \u043d\u0435\u043c\u0435\u0446\u043a\u043e\u0433\u043e \u043d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0433\u0438\u043c\u043d\u0430\nYou should retell the question in English.\nYou should answer the question in English in one or a few words.\nYou should step-by-step answer the request.\nYou should tell me the answer in one or a few words in English in this format 'Answer: '",
+        "response": "Sure! \n\n1. The question in Russian is: \"\u041a\u0442\u043e \u043d\u0430\u043f\u0438\u0441\u0430\u043b \u043c\u0443\u0437\u044b\u043a\u0443 \u0434\u043b\u044f \u043d\u0435\u043c\u0435\u0446\u043a\u043e\u0433\u043e \u043d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0433\u0438\u043c\u043d\u0430?\"\n2. The English translation of the question is: \"Who composed the music for the German national anthem?\"\n3. The answer to the question is: \"Joseph Haydn.\"\n\nFinal response: Answer: Joseph Haydn.",
+        "predicted_answer": "Joseph Haydn.",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q7349",
+                "text": "\u0419\u043e\u0437\u0435\u0444 \u0413\u0430\u0439\u0434\u043d",
+                "aliases": [
+                    "\u0413\u0430\u0439\u0434\u043d",
+                    "\u0424\u0440\u0430\u043d\u0446 \u0419\u043e\u0437\u0435\u0444 \u0413\u0430\u0439\u0434\u043d"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "-3792991085056399823",
+        "prompt": "I want you to act as a question answering expert for russian.\nQuestion: \u043a\u0442\u043e \u0445\u043e\u0434\u0438\u0442 \u043f\u0435\u0440\u0432\u044b\u043c \u0432 \u0448\u0430\u0445\u043c\u0430\u0442\u0430\u0445 \u0447\u0435\u0440\u043d\u044b\u0435 \u0438\u043b\u0438 \u0431\u0435\u043b\u044b\u0435\nYou should retell the question in English.\nYou should answer the question in English in one or a few words.\nYou should step-by-step answer the request.\nYou should tell me the answer in one or a few words in English in this format 'Answer: '",
+        "response": "Step 1: Retell the question in English.  \nThe question is: \"Who moves first in chess, black or white?\"\n\nStep 2: Answer the question in one or a few words.  \nIn chess, white always moves first.\n\nStep 3: Provide the answer in the specified format.  \nAnswer: White",
+        "predicted_answer": "White",
+        "ground_truth": [
+            {
+                "type": "short_phrase",
+                "text": "\u0411\u0435\u043b\u044b\u0435"
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "-8817675850857402488",
+        "prompt": "I want you to act as a question answering expert for russian.\nQuestion: \u043c\u0438\u043d\u0438\u043c\u0430\u043b\u044c\u043d\u044b\u0439 \u0432\u043e\u0437\u0440\u0430\u0441\u0442, \u0447\u0442\u043e\u0431\u044b \u043c\u043e\u0436\u043d\u043e \u0431\u044b\u043b\u043e \u0441\u0442\u0430\u0442\u044c \u0447\u043b\u0435\u043d\u043e\u043c \u0437\u0430\u043a\u043e\u043d\u043e\u0434\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u0441\u043e\u0432\u0435\u0442\u0430\nYou should retell the question in English.\nYou should answer the question in English in one or a few words.\nYou should step-by-step answer the request.\nYou should tell me the answer in one or a few words in English in this format 'Answer: '",
+        "response": "The question in English is: \"What is the minimum age to become a member of the legislative council?\"\n\nTo answer the question step-by-step:\n\n1. Identify the context: The question pertains to the legal requirements for membership in a legislative council.\n2. Determine the specific age requirement: Different countries or regions may have different laws regarding the minimum age for legislative council membership.\n3. Provide the answer based on the relevant legal framework.\n\nAnswer: 18 years old.",
+        "predicted_answer": "18 years old.",
+        "ground_truth": [
+            {
+                "type": "number_with_unit",
+                "text": "30.0 \u043b\u0435\u0442",
+                "aliases": [
+                    "30 \u043b\u0435\u0442"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "6630622010535273304",
+        "prompt": "I want you to act as a question answering expert for russian.\nQuestion: \u0441\u043a\u043e\u043b\u044c\u043a\u043e \u0432\u0438\u043d\u043e\u0434\u0435\u043b\u0435\u043d \u0432 \u0448\u0442\u0430\u0442\u0435 \u0412\u0430\u0448\u0438\u043d\u0433\u0442\u043e\u043d\nYou should retell the question in English.\nYou should answer the question in English in one or a few words.\nYou should step-by-step answer the request.\nYou should tell me the answer in one or a few words in English in this format 'Answer: '",
+        "response": "The question in English is: \"How many wineries are there in the state of Washington?\"\n\nTo answer the question step-by-step:\n\n1. Identify the location: Washington State.\n2. Determine the subject: Wineries.\n3. Find the current number of wineries in Washington.\n\nAs of my last knowledge update, the number of wineries in Washington State is approximately 1,000.\n\nAnswer: Approximately 1,000.",
+        "predicted_answer": "Approximately 1,000.",
+        "ground_truth": [
+            {
+                "type": "number",
+                "text": "900.0",
+                "aliases": [
+                    "900"
+                ]
+            }
+        ],
+        "is_correct": null
+    }
+]

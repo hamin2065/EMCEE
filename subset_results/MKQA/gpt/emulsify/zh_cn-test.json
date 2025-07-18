@@ -1,0 +1,83 @@
+[
+    {
+        "id": "-3007091317310168067",
+        "sys_prompt": "You are a judge from the Chinese tradition, known for your wisdom and fairness. Although your cultural background is Chinese, you are fluent in English and will conduct this task in English. You are given a reasoning question. There is a debate on this question between user1 and user2. Your task is to listen to their arguments carefully and provide a fair and wise judgment.\n\nSummarize the debate briefly and then give a conclusion based on the arguments presented. Your response should be in the format: \n\"Summary: ___. Conclusion: [answer] is more plausible.\n\nAnswer: [one or a few words in English]\"\n\nApproach the task with the fairness and critical thinking expected of a Chinese judge, ensuring you make only one answer for the final answer.",
+        "user_prompt": "Question: \u65e0\u803b\u4e4b\u5f92\u4e2d\u626e\u6f14jupiter\u7684\u6f14\u5458\u662f\u8c01\n\nuser1: The actor who played Jupiter in \"Shameless\" is Jeremy Allen White. \n\nAnswer: Jeremy Allen White\n\nuser2: In the television series \"Shameless,\" the character named Jupiter is portrayed by actor and musician, Jeremy Allen White. The show is known for its raw and often humorous depiction of a dysfunctional family living in Chicago, and White's performance has been widely praised. Understanding the character's role within the family dynamics can enhance appreciation for the show's themes of resilience and the complexities of relationships.\nAnswer: Jeremy Allen White",
+        "response": "Summary: User1 and user2 both assert that Jeremy Allen White is the actor who played Jupiter in \"Shameless.\" User2 provides additional context about the show and the character's significance, but both ultimately agree on the actor's identity. \n\nConclusion: [answer] is more plausible.\n\nAnswer: Jeremy Allen White",
+        "predicted_answer": "Jeremy Allen White",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "text": "\u6770\u592b\u00b7\u79d1\u4f2f",
+                "entity": "Q1469565"
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "5399144941562483470",
+        "sys_prompt": "You are a judge from the Chinese tradition, known for your wisdom and fairness. Although your cultural background is Chinese, you are fluent in English and will conduct this task in English. You are given a reasoning question. There is a debate on this question between user1 and user2. Your task is to listen to their arguments carefully and provide a fair and wise judgment.\n\nSummarize the debate briefly and then give a conclusion based on the arguments presented. Your response should be in the format: \n\"Summary: ___. Conclusion: [answer] is more plausible.\n\nAnswer: [one or a few words in English]\"\n\nApproach the task with the fairness and critical thinking expected of a Chinese judge, ensuring you make only one answer for the final answer.",
+        "user_prompt": "Question: \u7535\u5f71\u300a\u535a\u7269\u9986\u5947\u5999\u591c\u300b\u5171\u6709\u51e0\u90e8\n\nuser1: The movie \"Night at the Museum\" has three main films in the series. \n\nAnswer: Three\n\nuser2: The \"Night at the Museum\" film series consists of three main movies. The first film, \"Night at the Museum,\" was released in 2006, followed by \"Night at the Museum: Battle of the Smithsonian\" in 2009, and the third installment, \"Night at the Museum: Secret of the Tomb,\" came out in 2014. This series combines comedy and adventure, featuring a night guard at a museum where the exhibits come to life, which captures the imagination of audiences and highlights historical figures in a fun and engaging way. Understanding the series can also provide insight into how films can blend education with entertainment.\nAnswer: \u4e09\u90e8",
+        "response": "Summary: User1 states that there are three main films in the \"Night at the Museum\" series, while User2 elaborates on the same point, providing details about the release years and the thematic elements of the films. Both users agree on the number of films in the series. \n\nConclusion: Three is more plausible.\n\nAnswer: Three",
+        "predicted_answer": "Three",
+        "ground_truth": [
+            {
+                "type": "number",
+                "text": "3.0",
+                "aliases": [
+                    "3"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "-5990228692754281902",
+        "sys_prompt": "You are a judge from the Chinese tradition, known for your wisdom and fairness. Although your cultural background is Chinese, you are fluent in English and will conduct this task in English. You are given a reasoning question. There is a debate on this question between user1 and user2. Your task is to listen to their arguments carefully and provide a fair and wise judgment.\n\nSummarize the debate briefly and then give a conclusion based on the arguments presented. Your response should be in the format: \n\"Summary: ___. Conclusion: [answer] is more plausible.\n\nAnswer: [one or a few words in English]\"\n\nApproach the task with the fairness and critical thinking expected of a Chinese judge, ensuring you make only one answer for the final answer.",
+        "user_prompt": "Question: \u7f8e\u56fd\u662f\u4ec0\u4e48\u65f6\u5019\u5f00\u59cb\u5f81\u6536\u8054\u90a6\u6240\u5f97\u7a0e\u7684\n\nuser1: The United States began imposing federal income tax in 1861 during the Civil War as a temporary measure to help fund the war effort. This tax was made permanent with the 16th Amendment in 1913.\n\nAnswer: 1861\n\nuser2: The United States began imposing a federal income tax in 1861, during the Civil War, to help fund war expenses. This initial tax was temporary and was repealed after the war ended. However, the modern federal income tax system was established with the ratification of the 16th Amendment in 1913, which allowed Congress to levy a tax on income without apportioning it among the states. Understanding this historical context highlights the government's evolving approach to taxation and its role in funding public services and infrastructure.\nAnswer: 1861",
+        "response": "Summary: Both user1 and user2 agree that the United States began imposing federal income tax in 1861 during the Civil War. User1 emphasizes that this was a temporary measure, while user2 elaborates on the historical context and the establishment of the modern federal income tax system with the 16th Amendment in 1913. Both users ultimately provide the same answer regarding the initial imposition of the tax.\n\nConclusion: The answer \"1861\" is more plausible.\n\nAnswer: 1861",
+        "predicted_answer": "1861",
+        "ground_truth": [
+            {
+                "type": "date",
+                "text": "1913",
+                "aliases": [
+                    "1913"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "-4933806249687973654",
+        "sys_prompt": "You are a judge from the Chinese tradition, known for your wisdom and fairness. Although your cultural background is Chinese, you are fluent in English and will conduct this task in English. You are given a reasoning question. There is a debate on this question between user1 and user2. Your task is to listen to their arguments carefully and provide a fair and wise judgment.\n\nSummarize the debate briefly and then give a conclusion based on the arguments presented. Your response should be in the format: \n\"Summary: ___. Conclusion: [answer] is more plausible.\n\nAnswer: [one or a few words in English]\"\n\nApproach the task with the fairness and critical thinking expected of a Chinese judge, ensuring you make only one answer for the final answer.",
+        "user_prompt": "Question: \u6df7\u4e71\u4e4b\u5b50\u4e2d\u7684 jack teller \u662f\u8c01\u626e\u6f14\u7684\n\nuser1: Jack Teller in \"Sons of Anarchy\" is played by Charlie Hunnam. \n\nAnswer: Charlie Hunnam\n\nuser2: In the television series \"Sons of Anarchy,\" the character Jax Teller is portrayed by actor Charlie Hunnam. Jax is the central character of the show, which follows the lives of an outlaw motorcycle club in California. Hunnam's performance as Jax Teller has been widely praised, as he navigates complex themes of loyalty, family, and the struggles of living a life outside the law. Understanding Jax's character and his development throughout the series can provide insights into the show's exploration of morality and the consequences of a life of crime.\nAnswer: Charlie Hunnam",
+        "response": "Summary: User1 and user2 both correctly identify that Jack Teller, more accurately referred to as Jax Teller, in \"Sons of Anarchy\" is played by Charlie Hunnam. User2 provides additional context about the character and the show's themes, enhancing the understanding of Jax's role. \n\nConclusion: Both users agree on the actor's identity, but user2 offers a more comprehensive view of the character's significance. Therefore, the answer is more plausible.\n\nAnswer: Charlie Hunnam",
+        "predicted_answer": "Charlie Hunnam",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "text": "\u67e5\u7406\u00b7\u6c49\u7eb3\u59c6",
+                "entity": "Q356294"
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "4992973967728216447",
+        "sys_prompt": "You are a judge from the Chinese tradition, known for your wisdom and fairness. Although your cultural background is Chinese, you are fluent in English and will conduct this task in English. You are given a reasoning question. There is a debate on this question between user1 and user2. Your task is to listen to their arguments carefully and provide a fair and wise judgment.\n\nSummarize the debate briefly and then give a conclusion based on the arguments presented. Your response should be in the format: \n\"Summary: ___. Conclusion: [answer] is more plausible.\n\nAnswer: [one or a few words in English]\"\n\nApproach the task with the fairness and critical thinking expected of a Chinese judge, ensuring you make only one answer for the final answer.",
+        "user_prompt": "Question: \u8fc8\u514b\u5c14\u00b7\u4e54\u4e39\u8d62\u5f97\u4e86\u591a\u5c11\u4e2anba\u603b\u51a0\u519b\n\nuser1: Michael Jordan won six NBA championships. \n\nAnswer: six\n\nuser2: Michael Jordan won a total of six NBA championships during his career with the Chicago Bulls. He achieved this remarkable feat in the 1990s, leading the Bulls to victory in the NBA Finals in 1991, 1992, 1993, 1996, 1997, and 1998. Jordan's success not only solidified his legacy as one of the greatest basketball players of all time but also transformed the NBA into a global phenomenon. Understanding his championship wins is crucial for appreciating his impact on the sport and the culture surrounding basketball.\nAnswer: \u516d\u4e2a",
+        "response": "Summary: User1 states that Michael Jordan won six NBA championships, while User2 elaborates on this by providing details about the years he won and the significance of his achievements. Both users agree on the number of championships, which is six. \n\nConclusion: [six] is more plausible.\n\nAnswer: six",
+        "predicted_answer": "six",
+        "ground_truth": [
+            {
+                "type": "number",
+                "text": "6.0",
+                "aliases": [
+                    "6"
+                ]
+            }
+        ],
+        "is_correct": null
+    }
+]

@@ -1,0 +1,1433 @@
+{
+    "-6327071105076555597": {
+        "query": "ai đã chết đuối trong vở kịch Bay trên tổ chim cúc cu",
+        "answer": [
+            {
+                "type": "short_phrase",
+                "text": "charles cheswick"
+            }
+        ]
+    },
+    "-6336920494235062844": {
+        "query": "ai là cô gái trong phim ba chàng ngự lâm ở cung điện",
+        "answer": [
+            {
+                "type": "short_phrase",
+                "text": "nathalie fay"
+            }
+        ]
+    },
+    "4773110153848722780": {
+        "query": "khi nào giải bóng đá nam World Cup khởi tranh",
+        "answer": [
+            {
+                "type": "date",
+                "text": "2022",
+                "aliases": [
+                    "2022"
+                ]
+            },
+            {
+                "type": "date",
+                "text": "2022-11-21",
+                "aliases": [
+                    "2022 11 21",
+                    "2022-11-21",
+                    "11-21-2022",
+                    "11/21/2022",
+                    "21 11 2022",
+                    "21/11/2022",
+                    "11 21 2022",
+                    "2022 tháng Mười một 21",
+                    "21-11-2022",
+                    "21 tháng Mười một 2022",
+                    "2022 november, 21"
+                ]
+            }
+        ]
+    },
+    "-2732065960785690243": {
+        "query": "ai hát bài when will i see you again",
+        "answer": [
+            {
+                "type": "entity",
+                "text": "The Three Degrees",
+                "entity": "Q1865511"
+            }
+        ]
+    },
+    "-7121242283645893242": {
+        "query": "trụ sở kem blue bell ở đâu",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q30",
+                "text": "Hoa Kỳ",
+                "aliases": [
+                    "Mỹ",
+                    "Hợp chúng quốc Hoa Kỳ",
+                    "Hợp chúng quốc Mỹ",
+                    "Mĩ",
+                    "nước Mỹ",
+                    "nước Mĩ"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q1439",
+                "text": "Texas",
+                "aliases": []
+            }
+        ]
+    },
+    "-2702219393382408140": {
+        "query": "loại polyester nào được sử dụng trong quần áo",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q145863",
+                "text": "Polyetylen terephtalat",
+                "aliases": []
+            }
+        ]
+    },
+    "4109030883938462812": {
+        "query": "trường đua ngựa belmont stakes nằm ở đâu",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q30",
+                "text": "Hoa Kỳ",
+                "aliases": [
+                    "Mỹ",
+                    "Hợp chúng quốc Hoa Kỳ",
+                    "Hợp chúng quốc Mỹ",
+                    "Mĩ",
+                    "nước Mỹ",
+                    "nước Mĩ"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q49",
+                "text": "Bắc Mỹ",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q1384",
+                "text": "New York",
+                "aliases": [
+                    "Tiểu bang New York",
+                    "Nữu Ước",
+                    "Niu Oóc",
+                    "Tiểu bang Nữu Ước"
+                ]
+            },
+            {
+                "type": "entity",
+                "text": "Belmont Park",
+                "entity": "Q3894449"
+            }
+        ]
+    },
+    "-414366433822264308": {
+        "query": "công dân mỹ có thể ở singapore bao lâu",
+        "answer": [
+            {
+                "type": "number_with_unit",
+                "text": "14.0 30.0 ngày",
+                "aliases": [
+                    "14 30 ngày"
+                ]
+            },
+            {
+                "type": "number_with_unit",
+                "text": "90.0 ngày",
+                "aliases": [
+                    "90 ngày"
+                ]
+            }
+        ]
+    },
+    "-4915132952201680401": {
+        "query": "điểm cực nam của lục địa Hoa Kỳ nằm ở đâu?",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q812",
+                "text": "Florida",
+                "aliases": [
+                    "bang Florida",
+                    "Florida, Hoa Kỳ",
+                    "Florida, Mỹ"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q30",
+                "text": "Hoa Kỳ",
+                "aliases": [
+                    "Mỹ",
+                    "Hợp chúng quốc Hoa Kỳ",
+                    "Hợp chúng quốc Mỹ",
+                    "Mĩ",
+                    "nước Mỹ",
+                    "nước Mĩ"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q49",
+                "text": "Bắc Mỹ",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q485186",
+                "text": "Key West",
+                "aliases": []
+            }
+        ]
+    },
+    "4367743777191326308": {
+        "query": "ai là nghệ sĩ được nghe nhiều nhất trên thế giới",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q33240",
+                "text": "Drake",
+                "aliases": []
+            }
+        ]
+    },
+    "-9157158813783857385": {
+        "query": "Ai là vị vua Viking đầu tiên của nước Anh",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q181896",
+                "text": "Svend Tveskæg",
+                "aliases": []
+            }
+        ]
+    },
+    "5051984123162505623": {
+        "query": "ai đã hát bài i cant stop this feeling",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q43432",
+                "text": "Justin Timberlake",
+                "aliases": []
+            }
+        ]
+    },
+    "-2079342293284391326": {
+        "query": "những con đập trên sông missouri ở phía nam Dakota",
+        "answer": [
+            {
+                "type": "entity",
+                "text": "Đập Fort Randall",
+                "entity": "Q1279914"
+            },
+            {
+                "type": "entity",
+                "text": "Đập Big Bend",
+                "entity": "Q2885061"
+            },
+            {
+                "type": "entity",
+                "text": "da_DA, Đập Oahe",
+                "entity": "Q1966525"
+            }
+        ]
+    },
+    "3548237018398658588": {
+        "query": "Khi nào captain america the first avenger ra mắt",
+        "answer": [
+            {
+                "type": "date",
+                "text": "2011-07-19",
+                "aliases": [
+                    "07 19 2011",
+                    "2011-07-19",
+                    "07-19-2011",
+                    "19/07/2011",
+                    "2011 july, 19",
+                    "19 tháng bảy 2011",
+                    "2011 07 19",
+                    "2011 tháng bảy 19",
+                    "07/19/2011",
+                    "19 07 2011",
+                    "19-07-2011"
+                ]
+            }
+        ]
+    },
+    "8827559639258790371": {
+        "query": "có bao nhiêu đội bóng bầu dục trong giải Bóng bầu dục Quốc gia ở bang new york",
+        "answer": [
+            {
+                "type": "number",
+                "text": "3.0",
+                "aliases": [
+                    "3"
+                ]
+            }
+        ]
+    },
+    "-6734748167054609476": {
+        "query": "Tên Những thiếu niên Ninja rùa đột biến đến từ đâu",
+        "answer": [
+            {
+                "type": "short_phrase",
+                "text": "Nghệ sĩ Phục Hưng nổi tiếng"
+            }
+        ]
+    },
+    "1559702144822004406": {
+        "query": "người nào đang thực hiện các cuộc xâm lược tại nhà trên con trai của vô chính phủ",
+        "answer": [
+            {
+                "type": "entity",
+                "text": "it_it, Clay Morrow",
+                "entity": "Q2978714"
+            }
+        ]
+    },
+    "9173616713528012335": {
+        "query": "ai đã là người đã sáng lập ra đế chế gupta",
+        "answer": [
+            {
+                "type": "short_phrase",
+                "text": "chandragupta –i"
+            }
+        ]
+    },
+    "-4740956412853773930": {
+        "query": "ai đóng ted marry trong how i met your mother",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q15362106",
+                "text": "The Mother",
+                "aliases": []
+            }
+        ]
+    },
+    "8509074867882411616": {
+        "query": "tác giả của wind in the willows là ai",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q314897",
+                "text": "Kenneth Grahame",
+                "aliases": []
+            }
+        ]
+    },
+    "-5103747025111996433": {
+        "query": "Ai là tổng thanh tra cảnh sát Nigeria?",
+        "answer": [
+            {
+                "type": "entity",
+                "text": "ai là tổng thanh tra của cảnh sát nigeri",
+                "entity": "Q60737087"
+            }
+        ]
+    },
+    "-7182780020959931842": {
+        "query": "ai đóng vai bonnie và clyde trong bộ phim original",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q168721",
+                "text": "Faye Dunaway",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q95030",
+                "text": "Warren Beatty",
+                "aliases": []
+            }
+        ]
+    },
+    "-3132076946701848618": {
+        "query": "packers thắng super bowl khi nào",
+        "answer": [
+            {
+                "type": "date",
+                "text": "2010",
+                "aliases": [
+                    "2010"
+                ]
+            },
+            {
+                "type": "date",
+                "text": "2011",
+                "aliases": [
+                    "2011"
+                ]
+            }
+        ]
+    },
+    "-7124524575011905701": {
+        "query": "ngày của cha là ngày nào",
+        "answer": [
+            {
+                "type": "date",
+                "text": "2020-06-21",
+                "aliases": [
+                    "21-06-2020",
+                    "21 06 2020",
+                    "06 21 2020",
+                    "2020 june, 21",
+                    "2020-06-21",
+                    "06-21-2020",
+                    "21 tháng Sáu 2020",
+                    "21/06/2020",
+                    "2020 tháng Sáu 21",
+                    "2020 06 21",
+                    "06/21/2020"
+                ]
+            }
+        ]
+    },
+    "-5312549763179880778": {
+        "query": "độ cao của roswell new mexico là bao nhiêu",
+        "answer": [
+            {
+                "type": "number_with_unit",
+                "text": "3573.0 foot",
+                "aliases": [
+                    "3573 foot"
+                ]
+            }
+        ]
+    },
+    "5512872882789362668": {
+        "query": "người có nhiều người theo dõi nhất trên instagram",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q11571",
+                "text": "Cristiano Ronaldo",
+                "aliases": [
+                    "Cristiano Ronaldo dos Santos Aveiro"
+                ]
+            }
+        ]
+    },
+    "-2892792480457525351": {
+        "query": "tên của cháu trai trong scooby doo là gì",
+        "answer": [
+            {
+                "type": "entity",
+                "text": "Scrappy-Doo",
+                "entity": "Q1083020"
+            }
+        ]
+    },
+    "7467684090775849181": {
+        "query": "Ai nói You play to win the game",
+        "answer": [
+            {
+                "type": "entity",
+                "text": "Herman Edwards",
+                "entity": "Q2852014"
+            }
+        ]
+    },
+    "6027440585044515378": {
+        "query": "Người đã gọi cuộc nổi dậy năm 1857 là cuộc chiến tranh giành độc lập đầu tiên là ai",
+        "answer": [
+            {
+                "type": "entity",
+                "text": "Vinayak Damodar Savarkar",
+                "entity": "Q471040"
+            }
+        ]
+    },
+    "3885991375112876238": {
+        "query": "số mũ 10 ^ 1 bằng số thập phân nào",
+        "answer": [
+            {
+                "type": "number",
+                "text": "10.0",
+                "aliases": [
+                    "10"
+                ]
+            }
+        ]
+    },
+    "-3692496407846821915": {
+        "query": "ai có nhiều người theo dõi nhất trên instagram",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q11571",
+                "text": "Cristiano Ronaldo",
+                "aliases": [
+                    "Cristiano Ronaldo dos Santos Aveiro"
+                ]
+            }
+        ]
+    },
+    "4337705903352321424": {
+        "query": "ai đã thể hiện ca khúc living next door to alice",
+        "answer": [
+            {
+                "type": "entity",
+                "text": "Smokie",
+                "entity": "Q815849"
+            }
+        ]
+    },
+    "6031887792846970774": {
+        "query": "Ai hát ca khúc Nếu yêu em là sai làm anh không muốn nó là sự thật?",
+        "answer": [
+            {
+                "type": "entity",
+                "text": "Luther Ingram",
+                "entity": "Q1075770"
+            }
+        ]
+    },
+    "-1255379477625182896": {
+        "query": "độ dày của kim loại tấm được đo như thế nào",
+        "answer": [
+            {
+                "type": "entity",
+                "text": "Máy đo",
+                "entity": "Q914462"
+            },
+            {
+                "type": "short_phrase",
+                "text": "đồng hồ đo"
+            }
+        ]
+    },
+    "-656340938735579478": {
+        "query": "ai mang kế hoạch những máy kéo sợi tới cho nước mỹ",
+        "answer": [
+            {
+                "type": "entity",
+                "text": "Samuel Slater",
+                "entity": "Q442104"
+            }
+        ]
+    },
+    "4674450522307530505": {
+        "query": "story of dumbo diễn ra ở đâu",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q812",
+                "text": "Florida",
+                "aliases": [
+                    "bang Florida",
+                    "Florida, Hoa Kỳ",
+                    "Florida, Mỹ"
+                ]
+            }
+        ]
+    },
+    "8952717755010970909": {
+        "query": "Barbie và ngôi nhà trong mơ ước được phát hành khi nào?",
+        "answer": [
+            {
+                "type": "date",
+                "text": "2012-05-11",
+                "aliases": [
+                    "2012 may, 11",
+                    "2012 05 11",
+                    "05-11-2012",
+                    "2012-05-11",
+                    "05 11 2012",
+                    "11 05 2012",
+                    "2012 tháng năm 11",
+                    "11-05-2012",
+                    "11/05/2012",
+                    "11 tháng năm 2012",
+                    "05/11/2012"
+                ]
+            }
+        ]
+    },
+    "8228438338354706783": {
+        "query": "ai đã ở liên bang năm 2018",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q22686",
+                "text": "Donald Trump",
+                "aliases": [
+                    "Donald John Trump"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q203966",
+                "text": "Paul Ryan",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q24313",
+                "text": "Mike Pence",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "text": "Donald Trump",
+                "entity": "Q22686"
+            }
+        ]
+    },
+    "-7690718669519742777": {
+        "query": "Ai hát bài summer breeze makes me feel fine",
+        "answer": [
+            {
+                "type": "entity",
+                "text": "Seals and Crofts",
+                "entity": "Q763765"
+            }
+        ]
+    },
+    "5118505966272271760": {
+        "query": "Ai là nhóm trưởng nhóm nhạc The Beautiful South",
+        "answer": [
+            {
+                "type": "entity",
+                "text": "Paul Heaton",
+                "entity": "Q1938749"
+            }
+        ]
+    },
+    "1351271957293945979": {
+        "query": "the little engine that could màu gì",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q3142",
+                "text": "đỏ",
+                "aliases": []
+            }
+        ]
+    },
+    "-7888560722461179740": {
+        "query": "giải phim để cử hay nhất  2006  mà phim Điệp vụ Boston bị đánh bất",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q192073",
+                "text": "Little Miss Sunshine",
+                "aliases": [
+                    "Hoa hậu nhí Ánh dương"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q275187",
+                "text": "Letters from Iwo Jima",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "text": "Tháp Babel",
+                "entity": "Q191074"
+            },
+            {
+                "type": "entity",
+                "text": "The Queen",
+                "entity": "Q223367"
+            }
+        ]
+    },
+    "-3889035572381171072": {
+        "query": "star vs the forces of evil kết thúc khi nào",
+        "answer": [
+            {
+                "type": "date",
+                "text": "2019-05-19",
+                "aliases": [
+                    "05 19 2019",
+                    "2019 may, 19",
+                    "19-05-2019",
+                    "2019 05 19",
+                    "19 05 2019",
+                    "2019 tháng năm 19",
+                    "05/19/2019",
+                    "19 tháng năm 2019",
+                    "19/05/2019",
+                    "05-19-2019",
+                    "2019-05-19"
+                ]
+            }
+        ]
+    },
+    "998949595960188771": {
+        "query": "ernie và bert ngủ chung giường à",
+        "answer": [
+            {
+                "type": "binary",
+                "text": "no"
+            }
+        ]
+    },
+    "-6065403241859545192": {
+        "query": "ai hát  i'm looking for a new love baby",
+        "answer": [
+            {
+                "type": "entity",
+                "text": "Jody Watley",
+                "entity": "Q465897"
+            }
+        ]
+    },
+    "-3717759792722314683": {
+        "query": "từ nào trong tiếng Anh có nhiều âm tiết nhất",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q102",
+                "text": "Pneumonoultramicroscopicsilicovolcanoconiosis",
+                "aliases": []
+            }
+        ]
+    },
+    "-7802081240778808049": {
+        "query": "Lần cuối Fulham chơi bóng ở Premiership là khi nào?",
+        "answer": [
+            {
+                "type": "date",
+                "text": "2019",
+                "aliases": [
+                    "2019"
+                ]
+            }
+        ]
+    },
+    "1931533693456791696": {
+        "query": "khách sạn nào được xây dựng đầu tiên ở las vegas",
+        "answer": [
+            {
+                "type": "entity",
+                "text": "El Rancho Vegas",
+                "entity": "Q5351982"
+            }
+        ]
+    },
+    "-6331825608100129065": {
+        "query": "Họ chạy với những con bò ở đâu trong Tây Ba Nha?",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q10282",
+                "text": "Pamplona",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q29",
+                "text": "Tây Ban Nha",
+                "aliases": []
+            }
+        ]
+    },
+    "-3040670937313499993": {
+        "query": "ai hát bài you shook me all night long",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q27593",
+                "text": "AC/DC",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "text": "AC/DC",
+                "entity": "Q27593"
+            }
+        ]
+    },
+    "-5206286406355014269": {
+        "query": "Chúa tế Những Chiếc Nhẫn được viết khi nào",
+        "answer": [
+            {
+                "type": "date",
+                "text": "1948",
+                "aliases": [
+                    "1948"
+                ]
+            }
+        ]
+    },
+    "6718355048893603593": {
+        "query": "ai hát don't get hooked on me",
+        "answer": [
+            {
+                "type": "entity",
+                "text": "Mac Davis",
+                "entity": "Q910761"
+            }
+        ]
+    },
+    "-8319206142909031351": {
+        "query": "chiều cao trung bình đàn ông ở đức là bao nhiêu",
+        "answer": [
+            {
+                "type": "number_with_unit",
+                "text": "179.9 xentimét",
+                "aliases": []
+            }
+        ]
+    },
+    "7116667444156391428": {
+        "query": "ai có cái mũi đỏ chip hay dale",
+        "answer": [
+            {
+                "type": "short_phrase",
+                "text": "dale"
+            }
+        ]
+    },
+    "-5644035044847502404": {
+        "query": "tuổi uống rượu của người Mỹ trở thành 21 khi nào",
+        "answer": [
+            {
+                "type": "date",
+                "text": "tháng mười 1986",
+                "aliases": [
+                    "1986 tháng mười",
+                    "1986-10",
+                    "1986 10",
+                    "october, 1986",
+                    "tháng mười 1986"
+                ]
+            }
+        ]
+    },
+    "5321188538053205275": {
+        "query": "man in the mirror ra mắt khi nào",
+        "answer": [
+            {
+                "type": "date",
+                "text": "1988-01-16",
+                "aliases": [
+                    "01/16/1988",
+                    "16/01/1988",
+                    "1988-01-16",
+                    "1988 january, 16",
+                    "16 tháng Giêng 1988",
+                    "1988 tháng Giêng 16",
+                    "01-16-1988",
+                    "16-01-1988",
+                    "01 16 1988",
+                    "1988 01 16",
+                    "16 01 1988"
+                ]
+            }
+        ]
+    },
+    "-3433374861856789745": {
+        "query": "ai đóng vai Ông già Noel trong  friday after next",
+        "answer": [
+            {
+                "type": "entity",
+                "text": "Rickey Smiley",
+                "entity": "Q7331960"
+            }
+        ]
+    },
+    "-7666791234901846924": {
+        "query": "người đã trở thành cm trong thời gian dài nhất",
+        "answer": [
+            {
+                "type": "entity",
+                "text": "Pawan Kumar Chamling",
+                "entity": "Q2475703"
+            }
+        ]
+    },
+    "5979958328447810229": {
+        "query": "ai hát bài hát what's going on",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q238263",
+                "text": "4 Non Blondes",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q189758",
+                "text": "Marvin Gaye",
+                "aliases": []
+            }
+        ]
+    },
+    "-8001773683961081578": {
+        "query": "tên của trung tâm đầu tiên harry gặp là gì",
+        "answer": [
+            {
+                "type": "short_phrase",
+                "text": "ronan"
+            }
+        ]
+    },
+    "945245682369053103": {
+        "query": "ai hát bài high on the mountain of love",
+        "answer": [
+            {
+                "type": "entity",
+                "text": "Johnny Rivers",
+                "entity": "Q1702399"
+            }
+        ]
+    },
+    "-4325663049251896614": {
+        "query": "george o'malley chết tại tập mấy trong phim grey's anatomy",
+        "answer": [
+            {
+                "type": "entity",
+                "text": "Good Mourning",
+                "entity": "Q5582805"
+            }
+        ]
+    },
+    "-3924076247966425792": {
+        "query": "Michael jordan đã thắng chiếc nhẫn đầu tiên vào năm nào",
+        "answer": [
+            {
+                "type": "date",
+                "text": "1991",
+                "aliases": [
+                    "1991"
+                ]
+            }
+        ]
+    },
+    "6039981987742679389": {
+        "query": "người đã liên minh với người Anh trong cuộc cách mạng Mỹ",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q183",
+                "text": "Đức",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "text": "Đức",
+                "entity": "Q183"
+            }
+        ]
+    },
+    "288113418088199442": {
+        "query": "ai hát you don't know what it's like to love somebody the way i love you",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q133405",
+                "text": "Bee Gees",
+                "aliases": [
+                    "The Bee Gees"
+                ]
+            }
+        ]
+    },
+    "-1367277935432372105": {
+        "query": "tập phim harry potter cuối cùng được gọi là gì",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q161678",
+                "text": "Harry Potter và Bảo bối Tử thần – Phần 1",
+                "aliases": [
+                    "Harry Potter 7",
+                    "Harry Potter tập 7",
+                    "Quá trình sản xuất phim Harry Potter và Bảo bối Tử thần"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q1880543",
+                "text": "Quá trình sản xuất phim Harry Potter và Bảo bối Tử thần",
+                "aliases": []
+            }
+        ]
+    },
+    "-2636623161713410044": {
+        "query": "new york mets thành lập khi nào",
+        "answer": [
+            {
+                "type": "date",
+                "text": "1962",
+                "aliases": [
+                    "1962"
+                ]
+            }
+        ]
+    },
+    "7549169988656236738": {
+        "query": "ai đóng vai mẹ trong everybody loves raymond",
+        "answer": [
+            {
+                "type": "entity",
+                "text": "Doris Roberts",
+                "entity": "Q232959"
+            }
+        ]
+    },
+    "2788150498848569248": {
+        "query": "ai đã nghĩ ra ý tưởng về ngày của cha",
+        "answer": [
+            {
+                "type": "entity",
+                "text": "Sonora Smart Dodd",
+                "entity": "Q7562229"
+            }
+        ]
+    },
+    "-1960798380924242840": {
+        "query": "dragon ball super tập 106 ra mắt khi nào ",
+        "answer": [
+            {
+                "type": "date",
+                "text": "2017-09-03",
+                "aliases": [
+                    "03-09-2017",
+                    "09-03-2017",
+                    "03 tháng chín 2017",
+                    "2017 09 03",
+                    "2017 september, 03",
+                    "09 03 2017",
+                    "03 09 2017",
+                    "2017-09-03",
+                    "09/03/2017",
+                    "2017 tháng chín 03",
+                    "03/09/2017"
+                ]
+            }
+        ]
+    },
+    "535395207586159293": {
+        "query": " black ink crew chicago có ra mắt mùa 4 không",
+        "answer": [
+            {
+                "type": "binary",
+                "text": "yes"
+            }
+        ]
+    },
+    "-1501131813198190584": {
+        "query": "Ai hát bài I Got The Magic In Me",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q45667",
+                "text": "B.o.B",
+                "aliases": [
+                    "Bobby Ray Simmons Jr."
+                ]
+            }
+        ]
+    },
+    "6247343972170271376": {
+        "query": "Có bao nhiêu trạm thủy điện có mặt trên đập Srisailam",
+        "answer": [
+            {
+                "type": "number",
+                "text": "2.0",
+                "aliases": [
+                    "2"
+                ]
+            }
+        ]
+    },
+    "6010859862759400711": {
+        "query": "lần cuối cùng đội raiders tham gia super bowl là khi nào",
+        "answer": [
+            {
+                "type": "date",
+                "text": "1984",
+                "aliases": [
+                    "1984"
+                ]
+            }
+        ]
+    },
+    "-8682312582598949174": {
+        "query": "ai là huấn luyện viên cho raptors toronto",
+        "answer": [
+            {
+                "type": "entity",
+                "text": "Nick Nurse",
+                "entity": "Q3339779"
+            }
+        ]
+    },
+    "6740619731295565782": {
+        "query": "tuổi hợp pháp được uống nước có cồn ở đức",
+        "answer": [
+            {
+                "type": "number_with_unit",
+                "text": "16.0 năm",
+                "aliases": [
+                    "16 năm"
+                ]
+            }
+        ]
+    },
+    "-8791735237243353128": {
+        "query": "ai hát bài i can love you like that",
+        "answer": [
+            {
+                "type": "entity",
+                "text": "John Michael Montgomery",
+                "entity": "Q1189986"
+            },
+            {
+                "type": "entity",
+                "text": "All-4-One",
+                "entity": "Q1291981"
+            }
+        ]
+    },
+    "-5934587290164255986": {
+        "query": "Breaking bad có bao nhiêu mùa",
+        "answer": [
+            {
+                "type": "number",
+                "text": "5.0",
+                "aliases": [
+                    "5"
+                ]
+            }
+        ]
+    },
+    "-8376575127481607219": {
+        "query": "Quân đội Anh hành quân đến Lexington và Concord để",
+        "answer": [
+            {
+                "type": "short_phrase",
+                "text": "chiếm kho vũ khí bí mật"
+            }
+        ]
+    },
+    "3802487275166581019": {
+        "query": "ai tham gia khiêu vũ với các ngôi sao mùa này",
+        "answer": [
+            {
+                "type": "entity",
+                "text": "Lauren Alaina",
+                "entity": "Q271796"
+            },
+            {
+                "type": "entity",
+                "text": "Mary Wilson",
+                "entity": "Q2302368"
+            },
+            {
+                "type": "entity",
+                "text": "Lamar Odom",
+                "entity": "Q296403"
+            },
+            {
+                "type": "entity",
+                "text": "Ray Lewis",
+                "entity": "Q44428"
+            }
+        ]
+    },
+    "-6218384608200546469": {
+        "query": "ai là các nhân vật chính trong kiêu hãnh và định kiến",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q2223341",
+                "text": "Elizabeth Bennet",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "text": "Ông Bennet",
+                "entity": "Q6929362"
+            },
+            {
+                "type": "entity",
+                "text": "Jane Bennet",
+                "entity": "Q2198673"
+            },
+            {
+                "type": "entity",
+                "text": "Charles Bingley",
+                "entity": "Q4390263"
+            }
+        ]
+    },
+    "7570958798133144579": {
+        "query": "ai là thẩm phán tòa án tối cao lâu nhất",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q11116",
+                "text": "Ruth Bader Ginsburg",
+                "aliases": []
+            }
+        ]
+    },
+    "91157977445677616": {
+        "query": "how i met your mother kết thúc khi nào",
+        "answer": [
+            {
+                "type": "date",
+                "text": "2014-03-31",
+                "aliases": [
+                    "03 31 2014",
+                    "2014 03 31",
+                    "2014 tháng Ba 31",
+                    "2014-03-31",
+                    "31/03/2014",
+                    "31 03 2014",
+                    "2014 march, 31",
+                    "31-03-2014",
+                    "31 tháng Ba 2014",
+                    "03-31-2014",
+                    "03/31/2014"
+                ]
+            }
+        ]
+    },
+    "-3792214777998468542": {
+        "query": "người chơi cánh tay vàng trong blue mountain state",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q316541",
+                "text": "Lucas Till",
+                "aliases": []
+            }
+        ]
+    },
+    "-5658756349967777582": {
+        "query": "khoảng cách từ Newnan Georgia đến Atlanta Georgia là bao xa",
+        "answer": [
+            {
+                "type": "number_with_unit",
+                "text": "37.7 dặm Anh",
+                "aliases": []
+            }
+        ]
+    },
+    "3771596286328117803": {
+        "query": "Ai đã hát Jim Dandy tới để giải cứu ngoài mạn thuyền?",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q35820",
+                "text": "anh em nhà Wright",
+                "aliases": [
+                    "Wilbur & Orville Wright",
+                    "anh em Wright"
+                ]
+            },
+            {
+                "type": "entity",
+                "text": "wright brothers",
+                "entity": "Q35820"
+            },
+            {
+                "type": "short_phrase",
+                "text": "wright brothers"
+            }
+        ]
+    },
+    "1497644775994002853": {
+        "query": "có bao nhiêu chữ cái Hawaii trong bảng chữ cái",
+        "answer": [
+            {
+                "type": "number",
+                "text": "12.0",
+                "aliases": [
+                    "12"
+                ]
+            }
+        ]
+    },
+    "-1294700316371359162": {
+        "query": "có bao nhiêu chữ cái trong bảng chữ cái Đan Mạch",
+        "answer": [
+            {
+                "type": "number",
+                "text": "29.0",
+                "aliases": [
+                    "29"
+                ]
+            }
+        ]
+    },
+    "-7917525074407677836": {
+        "query": "Ai là người ghi bàn nhiều nhất tại giải nhl",
+        "answer": [
+            {
+                "type": "entity",
+                "text": "Nikita Kucherov",
+                "entity": "Q1693680"
+            },
+            {
+                "type": "entity",
+                "text": "Wayne Gretzky",
+                "entity": "Q209518"
+            }
+        ]
+    },
+    "-1973826659580086416": {
+        "query": "ở đâu mà bộ phim tình yêu hòa bình và sự hiểu nhầm được quay ",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q1384",
+                "text": "New York",
+                "aliases": [
+                    "Tiểu bang New York",
+                    "Nữu Ước",
+                    "Niu Oóc",
+                    "Tiểu bang Nữu Ước"
+                ]
+            }
+        ]
+    },
+    "-5791030498142856649": {
+        "query": "người già nhất thế giới sinh ra khi nào",
+        "answer": [
+            {
+                "type": "date",
+                "text": "1875-02-21",
+                "aliases": [
+                    "1875-02-21",
+                    "21 tháng hai 1875",
+                    "21 02 1875",
+                    "21-02-1875",
+                    "02-21-1875",
+                    "1875 tháng hai 21",
+                    "1875 february, 21",
+                    "02/21/1875",
+                    "21/02/1875",
+                    "02 21 1875",
+                    "1875 02 21"
+                ]
+            }
+        ]
+    },
+    "-2430892891443078620": {
+        "query": "Những tác phẩm được viết bởi Calvin đã trở thành sách giáo khoa cho thần học cải cách",
+        "answer": [
+            {
+                "type": "entity",
+                "text": "Các viện của tôn giáo Kitô giáo",
+                "entity": "Q371558"
+            }
+        ]
+    },
+    "5979703226878007063": {
+        "query": "đội có tỷ lệ cược trung bình cao nhất trong giải phillies philips 1980",
+        "answer": [
+            {
+                "type": "entity",
+                "text": "Don McCormack",
+                "entity": "Q5293095"
+            }
+        ]
+    },
+    "-5981644299603416480": {
+        "query": "ai đã giành chiến thắng trong trận chung kết quần vợt nam",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q10132",
+                "text": "Rafael Nadal",
+                "aliases": []
+            }
+        ]
+    },
+    "-7714905599362108997": {
+        "query": "khi nào người Tây Ban Nha xâm chiếm Nam Mỹ",
+        "answer": [
+            {
+                "type": "date",
+                "text": "1492",
+                "aliases": [
+                    "1492"
+                ]
+            }
+        ]
+    },
+    "7272526264843607782": {
+        "query": "họ banks đến từ đâu",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q9035",
+                "text": "tiếng Đan Mạch",
+                "aliases": []
+            }
+        ]
+    },
+    "7322963168837066879": {
+        "query": "Ai hát bài never on a sunday",
+        "answer": [
+            {
+                "type": "entity",
+                "text": "Melina Mercouri",
+                "entity": "Q228611"
+            }
+        ]
+    },
+    "-9078306006144333844": {
+        "query": "Khi nào thì chế độ nô lệ bị bãi bỏ ở vùng Caribbean của người Anh",
+        "answer": [
+            {
+                "type": "date",
+                "text": "1834-08-01",
+                "aliases": [
+                    "08-01-1834",
+                    "01 08 1834",
+                    "01/08/1834",
+                    "1834 08 01",
+                    "1834-08-01",
+                    "1834 tháng Tám 01",
+                    "08 01 1834",
+                    "08/01/1834",
+                    "01-08-1834",
+                    "01 tháng Tám 1834",
+                    "1834 august, 01"
+                ]
+            }
+        ]
+    },
+    "-372141976132121192": {
+        "query": "ai đã hát bài are you going to san francisco",
+        "answer": [
+            {
+                "type": "entity",
+                "text": "Scott McKenzie",
+                "entity": "Q326281"
+            }
+        ]
+    },
+    "941288606558358396": {
+        "query": "ai đã viết don't stop me now của queen",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q15869",
+                "text": "Freddie Mercury",
+                "aliases": []
+            }
+        ]
+    }
+}

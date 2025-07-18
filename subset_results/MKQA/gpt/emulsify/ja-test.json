@@ -1,0 +1,97 @@
+[
+    {
+        "id": "-8785178576893271242",
+        "sys_prompt": "You are a judge from the Japanese tradition, known for your wisdom and fairness. Although your cultural background is Japanese, you are fluent in English and will conduct this task in English. You are given a reasoning question. There is a debate on this question between user1 and user2. Your task is to listen to their arguments carefully and provide a fair and wise judgment.\n\nSummarize the debate briefly and then give a conclusion based on the arguments presented. Your response should be in the format: \n\"Summary: ___. Conclusion: [answer] is more plausible.\n\nAnswer: [one or a few words in English]\"\n\nApproach the task with the fairness and critical thinking expected of a Japanese judge, ensuring you make only one answer for the final answer.",
+        "user_prompt": "Question: \u5927\u8349\u539f\u306e\u5c0f\u3055\u306a\u5bb6\u3067\u30cd\u30ea\u30fc\u3092\u6f14\u3058\u305f\u306e\u306f\u8ab0\u3067\u3059\u304b\uff1f\n\nuser1: To answer the question, we need to identify the actress who played the character Nellie Oleson in the television series \"Little House on the Prairie,\" which is based on the book series by Laura Ingalls Wilder. \n\nThe character Nellie Oleson is known for being a rival to Laura Ingalls. The actress who portrayed her in the series is Alison Arngrim.\n\nNow, let's summarize the answer:\n\nAnswer: Alison Arngrim\n\nuser2: In \"Little House on the Prairie,\" the character Nellie Oleson was portrayed by actress Alison Arngrim. Nellie is known for her spoiled and often antagonistic behavior, which creates memorable conflicts with the main character, Laura Ingalls. Alison Arngrim's performance made Nellie a standout character in the series, which is based on the autobiographical books by Laura Ingalls Wilder. Understanding the dynamics between characters like Nellie and Laura can provide insight into the themes of childhood, resilience, and social class that are explored throughout the show.\nAnswer: Alison Arngrim",
+        "response": "Summary: Both user1 and user2 agree that Alison Arngrim played the character Nellie Oleson in the television series \"Little House on the Prairie.\" They highlight her role as a rival to Laura Ingalls and note the significance of her character in the context of the show's themes. \n\nConclusion: [Alison Arngrim] is more plausible.\n\nAnswer: Alison Arngrim",
+        "predicted_answer": "Alison Arngrim",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q265540",
+                "text": "\u30a2\u30ea\u30bd\u30f3\u30fb\u30a2\u30fc\u30f3\u30b0\u30ea\u30f3",
+                "aliases": []
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "2479806972542856767",
+        "sys_prompt": "You are a judge from the Japanese tradition, known for your wisdom and fairness. Although your cultural background is Japanese, you are fluent in English and will conduct this task in English. You are given a reasoning question. There is a debate on this question between user1 and user2. Your task is to listen to their arguments carefully and provide a fair and wise judgment.\n\nSummarize the debate briefly and then give a conclusion based on the arguments presented. Your response should be in the format: \n\"Summary: ___. Conclusion: [answer] is more plausible.\n\nAnswer: [one or a few words in English]\"\n\nApproach the task with the fairness and critical thinking expected of a Japanese judge, ensuring you make only one answer for the final answer.",
+        "user_prompt": "Question: \u300c\u30d8\u30f3\u30bc\u30eb\u3068\u30b0\u30ec\u30fc\u30c6\u30eb\u300d\u306e\u9b54\u5973\u5f79\u306f\u8ab0\uff1f\n\nuser1: In the story of \"Hansel and Gretel,\" the witch is a character who lures the children into her gingerbread house. She is often depicted as an evil figure who intends to eat them. \n\nFinal answer: Answer: The witch\n\nuser2: In the fairy tale \"Hansel and Gretel,\" the witch is a key antagonist who lures the children into her candy-covered house. While there isn't a specific character name for the witch in the original Brothers Grimm story, she is often depicted as a wicked old woman who captures Hansel and Gretel with the intention of eating them. In various adaptations, including operas and films, the witch may be portrayed by different actresses or actors, each bringing their own interpretation to the role. Understanding the witch's character is essential, as she embodies themes of temptation and danger, which are central to the story's moral lessons about caution and cleverness.\nAnswer: \u7279\u5b9a\u306e\u540d\u524d\u306f\u306a\u3044",
+        "response": "Summary: User1 asserts that the witch in \"Hansel and Gretel\" is simply referred to as \"the witch,\" emphasizing her role as an evil figure. User2 elaborates that while the witch does not have a specific name in the original story, she is a significant antagonist representing temptation and danger, and her character can vary in adaptations.\n\nConclusion: User2's argument is more nuanced, acknowledging the lack of a specific name while also highlighting the witch's thematic importance. Therefore, the answer that the witch does not have a specific name is more plausible.\n\nAnswer: No specific name",
+        "predicted_answer": "No specific name",
+        "ground_truth": [
+            {
+                "type": "short_phrase",
+                "text": "\u30ed\u30b8\u30fc\u30ca \u30ec\u30c3\u30ab\u30fc\u30de\u30a6\u30eb"
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "-3578394134252581",
+        "sys_prompt": "You are a judge from the Japanese tradition, known for your wisdom and fairness. Although your cultural background is Japanese, you are fluent in English and will conduct this task in English. You are given a reasoning question. There is a debate on this question between user1 and user2. Your task is to listen to their arguments carefully and provide a fair and wise judgment.\n\nSummarize the debate briefly and then give a conclusion based on the arguments presented. Your response should be in the format: \n\"Summary: ___. Conclusion: [answer] is more plausible.\n\nAnswer: [one or a few words in English]\"\n\nApproach the task with the fairness and critical thinking expected of a Japanese judge, ensuring you make only one answer for the final answer.",
+        "user_prompt": "Question: \u30d2\u30de\u30e9\u30e4\u5c71\u8108\u306f\u4e16\u754c\u3067\u6700\u3082\u9ad8\u3044\u5c71\u306a\u306e\u304b\n\nuser1: The Himalayas contain Mount Everest, which is the highest mountain in the world. Therefore, the statement can be interpreted as true. \n\nFinal answer: Answer: yes\n\nuser2: Yes, the Himalayas are home to the world's highest mountain, Mount Everest, which stands at 8,848 meters (29,029 feet) above sea level. The Himalayas, which stretch across five countries\u2014India, Nepal, Bhutan, China, and Pakistan\u2014are known for their towering peaks and stunning landscapes. Understanding the geographical significance of the Himalayas is important, as they not only represent a natural boundary but also play a crucial role in the climate and ecology of the region. The cultural and spiritual significance of these mountains in various traditions, particularly in Hinduism and Buddhism, adds another layer to their importance beyond just their height.\nAnswer: yes",
+        "response": "Summary: User1 and user2 both argue that the Himalayas are indeed the highest mountain range in the world because they contain Mount Everest, which is the tallest mountain on Earth. User1 focuses on the height of Mount Everest as evidence, while user2 expands on the geographical, ecological, and cultural significance of the Himalayas as a whole. Both conclude that the statement is true.\n\nConclusion: [yes] is more plausible.\n\nAnswer: yes",
+        "predicted_answer": "yes",
+        "ground_truth": [
+            {
+                "type": "binary",
+                "text": "no"
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "8245563213341141772",
+        "sys_prompt": "You are a judge from the Japanese tradition, known for your wisdom and fairness. Although your cultural background is Japanese, you are fluent in English and will conduct this task in English. You are given a reasoning question. There is a debate on this question between user1 and user2. Your task is to listen to their arguments carefully and provide a fair and wise judgment.\n\nSummarize the debate briefly and then give a conclusion based on the arguments presented. Your response should be in the format: \n\"Summary: ___. Conclusion: [answer] is more plausible.\n\nAnswer: [one or a few words in English]\"\n\nApproach the task with the fairness and critical thinking expected of a Japanese judge, ensuring you make only one answer for the final answer.",
+        "user_prompt": "Question: \u6700\u521d\u306e\u30a8\u30af\u30bd\u30b7\u30b9\u30c8\u306e\u6620\u753b\u304c\u516c\u958b\u3055\u308c\u305f\u306e\u306f\u3044\u3064\u304b\n\nuser1: The original Exorcist movie was released in 1973. \n\nAnswer: 1973\n\nuser2: The original \"The Exorcist\" movie was released on December 26, 1973. This film, directed by William Friedkin and based on the novel by William Peter Blatty, is considered one of the most influential horror films of all time. It explores themes of faith, possession, and the battle between good and evil, which resonated deeply with audiences and sparked discussions about the supernatural and religion. Understanding the cultural impact of \"The Exorcist\" can help students appreciate its significance in the horror genre and its lasting legacy in film history.\nAnswer: 1973\u5e7412\u670826\u65e5",
+        "response": "Summary: User1 states that the original Exorcist movie was released in 1973, while User2 provides a more detailed response, specifying the exact release date as December 26, 1973, and elaborating on the film's significance in the horror genre. Both users agree on the year of release, but User2 offers additional context.\n\nConclusion: User2's answer is more plausible as it provides the specific date and context regarding the film's impact.\n\nAnswer: December 26, 1973",
+        "predicted_answer": "December 26, 1973",
+        "ground_truth": [
+            {
+                "type": "date",
+                "text": "1973-12-26",
+                "aliases": [
+                    "1973 12 26",
+                    "12/26/1973",
+                    "12-26-1973",
+                    "26-12-1973",
+                    "1973 \u5341\u4e8c\u6708 26",
+                    "26/12/1973",
+                    "1973 december, 26",
+                    "1973-12-26",
+                    "12 26 1973",
+                    "26 12 1973",
+                    "26 \u5341\u4e8c\u6708 1973"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "2485054536940137946",
+        "sys_prompt": "You are a judge from the Japanese tradition, known for your wisdom and fairness. Although your cultural background is Japanese, you are fluent in English and will conduct this task in English. You are given a reasoning question. There is a debate on this question between user1 and user2. Your task is to listen to their arguments carefully and provide a fair and wise judgment.\n\nSummarize the debate briefly and then give a conclusion based on the arguments presented. Your response should be in the format: \n\"Summary: ___. Conclusion: [answer] is more plausible.\n\nAnswer: [one or a few words in English]\"\n\nApproach the task with the fairness and critical thinking expected of a Japanese judge, ensuring you make only one answer for the final answer.",
+        "user_prompt": "Question: \u30a2\u30e9\u30e2\u306e\u6226\u3044\u306f\u3069\u3053\u3067\u884c\u306a\u308f\u308c\u307e\u3057\u305f\u304b\n\nuser1: The Battle of the Alamo took place in San Antonio, Texas. \n\nAnswer: San Antonio, Texas\n\nuser2: The Battle of the Alamo took place in San Antonio, Texas. This historic event occurred in 1836 during the Texas Revolution, where a small group of Texan defenders fought against the Mexican army led by General Santa Anna. The Alamo, a former mission, became a symbol of resistance and sacrifice for Texan independence. Understanding the significance of the Alamo in American history helps to appreciate its cultural impact, as it represents the struggle for freedom and has become a lasting symbol of bravery and determination in the face of overwhelming odds.\nAnswer: San Antonio, Texas",
+        "response": "Summary: Both user1 and user2 agree that the Battle of the Alamo took place in San Antonio, Texas. User2 provides additional context about the historical significance of the battle, emphasizing its role in the Texas Revolution and its cultural impact. \n\nConclusion: [answer] is more plausible.\n\nAnswer: San Antonio, Texas",
+        "predicted_answer": "San Antonio, Texas",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q1439",
+                "text": "\u30c6\u30ad\u30b5\u30b9\u5dde",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q975",
+                "text": "\u30b5\u30f3\u30a2\u30f3\u30c8\u30cb\u30aa",
+                "aliases": [
+                    "\u30a2\u30f3\u30c8\u30cb\u30a6\u30b9"
+                ]
+            }
+        ],
+        "is_correct": null
+    }
+]

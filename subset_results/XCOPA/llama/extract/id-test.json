@@ -1,0 +1,52 @@
+[
+    {
+        "id": "119",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: Semua orang tidak setuju dengan tunangan pasangan itu.\nWhat is the effect?\nChoice1: Pasangan itu hamil.\nChoice2: Pasangan itu kabur untuk menikah.\nExplanation: In this scenario, the premise \"Semua orang tidak setuju dengan tunangan pasangan itu\" suggests that everyone, including family, friends, and community, disapproves of the couple's engagement. This strong disapproval can create tension and pressure on the couple. \n\nGiven this context, we can analyze the choices. Choice 1, \"Pasangan itu hamil,\" doesn't directly relate to the disapproval of their engagement. Having a child might be a personal decision, but it's not necessarily a response to external disapproval.\n\nChoice 2, \"Pasangan itu kabur untuk menikah,\" is a more plausible outcome. When faced with strong disapproval from everyone, the couple might feel the need to escape or avoid the situation, which could lead them to elope and get married in secret. This choice shows an understanding of how social pressure and disapproval can influence people's behavior.",
+        "response": "Answer: 2",
+        "explanation": "In this scenario, the premise \"Semua orang tidak setuju dengan tunangan pasangan itu\" suggests that everyone, including family, friends, and community, disapproves of the couple's engagement. This strong disapproval can create tension and pressure on the couple. \n\nGiven this context, we can analyze the choices. Choice 1, \"Pasangan itu hamil,\" doesn't directly relate to the disapproval of their engagement. Having a child might be a personal decision, but it's not necessarily a response to external disapproval.\n\nChoice 2, \"Pasangan itu kabur untuk menikah,\" is a more plausible outcome. When faced with strong disapproval from everyone, the couple might feel the need to escape or avoid the situation, which could lead them to elope and get married in secret. This choice shows an understanding of how social pressure and disapproval can influence people's behavior.",
+        "predicted_answer": 2,
+        "ground_truth": 1,
+        "is_correct": true
+    },
+    {
+        "id": "470",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: Acara televisi itu disensor.\nWhat is the cause?\nChoice1: Acar itu berisi bahasa vulgar.\nChoice2: Acara itu memiliki plot yang rumit.\nExplanation: In Indonesia, acara televisi yang disensor biasanya dilakukan untuk menjaga keselarasan dan kenyamanan bagi penonton. Dalam kasus ini, penyensoran biasanya terkait dengan isu-isu yang sensitif atau tidak pantas ditayangkan di televisi. Pilihan 1, \"Acara itu berisi bahasa vulgar\", adalah alasan yang paling mungkin karena bahasa vulgar dianggap tidak pantas dan dapat menyinggung beberapa orang. Pilihan 2, \"Acara itu memiliki plot yang rumit\", tidak terlalu relevan dengan penyensoran acara televisi.",
+        "response": "Answer: 1",
+        "explanation": "In Indonesia, acara televisi yang disensor biasanya dilakukan untuk menjaga keselarasan dan kenyamanan bagi penonton. Dalam kasus ini, penyensoran biasanya terkait dengan isu-isu yang sensitif atau tidak pantas ditayangkan di televisi. Pilihan 1, \"Acara itu berisi bahasa vulgar\", adalah alasan yang paling mungkin karena bahasa vulgar dianggap tidak pantas dan dapat menyinggung beberapa orang. Pilihan 2, \"Acara itu memiliki plot yang rumit\", tidak terlalu relevan dengan penyensoran acara televisi.",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "316",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: Saya terbangun di tengah malam karena kedinginan.\nWhat is the effect?\nChoice1: Saya pakai celana hangat.\nChoice2: Saya minum segelas air.\nExplanation: Kedinginan membuat tubuh Anda merasa tidak nyaman dan ingin berusaha untuk menghilangkan rasa kedinginan tersebut. Dalam kasus ini, minum segelas air (Choice 2) tidak akan membantu menghilangkan rasa kedinginan karena air tidak dapat menghasilkan panas. Menggunakan celana hangat (Choice 1) adalah pilihan yang lebih tepat karena celana hangat dapat membantu meningkatkan suhu tubuh Anda dan menghilangkan rasa kedinginan.",
+        "response": "Answer: 1",
+        "explanation": "Kedinginan membuat tubuh Anda merasa tidak nyaman dan ingin berusaha untuk menghilangkan rasa kedinginan tersebut. Dalam kasus ini, minum segelas air (Choice 2) tidak akan membantu menghilangkan rasa kedinginan karena air tidak dapat menghasilkan panas. Menggunakan celana hangat (Choice 1) adalah pilihan yang lebih tepat karena celana hangat dapat membantu meningkatkan suhu tubuh Anda dan menghilangkan rasa kedinginan.",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "185",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: Saya olahraga.\nWhat is the cause?\nChoice1: Saya merasa penuh semangat.\nChoice2: Saya takut.\nExplanation: Let's break down the situation. Jika Anda berolahraga, maka biasanya Anda merasa lebih energik dan semangat. Hal ini karena olahraga dapat meningkatkan keseimbangan hormon dalam tubuh dan membuat Anda merasa lebih positif. Pada pilihan 1, \"Saya merasa penuh semangat\", ini adalah hasil yang logis dari berolahraga. Pada pilihan 2, \"Saya takut\", ini tidak biasa karena olahraga seharusnya membuat Anda merasa lebih percaya diri dan tidak takut.",
+        "response": "Answer: 1",
+        "explanation": "Let's break down the situation. Jika Anda berolahraga, maka biasanya Anda merasa lebih energik dan semangat. Hal ini karena olahraga dapat meningkatkan keseimbangan hormon dalam tubuh dan membuat Anda merasa lebih positif. Pada pilihan 1, \"Saya merasa penuh semangat\", ini adalah hasil yang logis dari berolahraga. Pada pilihan 2, \"Saya takut\", ini tidak biasa karena olahraga seharusnya membuat Anda merasa lebih percaya diri dan tidak takut.",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "360",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: Pria itu menonjol sekali di tengah kerumunan.\nWhat is the cause?\nChoice1: Dia membawa ransel.\nChoice2: Dia mengenakan rompi neon.\nExplanation: The premise states that the man is very noticeable in the crowd. To determine the cause, let's consider the options. \n\nChoice 1, \"Dia membawa ransel,\" might be a plausible option because ransel (backpack) can be quite bulky and noticeable, but it's not always the most obvious choice for drawing attention. \n\nChoice 2, \"Dia mengenakan rompi neon,\" is a more likely option because neon-colored clothing is designed to be eye-catching and stand out in a crowd. In many cultures, neon-colored clothing is associated with being bold and attention-grabbing. \n\nIn this case, the most reasonable explanation for the man being very noticeable is that he is wearing a neon-colored jacket, making him stand out in the crowd.",
+        "response": "Answer: 2",
+        "explanation": "The premise states that the man is very noticeable in the crowd. To determine the cause, let's consider the options. \n\nChoice 1, \"Dia membawa ransel,\" might be a plausible option because ransel (backpack) can be quite bulky and noticeable, but it's not always the most obvious choice for drawing attention. \n\nChoice 2, \"Dia mengenakan rompi neon,\" is a more likely option because neon-colored clothing is designed to be eye-catching and stand out in a crowd. In many cultures, neon-colored clothing is associated with being bold and attention-grabbing. \n\nIn this case, the most reasonable explanation for the man being very noticeable is that he is wearing a neon-colored jacket, making him stand out in the crowd.",
+        "predicted_answer": 2,
+        "ground_truth": 1,
+        "is_correct": true
+    }
+]

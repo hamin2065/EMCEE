@@ -1,0 +1,42 @@
+[
+    {
+        "id": "107",
+        "prompt": "Here is a premise: Saldeben an te inonde.. What is the cause? Help me pick the more plausible option: -choice1: Twal\u00e8t la te deb\u00f2de., -choice2: [choice]\nLet's think step-by-step in English.\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "To analyze the situation, let's break down the given premise \"Saldeben an te inonde\" and the two possible causes:\n\n1. \"Saldeben\" means \"to leak\" or \"to overflow\" in Haitian Creole, which suggests that the water is coming from somewhere.\n2. \"An te\" means \"in the water\" or \"in the sea\".\n3. \"Inonde\" means \"to flood\" or \"to overflow\".\n\nConsidering these meanings, the situation seems to describe a flood or an overflow of water into the sea or an area with water.\n\nNow, let's examine the two possible causes:\n\n- Choice 1: \"Twal\u00e8t la te deb\u00f2de.\" This means \"The dam broke.\" If a dam breaks, it can cause a flood or an overflow of water, which could explain the situation described in the premise.\n\n- Choice 2: We don't have an option 2 to consider.\n\nBased on this analysis, the most plausible option is:\n\nAnswer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "464",
+        "prompt": "Here is a premise: Fanmi a te vle f\u00e8 konesans nouvo vwazen yo.. What is the effect? Help me pick the more plausible option: -choice1: Fanmi a te envite vwazen yo pou dine., -choice2: [choice]\nLet's think step-by-step in English.\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "To determine the effect, let's analyze the given premise and the options.\n\nThe premise is: \"Fanmi a te vle f\u00e8 konesans nouvo vwazen yo.\" This is a Haitian Creole sentence that translates to \"The family wanted to get to know their new neighbors.\"\n\nNow, let's consider the options:\n\n-choice1: \"Fanmi a te envite vwazen yo pou dine.\" This translates to \"The family invited their neighbors to dinner.\"\n\n-choice2: We need to come up with a more plausible option.\n\nConsidering the context, a more plausible option would be: \"Vwazen yo te vin rete ak fanmi a.\" This translates to \"The neighbors came to stay with the family.\"\n\nHowever, this doesn't fit well with the given premise. A more suitable option would be: \"Fanmi a te vle f\u00e8 konesans nouvo vwazen yo nan yon bann diner.\" This translates to \"The family wanted to get to know their new neighbors at a barbecue.\" However, the more common and natural option would be: \"Fanmi a te vle f\u00e8 konesans nouvo vwazen yo nan yon bann diner oubyen nan yon bann l\u00f2t aktivite",
+        "predicted_answer": "To determine the effect, let's analyze the given premise and the options.\n\nThe premise is: \"Fanmi a te vle f\u00e8 konesans nouvo vwazen yo.\" This is a Haitian Creole sentence that translates to \"The family wanted to get to know their new neighbors.\"\n\nNow, let's consider the options:\n\n-choice1: \"Fanmi a te envite vwazen yo pou dine.\" This translates to \"The family invited their neighbors to dinner.\"\n\n-choice2: We need to come up with a more plausible option.\n\nConsidering the context, a more plausible option would be: \"Vwazen yo te vin rete ak fanmi a.\" This translates to \"The neighbors came to stay with the family.\"\n\nHowever, this doesn't fit well with the given premise. A more suitable option would be: \"Fanmi a te vle f\u00e8 konesans nouvo vwazen yo nan yon bann diner.\" This translates to \"The family wanted to get to know their new neighbors at a barbecue.\" However, the more common and natural option would be: \"Fanmi a te vle f\u00e8 konesans nouvo vwazen yo nan yon bann diner oubyen nan yon bann l\u00f2t aktivite",
+        "ground_truth": 0,
+        "is_correct": false
+    },
+    {
+        "id": "63",
+        "prompt": "Here is a premise: Men mwen te sezi.. What is the cause? Help me pick the more plausible option: -choice1: Mwen te ekri redaksyon an a la men., -choice2: [choice]\nLet's think step-by-step in English.\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "To determine the cause, let's break down the given statement and analyze it step by step.\n\n1. The statement is in Haitian Creole, which is a language spoken in Haiti.\n2. The phrase \"Men mwen te sezi\" translates to \"My eyes are tired\" in English.\n\nGiven the translation, let's examine the options:\n\n- choice1: \"Mwen te ekri redaksyon an a la men.\" translates to \"I have written the article again in my eyes.\" This statement seems to be a play on words, using \"ekri\" (written) and \"men\" (eyes), which doesn't make sense in this context.\n\n- choice2: I'll provide an alternative option, but since you didn't provide one, I'll create a more plausible option: \"Mwen te w\u00e8 yon bagay ki te gen pou mwen sezi.\" This translates to \"I saw something that made my eyes tired.\"\n\nConsidering the translation of the original statement and analyzing the options, I would choose:\n\nAnswer: 2",
+        "predicted_answer": 2,
+        "ground_truth": 0,
+        "is_correct": false
+    },
+    {
+        "id": "454",
+        "prompt": "Here is a premise: Madanm nan te trebiche sou trotwa a.. What is the cause? Help me pick the more plausible option: -choice1: Te gen yon fant nan siman an., -choice2: [choice]\nLet's think step-by-step in English.\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "To solve this, let's break it down step by step.\n\n1. \"Madanm nan te trebiche sou trotwa a\" translates to \"The lady was hit by a car on the road.\"\n2. \"Te gen yon fant nan siman an\" translates to \"There was a ghost in the sun.\"\n\nNow, let's consider the two options:\n- choice1: \"Te gen yon fant nan siman an\" (There was a ghost in the sun)\n- choice2: (missing information)\n\nSince we're given two options and we need to choose the more plausible one, let's analyze choice1. The idea of a ghost in the sun is highly unlikely and not a common cause for a car accident.\n\nNow, let's consider a more plausible option for choice2. A possible completion could be: \"Te vle ale nan lane an\" (She wanted to cross the street).\n\nConsidering the context of the sentence and the given options, the more plausible option is:\n\nAnswer: 2",
+        "predicted_answer": 2,
+        "ground_truth": 0,
+        "is_correct": false
+    },
+    {
+        "id": "456",
+        "prompt": "Here is a premise: Mwen te pran antibyotik.. What is the effect? Help me pick the more plausible option: -choice1: Enfeksyon mwen te geri., -choice2: [choice]\nLet's think step-by-step in English.\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "To choose the correct option, let's analyze the sentence \"Mwen te pran antibyotik\" which translates to \"I took antibiotics\" in English.\n\nAntibiotics are medications used to treat bacterial infections. If you take antibiotics, the expected outcome is that the bacterial infection should be treated or cured.\n\nNow, let's evaluate the options:\n\n- choice1: Enfeksyon mwen te geri. (Translation: My infection is getting better.)\n- choice2: Enfeksyon mwen te pi klere. (Translation: My infection is getting worse.)\n\nBased on the understanding that antibiotics are used to treat bacterial infections, the most plausible outcome would be that the infection is getting better, not worse.\n\nAnswer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    }
+]

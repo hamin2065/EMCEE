@@ -1,0 +1,502 @@
+{
+    "vi-2850": {
+        "premise": "Bốn mươi bốn dự án thí điểm đã gửi báo cáo về vòng biểu diễn đầu tiên vào năm 1995.",
+        "hypothesis": "Không có báo cáo về các chương trình thí điểm đã được gửi.",
+        "label": 2
+    },
+    "vi-3345": {
+        "premise": "Cuối cùng, ông đã chỉ đạo Bộ trưởng Tài chính Paul O'Neill lập kế hoạch nhắm vào ngân quỹ của al Qaeda và tịch thu tài sản của họ.",
+        "hypothesis": "Paul O'Neill không muốn phát triển một kế hoạch.",
+        "label": 1
+    },
+    "vi-2730": {
+        "premise": "Một sáng kiến liên quan đến việc thiết lập định hướng chiến lược, hướng dẫn và tiêu chuẩn cho việc thiết lập thương mại điện tử trong chính phủ tiểu bang.",
+        "hypothesis": "Những nỗ lực đã được thực hiện để giúp viện thương mại điện tử trong chính phủ tiểu bang.",
+        "label": 0
+    },
+    "vi-2630": {
+        "premise": "Chiến lược tìm nguồn cung ứng của tổ chức là một phần của chiến lược phát triển vốn nhân lực lớn hơn, được thảo luận trên nguyên tắc VI.",
+        "hypothesis": "Nguyên tắc XII đề cập đến chiến lược phát triển vốn.",
+        "label": 2
+    },
+    "vi-856": {
+        "premise": "phải bạn biết đấy thường thì có uh tôi có một trang trại cách đây một trăm dặm về phía đông ở Đông Texas",
+        "hypothesis": "Tôi có một cánh đồng ở Texas.",
+        "label": 0
+    },
+    "vi-1317": {
+        "premise": "Lego World có thể xây dựng các công cụ máy để xây dựng các đối tượng khác bao gồm các công cụ khác.",
+        "hypothesis": "Lego World chỉ có thể in các nhân vật hoạt hình trên giấy.",
+        "label": 2
+    },
+    "vi-2701": {
+        "premise": "Bao gồm cả các chuyến thăm phòng cấp cứu trong một phân tích lợi ích đã xem xét nhập viện, chẳng hạn, sẽ dẫn đến việc tính hai lần một số lợi ích nếu việc nhập viện vào danh mục bao gồm các lần đến phòng cấp cứu.",
+        "hypothesis": "Nhập viện tăng gấp đôi lợi ích nếu bệnh nhân không có bảo hiểm.",
+        "label": 1
+    },
+    "vi-3372": {
+        "premise": "Một khi chiếc máy bay bị đánh trúng, chúng bị ngăn cản rơi xuống do gây hại hoặc điều kiện không thể vượt qua trong ba cầu thang của tòa nhà.",
+        "hypothesis": "Cầu thang đã sạch.",
+        "label": 2
+    },
+    "vi-4058": {
+        "premise": "Thể thao không phải là sự kiện duy nhất để đặt cược tại các trang web này.",
+        "hypothesis": "Các trang web này thực hiện một số hoạt động.",
+        "label": 0
+    },
+    "vi-2361": {
+        "premise": "Họ thích giao lưu xã hội, và các quán bar đặc biệt là các quán bar nâu nổi tiếng là nơi họ gặp gỡ, thường là để đưa thế giới đi đúng hướng.",
+        "hypothesis": "Họ không bao giờ đi chơi với bạn bè, nhưng chỉ ở bên trong một mình.",
+        "label": 2
+    },
+    "vi-3280": {
+        "premise": "Các cửa sổ lớn từ sàn tới trần của tầng trệt ở góc tây bắc đường West Street đã bị thổi bay",
+        "hypothesis": "Đội thi công mất hơn hai tuần để thay thế tất cả các cửa sổ bị hỏng.",
+        "label": 1
+    },
+    "vi-4506": {
+        "premise": "Câu chuyện bao trùm đầy say mê cảnh báo rằng các vườn quốc gia của Mỹ đang bị hủy hoại bởi tình trạng quá tải, thiếu hụt, xâm lược của các loài động thực vật kỳ lạ và phát triển thương mại.",
+        "hypothesis": "Các công viên quốc gia luôn trống rỗng.",
+        "label": 2
+    },
+    "vi-300": {
+        "premise": "Miễn là nó không bao giờ được nói ra--",
+        "hypothesis": "Anh ta nói rằng anh ta đã nói mọi thứ tôi cần biết",
+        "label": 2
+    },
+    "vi-3725": {
+        "premise": "Chúng tôi hy vọng bạn sẽ thích nói chuyện với họ, nhưng bạn có thể tiết kiệm tiền hành chính IRT bằng cách gửi quà tặng của bạn trong phong bì gửi lại vào hôm nay.",
+        "hypothesis": "Bạn chỉ có thể cho tặng bằng chuyển khoản ngân hàng.",
+        "label": 2
+    },
+    "vi-721": {
+        "premise": "ném một quảng cáo Coke vào đó",
+        "hypothesis": "Thêm một chai nước giải khát.",
+        "label": 1
+    },
+    "vi-2576": {
+        "premise": "Để làm cách khác là gửi một thông điệp gây phiền hà cho nhân viên của GAO, báo chí, và công chúng.",
+        "hypothesis": "Đó là một thông điệp xấu gửi đến người lao động nếu bạn không làm điều đó.",
+        "label": 0
+    },
+    "vi-2067": {
+        "premise": "Với việc gia nhập Thị trường Chung năm 1981, triển vọng kinh tế của Hy Lạp đã được củng cố.",
+        "hypothesis": "Dân chúng Hy Lạp vui mừng khi đất nước gia nhập thị trường chung.",
+        "label": 1
+    },
+    "vi-2648": {
+        "premise": "Khí thải thủy ngân là điều làm nên thủy ngân lắng đọng trong nước.",
+        "hypothesis": "Sự lan tỏa của thủy ngân hoàn toàn không ảnh hưởng đến nước.",
+        "label": 2
+    },
+    "vi-949": {
+        "premise": "ừm, tôi sống tại Texas và chúng tôi có một giáo viên đã chết vì AIDS",
+        "hypothesis": "Một giáo viên Texas đã chiến đấu với AIDS trong một thập kỷ nhưng cuối cùng đã chết năm ngoái.",
+        "label": 1
+    },
+    "vi-3311": {
+        "premise": "Chúng tôi chưa phỏng vấn từng người hiểu biết hoặc tìm thấy mọi mẩu giấy liên quan.",
+        "hypothesis": "Có rất nhiều người hiểu biết hơn mà chưa được phỏng vấn.",
+        "label": 1
+    },
+    "vi-4215": {
+        "premise": "Việc dân chủ hóa cũng không thay đổi thực tế cơ bản của địa lý quốc tế.",
+        "hypothesis": "Dân chủ hóa có thể làm ít để thay đổi thực tế của địa lý quốc tế.",
+        "label": 0
+    },
+    "vi-9": {
+        "premise": "Có rất nhiều điều bạn có thể nói mà tôi sẽ chỉ bỏ qua điều đó thôi.",
+        "hypothesis": "Tôi muốn nói với bạn tất cả mọi thứ tôi biết về điều đó!",
+        "label": 2
+    },
+    "vi-4444": {
+        "premise": "Để ngăn chặn việc coi hình ảnh của đồng tính luyến ái như một tội lỗi, Clinton và Birch gắn liền những phẩm của công dân với sự đồng tính.",
+        "hypothesis": "Clinton và Birch đang cố gắng để ngăn chặn đồng tính luyến ái.",
+        "label": 2
+    },
+    "vi-3784": {
+        "premise": "Việc mua lại mang tính bước ngoặt trong tháng 12 của 75 cuộn dây treo và màn hình gấp hiếm hoi và quan trọng là minh chứng cho cam kết xây dựng bộ sưu tập nghệ thuật thế giới vĩnh viễn của IMA.",
+        "hypothesis": "Nghệ thuật đã được thụ đắc, điều này thật thú vị.",
+        "label": 0
+    },
+    "vi-3385": {
+        "premise": "Để xác định tình trạng của các hệ thống xây dựng từ việc xây dựng nhân sự, xem phỏng vấn FDNY 4, Chief (Jan.",
+        "hypothesis": "Có một cuộc phỏng vấn có sẵn thảo luận về các hệ thống xây dựng.",
+        "label": 0
+    },
+    "vi-444": {
+        "premise": "Dù sao, chúng tôi đã triển khai và bây giờ tôi có thể nói, bởi vì điều này, rằng, chúng tôi đã triển khai đến Kadina, Okinawa và vào năm 1968.",
+        "hypothesis": "Chúng tôi đã triển khai lực lượng của mình vào năm 1968.",
+        "label": 0
+    },
+    "vi-1536": {
+        "premise": "Tôi đột ngột bình luận về Mary Hoàng gia....",
+        "hypothesis": "Tôi đã đến qua Royal Mary.",
+        "label": 0
+    },
+    "vi-4247": {
+        "premise": "Thế một kế hoạch lai thì sao - mua dài hạn đới với người dùng thường xuyên, và trả từng phần đối với những người còn lại?",
+        "hypothesis": "Họ đang xem xét kế hoạch thanh toán cho người dùng của họ.",
+        "label": 0
+    },
+    "vi-2963": {
+        "premise": "Chúng ta có nên không trả lời điện thoại, không trả lời thắc mắc, hủy bỏ lời khai, hoặc không đến thư viện và nghiên cứu vụ án không?",
+        "hypothesis": "Không có câu hỏi về việc trả lời điện thoại.",
+        "label": 2
+    },
+    "vi-4083": {
+        "premise": "Talmudic không đem cái túi nào cả.",
+        "hypothesis": "Talmudic có đủ các vấn đề đó.",
+        "label": 2
+    },
+    "vi-3621": {
+        "premise": ".Bằng cách tiếp cận các học sinh không tiếp cận được thông qua trường học và các tổ chức cộng đồng khác.",
+        "hypothesis": "Mỗi một học sinh đều có thể đến trường.",
+        "label": 2
+    },
+    "vi-422": {
+        "premise": "Và họ chuyển đến Mallard Creek ở Charlotte.",
+        "hypothesis": "Sau đó họ sống ở Mallard Creek.",
+        "label": 0
+    },
+    "vi-1667": {
+        "premise": "Bạn nên  thấy sự nguy hiểm.",
+        "hypothesis": "Bạn thực sự cần phải nhận thức được khi trường hợp khẩn cấp xảy ra.",
+        "label": 0
+    },
+    "vi-2187": {
+        "premise": "Biển chỉ đến được khi đi qua những con đường hẹp và đường mòn nông trại, nhưng nó đáng để đi bộ để tránh xa đám đông.",
+        "hypothesis": "Chỉ có đường cao tốc lớn mới đi ra đại dương.",
+        "label": 2
+    },
+    "vi-4499": {
+        "premise": "Các quy định của FDA không làm khó hơn những người lớn khi thuốc lá.",
+        "hypothesis": "Nó không phải là khó khăn cho người lớn để mua thuốc lá ngay cả với các quy định của FDA.",
+        "label": 0
+    },
+    "vi-1073": {
+        "premise": "Phần lớn các nghiên cứu trên Quinceaeeras cho thấy rằng các gia đình muốn duy trì truyền thống lịch sử văn hóa, và lễ kỷ niệm sinh nhật thứ mười lăm của một cô con gái là một cách để duy trì nền văn hóa đó gắn kết với di sản Mỹ Latinh.",
+        "hypothesis": "Kỷ niệm sinh nhật thứ mười lăm của một cô con gái là một cách để tiếp tục mối liên hệ văn hóa.",
+        "label": 0
+    },
+    "vi-2359": {
+        "premise": "Từ một cổng thành Gothic ở giữa thị trấn, bên cạnh gác chuông thế kỷ 13, một cầu thang gồm 90 bậc sẽ đưa bạn xuống cánh cửa bằng đồng thế kỷ 11 của thánh đường.",
+        "hypothesis": "Có 90 bậc.",
+        "label": 0
+    },
+    "vi-3589": {
+        "premise": "Linda Hardwick Giám đốc phát triển & amp",
+        "hypothesis": "Link Harwick, Phát triển",
+        "label": 1
+    },
+    "vi-3970": {
+        "premise": "Tiếp theo buổi biểu diễn, một cặp đôi trẻ tuổi bước lên sàn và cất lời chào.",
+        "hypothesis": "Một cặp vợ chồng trẻ đã đi đến buổi biểu diễn đầu tiên của họ.",
+        "label": 1
+    },
+    "vi-994": {
+        "premise": "Bạn biết đó, họ đã đi, sẽ không có nhiều hoạt động cho bạn",
+        "hypothesis": "Một khi họ rời đi, các hoạt động cũng sẽ thế.",
+        "label": 0
+    },
+    "vi-236": {
+        "premise": "Và tôi đã đến, tôi đã đến Washington D.C. và tôi đã không đi thẳng đến, uh, chỗ đó, uh, nơi họ bảo tôi đến trong các đơn hàng.",
+        "hypothesis": "Tôi đã đến thủ đô của đất nước.",
+        "label": 0
+    },
+    "vi-4987": {
+        "premise": "Via di Ripetta hòa nhập vào Via della Scrofa 'Street of the Sow', được đặt tên theo một tác phẩm điêu khắc cổ xưa khác vẫn được bảo tồn ở đó.",
+        "hypothesis": "Via della Scrofa được đặt tên theo một thị trấn.",
+        "label": 2
+    },
+    "vi-1960": {
+        "premise": "Nếu anh ta có thể? Blood ngắt lời thiếu tôn trọng.",
+        "hypothesis": "Blood, không cần quan tâm, hỏi liệu anh ta có thể hay không.",
+        "label": 0
+    },
+    "vi-1297": {
+        "premise": "Đây là cách chúng ta sống hôm nay, Gehry dường như đang nói, tại sao không thích nó?",
+        "hypothesis": "Gehry là một người hạnh phúc.",
+        "label": 1
+    },
+    "vi-2545": {
+        "premise": "Việc tiết kiệm không chỉ ảnh hưởng đến cổ phiếu của cải, nhưng sự giàu có lần lượt ảnh hưởng đến sự lựa chọn để tiết kiệm.",
+        "hypothesis": "Giàu có và tiết kiệm thường không có liên quan trong bất kỳ hoàn cảnh nào.",
+        "label": 2
+    },
+    "vi-4512": {
+        "premise": "Người ta có thể tưởng tượng tới cảnh một người lái xe ủi đất đang lê lưỡi ủi trên đường cho một sự phát triển mới được ca ngợi bởi nhà phát triển    Này, Loyd…",
+        "hypothesis": "Bạn có thể tưởng tượng một người lái xe ủi đất bắt đầu vận hành một xe ủi đất.",
+        "label": 1
+    },
+    "vi-112": {
+        "premise": "Tôi không có thời gian để tham gia tất cả.",
+        "hypothesis": "Tôi đã vào đó đúng giờ.",
+        "label": 2
+    },
+    "vi-4524": {
+        "premise": "Và tôi thông cảm với nhận xét của bạn ở trang 19: Luật Tác giả đầu tiên của Brunner Trong bất kỳ nội dung văn bản nào, có ít nhất một lỗi mà người viết của nó đã bỏ qua ba lần.",
+        "hypothesis": "Việc các nhà văn không nhặt ra được các lỗi trong văn bản của riêng họ là việc rất phổ biến.",
+        "label": 0
+    },
+    "vi-3342": {
+        "premise": "Các hiệu trưởng cũng tập trung vào Pakistan và việc nó có thể thực hiện để biến Taliban thành một bên chống đối lại với Al Qaeda.",
+        "hypothesis": "Taliban là đồng minh thân cận với Qaeda.",
+        "label": 1
+    },
+    "vi-763": {
+        "premise": "nó có lẽ nhiều hơn bởi vì tôi chỉ thích vùng phủ sóng hơn là vì tôi không có thời gian để đọc bài báo mà bạn biết",
+        "hypothesis": "Tôi dành ít nhất một giờ mỗi ngày đọc báo chỉ để tôi không phải xem nó.",
+        "label": 2
+    },
+    "vi-1840": {
+        "premise": "Anh ấy lùi lại, một người đàn ông vô sự, bất lực.",
+        "hypothesis": "Anh ta bị sốc và kinh ngạc.",
+        "label": 0
+    },
+    "vi-929": {
+        "premise": "khi tôi dần lớn lên ừm",
+        "hypothesis": "Đó là một lần tôi là một người già.",
+        "label": 2
+    },
+    "vi-3780": {
+        "premise": "Cần các nguồn vốn tại đây để dùng làm khoản tiền ban đầu khi chúng ta làm việc để thiết lập các dự án trở thành nguồn tự trang trải cho trường học.",
+        "hypothesis": "Chúng tôi không cần thêm tiền, chỉ cần thời gian của bạn.",
+        "label": 2
+    },
+    "vi-962": {
+        "premise": "và sau đó nếu bạn cố gắng để có được nó bên ngoài của công ty, bạn sẽ phải trả một cánh tay và một cái chân",
+        "hypothesis": "Nếu bạn đã vượt ra ngoài công ty, bạn sẽ mất rất nhiều tiền.",
+        "label": 0
+    },
+    "vi-1261": {
+        "premise": "C. P. Snow đã viết về hai nền văn hóa, khoa học và nhân văn, không bao giờ trộn lẫn.",
+        "hypothesis": "Hai nền văn hóa là khoa học và nhân văn.",
+        "label": 0
+    },
+    "vi-4082": {
+        "premise": "Có rất nhiều lựa chọn để tấn công logic trong lập luận về vũ trụ này, và các đối thủ đương thời của chủ nghĩa duy thần đã thử tất cả chúng.",
+        "hypothesis": "Lập luận vũ trụ này đã được những người đọc nó chấp nhận và chấp thuận.",
+        "label": 2
+    },
+    "vi-2390": {
+        "premise": "Trong khi chờ đợi, Caldas de Monchique là một nơi tốt cho một bữa ăn ngoài trời và đi dạo trong rừng.",
+        "hypothesis": "Có những khu rừng quanh Caldas de Monchique.",
+        "label": 0
+    },
+    "vi-4168": {
+        "premise": "Câu hỏi này là về nghi thức có một mối tình với một nhà kinh tế học vĩ mô.",
+        "hypothesis": "Câu hỏi liên quan đến việc lái xe tải.",
+        "label": 2
+    },
+    "vi-2239": {
+        "premise": "Tại thời điểm này, suy nghĩ là nó có lẽ tốt nhất để rời khỏi những hòn đảo nhỏ hơn, kém phát triển hơn này trong hòa bình.",
+        "hypothesis": "Các hòn đảo bị bắt giữa chiến tranh.",
+        "label": 1
+    },
+    "vi-3403": {
+        "premise": "Xem các báo cáo tình báo, thẩm vấn của KSM, ngày 1 tháng 7 năm 2003; 5 tháng 9 năm 2003.",
+        "hypothesis": "KSM bị chất vấn năm 2003.",
+        "label": 0
+    },
+    "vi-3952": {
+        "premise": "Trực giác của tôi, tất nhiên, rất mang tính chủ quan-bạn là người quan tâm, theo như mô tả trong đóng góp thường niên của thành viên hiệp hội tiếp viên hàng không cho giáo xứ của bạn.",
+        "hypothesis": "Tôi cảm nhận được sự chăm sóc tận tình và tốt bụng của bạn.",
+        "label": 0
+    },
+    "vi-3868": {
+        "premise": "Tôi muốn thấy điều đó tiếp tục.",
+        "hypothesis": "Nó thì tuyệt vời nếu việc gây quỹ kéo dài cho đến tháng Bảy.",
+        "label": 1
+    },
+    "vi-1996": {
+        "premise": "Vừa đến lối dẫn vào con hẻm đưa tới cabin, anh va vào Cô Bishop.",
+        "hypothesis": "Anh ta chưa bao giờ gặp Cô Bishop.",
+        "label": 2
+    },
+    "vi-3741": {
+        "premise": "Đến lúc cho LẦN GỌI CUỐI CÙNG ai cũng biết!",
+        "hypothesis": "Đã đến lúc gọi lần cuối vì chúng tôi sẽ kết thúc lúc 2 giờ sáng",
+        "label": 1
+    },
+    "vi-4515": {
+        "premise": "Tôi báo cáo điều này trong một lá thư gửi cho Tiến sĩ     nó dường như khiến anh ta thích thú, và anh ấy đã gửi cho tôi một loại bánh trái cây nhỏ vào Giáng sinh.",
+        "hypothesis": "Tôi chắc chắn rằng bác sĩ đã nhận được lá thư tôi đã gửi cho anh ấy.",
+        "label": 0
+    },
+    "vi-1184": {
+        "premise": "Trong một số biến thể, một cô gái trẻ đặc biệt vượt qua niềm tin tôn giáo bằng cách nhấn mạnh vào một buổi khiêu vũ vào thứ Sáu Tuần Thánh, một ngày thánh tôn giáo, và một ngày cầu nguyện tôn kính trong các gia đình Công giáo Chicano.",
+        "hypothesis": "Cha mẹ của các cô gái đặt nền móng cho cô nhảy ở Good Friday.",
+        "label": 1
+    },
+    "vi-3142": {
+        "premise": "Đối với hai công ty và các hành động của họ, hãy xem cuộc phỏng vấn 22, của FDNY , Tiểu đoàn 28 (tháng Một.",
+        "hypothesis": "Không một cuộc phỏng vấn nào được ghi nhận liên quan đến hành động của sở cứu hoả.",
+        "label": 2
+    },
+    "vi-1561": {
+        "premise": "Tôi không ban sự tín nhiệm của Vua một cách dễ dàng.",
+        "hypothesis": "Tôi đã suy nghĩ rất nhiều về hoa hồng của nhà vua.",
+        "label": 0
+    },
+    "vi-4910": {
+        "premise": "Mặc dù vậy, điều trị của Honey hầu như là tự giải thích, và bất cứ ai dự tính một tác phẩm trên các điểm nhấn của Mỹ sẽ làm tốt để được hướng dẫn bởi các nguyên tắc mà anh đã thiết lập.",
+        "hypothesis": "Chữa trị bằng mật ong không cần bất cứ giải thích nào nữa.",
+        "label": 0
+    },
+    "vi-4163": {
+        "premise": "Đó là một khu vực màu xám, John Kirkwood nói, ai đang ở  với ALA của Metropolitan Chicago.",
+        "hypothesis": "John Kirkwood không và chưa từng liên kết với ALA (Hiệp hội Thư viện Mỹ) của Metropolitan Chicago.",
+        "label": 2
+    },
+    "vi-1118": {
+        "premise": "Giá trị nằm ở đâu trong thế giới của sự thật?",
+        "hypothesis": "Chúng tôi từ chối giải quyết bất cứ điều gì khác hơn là thực tế.",
+        "label": 1
+    },
+    "vi-571": {
+        "premise": "bạn nói bạn có con cái, vậy chúng bao nhiêu tuổi rồi",
+        "hypothesis": "Tôi rất tiếc khi biết rằng bạn không thể có con.",
+        "label": 2
+    },
+    "vi-2263": {
+        "premise": "Nó có ba ngôi đền cao cấp dành riêng cho Brahma, Shiva, và Vishnu.",
+        "hypothesis": "Các đền thờ phục vụ bánh mì thịt vào các ngày thứ hai.",
+        "label": 1
+    },
+    "vi-3399": {
+        "premise": "Trước ngày 11 tháng 11, không có cơ quan nào của chính phủ Hoa Kỳ phân tích hệ thống các chiến lược du lịch của những kẻ khủng bố.",
+        "hypothesis": "Về sau này người ta phát hiện ra là những tên khủng bố thường đi bằng máy bay hoặc ô tô.",
+        "label": 1
+    },
+    "vi-2784": {
+        "premise": "Một nhà cung cấp hệ thống SCR của Đức đã lắp đặt SCR trên một phần công suất đáng kể của Đức trong thời gian ngừng hoạt động ít hơn bốn tuần.",
+        "hypothesis": "Một hệ thống SCR của Đức đã ở châu Âu trong 20 năm.",
+        "label": 1
+    },
+    "vi-4159": {
+        "premise": "Từ thứ Hai đến thứ Sáu, nộp bài Moneybox của James Surowiecki, cùng bài báo kinh tế và tài chính khác của Slate.",
+        "hypothesis": "Cột Moneybox của James Surowiecki được phát vào thứ Bảy và Chủ Nhật.",
+        "label": 2
+    },
+    "vi-2188": {
+        "premise": "Biển chỉ đến được khi đi qua những con đường hẹp và đường mòn nông trại, nhưng nó đáng để đi bộ để tránh xa đám đông.",
+        "hypothesis": "Đại dương có những con đường nhỏ rộng 2 feet dẫn đến nó.",
+        "label": 1
+    },
+    "vi-21": {
+        "premise": "Và tôi đã đặt uh, năm sự tách rời khỏi U2.",
+        "hypothesis": "Tôi đã xử lý U2.",
+        "label": 0
+    },
+    "vi-2317": {
+        "premise": "Tòa nhà được xây dựng trên các khu đất dưới lòng đất của các lính canh SS của nhà thờ Topographie des Terrors, một cuộc triển lãm các bức ảnh và tài liệu minh họa cho cuộc sống của những người chống lại sự khủng bố của Đức Quốc xã.",
+        "hypothesis": "Tòa nhà che giấu các nhà bảo vệ SS.",
+        "label": 1
+    },
+    "vi-2445": {
+        "premise": "Bạn sẽ tìm thấy những kích thước khác nhau và với trang trí khác nhau.",
+        "hypothesis": "Chúng được trang trí với các đồng xêquin và nhãn dán.limb",
+        "label": 1
+    },
+    "vi-4808": {
+        "premise": "Pulse-tone không phải là thuật ngữ kỹ thuật.",
+        "hypothesis": "Việc sử dụng thuật ngữ xung nhịp gây khó hiểu bởi vì nó không đúng về mặt chuyên môn.",
+        "label": 1
+    },
+    "vi-4750": {
+        "premise": "Mười hai bài báo được thu thập từ các chuyên mục chung về Bối cảnh phản hồi, Phản hồi và thông tin trao đổi của thính giả, và Độc giả phản hồi đã cùng góp phần mang lại thành công trong việc giải quyết vấn đề này.",
+        "hypothesis": "Có mười hai bài báo được thu thập cùng nhau trong cuốn sách.",
+        "label": 1
+    },
+    "vi-4011": {
+        "premise": "Phần lớn đã được thực hiện bằng cách thuê Michael Apted để mang lại một liên lạc của con người hơn cho bộ truyện.",
+        "hypothesis": "Michael Apted đã hủy hoại bộ phim bằng cách nhấn mạnh rằng họ lấy ra những yếu tố ấm áp, con người.",
+        "label": 2
+    },
+    "vi-1217": {
+        "premise": "Vì vậy, tôi giả định rằng P là một chất tăng cường allosteric của phản ứng.",
+        "hypothesis": "Khi P được thêm vào phản ứng, phản ứng dừng hẳn.",
+        "label": 2
+    },
+    "vi-3658": {
+        "premise": "Quỹ Clinton Birthplace Foundation cung cấp các đặc quyền thành viên đầy đủ cho những người chỉ phải trả $ 10.",
+        "hypothesis": "Bạn nhận được một bản tin nếu bạn là thành viên của Quỹ sinh nơi Clinton.",
+        "label": 1
+    },
+    "vi-4412": {
+        "premise": "Tin tưởng vào những người tán thành mở rộng giáo dục là những người theo chủ nghĩa tự do da đen như các Giáo sư Henry Louis Gates và Cornel West. Tham gia cùng với họ là nhà kinh tế học da đen Glenn Loury, một người theo trường phái bảo thủ đã phá vỡ các thứ hạng để tán thành hành động tích cực như một chính sách cần thiết.",
+        "hypothesis": "Glenn Loury không phải là người bảo thủ điển hình của bạn.",
+        "label": 1
+    },
+    "vi-3967": {
+        "premise": "Ngoài ra, cư dân Indiana có thể nhận được các khoản trợ cấp thuế thông qua tín dụng thuế bang Indiana được đăng ký trực tiếp ở dòng cuối của tờ khai thuế bang.",
+        "hypothesis": "Cư dân Indiana nhận được khoản tín dụng thuế 50% nếu họ quyên góp cho nhà hát",
+        "label": 1
+    },
+    "vi-2827": {
+        "premise": "Thời gian cần thiết để hoàn thành giai đoạn này của một dự án thực hiện là khoảng 17 tháng đối với SCR.",
+        "hypothesis": "Mất 17 tháng để thi hành các luật lệ mới.",
+        "label": 1
+    },
+    "vi-2723": {
+        "premise": "Thời gian từ khi đặt hàng đến khi hoàn thành các hoạt động vận hành thử nghiệm là mất 46 tuần cho cả hai bước.",
+        "hypothesis": "Có những đơn vị khác có thể hoàn thành những nhiệm vụ này nhanh hơn với giá đắt hơn.",
+        "label": 1
+    },
+    "vi-4521": {
+        "premise": "Giả định một cách đầy hàm ơn rằng Yddish ...",
+        "hypothesis": "Có lý khi giả định rằng Yiddish....",
+        "label": 0
+    },
+    "vi-4451": {
+        "premise": "Đôi lúc tiến trình trưởng thành hoặc thụt lùi cá nhân (bạn tự chọn) được củng cố bởi những điều đang xảy ra trong nền văn hoá.",
+        "hypothesis": "Cho dù bạn xem quá trình này là sự trưởng thành cá nhân hay phân rã cá nhân, những gì đang xảy ra trong văn hóa dường như củng cố cho điều đó.",
+        "label": 0
+    },
+    "vi-3090": {
+        "premise": "Cả hai thư ký Powell và thư ký Rumsfeld dường như đã được tóm tắt về các chủ đề này của DCI.",
+        "hypothesis": "DCI từ chối tóm tắt ngay cả những quan chức chính quyền cao cấp nhất trong lĩnh vực này.",
+        "label": 2
+    },
+    "vi-3730": {
+        "premise": "Với sự đóng góp của bạn vào Thư viện, bạn sẽ trở thành thành viên của bạn bè trên toàn thành phố.",
+        "hypothesis": "Thư viện thực sự đánh giá cao sự đóng góp của bạn và muốn bạn trở thành một Citywide Friend.",
+        "label": 1
+    },
+    "vi-2636": {
+        "premise": "Năm tài chính 2000 là một năm rất lớn về thành tích và thành tựu cho GAO một năm phục vụ tuyệt vời cho Quốc hội và mang lại lợi ích to lớn cho người đóng thuế Hoa Kỳ.",
+        "hypothesis": "Năm 2000 là năm tồi tệ nhất từ trước đến nay.",
+        "label": 2
+    },
+    "vi-1545": {
+        "premise": "Động cơ của bạn thật xứng đáng và chẳng có gì phải nghi ngờ về điều đó ... lòng biết ơn của bạn đối với anh ấy vì đã mang bạn rời khỏi những người Tây Ban Nha.",
+        "hypothesis": "Người Tây Ban Nha đã có bạn, trước khi anh ta đưa bạn từ họ.",
+        "label": 0
+    },
+    "vi-1956": {
+        "premise": "Cô Bishop cũng lên tàu Hoàng Gia Mary, và tôi đã giải cứu cô cùng với nhà lãnh đạo của cô ấy.",
+        "hypothesis": "Tôi cũng cứu được 15 người khác.",
+        "label": 1
+    },
+    "vi-4684": {
+        "premise": "Tuy vậy, trong các tiểu thuyết Pháp đương đại về trải nghiệm quân sự, bạn có thể bắt gặp một người lính cầu hôn người bạn mình, Allons, những người bạn.",
+        "hypothesis": "Tiểu thuyết Pháp trình bày những mô tả sinh động về kinh nghiệm quân sự",
+        "label": 1
+    },
+    "vi-3137": {
+        "premise": "Khi trở về Hoa Kỳ, Hage đã được các nhân viên FBI gặp tại sân bay, bị thẩm vấn, và được gọi vào ngày hôm sau trước khi bồi thẩm đoàn liên bang điều tra Bin Ladin sau đó.",
+        "hypothesis": "Hage không bao giờ bị thẩm vấn bởi các nhân viên FBI.",
+        "label": 2
+    },
+    "vi-1913": {
+        "premise": "Bạn lấy giọng đó! Bạn dám lấy giọng đó! cô khóc, kinh ngạc bởi sự hung hăng đột ngột của cô.",
+        "hypothesis": "Cô hét lên bởi vì người đàn ông được cho là ngu ngốc.",
+        "label": 1
+    },
+    "vi-3365": {
+        "premise": "Vào tháng Năm hoặc tháng Sáu, Clarke đã yêu cầu được chuyển từ bộ trương chống khủng bố sang một bộ mới phụ trách về an ninh mạng.",
+        "hypothesis": "Clarke chịu trách nhiệm chống khủng bố vào tháng Tư.",
+        "label": 0
+    }
+}

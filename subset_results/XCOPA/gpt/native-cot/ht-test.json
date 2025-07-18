@@ -1,0 +1,42 @@
+[
+    {
+        "id": "107",
+        "prompt": "Men yon premis: Saldeben an te inonde.. Ki sa ki k\u00f2z? Ede m chwazi opsyon ki pi plizib: -chwa1: Twal\u00e8t la te deb\u00f2de., -chwa2: Chofdlo a te kase.\nAnn panse etap pa etap an krey\u00f2l ayisyen.\nOu ta dwe chwazi s\u00e8lman yon opsyon pou repons ou an. Ou ta dwe reponn kesyon an nan f\u00f2ma \"Repons: [1 oswa 2]\"",
+        "response": "Pou reponn kesyon an, nou bezwen analize chak opsyon pou w\u00e8 ki sa ki ka koze saldeben an inonde.\n\n- Chwa 1: \"Twal\u00e8t la te deb\u00f2de.\" Si twal\u00e8t la deb\u00f2de, sa ka fasilman koze inondasyon nan saldeben an, paske dlo a ap soti nan twal\u00e8t la e li ka ranpli espas la.\n\n- Chwa 2: \"Chofdlo a te kase.\" Si chofdlo a kase, sa ka koze dlo a koule, men sa depann de ki kote chofdlo a ye. Si li pa nan saldeben an, li pa t ap koze inondasyon la.\n\nK\u00f2m chwa 1 a gen plis chans pou koze inondasyon nan saldeben an, mwen pral chwazi li.\n\nRepons: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "464",
+        "prompt": "Men yon premis: Fanmi a te vle f\u00e8 konesans nouvo vwazen yo.. Ki sa ki ef\u00e8? Ede m chwazi opsyon ki pi plizib: -chwa1: Fanmi a te envite vwazen yo pou dine., -chwa2: Fanmi a te voye men bay vwazen yo nan lakou a.\nAnn panse etap pa etap an krey\u00f2l ayisyen.\nOu ta dwe chwazi s\u00e8lman yon opsyon pou repons ou an. Ou ta dwe reponn kesyon an nan f\u00f2ma \"Repons: [1 oswa 2]\"",
+        "response": "Repons: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "63",
+        "prompt": "Men yon premis: Men mwen te sezi.. Ki sa ki k\u00f2z? Ede m chwazi opsyon ki pi plizib: -chwa1: Mwen te ekri redaksyon an a la men., -chwa2: Madanm mwen kenbe men av\u00e8 mwen.\nAnn panse etap pa etap an krey\u00f2l ayisyen.\nOu ta dwe chwazi s\u00e8lman yon opsyon pou repons ou an. Ou ta dwe reponn kesyon an nan f\u00f2ma \"Repons: [1 oswa 2]\"",
+        "response": "Repons: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "454",
+        "prompt": "Men yon premis: Madanm nan te trebiche sou trotwa a.. Ki sa ki k\u00f2z? Ede m chwazi opsyon ki pi plizib: -chwa1: Te gen yon fant nan siman an., -chwa2: Li te tande yon moun ap rele non li.\nAnn panse etap pa etap an krey\u00f2l ayisyen.\nOu ta dwe chwazi s\u00e8lman yon opsyon pou repons ou an. Ou ta dwe reponn kesyon an nan f\u00f2ma \"Repons: [1 oswa 2]\"",
+        "response": "Pou reponn kesyon an, nou dwe analize chak opsyon.\n\n- Chwa 1: \"Te gen yon fant nan siman an.\" Sa a se yon k\u00f2z ki ka f\u00e8 madanm nan trebiche sou trotwa a, paske yon fant ka f\u00e8 li p\u00e8di ekilib li.\n\n- Chwa 2: \"Li te tande yon moun ap rele non li.\" Sa a se yon sitiyasyon ki ka distr\u00e8 li, men li pa neses\u00e8man yon k\u00f2z dir\u00e8k pou li trebiche.\n\nNan ka sa a, chwa ki pi plizib k\u00f2m yon k\u00f2z pou madanm nan trebiche se chwa 1, paske yon fant nan siman an ka dir\u00e8kteman afekte ekilib li.\n\nRepons: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "456",
+        "prompt": "Men yon premis: Mwen te pran antibyotik.. Ki sa ki ef\u00e8? Ede m chwazi opsyon ki pi plizib: -chwa1: Enfeksyon mwen te geri., -chwa2: Enfeksyon mwen te gaye.\nAnn panse etap pa etap an krey\u00f2l ayisyen.\nOu ta dwe chwazi s\u00e8lman yon opsyon pou repons ou an. Ou ta dwe reponn kesyon an nan f\u00f2ma \"Repons: [1 oswa 2]\"",
+        "response": "L\u00e8 ou pran antibyotik, yo f\u00e8t pou konbat enfeksyon ki koze pa bakteri. Si antibyotik yo efikas, yo ka ede ou geri enfeksyon an. Si yo pa efikas oswa si enfeksyon an se pa yon enfeksyon bakteri, li ka gaye. \n\nNan ka sa a, si ou te pran antibyotik, li plis chans ke enfeksyon an te geri. \n\nRepons: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    }
+]

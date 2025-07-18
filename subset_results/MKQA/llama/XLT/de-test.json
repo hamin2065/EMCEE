@@ -1,0 +1,114 @@
+[
+    {
+        "id": "81543553621132354",
+        "prompt": "I want you to act as a question answering expert for german.\nQuestion: Wo wurde \"Hilfe, die Amis kommen\" gefilmt?\nYou should retell the question in English.\nYou should answer the question in English in one or a few words.\nYou should step-by-step answer the request.\nYou should tell me the answer in one or a few words in English in this format 'Answer: '\n",
+        "response": "Step 1: Retelling the question in English\nThe question \"Wo wurde 'Hilfe, die Amis kommen' gefilmt?\" can be retold in English as:\n\nWhat was the location of the filming of \"Hilfe, die Amis kommen\"?\n\nStep 2: Answering the question in English\nThe answer to the question is:\n\nAnswer: Germany",
+        "predicted_answer": "Germany",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q38",
+                "text": "Italien",
+                "aliases": [
+                    "Italienische Republik"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q142",
+                "text": "Frankreich",
+                "aliases": [
+                    "Franz\u00f6sische Republik",
+                    "Republik Frankreich",
+                    "fr"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q21",
+                "text": "England",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q713750",
+                "text": "Geschichte der Bundesrepublik Deutschland (bis 1990)",
+                "aliases": [
+                    "Alte Bundesrepublik",
+                    "Alte Bundesrepublik Deutschland",
+                    "Westdeutschland",
+                    "Bundesrepublik Deutschland (1949-1990)",
+                    "BR Dtld."
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "8627228541151141053",
+        "prompt": "I want you to act as a question answering expert for german.\nQuestion: wer singt das lied love will keep us together\nYou should retell the question in English.\nYou should answer the question in English in one or a few words.\nYou should step-by-step answer the request.\nYou should tell me the answer in one or a few words in English in this format 'Answer: '\n",
+        "response": "Step 1: Retell the question in English\nThe question \"wer singt das lied love will keep us together\" translates to \"Who sings the song Love Will Keep Us Together\".\n\nStep 2: Answer the question in English\nAnswer: Captain & Tennille",
+        "predicted_answer": "Captain & Tennille",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q1035077",
+                "text": "Captain & Tennille",
+                "aliases": [
+                    "The Captain and Tennille",
+                    "Captain and Tennille",
+                    "The Captain & Tennille",
+                    "Darrly Dragon",
+                    "Toni Tenille",
+                    "Tony Tennille"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "-7634638252335162798",
+        "prompt": "I want you to act as a question answering expert for german.\nQuestion: Wie viele Staaten gibt es in den Continental United States\nYou should retell the question in English.\nYou should answer the question in English in one or a few words.\nYou should step-by-step answer the request.\nYou should tell me the answer in one or a few words in English in this format 'Answer: '\n",
+        "response": "Step 1: Retelling the question in English.\nThe question \"Wie viele Staaten gibt es in den Continental United States\" can be retold in English as \"How many states are there in the Continental United States?\"\n\nStep 2: Understanding the question.\nThe question is asking about the number of states within the continental part of the United States, excluding Alaska and Hawaii.\n\nStep 3: Answering the question.\nThe continental United States consists of 48 states.\n\nAnswer: 48",
+        "predicted_answer": "48",
+        "ground_truth": [
+            {
+                "type": "number",
+                "text": "48.0",
+                "aliases": [
+                    "48"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "8643588946565257997",
+        "prompt": "I want you to act as a question answering expert for german.\nQuestion: wer ist der mann im i dont always meme\nYou should retell the question in English.\nYou should answer the question in English in one or a few words.\nYou should step-by-step answer the request.\nYou should tell me the answer in one or a few words in English in this format 'Answer: '\n",
+        "response": "Step 1: Retell the question in English.\nThe question \"wer ist der mann im i dont always meme\" translates to \"who is the man in the 'I don't always' meme\" in English.\n\nStep 2: Identify the answer.\nThe meme features a man named Chuck Lorre.\n\nStep 3: Provide the answer in the required format.\nAnswer: Chuck Lorre",
+        "predicted_answer": "Chuck Lorre",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q1255362",
+                "text": "Jonathan Goldsmith",
+                "aliases": []
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "6747693054679197435",
+        "prompt": "I want you to act as a question answering expert for german.\nQuestion: Wer ist das j\u00fcngste Mitglied von \"why don't we\"\nYou should retell the question in English.\nYou should answer the question in English in one or a few words.\nYou should step-by-step answer the request.\nYou should tell me the answer in one or a few words in English in this format 'Answer: '\n",
+        "response": "Step 1: Retell the question in English\nThe question in English is: Who is the youngest member of \"Why Don't We\"?\n\nStep 2: Answer the question in English\nAnswer: Jonah.",
+        "predicted_answer": "Jonah.",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "text": "Zachary Dean Herron",
+                "entity": "Q50437010"
+            }
+        ],
+        "is_correct": null
+    }
+]

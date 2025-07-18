@@ -1,0 +1,89 @@
+[
+    {
+        "id": "3643218479176707788",
+        "prompt": "Soruyu T\u00fcrk\u00e7e olarak bir veya birka\u00e7 kelimeyle yan\u0131tlay\u0131n: \nstranger things'in (acayip \u015feyler) ka\u00e7 sezonu vard\u0131r\nNihai yan\u0131t\u0131n\u0131z\u0131 sonunda \u015fu formatta vermelisiniz: 'Cevap: [bir veya birka\u00e7 kelime]'.",
+        "response": "Stranger Things'in 5 sezonu vard\u0131r.",
+        "predicted_answer": "Stranger Things'in 5 sezonu vard\u0131r.",
+        "ground_truth": [
+            {
+                "type": "number",
+                "text": "3.0",
+                "aliases": [
+                    "3"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "3356010362039543701",
+        "prompt": "Soruyu T\u00fcrk\u00e7e olarak bir veya birka\u00e7 kelimeyle yan\u0131tlay\u0131n: \ni regret i have but one life to give for my country s\u00f6z\u00fcn\u00fc kim s\u00f6yledi\nNihai yan\u0131t\u0131n\u0131z\u0131 sonunda \u015fu formatta vermelisiniz: 'Cevap: [bir veya birka\u00e7 kelime]'.",
+        "response": "Bu famous s\u00f6z, William Wallace taraf\u0131ndan verilmi\u015ftir.",
+        "predicted_answer": "Bu famous s\u00f6z, William Wallace taraf\u0131ndan verilmi\u015ftir.",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "text": "Nathan Hale",
+                "entity": "Q16932034"
+            },
+            {
+                "type": "entity",
+                "text": "Nathan Hale",
+                "entity": "Q16932034"
+            },
+            {
+                "type": "entity",
+                "text": "Nathan Hale",
+                "entity": "Q16932034"
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "5965447391112455356",
+        "prompt": "Soruyu T\u00fcrk\u00e7e olarak bir veya birka\u00e7 kelimeyle yan\u0131tlay\u0131n: \nsansa stark'\u0131 oynayan aktris kimdir\nNihai yan\u0131t\u0131n\u0131z\u0131 sonunda \u015fu formatta vermelisiniz: 'Cevap: [bir veya birka\u00e7 kelime]'.",
+        "response": "Cevap: Sophie Turner",
+        "predicted_answer": "Sophie Turner",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q240573",
+                "text": "Sophie Turner",
+                "aliases": []
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "476368974337766528",
+        "prompt": "Soruyu T\u00fcrk\u00e7e olarak bir veya birka\u00e7 kelimeyle yan\u0131tlay\u0131n: \ncumhuriyet\u00e7i parti se\u00e7imi en son ne zaman kazand\u0131\nNihai yan\u0131t\u0131n\u0131z\u0131 sonunda \u015fu formatta vermelisiniz: 'Cevap: [bir veya birka\u00e7 kelime]'.",
+        "response": "Cevap: 2023 T\u00fcrkiye cumhurba\u015fkanl\u0131\u011f\u0131 se\u00e7imi",
+        "predicted_answer": "2023 T\u00fcrkiye cumhurba\u015fkanl\u0131\u011f\u0131 se\u00e7imi",
+        "ground_truth": [
+            {
+                "type": "date",
+                "text": "2004",
+                "aliases": [
+                    "2004"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "6116319690634922724",
+        "prompt": "Soruyu T\u00fcrk\u00e7e olarak bir veya birka\u00e7 kelimeyle yan\u0131tlay\u0131n: \nnew albany ohio nun n\u00fcfusu nedir\nNihai yan\u0131t\u0131n\u0131z\u0131 sonunda \u015fu formatta vermelisiniz: 'Cevap: [bir veya birka\u00e7 kelime]'.",
+        "response": "Cevap: 46.781.",
+        "predicted_answer": "46.781.",
+        "ground_truth": [
+            {
+                "type": "number",
+                "text": "10889.0",
+                "aliases": [
+                    "10889"
+                ]
+            }
+        ],
+        "is_correct": null
+    }
+]

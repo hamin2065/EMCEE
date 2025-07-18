@@ -1,0 +1,94 @@
+[
+    {
+        "id": "5170765158681567047",
+        "sys_prompt": "You are a judge from the French tradition, known for your wisdom and fairness. Although your cultural background is French, you are fluent in English and will conduct this task in English. You are given a reasoning question. There is a debate on this question between user1 and user2. Your task is to listen to their arguments carefully and provide a fair and wise judgment.\n\nSummarize the debate briefly and then give a conclusion based on the arguments presented. Your response should be in the format: \n\"Summary: ___. Conclusion: [answer] is more plausible.\n\nAnswer: [one or a few words in English]\"\n\nApproach the task with the fairness and critical thinking expected of a French judge, ensuring you make only one answer for the final answer.",
+        "user_prompt": "Question: quand a \u00e9t\u00e9 publi\u00e9e pour la premi\u00e8re fois Sourde, muette, aveugle : histoire de ma vie\n\nuser1: The book \"Sourde, muette, aveugle : histoire de ma vie\" was first published in 1903. \n\nAnswer: 1903\n\nuser2: \"Sourde, muette, aveugle : histoire de ma vie\" is the autobiography of Helen Keller, published for the first time in 1903. Keller was an extraordinary figure who overcame the challenges of being deaf and blind to become a renowned author, activist, and lecturer. Her life story is not only inspiring but also highlights the importance of education and communication for individuals with disabilities. Understanding the historical context of her achievements can help students appreciate the significance of her work in advocating for the rights of people with disabilities and the advancements in education during her time.\nAnswer: 1903",
+        "response": "Summary: User1 asserts that \"Sourde, muette, aveugle : histoire de ma vie\" was first published in 1903, while User2 agrees and provides additional context about Helen Keller's life and the significance of her work. Both users arrive at the same conclusion regarding the publication date.\n\nConclusion: [1903] is more plausible.\n\nAnswer: 1903",
+        "predicted_answer": "1903",
+        "ground_truth": [
+            {
+                "type": "date",
+                "text": "1903",
+                "aliases": [
+                    "1903"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "4189590166138253194",
+        "sys_prompt": "You are a judge from the French tradition, known for your wisdom and fairness. Although your cultural background is French, you are fluent in English and will conduct this task in English. You are given a reasoning question. There is a debate on this question between user1 and user2. Your task is to listen to their arguments carefully and provide a fair and wise judgment.\n\nSummarize the debate briefly and then give a conclusion based on the arguments presented. Your response should be in the format: \n\"Summary: ___. Conclusion: [answer] is more plausible.\n\nAnswer: [one or a few words in English]\"\n\nApproach the task with the fairness and critical thinking expected of a French judge, ensuring you make only one answer for the final answer.",
+        "user_prompt": "Question: qui a le plus d'argent dans la nba\n\nuser1: To determine who has the most money in the NBA, we need to consider both player salaries and overall net worth. As of my last knowledge update, the player with the highest salary in the NBA is often a key factor, but net worth can also include endorsements and investments.\n\nAs of 2023, LeBron James is frequently cited as one of the wealthiest players in the NBA due to his extensive endorsements and business ventures, in addition to his salary.\n\nFinal answer: Answer: LeBron James\n\nuser2: As of my last update, the player with the highest career earnings in the NBA is LeBron James. His financial success comes not only from his substantial player contracts but also from lucrative endorsement deals and business ventures. LeBron's impact extends beyond the court, as he has built a brand that includes media production and investments, showcasing how athletes can leverage their sports careers into broader financial success. Understanding the business side of sports, including endorsements and personal branding, is crucial for grasping how players like LeBron achieve such high earnings.\nAnswer: LeBron James",
+        "response": "Summary: Both user1 and user2 argue that LeBron James is the wealthiest player in the NBA, citing his high salary, endorsements, and business ventures as key factors contributing to his financial success. They emphasize the importance of considering both player salaries and overall net worth when determining wealth in the NBA.\n\nConclusion: Based on the arguments presented, [LeBron James] is more plausible.\n\nAnswer: LeBron James",
+        "predicted_answer": "LeBron James",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q189240",
+                "text": "Kevin Garnett",
+                "aliases": []
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "-851149197598120689",
+        "sys_prompt": "You are a judge from the French tradition, known for your wisdom and fairness. Although your cultural background is French, you are fluent in English and will conduct this task in English. You are given a reasoning question. There is a debate on this question between user1 and user2. Your task is to listen to their arguments carefully and provide a fair and wise judgment.\n\nSummarize the debate briefly and then give a conclusion based on the arguments presented. Your response should be in the format: \n\"Summary: ___. Conclusion: [answer] is more plausible.\n\nAnswer: [one or a few words in English]\"\n\nApproach the task with the fairness and critical thinking expected of a French judge, ensuring you make only one answer for the final answer.",
+        "user_prompt": "Question: qui joue le p\u00e8re de cole dans f the prom\n\nuser1: In \"The Prom,\" the character of Cole's father is played by actor Keegan-Michael Key. \n\nAnswer: Keegan-Michael Key\n\nuser2: In the film \"The Prom,\" the character of Cole's father is played by actor Keegan-Michael Key. The movie, which is based on the Broadway musical of the same name, features a diverse cast and explores themes of acceptance and self-identity, particularly in the context of LGBTQ+ issues. Keegan-Michael Key is known for his comedic talent and has appeared in various films and television shows, bringing a unique blend of humor and depth to his roles. Understanding the context of the film and its themes can enhance your appreciation of the characters and their relationships.\nAnswer: Keegan-Michael Key",
+        "response": "Summary: Both user1 and user2 agree that Keegan-Michael Key plays the role of Cole's father in \"The Prom.\" User2 provides additional context about the film's themes and the actor's background, but the core answer remains the same. \n\nConclusion: [Keegan-Michael Key] is more plausible.\n\nAnswer: Keegan-Michael Key",
+        "predicted_answer": "Keegan-Michael Key",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q352233",
+                "text": "Ian Ziering",
+                "aliases": []
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "5862856443680173655",
+        "sys_prompt": "You are a judge from the French tradition, known for your wisdom and fairness. Although your cultural background is French, you are fluent in English and will conduct this task in English. You are given a reasoning question. There is a debate on this question between user1 and user2. Your task is to listen to their arguments carefully and provide a fair and wise judgment.\n\nSummarize the debate briefly and then give a conclusion based on the arguments presented. Your response should be in the format: \n\"Summary: ___. Conclusion: [answer] is more plausible.\n\nAnswer: [one or a few words in English]\"\n\nApproach the task with the fairness and critical thinking expected of a French judge, ensuring you make only one answer for the final answer.",
+        "user_prompt": "Question: quand ont ils chang\u00e9 la boxe en 12 rounds\n\nuser1: The change to 12 rounds in boxing was officially adopted in 1987 by the WBC (World Boxing Council). \n\nAnswer: 1987\n\nuser2: The change to a 12-round limit for championship boxing matches was officially established by the World Boxing Association (WBA) in 1982. Prior to this, championship fights were often scheduled for 15 rounds, a tradition that dated back many years. The decision to reduce the number of rounds was largely influenced by concerns over fighter safety and the physical toll that longer bouts could take on boxers. Understanding this context is important, as it highlights the evolving nature of the sport and the ongoing efforts to prioritize the health and well-being of athletes.\nAnswer: 1982",
+        "response": "Summary: User1 argues that the WBC officially adopted the 12-round limit in boxing in 1987, while user2 claims that the WBA established this limit in 1982, emphasizing the safety concerns that led to the change. \n\nConclusion: User2's argument is more plausible, as the WBA indeed implemented the 12-round limit in 1982, which aligns with historical context regarding fighter safety.\n\nAnswer: 1982",
+        "predicted_answer": "1982",
+        "ground_truth": [
+            {
+                "type": "date",
+                "text": "1987-10-19",
+                "aliases": [
+                    "1987-10-19",
+                    "10/19/1987",
+                    "10-19-1987",
+                    "1987 octobre 19",
+                    "10 19 1987",
+                    "19-10-1987",
+                    "1987 10 19",
+                    "19/10/1987",
+                    "19 10 1987",
+                    "1987 october, 19",
+                    "19 octobre 1987"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "6873585089990668750",
+        "sys_prompt": "You are a judge from the French tradition, known for your wisdom and fairness. Although your cultural background is French, you are fluent in English and will conduct this task in English. You are given a reasoning question. There is a debate on this question between user1 and user2. Your task is to listen to their arguments carefully and provide a fair and wise judgment.\n\nSummarize the debate briefly and then give a conclusion based on the arguments presented. Your response should be in the format: \n\"Summary: ___. Conclusion: [answer] is more plausible.\n\nAnswer: [one or a few words in English]\"\n\nApproach the task with the fairness and critical thinking expected of a French judge, ensuring you make only one answer for the final answer.",
+        "user_prompt": "Question: qui est l\u2019entra\u00eeneur principal des browns de cleveland\n\nuser1: As of my last update, the head coach of the Cleveland Browns was Kevin Stefanski. \n\nAnswer: Kevin Stefanski\n\nuser2: As of my last update, the head coach of the Cleveland Browns is Kevin Stefanski, who took over the position in 2020. Stefanski is known for his offensive expertise and has worked to revitalize the Browns' performance in the NFL. Understanding the role of a head coach in shaping a team's strategy, culture, and performance is crucial, especially in a league where coaching can significantly impact a team's success. Additionally, the Browns have a storied history, and their recent efforts to build a competitive team under Stefanski have garnered attention from fans and analysts alike. Always check the latest sources for the most current information, as coaching positions can change frequently in professional sports.\nAnswer: Kevin Stefanski",
+        "response": "Summary: User1 and user2 both agree that Kevin Stefanski is the head coach of the Cleveland Browns. User2 provides additional context about Stefanski's role and impact on the team since he took over in 2020, emphasizing the importance of a head coach in the NFL. \n\nConclusion: [Kevin Stefanski] is more plausible.\n\nAnswer: Kevin Stefanski",
+        "predicted_answer": "Kevin Stefanski",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q5496752",
+                "text": "Freddie Kitchens",
+                "aliases": []
+            }
+        ],
+        "is_correct": null
+    }
+]

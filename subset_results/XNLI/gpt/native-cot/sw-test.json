@@ -1,0 +1,42 @@
+[
+    {
+        "id": "sw-4600",
+        "prompt": "Wewe ni mtaalamu wa uamuzi wa lugha asilia. Ukipewa dhana na dhana nyingine, kazi yako ni kuhukumu ikiwa dhana hiyo ni kweli, si kweli au haijulikani kulingana na dhana ya awali. Uhusiano unaweza kuchaguliwa kutoka kwa mlingano, mgongano na hali ya kati.\nPremise: Ikiwa nimeandika historia ya hadithi itakuwa katika majina ya kamusi ya maeneo na watu waliofafanuliwa kwa suala la umuhimu binafsi.\nHypothesis: Ni muhimu kwangu kwamba tawasifu yangu iwe na urahisi wa kupatikana iwezekanavyo.\nWacha tufikiri hatua kwa hatua kwa Kiswahili.\nUnapaswa kutoa jibu la mwisho mwishoni kwa muundo: 'Uhusiano: [Ulinganifu, Wastani au Mpingano]'.",
+        "response": "Tukianza na dhana ya awali, inasema kwamba historia ya hadithi itakuwa katika majina ya kamusi ya maeneo na watu waliofafanuliwa kwa suala la umuhimu binafsi. Hii inaonyesha kuwa mwandishi anataka kuzingatia umuhimu wa watu na maeneo katika hadithi yake.\n\nSasa, tukichunguza dhana ya pili, inasema kwamba ni muhimu kwa mwandishi kwamba tawasifu yake iwe na urahisi wa kupatikana iwezekanavyo. Hii inaonyesha kuwa mwandishi anataka kufanya tawasifu yake iwe rahisi kwa wasomaji kuipata na kuielewa.\n\nKuhusisha hizi mbili, tunaweza kusema kwamba ikiwa mwandishi anazingatia umuhimu wa watu na maeneo katika hadithi yake, basi ni mantiki kwamba pia atataka tawasifu yake iwe rahisi kupatikana ili wasomaji waweze kuelewa muktadha wa hadithi hiyo. Hivyo, kuna uhusiano wa mantiki kati ya dhana hizi mbili.\n\nKwa hiyo, uhusiano kati ya dhana ya awali na dhana ya pili ni wa ulinganifu.\n\nUhusiano: Ulinganifu",
+        "predicted_answer": 0,
+        "ground_truth": 2,
+        "is_correct": false
+    },
+    {
+        "id": "sw-2559",
+        "prompt": "Wewe ni mtaalamu wa uamuzi wa lugha asilia. Ukipewa dhana na dhana nyingine, kazi yako ni kuhukumu ikiwa dhana hiyo ni kweli, si kweli au haijulikani kulingana na dhana ya awali. Uhusiano unaweza kuchaguliwa kutoka kwa mlingano, mgongano na hali ya kati.\nPremise: Kwa mfano rahisi ,tuseme gharama ka lazi ya kugagwa ni 10a na gharama ya msingi ni 16a.\nHypothesis: Gharama ya barua pepe inahitaji kuwa mingi kuliko kushiriki.\nWacha tufikiri hatua kwa hatua kwa Kiswahili.\nUnapaswa kutoa jibu la mwisho mwishoni kwa muundo: 'Uhusiano: [Ulinganifu, Wastani au Mpingano]'.",
+        "response": "Tukianza na dhana ya awali, tunayo gharama ya kugagwa ambayo ni 10a na gharama ya msingi ambayo ni 16a. Hii inaonyesha kuwa gharama ya msingi ni kubwa zaidi kuliko gharama ya kugagwa.\n\nSasa, tukichunguza dhana ya pili, inasema \"Gharama ya barua pepe inahitaji kuwa mingi kuliko kushiriki.\" Hapa, hatuna taarifa kuhusu gharama ya barua pepe au gharama ya kushiriki, hivyo hatuwezi kuhusisha moja na nyingine kwa njia ya moja kwa moja.\n\nKwa hivyo, hatuna ushahidi wa kutosha kuamua kama dhana hii ni kweli au si kweli kulingana na dhana ya awali. Hali hii inatupelekea kwenye uhusiano wa hali ya kati.\n\nUhusiano: [Wastani]",
+        "predicted_answer": 1,
+        "ground_truth": 1,
+        "is_correct": true
+    },
+    {
+        "id": "sw-2875",
+        "prompt": "Wewe ni mtaalamu wa uamuzi wa lugha asilia. Ukipewa dhana na dhana nyingine, kazi yako ni kuhukumu ikiwa dhana hiyo ni kweli, si kweli au haijulikani kulingana na dhana ya awali. Uhusiano unaweza kuchaguliwa kutoka kwa mlingano, mgongano na hali ya kati.\nPremise: 27 Ugumu unaongezeka kadiri marekebisho ya bwela yanayohitajika kupatanisha SCR na kituo yanapoongezeka.\nHypothesis: Ugumu wa ishirini na saba unategemea marekebisho.\nWacha tufikiri hatua kwa hatua kwa Kiswahili.\nUnapaswa kutoa jibu la mwisho mwishoni kwa muundo: 'Uhusiano: [Ulinganifu, Wastani au Mpingano]'.",
+        "response": "Tukianza na dhana ya awali, inasema kwamba \"Ugumu unaongezeka kadiri marekebisho ya bwela yanayohitajika kupatanisha SCR na kituo yanapoongezeka.\" Hii inaonyesha kuwa kuna uhusiano wa moja kwa moja kati ya ugumu na marekebisho ya bwela. Hivyo, tunapata kwamba kadiri marekebisho yanavyohitajika zaidi, ndivyo ugumu unavyoongezeka.\n\nSasa, tukichunguza dhana ya pili, inasema \"Ugumu wa ishirini na saba unategemea marekebisho.\" Hapa, dhana hii inaonyesha kwamba ugumu wa ishirini na saba unategemea marekebisho, ambayo ni sawa na kusema kwamba marekebisho yanaweza kuathiri ugumu.\n\nKwa hivyo, tunapata kuwa dhana ya pili inategemea dhana ya kwanza, kwani inakubali kwamba ugumu unategemea marekebisho, ambayo ni sawa na kile kilichosemwa katika dhana ya awali.\n\nKwa hiyo, uhusiano kati ya dhana hizi mbili ni wa ulinganifu, kwani dhana ya pili inathibitisha kile kilichosemwa katika dhana ya kwanza.\n\nUhusiano: Ulinganifu",
+        "predicted_answer": 0,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "sw-695",
+        "prompt": "Wewe ni mtaalamu wa uamuzi wa lugha asilia. Ukipewa dhana na dhana nyingine, kazi yako ni kuhukumu ikiwa dhana hiyo ni kweli, si kweli au haijulikani kulingana na dhana ya awali. Uhusiano unaweza kuchaguliwa kutoka kwa mlingano, mgongano na hali ya kati.\nPremise: Kwa ukweli mimi sijui kwa sababu sijawahi kuvaa marinda mengi. Wanielewa kweli?\nHypothesis: Ninavaa mavazi ya dresi kila wakati.\nWacha tufikiri hatua kwa hatua kwa Kiswahili.\nUnapaswa kutoa jibu la mwisho mwishoni kwa muundo: 'Uhusiano: [Ulinganifu, Wastani au Mpingano]'.",
+        "response": "Tukianza na dhana ya awali, \"Kwa ukweli mimi sijui kwa sababu sijawahi kuvaa marinda mengi,\" inaonyesha kwamba mtu huyu hana uzoefu wa kuvaa marinda mengi. Hii inamaanisha kuwa hawana uelewa wa jinsi ya kuvaa marinda.\n\nSasa, tukichunguza dhana ya pili, \"Ninavaa mavazi ya dresi kila wakati,\" inaonyesha kwamba mtu huyu anavaa mavazi ya dresi mara kwa mara. Hii inamaanisha kuwa wana uzoefu wa mavazi tofauti, lakini haionyeshi uhusiano wowote na kuvaa marinda.\n\nKwa hivyo, dhana ya pili inapingana na dhana ya awali kwa sababu mtu ambaye hajawahi kuvaa marinda mengi hawezi kusema kuwa anavaa mavazi ya dresi kila wakati, kwani mavazi ya dresi na marinda ni tofauti.\n\nKwa hiyo, uhusiano kati ya dhana hizi ni wa kupingana.\n\nUhusiano: [Mpingano]",
+        "predicted_answer": 2,
+        "ground_truth": 2,
+        "is_correct": true
+    },
+    {
+        "id": "sw-4884",
+        "prompt": "Wewe ni mtaalamu wa uamuzi wa lugha asilia. Ukipewa dhana na dhana nyingine, kazi yako ni kuhukumu ikiwa dhana hiyo ni kweli, si kweli au haijulikani kulingana na dhana ya awali. Uhusiano unaweza kuchaguliwa kutoka kwa mlingano, mgongano na hali ya kati.\nPremise: Kwa kweli kuna zaidi ya marekebisho 100 ya syllothetic.\nHypothesis: Kuna vivumishi syllothetic 200.\nWacha tufikiri hatua kwa hatua kwa Kiswahili.\nUnapaswa kutoa jibu la mwisho mwishoni kwa muundo: 'Uhusiano: [Ulinganifu, Wastani au Mpingano]'.",
+        "response": "Tukianza na dhana ya awali, inasema kwamba kuna zaidi ya marekebisho 100 ya syllothetic. Hii inamaanisha kwamba idadi ya marekebisho ni angalau 101 au zaidi.\n\nDhana inayofuata inasema kwamba kuna vivumishi syllothetic 200. Hii inamaanisha kwamba idadi ya vivumishi ni 200, ambayo ni zaidi ya 100.\n\nTukichambua uhusiano kati ya dhana hizi mbili:\n- Dhana ya awali inasema kuna zaidi ya 100, lakini haijatoa idadi halisi ya vivumishi.\n- Dhana ya pili inasema kuna 200, ambayo ni idadi maalum na inazidi ile ya dhana ya awali.\n\nHata hivyo, dhana ya pili inaweza kuwa kweli, lakini pia inaweza kuwa si kweli. Hatuwezi kuthibitisha kwa uhakika kwamba kuna vivumishi 200 kwa sababu dhana ya awali haijatoa idadi maalum ya vivumishi, isipokuwa tu kwamba ni zaidi ya 100.\n\nKwa hivyo, uhusiano kati ya dhana hizi ni wa hali ya kati, kwani dhana ya pili inaweza kuwa kweli au si kweli kulingana na taarifa zilizotolewa.\n\nUhusiano: [Wastani]",
+        "predicted_answer": 1,
+        "ground_truth": 1,
+        "is_correct": true
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "id": 349,
+        "prompt": "Ifuatayo ni swali la chaguo nyingi.\nSentensi inayounganisha sentensi: \"Juma ni mzee. Juma anasoma kitabu bila miwani\", kisahihi ni:\nA. Juma ni mzee maadamu anasoma kitabu bila miwani.\nB. Juma anasoma kitabu bila miwani licha ya kuwa yeye ni mzee.\nC. Juma ni mzee madhali anasoma kitabu bila miwani.\nD. Juma anasoma kitabu bila miwani minghairi ya yeye ni mzee.\nWacha tufikiri hatua kwa hatua kwa Kiswahili, na toa jibu la mwisho mwishoni kwa muundo: 'Jibu: [chaguo]'\nUnapaswa kutoa jibu la mwisho mwishoni kwa muundo: 'Jibu: [chaguo]'",
+        "response": "Hebu tuangalie kila chaguo kwa makini:\n\nA. \"Juma ni mzee maadamu anasoma kitabu bila miwani\" \n- Hii inamaanisha kuwa kwa sababu Juma ni mzee, anasoma kitabu. Hii si muunganisho sahihi.\n\nB. \"Juma anasoma kitabu bila miwani licha ya kuwa yeye ni mzee\"\n- Hii ni muunganisho sahihi. Inaonyesha kuwa Juma anasoma kitabu, hata hivyo yeye ni mzee.\n- Neno \"licha ya\" linaonyesha mpangilio tofauti wa hali mbili.\n\nC. \"Juma ni mzee madhali anasoma kitabu bila miwani\"\n- Hii si muunganisho sahihi. Maneno hayaungani vizuri.\n\nD. \"Juma anasoma kitabu bila miwani minghairi ya yeye ni mzee\"\n- Hii si muunganisho sahihi. Maneno hayaungani vizuri.\n\nKwa hiyo, jibu sahihi ni:\n\nJibu: [B]",
+        "predicted_answer": "[B]",
+        "ground_truth": "B",
+        "is_correct": true
+    },
+    {
+        "id": 408,
+        "prompt": "Ifuatayo ni swali la chaguo nyingi.\nTashbihi\nPopo amekonda kama _________\nA. sindano\nB. ng'onda\nC. kijiti\nD. kasuku\nWacha tufikiri hatua kwa hatua kwa Kiswahili, na toa jibu la mwisho mwishoni kwa muundo: 'Jibu: [chaguo]'\nUnapaswa kutoa jibu la mwisho mwishoni kwa muundo: 'Jibu: [chaguo]'",
+        "response": "Hatua kwa hatua:\n\n1. Tashbihi hii inatuambia kuwa Popo amekonda (ameshika) kama jambo fulani.\n\n2. Tunahitaji kuchunguza chaguo zinazoonyesha kitu ambacho kinaweza kushikwa.\n\n3. Tunapochunguza chaguo:\n   A. Sindano - kitu cha kirefu, kali, na mwepesi kushika\n   B. Ng'onda - kitu cha kirefu, kali, na mwepesi kushika\n   C. Kijiti - kitu cha kirefu, lakini si kali sana\n   D. Kasuku - kitu cha kubwa, si rahisi kushika\n\n4. Kati ya chaguo hizi, sindano na ng'onda zote zinaweza kushikwa kwa urahisi.\n\n5. Lakini sindano ni ya kirefu sana na kali zaidi.\n\nKwa hiyo, jibu la ziada zaidi ni sindano.\n\nJibu: [A]",
+        "predicted_answer": "[A]",
+        "ground_truth": "B",
+        "is_correct": false
+    },
+    {
+        "id": 72,
+        "prompt": "Ifuatayo ni swali la chaguo nyingi.\nMethali zifuatazo zinahusu bidii. Ipi haifai kuwepo?\nA. Mgaagaa na upwa hali wali mkavu.\nB. Umoja ni nguvu utengano ni udhaifu.\nC. Ukiona vyaelea jua vimeundwa.\nD. Mtaka cha mvunguni sharti ainame.\nWacha tufikiri hatua kwa hatua kwa Kiswahili, na toa jibu la mwisho mwishoni kwa muundo: 'Jibu: [chaguo]'\nUnapaswa kutoa jibu la mwisho mwishoni kwa muundo: 'Jibu: [chaguo]'",
+        "response": "Hatua kwa hatua:\n\n1. Methali zote zinahusu bidii, kwa hivyo tunahitaji kuchunguza kila moja:\n\nA. \"Mgaagaa na upwa hali wali mkavu\" - Inamaanisha kuwa lazima mtu afanye kazi ili apate chakula.\n\nB. \"Umoja ni nguvu utengano ni udhaifu\" - Inahusu umuhimu wa kushirikiana na kuungana.\n\nC. \"Ukiona vyaelea jua vimeundwa\" - Inamaanisha kuwa kila kitu kina sababu yake.\n\nD. \"Mtaka cha mvunguni sharti ainame\" - Inamaanisha kuwa ili upate kitu, lazima ujitahidi.\n\n2. Methali zote zinahusu bidii na kuhimiza jitihada, isipokuwa chaguo C.\n\n3. Chaguo C \"Ukiona vyaelea jua vimeundwa\" haihusishi moja kwa moja bidii au jitihada.\n\nJibu: [C]",
+        "predicted_answer": "[C]",
+        "ground_truth": "C",
+        "is_correct": true
+    },
+    {
+        "id": 381,
+        "prompt": "Ifuatayo ni swali la chaguo nyingi.\nChagua neno ambalo limetumia silabi changamano:\nA. Mbuga.\nB. Kituta.\nC. Ziwa.\nD. Utulivu.\nWacha tufikiri hatua kwa hatua kwa Kiswahili, na toa jibu la mwisho mwishoni kwa muundo: 'Jibu: [chaguo]'\nUnapaswa kutoa jibu la mwisho mwishoni kwa muundo: 'Jibu: [chaguo]'",
+        "response": "Ili kubaini neno lenye silabi changamano, nitachunguza kila neno:\n\nA. Mbuga - silabi: m-bu-ga (hakuna silabi changamano)\nB. Kituta - silabi: ki-tu-ta (hakuna silabi changamano)\nC. Ziwa - silabi: zi-wa (hakuna silabi changamano)\nD. Utulivu - silabi: u-tu-li-vu (ina silabi changamano 'tu-li')\n\nKwa hiyo, neno lenye silabi changamano ni \"Utulivu\".\n\nJibu: D",
+        "predicted_answer": "D",
+        "ground_truth": "A",
+        "is_correct": false
+    },
+    {
+        "id": 237,
+        "prompt": "Ifuatayo ni swali la chaguo nyingi.\nTegua kitendawili hiki: \nMava hapo mava pale\nA. kifo\nB. kioo\nC. kumetameta\nD. kivuli\nWacha tufikiri hatua kwa hatua kwa Kiswahili, na toa jibu la mwisho mwishoni kwa muundo: 'Jibu: [chaguo]'\nUnapaswa kutoa jibu la mwisho mwishoni kwa muundo: 'Jibu: [chaguo]'",
+        "response": "Hebu tuangalie kitendawili hiki kwa makini:\n\n\"Mava hapo mava pale\"\n\nTunahitaji kufikiria nini kinaweza kuwa kimaana ya maneno haya:\n\n1. \"Mava\" inaweza kumaanisha kitu ambacho kinakaa sehemu moja na sehemu nyingine.\n2. Maneno \"hapo\" na \"pale\" yanaashiria maeneo tofauti.\n\nKwa kuzingatia haya, naona kwamba jibu linaweza kuwa:\n\nB. kioo\n\nSababu:\n- Kioo kinaweza kuonyesha mtu au kitu sehemu moja na sehemu nyingine\n- Kioo hupamba mava (mandhari) hapo na pale\n- Kioo huweka mandhari kama zilivyo\n\nKwa hivyo, jibu kamili ni:\n\nJibu: [B]",
+        "predicted_answer": "[B]",
+        "ground_truth": "D",
+        "is_correct": false
+    }
+]

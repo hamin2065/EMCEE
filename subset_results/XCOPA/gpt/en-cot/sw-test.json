@@ -1,0 +1,42 @@
+[
+    {
+        "id": "349",
+        "prompt": "Here is a premise: Niliondoa tunda juu ya meza.. What is the effect? Help me pick the more plausible option: -choice1: Tunda lilitoa mbegu., -choice2: [choice]\nLet's think step-by-step in English.\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "To analyze the premise \"Niliondoa tunda juu ya meza,\" which translates to \"I removed the fruit from the table,\" we need to consider the implications of this action.\n\n1. The action of removing the fruit (tunda) from the table suggests that the fruit is no longer on the table.\n2. The first choice, \"Tunda lilitoa mbegu,\" translates to \"The fruit produced seeds.\" This statement does not directly relate to the action of removing the fruit from the table. It implies a consequence of the fruit itself rather than the act of removing it.\n3. The second choice is left as \"[choice],\" which does not provide any information to evaluate.\n\nGiven that the first choice does not logically follow from the premise, and the second choice is undefined, we cannot select the first option as plausible.\n\nTherefore, since the second choice is unspecified, we cannot choose it either. However, since we need to select one option, we will go with the first choice as it is the only one provided.\n\nAnswer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 1,
+        "is_correct": false
+    },
+    {
+        "id": "216",
+        "prompt": "Here is a premise: Alipiga mbweu.. What is the cause? Help me pick the more plausible option: -choice1: Alibugia soda., -choice2: [choice]\nLet's think step-by-step in English.\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "To determine the cause of \"Alipiga mbweu,\" we need to analyze the options provided. \n\n- \"Alibugia soda\" translates to \"He/she drank soda.\" This action could potentially lead to a reaction or consequence, but it doesn't directly relate to the phrase \"Alipiga mbweu,\" which suggests an action that might be more related to a physical response or reaction.\n\nSince the context of \"Alipiga mbweu\" is not fully clear, we can infer that it might refer to a reaction or a sound made after consuming something, which could be linked to drinking soda.\n\nGiven this reasoning, the more plausible option that could be a cause for \"Alipiga mbweu\" is:\n\nAnswer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "193",
+        "prompt": "Here is a premise: Mwanamke  ana mviringo chini ya jicho lake.. What is the cause? Help me pick the more plausible option: -choice1: Alibakia macho  usiku kucha., -choice2: [choice]\nLet's think step-by-step in English.\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "To analyze the premise \"Mwanamke ana mviringo chini ya jicho lake\" (The woman has a circle under her eye), we need to consider the possible causes for this condition. \n\n- Choice 1: \"Alibakia macho usiku kucha\" translates to \"She stayed awake all night.\" Staying awake for long periods can lead to dark circles or puffiness under the eyes due to fatigue and lack of sleep.\n\n- Choice 2: [choice] is not provided, so we cannot evaluate it.\n\nGiven that choice 1 presents a plausible cause for the condition described in the premise, it seems to be the most reasonable explanation.\n\nAnswer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "309",
+        "prompt": "Here is a premise: Wmwanamke aliwasiliana kwa lugha ya alama.. What is the cause? Help me pick the more plausible option: -choice1: Alizaliwa kabla ya wakati., -choice2: [choice]\nLet's think step-by-step in English.\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "To determine the cause of the premise \"Wmwanamke aliwasiliana kwa lugha ya alama\" (The woman communicated using sign language), we need to analyze the options provided.\n\n- Choice 1: \"Alizaliwa kabla ya wakati.\" (She was born prematurely.)\n- Choice 2: [choice]\n\nThe premise suggests that the woman uses sign language, which is often associated with individuals who are deaf or hard of hearing. Being born prematurely (choice 1) does not directly imply that someone would use sign language, as it does not necessarily lead to hearing impairment.\n\nSince we do not have a specific option for choice 2, we cannot evaluate it. However, based on the information given, choice 1 does not seem to be a plausible cause for the woman communicating in sign language.\n\nTherefore, without a clear alternative in choice 2, I will select choice 1 as the only available option.\n\nAnswer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 1,
+        "is_correct": false
+    },
+    {
+        "id": "379",
+        "prompt": "Here is a premise: Nilipoteza muda mwingi.. What is the cause? Help me pick the more plausible option: -choice1: Nilikuwa na msururu wa mawazo mazuri., -choice2: [choice]\nLet's think step-by-step in English.\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "To determine the cause of \"Nilipoteza muda mwingi\" (I wasted a lot of time), we need to analyze the options provided.\n\n- **Choice 1: Nilikuwa na msururu wa mawazo mazuri.** (I had a stream of good ideas.)\n  - This suggests that the person was engaged in thinking or brainstorming, which could lead to spending a lot of time on those thoughts, possibly without taking action.\n\n- **Choice 2: [choice]** \n  - Since there is no specific information provided for choice 2, we cannot evaluate it.\n\nGiven that choice 1 provides a clear reason for wasting time (being caught up in good ideas), it is the more plausible option.\n\nAnswer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    }
+]

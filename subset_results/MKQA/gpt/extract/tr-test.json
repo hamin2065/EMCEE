@@ -1,0 +1,99 @@
+[
+    {
+        "id": "3643218479176707788",
+        "sys_prompt": "The following is a reasoning question. Given question and explanation, write answer with format of \"Answer: [one or a few words]\".",
+        "user_prompt": "Question: stranger things'in (acayip \u015feyler) ka\u00e7 sezonu vard\u0131r\nExplanation: \"Stranger Things,\" the popular Netflix series, has a total of four seasons released as of October 2023, with a fifth season announced and in production. The show, set in the 1980s, combines elements of horror, science fiction, and nostalgia, drawing heavily on the culture of that era, including movies, music, and video games. Understanding the show's themes and its homage to 80s pop culture can enhance viewers' appreciation of the storyline and character development throughout the seasons.",
+        "response": "D\u00f6rt sezon",
+        "explanation": "\"Stranger Things,\" the popular Netflix series, has a total of four seasons released as of October 2023, with a fifth season announced and in production. The show, set in the 1980s, combines elements of horror, science fiction, and nostalgia, drawing heavily on the culture of that era, including movies, music, and video games. Understanding the show's themes and its homage to 80s pop culture can enhance viewers' appreciation of the storyline and character development throughout the seasons.",
+        "predicted_answer": "D\u00f6rt sezon",
+        "ground_truth": [
+            {
+                "type": "number",
+                "text": "3.0",
+                "aliases": [
+                    "3"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "3356010362039543701",
+        "sys_prompt": "The following is a reasoning question. Given question and explanation, write answer with format of \"Answer: [one or a few words]\".",
+        "user_prompt": "Question: i regret i have but one life to give for my country s\u00f6z\u00fcn\u00fc kim s\u00f6yledi\nExplanation: The phrase \"I regret that I have but one life to give for my country\" is attributed to Nathan Hale, an American soldier and spy during the American Revolutionary War. Hale is remembered for his bravery and dedication to the cause of American independence. He was captured by the British and executed in 1776, and his famous last words reflect his commitment to his country. Understanding Hale's historical context helps students appreciate the sacrifices made by individuals during pivotal moments in history, emphasizing themes of patriotism and valor.",
+        "response": "Nathan Hale",
+        "explanation": "The phrase \"I regret that I have but one life to give for my country\" is attributed to Nathan Hale, an American soldier and spy during the American Revolutionary War. Hale is remembered for his bravery and dedication to the cause of American independence. He was captured by the British and executed in 1776, and his famous last words reflect his commitment to his country. Understanding Hale's historical context helps students appreciate the sacrifices made by individuals during pivotal moments in history, emphasizing themes of patriotism and valor.",
+        "predicted_answer": "Nathan Hale",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "text": "Nathan Hale",
+                "entity": "Q16932034"
+            },
+            {
+                "type": "entity",
+                "text": "Nathan Hale",
+                "entity": "Q16932034"
+            },
+            {
+                "type": "entity",
+                "text": "Nathan Hale",
+                "entity": "Q16932034"
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "5965447391112455356",
+        "sys_prompt": "The following is a reasoning question. Given question and explanation, write answer with format of \"Answer: [one or a few words]\".",
+        "user_prompt": "Question: sansa stark'\u0131 oynayan aktris kimdir\nExplanation: Sansa Stark, a key character from the popular television series \"Game of Thrones,\" is portrayed by the English actress Sophie Turner. She began playing Sansa at a young age and her character undergoes significant development throughout the series, evolving from a naive girl into a strong and strategic leader. Understanding Sansa's journey is essential to appreciating the themes of resilience and growth in the show. Sophie's performance has been widely praised, contributing to her recognition in the entertainment industry.",
+        "response": "Sophie Turner",
+        "explanation": "Sansa Stark, a key character from the popular television series \"Game of Thrones,\" is portrayed by the English actress Sophie Turner. She began playing Sansa at a young age and her character undergoes significant development throughout the series, evolving from a naive girl into a strong and strategic leader. Understanding Sansa's journey is essential to appreciating the themes of resilience and growth in the show. Sophie's performance has been widely praised, contributing to her recognition in the entertainment industry.",
+        "predicted_answer": "Sophie Turner",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q240573",
+                "text": "Sophie Turner",
+                "aliases": []
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "476368974337766528",
+        "sys_prompt": "The following is a reasoning question. Given question and explanation, write answer with format of \"Answer: [one or a few words]\".",
+        "user_prompt": "Question: cumhuriyet\u00e7i parti se\u00e7imi en son ne zaman kazand\u0131\nExplanation: The Republican Party (Cumhuriyet\u00e7i Parti) in the United States last won the presidential election in 2016 when Donald Trump was elected as president. This election was significant as it marked a shift in political dynamics and brought various issues to the forefront of American politics. Understanding the context of the election, including the key issues and the political climate at the time, can help students analyze the factors that contributed to the Republican Party's victory. Additionally, recognizing the impact of this election on subsequent political events is crucial for a comprehensive understanding of contemporary U.S. politics.",
+        "response": "2016",
+        "explanation": "The Republican Party (Cumhuriyet\u00e7i Parti) in the United States last won the presidential election in 2016 when Donald Trump was elected as president. This election was significant as it marked a shift in political dynamics and brought various issues to the forefront of American politics. Understanding the context of the election, including the key issues and the political climate at the time, can help students analyze the factors that contributed to the Republican Party's victory. Additionally, recognizing the impact of this election on subsequent political events is crucial for a comprehensive understanding of contemporary U.S. politics.",
+        "predicted_answer": "2016",
+        "ground_truth": [
+            {
+                "type": "date",
+                "text": "2004",
+                "aliases": [
+                    "2004"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "6116319690634922724",
+        "sys_prompt": "The following is a reasoning question. Given question and explanation, write answer with format of \"Answer: [one or a few words]\".",
+        "user_prompt": "Question: new albany ohio nun n\u00fcfusu nedir\nExplanation: New Albany, Ohio, is a suburb of Columbus and has experienced significant growth in recent years. As of the latest estimates, the population of New Albany is around 12,000 residents. This number can fluctuate due to various factors such as economic development and housing trends. Understanding the demographic trends in suburban areas like New Albany can provide insights into community development, local economy, and the quality of life in the region. It's also helpful to consider how such growth impacts local services, schools, and infrastructure.",
+        "response": "12,000",
+        "explanation": "New Albany, Ohio, is a suburb of Columbus and has experienced significant growth in recent years. As of the latest estimates, the population of New Albany is around 12,000 residents. This number can fluctuate due to various factors such as economic development and housing trends. Understanding the demographic trends in suburban areas like New Albany can provide insights into community development, local economy, and the quality of life in the region. It's also helpful to consider how such growth impacts local services, schools, and infrastructure.",
+        "predicted_answer": "12,000",
+        "ground_truth": [
+            {
+                "type": "number",
+                "text": "10889.0",
+                "aliases": [
+                    "10889"
+                ]
+            }
+        ],
+        "is_correct": null
+    }
+]

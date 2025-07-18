@@ -1,0 +1,42 @@
+[
+    {
+        "id": "349",
+        "prompt": "Here is a premise: Niliondoa tunda juu ya meza.. What is the effect? Help me pick the more plausible option: -choice1: Tunda lilitoa mbegu., -choice2: [choice]\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "Niliondoa tunda juu ya meza... \n\nAnswer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 1,
+        "is_correct": false
+    },
+    {
+        "id": "216",
+        "prompt": "Here is a premise: Alipiga mbweu.. What is the cause? Help me pick the more plausible option: -choice1: Alibugia soda., -choice2: [choice]\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "Answer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "193",
+        "prompt": "Here is a premise: Mwanamke  ana mviringo chini ya jicho lake.. What is the cause? Help me pick the more plausible option: -choice1: Alibakia macho  usiku kucha., -choice2: [choice]\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "Answer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "309",
+        "prompt": "Here is a premise: Wmwanamke aliwasiliana kwa lugha ya alama.. What is the cause? Help me pick the more plausible option: -choice1: Alizaliwa kabla ya wakati., -choice2: [choice]\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "Hili ni tatizo la lugha ya ishara. Kwa kuwa linganifu, linganifu ni lugha ya ishara inayotumiwa na watu walio nje ya lugha ya kawaida. Kwa hivyo, ni wazi kuwa mwanamke huyo hatajua lugha ya kawaida.\n\nJibu: 1",
+        "predicted_answer": "Hili ni tatizo la lugha ya ishara. Kwa kuwa linganifu, linganifu ni lugha ya ishara inayotumiwa na watu walio nje ya lugha ya kawaida. Kwa hivyo, ni wazi kuwa mwanamke huyo hatajua lugha ya kawaida.\n\nJibu: 1",
+        "ground_truth": 1,
+        "is_correct": false
+    },
+    {
+        "id": "379",
+        "prompt": "Here is a premise: Nilipoteza muda mwingi.. What is the cause? Help me pick the more plausible option: -choice1: Nilikuwa na msururu wa mawazo mazuri., -choice2: [choice]\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "Nilikuwa na msururu wa mawazo mazuri.",
+        "predicted_answer": "Nilikuwa na msururu wa mawazo mazuri.",
+        "ground_truth": 0,
+        "is_correct": false
+    }
+]

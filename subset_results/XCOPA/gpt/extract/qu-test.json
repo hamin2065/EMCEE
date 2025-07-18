@@ -1,0 +1,52 @@
+[
+    {
+        "id": "302",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: Llimp'iwan wallpaqqa q'illutawan anqastawan chaqrurqan.\nWhat is the effect?\nChoice1: Llimp'iqa lliwpi ch'allakurqan.\nChoice2: Llimp'iqa q'umirmanmi tukurqan.\nExplanation: The premise states that the bird was caught with a net. This suggests that the bird is now trapped or unable to escape. The correct choice is \"Llimp'iqa q'umirmanmi tukurqan,\" which translates to \"The bird is now in a cage.\" This choice logically follows from the premise, as being caught with a net typically leads to the bird being confined or captured. The other choice, \"Llimp'iqa lliwpi ch'allakurqan,\" means \"The bird is now free,\" which contradicts the premise of being caught. Therefore, the effect of the bird being caught is that it is now confined, making the second choice the correct answer.",
+        "response": "2",
+        "explanation": "The premise states that the bird was caught with a net. This suggests that the bird is now trapped or unable to escape. The correct choice is \"Llimp'iqa q'umirmanmi tukurqan,\" which translates to \"The bird is now in a cage.\" This choice logically follows from the premise, as being caught with a net typically leads to the bird being confined or captured. The other choice, \"Llimp'iqa lliwpi ch'allakurqan,\" means \"The bird is now free,\" which contradicts the premise of being caught. Therefore, the effect of the bird being caught is that it is now confined, making the second choice the correct answer.",
+        "predicted_answer": "2",
+        "ground_truth": 1,
+        "is_correct": true
+    },
+    {
+        "id": "301",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: Yachaqiqa hatun-yachaywasimanta graduasqa lluqsirqan.\nWhat is the effect?\nChoice1: Payqa llamk'anatam maskharqan.\nChoice2: Imapi qhuchukusqankutam maskharqan.\nExplanation: The premise states that the scholar graduated with a higher education degree. This achievement typically leads to positive outcomes in one's career or personal development. The correct choice is \"Payqa llamk'anatam maskharqan,\" which translates to \"He/she has improved their work.\" Graduating with a higher degree often enhances a person's qualifications, leading to better job opportunities or advancements in their current position. The other choice, \"Imapi qhuchukusqankutam maskharqan,\" suggests a focus on something else that does not directly relate to the positive effects of graduating, making it less relevant in this context.",
+        "response": "1",
+        "explanation": "The premise states that the scholar graduated with a higher education degree. This achievement typically leads to positive outcomes in one's career or personal development. The correct choice is \"Payqa llamk'anatam maskharqan,\" which translates to \"He/she has improved their work.\" Graduating with a higher degree often enhances a person's qualifications, leading to better job opportunities or advancements in their current position. The other choice, \"Imapi qhuchukusqankutam maskharqan,\" suggests a focus on something else that does not directly relate to the positive effects of graduating, making it less relevant in this context.",
+        "predicted_answer": "1",
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "15",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: C\u00f3digo nisqata warmaqa umanpi yuyanchakurqan.\nWhat is the cause?\nChoice1: Hatun kunkapi rimaspa kikinman yachachikurqan.\nChoice2: Payqa qillqayta qunqarurqan.\nExplanation: The premise states that the girl understood the code. To determine the cause of her understanding, we need to consider the choices provided. Choice 1 suggests that she learned by speaking in a big group, which implies that she gained knowledge through discussion or collaboration. This could be a plausible reason for her understanding the code, as learning in a group can enhance comprehension. \n\nChoice 2 states that \"he/she wrote it down,\" which indicates that the act of writing the code could also lead to understanding. However, simply writing something down does not guarantee comprehension unless there is prior knowledge or context. \n\nGiven the context, choice 1 is the stronger cause because it emphasizes the collaborative learning process, which is often more effective in understanding complex subjects like codes.",
+        "response": "1",
+        "explanation": "The premise states that the girl understood the code. To determine the cause of her understanding, we need to consider the choices provided. Choice 1 suggests that she learned by speaking in a big group, which implies that she gained knowledge through discussion or collaboration. This could be a plausible reason for her understanding the code, as learning in a group can enhance comprehension. \n\nChoice 2 states that \"he/she wrote it down,\" which indicates that the act of writing the code could also lead to understanding. However, simply writing something down does not guarantee comprehension unless there is prior knowledge or context. \n\nGiven the context, choice 1 is the stronger cause because it emphasizes the collaborative learning process, which is often more effective in understanding complex subjects like codes.",
+        "predicted_answer": "1",
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "112",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: Hawaman samarisqayta rikurqani.\nWhat is the cause?\nChoice1: Pachaqa as chirim karqan.\nChoice2: Qhasquypi mat'ipawarqan.\nExplanation: The premise states that the person saw a beautiful sunrise. To determine the cause of this observation, we need to consider what might lead to witnessing a sunrise. Choice 1, \"Pachaqa as chirim karqan,\" translates to \"The sky was clear,\" which is a likely cause for seeing a beautiful sunrise, as clear skies allow for vibrant colors and visibility. On the other hand, Choice 2, \"Qhasquypi mat'ipawarqan,\" means \"He/she was in a hurry,\" which does not directly relate to the cause of seeing a sunrise. Therefore, the correct choice is Choice 1, as a clear sky is essential for experiencing the beauty of a sunrise.",
+        "response": "1",
+        "explanation": "The premise states that the person saw a beautiful sunrise. To determine the cause of this observation, we need to consider what might lead to witnessing a sunrise. Choice 1, \"Pachaqa as chirim karqan,\" translates to \"The sky was clear,\" which is a likely cause for seeing a beautiful sunrise, as clear skies allow for vibrant colors and visibility. On the other hand, Choice 2, \"Qhasquypi mat'ipawarqan,\" means \"He/she was in a hurry,\" which does not directly relate to the cause of seeing a sunrise. Therefore, the correct choice is Choice 1, as a clear sky is essential for experiencing the beauty of a sunrise.",
+        "predicted_answer": "1",
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "36",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: Suyukunaqa aywanakuy guerra nisqamanta lluqsiyta munarirqanku.\nWhat is the effect?\nChoice1: Paykunaqa armas nucleares nisqatam ruwayta qallarirqanku.\nChoice2: Paykunaqa qhasilla kanankupaq rimanakuytam qallarirqanku.\nExplanation: The premise states that the people want to end the war. This indicates a desire for peace and resolution. The first choice, \"Paykunaqa armas nucleares nisqatam ruwayta qallarirqanku,\" translates to \"They have called for nuclear weapons,\" which contradicts the intention of wanting to end a war, as nuclear weapons typically escalate conflict rather than resolve it. The second choice, \"Paykunaqa qhasilla kanankupaq rimanakuytam qallarirqanku,\" means \"They have called for dialogue to achieve peace.\" This aligns perfectly with the premise, as seeking dialogue is a constructive approach to ending conflict. Therefore, the correct effect is the second choice, as it reflects the desire for peace and resolution in the context of war.",
+        "response": "2",
+        "explanation": "The premise states that the people want to end the war. This indicates a desire for peace and resolution. The first choice, \"Paykunaqa armas nucleares nisqatam ruwayta qallarirqanku,\" translates to \"They have called for nuclear weapons,\" which contradicts the intention of wanting to end a war, as nuclear weapons typically escalate conflict rather than resolve it. The second choice, \"Paykunaqa qhasilla kanankupaq rimanakuytam qallarirqanku,\" means \"They have called for dialogue to achieve peace.\" This aligns perfectly with the premise, as seeking dialogue is a constructive approach to ending conflict. Therefore, the correct effect is the second choice, as it reflects the desire for peace and resolution in the context of war.",
+        "predicted_answer": "2",
+        "ground_truth": 1,
+        "is_correct": true
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "id": "de-2987",
+        "prompt": "You are an expert at natural language inference. Given the premise and hypothesis, your task is to judge whether the hypothesis is true, false, or undetermined given the premise. The relationship can be chosen from entailment, contradiction, and neutral.\nPremise: Gewinn oder Verlust sollten als ein unwiederbringlicher Gewinn oder Verlust ausgewiesen sein\nHypothesis: Wenn Sie den Gewinn oder Verlust verbuchen, machen Sie daraus einen Gewinn oder Verlust ohne Kursverlust.\nYou should provide the final answer at the end in the format: 'Relationship: [entailment, neutral or contradiction]'.",
+        "response": "The premise states that gains or losses should be reported as irretrievable gains or losses. The hypothesis suggests that when you account for the gain or loss, you create a gain or loss without a loss in value. \n\nThe premise implies a specific way of reporting gains and losses, while the hypothesis introduces a condition that suggests a different understanding of how gains and losses are treated, specifically mentioning \"without a loss in value,\" which is not supported by the premise.\n\nThus, the relationship between the premise and the hypothesis is one of contradiction.\n\nFinal answer: Relationship: contradiction",
+        "predicted_answer": 2,
+        "ground_truth": 0,
+        "is_correct": false
+    },
+    {
+        "id": "de-2136",
+        "prompt": "You are an expert at natural language inference. Given the premise and hypothesis, your task is to judge whether the hypothesis is true, false, or undetermined given the premise. The relationship can be chosen from entailment, contradiction, and neutral.\nPremise: Auch einen Besuch wert sind das Haus von Balzac (47 Rue Razanouard) und das Studio Delacroix (6 Rue de Furstenberg).\nHypothesis: Balzas Zuhause und Delacroix' Studio sind die besten Dinge, die man sich in der Gegend ansehen kann.\nYou should provide the final answer at the end in the format: 'Relationship: [entailment, neutral or contradiction]'.",
+        "response": "The premise states that the house of Balzac and the studio of Delacroix are worth visiting, but it does not claim that they are the best things to see in the area. The hypothesis suggests that they are the best things to see, which is a stronger claim than what is presented in the premise. Therefore, the relationship between the premise and the hypothesis is not one of entailment, as the premise does not support the hypothesis fully. It also does not contradict it directly, as the premise does not deny that they could be considered the best. Thus, the relationship is neutral.\n\nRelationship: neutral",
+        "predicted_answer": 1,
+        "ground_truth": 1,
+        "is_correct": true
+    },
+    {
+        "id": "de-1085",
+        "prompt": "You are an expert at natural language inference. Given the premise and hypothesis, your task is to judge whether the hypothesis is true, false, or undetermined given the premise. The relationship can be chosen from entailment, contradiction, and neutral.\nPremise: Die Girlanden in Geb\u00e4uden des achtzehnten Jahrhunderts sind gemei\u00dfelte oder gemalte Versionen der Sch\u00e4rpen und gebl\u00fchten Ornamente, die von M\u00e4nnern und Frauen getragen werden.\nHypothesis: Die Girlanden in den Geb\u00e4uden des achtzehnten Jahrhunderts sind Abwandlungen der von den Menschen getragenen Sch\u00e4rpen und Ornamente.\nYou should provide the final answer at the end in the format: 'Relationship: [entailment, neutral or contradiction]'.",
+        "response": "The premise states that the garlands in 18th-century buildings are either carved or painted versions of the sashes and floral ornaments worn by men and women. The hypothesis claims that the garlands are variations of the sashes and ornaments worn by people. \n\nThe hypothesis aligns with the premise, as it suggests that the garlands are derived from or related to the sashes and ornaments, which is consistent with the premise's description of them being versions of those items.\n\nTherefore, the relationship is:\n\nRelationship: entailment",
+        "predicted_answer": 0,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "de-1720",
+        "prompt": "You are an expert at natural language inference. Given the premise and hypothesis, your task is to judge whether the hypothesis is true, false, or undetermined given the premise. The relationship can be chosen from entailment, contradiction, and neutral.\nPremise: Es gab hier ganz offensichtlich eine vage Drohung, einen meuternden Geist, den er nicht verstehen konnte.\nHypothesis: Er hat die bevorstehende Gefahr sehr wohl verstanden.\nYou should provide the final answer at the end in the format: 'Relationship: [entailment, neutral or contradiction]'.",
+        "response": "The premise suggests that there was an obvious vague threat and a mutinous spirit that he could not understand. The hypothesis states that he understood the impending danger very well. Since the premise indicates a lack of understanding, the hypothesis contradicts this. \n\nFinal answer: Relationship: contradiction",
+        "predicted_answer": 2,
+        "ground_truth": 2,
+        "is_correct": true
+    },
+    {
+        "id": "de-4630",
+        "prompt": "You are an expert at natural language inference. Given the premise and hypothesis, your task is to judge whether the hypothesis is true, false, or undetermined given the premise. The relationship can be chosen from entailment, contradiction, and neutral.\nPremise: Sage brechen, Steak, doch kahl und Streifen.\nHypothesis: Sag Biegung.\nYou should provide the final answer at the end in the format: 'Relationship: [entailment, neutral or contradiction]'.",
+        "response": "The premise \"Sage brechen, Steak, doch kahl und Streifen\" does not provide a clear connection to the hypothesis \"Sag Biegung.\" The words in the premise do not logically lead to or support the statement made in the hypothesis. Therefore, the relationship between the premise and the hypothesis is not one of entailment or contradiction, but rather it is unclear.\n\nFinal answer: Relationship: neutral",
+        "predicted_answer": 1,
+        "ground_truth": 1,
+        "is_correct": true
+    }
+]

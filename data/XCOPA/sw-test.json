@@ -1,0 +1,802 @@
+{
+    "327": {
+        "question": "cause",
+        "premise": "Mwanamme alinusurika mauti ya ugonjwa.",
+        "choice1": "Alitia saini wasia (ridhaa) wake.",
+        "choice2": "Alipokea uhamisho wa kiungo.",
+        "label": 1,
+        "changed": false
+    },
+    "57": {
+        "question": "effect",
+        "premise": "Sinki la chooni lilikuwa limeziba.",
+        "choice1": "Nilifungua bomba.",
+        "choice2": "Niliingiza kifaa cha kusafishia ndani yake.",
+        "label": 1,
+        "changed": false
+    },
+    "12": {
+        "question": "cause",
+        "premise": "Hundi nilioiandika imedunda.",
+        "choice1": "Akauti yangu ya benki ilikuwa tupu.",
+        "choice2": "Nimepata ongezeko la mshahara.",
+        "label": 0,
+        "changed": false
+    },
+    "379": {
+        "question": "cause",
+        "premise": "Nilipoteza muda mwingi.",
+        "choice1": "Nilikuwa na msururu wa mawazo mazuri.",
+        "choice2": "Nilikuwa na kichefuchefu.",
+        "label": 0,
+        "changed": false
+    },
+    "140": {
+        "question": "cause",
+        "premise": "Mvulana alichonga penseli.",
+        "choice1": "Ilikuwa rahisi.",
+        "choice2": "Ilikuwa butu.",
+        "label": 1,
+        "changed": false
+    },
+    "125": {
+        "question": "effect",
+        "premise": "Mvua ilikuwa ikimiminika chini.",
+        "choice1": "Dhoruba ilikuwa mbaya zaidi.",
+        "choice2": "Nilikimbia kuingia ndani.",
+        "label": 1,
+        "changed": false
+    },
+    "114": {
+        "question": "effect",
+        "premise": "Nilioka pai ya tofaa.",
+        "choice1": "Harufu ya uoza ilijaa jikono.",
+        "choice2": "Harufu ya kupendeza ilijaa jikoni.",
+        "label": 1,
+        "changed": false
+    },
+    "71": {
+        "question": "cause",
+        "premise": "Mwanamke alilala sana.",
+        "choice1": "Alibakia hotelini usiku.",
+        "choice2": "Alisahau kurekebisha saa yake ya kengele.",
+        "label": 1,
+        "changed": false
+    },
+    "377": {
+        "question": "effect",
+        "premise": "Muhalifu alikusudia kumpiga bunduki  muathirika.",
+        "choice1": "Muhalifu aliweka bunduki chini.",
+        "choice2": "Muhalifu alinyanyua juu mkono wake.",
+        "label": 1,
+        "changed": false
+    },
+    "52": {
+        "question": "effect",
+        "premise": "Mti uliangusha majani yake.",
+        "choice1": "Majani yalibadilika rangi.",
+        "choice2": "Majani yalikusanyika chini.",
+        "label": 1,
+        "changed": false
+    },
+    "346": {
+        "question": "cause",
+        "premise": "Sakafu ya mbao ilipasuka.",
+        "choice1": "Kijana alirusha mito wa kochi.",
+        "choice2": "Kijana alikokota kiti katika sakafu.",
+        "label": 1,
+        "changed": false
+    },
+    "496": {
+        "question": "effect",
+        "premise": "Nilifikiria kwa makini kuhusu tatizo.",
+        "choice1": "Niliomba ushauri.",
+        "choice2": "Nilipata suluhisho.",
+        "label": 1,
+        "changed": false
+    },
+    "456": {
+        "question": "effect",
+        "premise": "Nilimeza dawa ya kuondoa sumu.",
+        "choice1": "Ugonjwa wangu wa kuambukiza uliondoka.",
+        "choice2": "Ugonjwa wangu wa kuambukiza ulienea.",
+        "label": 0,
+        "changed": false
+    },
+    "279": {
+        "question": "effect",
+        "premise": "Msichana alijiunga na timu ya mjadala.",
+        "choice1": "Alijifunza kutumia kompyuta.",
+        "choice2": "Alijifunza ujuzi wa mazungumzo.",
+        "label": 1,
+        "changed": false
+    },
+    "44": {
+        "question": "cause",
+        "premise": "Wanaharakati waligomea bidhaa.",
+        "choice1": "Bidhaa zilikuwa zilipimwa kwa ajili ya kuthibitisha ubora.",
+        "choice2": "Bidhaa zilikuwa zikitengenezwa kupitia ajira kwa watoto.",
+        "label": 1,
+        "changed": false
+    },
+    "302": {
+        "question": "effect",
+        "premise": "Msanii alichanganya rangi ya njano katika rangi ya buluu.",
+        "choice1": "Rangi ilienea sehemu zote.",
+        "choice2": "Rangi iligeuka kuwa kijani.",
+        "label": 1,
+        "changed": false
+    },
+    "216": {
+        "question": "cause",
+        "premise": "Alipiga mbweu.",
+        "choice1": "Alibugia soda.",
+        "choice2": "Alifungua kopo la soda.",
+        "label": 0,
+        "changed": false
+    },
+    "16": {
+        "question": "effect",
+        "premise": "Nilimimina maji kwenye gilasi.",
+        "choice1": "Maji yalizima kiu yangu.",
+        "choice2": "Maji yalikuwa yamejaa.",
+        "label": 1,
+        "changed": false
+    },
+    "15": {
+        "question": "effect",
+        "premise": "Yule msichana alihifadhi msimbo kwenye akili.",
+        "choice1": "Aliukariri.",
+        "choice2": "Alisahau kuuandika chini.",
+        "label": 0,
+        "changed": false
+    },
+    "47": {
+        "question": "effect",
+        "premise": "Nilijimwagia mvinyo juu ya shati langu.",
+        "choice1": "Nilivaa aproni.",
+        "choice2": "Nilibadili shati yangu.",
+        "label": 1,
+        "changed": false
+    },
+    "111": {
+        "question": "cause",
+        "premise": "Familia ilipekuwa kwenye mtaa.",
+        "choice1": "Mbwa alikimbia nyumbani.",
+        "choice2": "Vito ghali vilikuwa vimepotea nyumbani kwao.",
+        "label": 0,
+        "changed": false
+    },
+    "119": {
+        "question": "effect",
+        "premise": "Kila mmoja alikataa kuchumbiana kwa wapenzi.",
+        "choice1": "Wapenzi walipata ujauzito.",
+        "choice2": "Wapenzi walikimbia.",
+        "label": 1,
+        "changed": false
+    },
+    "258": {
+        "question": "cause",
+        "premise": "Kofia ya mwanamme ilipepeuka.",
+        "choice1": "Alivua kofia.",
+        "choice2": "Kulikuwa na upepo nje.",
+        "label": 1,
+        "changed": false
+    },
+    "308": {
+        "question": "cause",
+        "premise": "Wazazi walikimbilia chumbani kwa mtoto wao.",
+        "choice1": "Mtoto aliamka na kupiga makelele kutokana na jinamizi.",
+        "choice2": "Mtoto alikuwa anaogopa kushuka kitandani.",
+        "label": 0,
+        "changed": false
+    },
+    "13": {
+        "question": "effect",
+        "premise": "Kisanduku pokezi cha barua pepe ya mwanamme kilijaa barua taka.",
+        "choice1": "Alifuta barua taka.",
+        "choice2": "Alituma barua pepe ya halaiki.",
+        "label": 0,
+        "changed": false
+    },
+    "287": {
+        "question": "cause",
+        "premise": "Nguo ya kijana iliroa.",
+        "choice1": "Alipanda juu ya bwawa.",
+        "choice2": "Alianguka ndani ya bwawa.",
+        "label": 1,
+        "changed": false
+    },
+    "101": {
+        "question": "effect",
+        "premise": "Msemaji alitoa maoni ya kisiasa yasiyo sahihi.",
+        "choice1": "Aliwachosha hadhira.",
+        "choice2": "Aliwaudhi hadhira.",
+        "label": 1,
+        "changed": false
+    },
+    "366": {
+        "question": "effect",
+        "premise": "Nilijihisi mchovu.",
+        "choice1": "Nilivuta pumzi kwanguvu kupitia pua.",
+        "choice2": "Nilienda myayo.",
+        "label": 1,
+        "changed": false
+    },
+    "332": {
+        "question": "cause",
+        "premise": "Nilikwaruza ngozi yangu.",
+        "choice1": "Ilikuwa natoka jasho.",
+        "choice2": "Ilikuwa inawasha.",
+        "label": 1,
+        "changed": false
+    },
+    "359": {
+        "question": "effect",
+        "premise": "Niliomba radhi kwa rafiki yangu.",
+        "choice1": "Rafiki yangu alinisamehe.",
+        "choice2": "Rafiki yangu alikuwa na hasira.",
+        "label": 0,
+        "changed": false
+    },
+    "486": {
+        "question": "cause",
+        "premise": "Mwanamme alitoka nje ya mfereji wa kuogea.",
+        "choice1": "Maji moto yalikuwa yameisha.",
+        "choice2": "Hakuona taulo.",
+        "label": 0,
+        "changed": false
+    },
+    "214": {
+        "question": "effect",
+        "premise": "Mfungwa alikaa na njaa.",
+        "choice1": "Alikufa.",
+        "choice2": "Alikimbia.",
+        "label": 0,
+        "changed": false
+    },
+    "112": {
+        "question": "cause",
+        "premise": "Niliona pumzi zangu nilipotoa pumzi.",
+        "choice1": "Hali ya hewa ilikuwa ya kutulia.",
+        "choice2": "Kifua kilihisi kubana.",
+        "label": 0,
+        "changed": false
+    },
+    "229": {
+        "question": "effect",
+        "premise": "Mchezaji alikabiliana na mpinzani wake.",
+        "choice1": "Mpinzani wake aliupata mpira.",
+        "choice2": "Mpinzani wake alianguka chini.",
+        "label": 1,
+        "changed": false
+    },
+    "301": {
+        "question": "effect",
+        "premise": "Mwanafunzi alihitimu chuo kikuu.",
+        "choice1": "Alitafuta kazi.",
+        "choice2": "Alifanya kile anachokipenda.",
+        "label": 0,
+        "changed": false
+    },
+    "142": {
+        "question": "effect",
+        "premise": "Mkwaruzo ndani ya ngozi yangu ulikuwa kubwa.",
+        "choice1": "Ulipoa kwa haraka.",
+        "choice2": "Uliacha kovu.",
+        "label": 1,
+        "changed": false
+    },
+    "414": {
+        "question": "effect",
+        "premise": "Kompyuta haingewaka.",
+        "choice1": "Niliiangusha.",
+        "choice2": "Niliiongezea chaji.",
+        "label": 0,
+        "changed": false
+    },
+    "445": {
+        "question": "cause",
+        "premise": "Mwanamke alishika koo yake.",
+        "choice1": "Alimeza chakula chake.",
+        "choice2": "Alisamwa na chakula.",
+        "label": 1,
+        "changed": false
+    },
+    "3": {
+        "question": "effect",
+        "premise": "Wasafiri wamefika mpakani.",
+        "choice1": "Afisa doria alikagua pasi zao za kusafiria.",
+        "choice2": "Afisa doria aliwatuhumu wao kwa kupenyeza magendo.",
+        "label": 0,
+        "changed": false
+    },
+    "388": {
+        "question": "effect",
+        "premise": "Kijana alimfinya msichana kifundo cha mkono.",
+        "choice1": "Alifanya juhudi kumsogezea bega lake.",
+        "choice2": "Aliupapatua mkono wake utokane naye.",
+        "label": 1,
+        "changed": false
+    },
+    "412": {
+        "question": "effect",
+        "premise": "Mkongwe wa vita alitembea huku akichechemea.",
+        "choice1": "Alichukuliwa aingie kwenye vita.",
+        "choice2": "Aliumia vitani.",
+        "label": 1,
+        "changed": false
+    },
+    "81": {
+        "question": "effect",
+        "premise": "Wachejazi baharini walirudi pwani.",
+        "choice1": "Walijawa na unyevunyevu wa maji.",
+        "choice2": "Waliona papa.",
+        "label": 1,
+        "changed": false
+    },
+    "357": {
+        "question": "cause",
+        "premise": "Niliacha kazi mapema.",
+        "choice1": "Nilikuwa naumwa na kichwa.",
+        "choice2": "Bosi wangu aliendesha mkutano.",
+        "label": 0,
+        "changed": false
+    },
+    "483": {
+        "question": "cause",
+        "premise": "Nilisafisha zulia.",
+        "choice1": "Wenzangu katika chumba walimwaga kinywaji.",
+        "choice2": "Mbwa wangu alimwaga nywele.",
+        "label": 1,
+        "changed": false
+    },
+    "174": {
+        "question": "effect",
+        "premise": "Maengesho mengi kwenye majengo yalikuwa matupu.",
+        "choice1": "Niliegesha katikati ya mtaa.",
+        "choice2": "Niliegesha karibu na mlango.",
+        "label": 1,
+        "changed": false
+    },
+    "464": {
+        "question": "effect",
+        "premise": "Familia walitaka kuwajua jirani zao wapya.",
+        "choice1": "Familia iliwaalika jirani zao katika chakula cha usiku.",
+        "choice2": "Familia walipunga mikono kwa jirani zao kutoka bustanini kwao.",
+        "label": 0,
+        "changed": false
+    },
+    "79": {
+        "question": "effect",
+        "premise": "Msichana alipoteza muelekeo wa baiskeli yake.",
+        "choice1": "Aliachia usukani.",
+        "choice2": "Alijigonga kwenye ukuta.",
+        "label": 1,
+        "changed": false
+    },
+    "110": {
+        "question": "effect",
+        "premise": "Nimekosa simu ya rafiki yangu wa kike.",
+        "choice1": "Nilimpigia tena yeye.",
+        "choice2": "Nilionana nae kwa chakula cha usiku.",
+        "label": 0,
+        "changed": false
+    },
+    "390": {
+        "question": "effect",
+        "premise": "Kijana alikanyaga katika tope.",
+        "choice1": "Tope ziliganda katika viatu vyake.",
+        "choice2": "Tope zilimpiga usoni.",
+        "label": 0,
+        "changed": false
+    },
+    "172": {
+        "question": "cause",
+        "premise": "Nilitamani gilasi ya maziwa.",
+        "choice1": "Nilikuwa nikila biskuti.",
+        "choice2": "Nilikuwa nikioka mkate.",
+        "label": 0,
+        "changed": false
+    },
+    "490": {
+        "question": "effect",
+        "premise": "Kifundo changu cha mguu kilikuwa kimevimba.",
+        "choice1": "Niliweka barafu juu yake.",
+        "choice2": "Nilipaka losheni juu yake.",
+        "label": 0,
+        "changed": false
+    },
+    "480": {
+        "question": "cause",
+        "premise": "Mwanamme alikataliwa kukopa.",
+        "choice1": "Alikuwa na deni.",
+        "choice2": "Alianza biashara.",
+        "label": 0,
+        "changed": false
+    },
+    "194": {
+        "question": "cause",
+        "premise": "Lava ilitiririka kutoka kwenye volcano.",
+        "choice1": "Volkano ililiripuka.",
+        "choice2": "Volkano ilikuwa imetulia.",
+        "label": 0,
+        "changed": false
+    },
+    "49": {
+        "question": "effect",
+        "premise": "Mwanamuziki anaetumbuiza babarani alivutia umati.",
+        "choice1": "Watu walimpa yeye sarafu.",
+        "choice2": "Aliuondoshea mbali umati.",
+        "label": 0,
+        "changed": false
+    },
+    "183": {
+        "question": "effect",
+        "premise": "Mpiga picha alisahau kutumia flashi kwenye kamera.",
+        "choice1": "Picha uziligeuka kuwa na ukungu.",
+        "choice2": "Kila mmoja kwenye picha alikataa kutabasamu.",
+        "label": 0,
+        "changed": false
+    },
+    "433": {
+        "question": "cause",
+        "premise": "Watoto walipelekwa sehemu ya kulelea yatima.",
+        "choice1": "Wazazi wao walifariki.",
+        "choice2": "Wazazi wao waliwaharibu.",
+        "label": 0,
+        "changed": false
+    },
+    "176": {
+        "question": "cause",
+        "premise": "Mshirika alinikatia simu.",
+        "choice1": "Nilitaka kuzungumza na msimamizi.",
+        "choice2": "Nilijipatia nambari ya kitambulisho.",
+        "label": 0,
+        "changed": false
+    },
+    "309": {
+        "question": "cause",
+        "premise": "Wmwanamke aliwasiliana kwa lugha ya alama.",
+        "choice1": "Alizaliwa kabla ya wakati.",
+        "choice2": "Alizaliwa kiziwi.",
+        "label": 1,
+        "changed": false
+    },
+    "135": {
+        "question": "cause",
+        "premise": "Mvulana alifeli mtihani wake wa historia.",
+        "choice1": "Alikuwa makini darasani.",
+        "choice2": "Alisahau kusoma.",
+        "label": 1,
+        "changed": false
+    },
+    "413": {
+        "question": "effect",
+        "premise": "Muhalifu alimkimbia askari.",
+        "choice1": "Askari alikwenda kwa waathirika.",
+        "choice2": "Askari alimkimbiza muhalifu.",
+        "label": 1,
+        "changed": false
+    },
+    "22": {
+        "question": "effect",
+        "premise": "Mwanamme alitarajia hali ya hewa ya baridi katika safari yake.",
+        "choice1": "Alipanga nguo za joto ndani ya sanduku lake.",
+        "choice2": "Alisafiri pamoja na sanduku kubwa.",
+        "label": 0,
+        "changed": false
+    },
+    "373": {
+        "question": "effect",
+        "premise": "Gari yangu ilivunjika.",
+        "choice1": "Nilikwenda madukani.",
+        "choice2": "Nilimwita fundi.",
+        "label": 1,
+        "changed": false
+    },
+    "235": {
+        "question": "effect",
+        "premise": "Nilihisi raha.",
+        "choice1": "Nilipiga magoti barabarani.",
+        "choice2": "Nilijifunika na blanketi.",
+        "label": 1,
+        "changed": false
+    },
+    "274": {
+        "question": "effect",
+        "premise": "CEO wa kampuni alijiuzulu.",
+        "choice1": "Bodi ya wakurugenzi waliifuta kampuni.",
+        "choice2": "Bodi ya wakurugenzi walitafuta mbadala wake.",
+        "label": 1,
+        "changed": false
+    },
+    "63": {
+        "question": "effect",
+        "premise": "Mkono wangu uliuma.",
+        "choice1": "Niliandika insha kwa mkono.",
+        "choice2": "Mimi na mke wangu tulishikana mikono.",
+        "label": 0,
+        "changed": false
+    },
+    "193": {
+        "question": "cause",
+        "premise": "Mwanamke  ana mviringo chini ya jicho lake.",
+        "choice1": "Alibakia macho  usiku kucha.",
+        "choice2": "Alimpeleka mtoto wake wa kiume kulala.",
+        "label": 0,
+        "changed": false
+    },
+    "40": {
+        "question": "effect",
+        "premise": "Wasafiri walikagua ndani ya chumba chao cha hoteli.",
+        "choice1": "Walifungua mizigo yao.",
+        "choice2": "Walikwenda uwanja wa ndege.",
+        "label": 0,
+        "changed": false
+    },
+    "282": {
+        "question": "effect",
+        "premise": "Rola kosta ilitumbukia chini kushuka mwinuko.",
+        "choice1": "Abiria walicheka cheka.",
+        "choice2": "Abiria walipiga makelele.",
+        "label": 1,
+        "changed": false
+    },
+    "150": {
+        "question": "cause",
+        "premise": "Moyo wa muigizaji ulikuwa ukipapatika kabla ya uigizaji.",
+        "choice1": "Alipata hofu ya jukwaa.",
+        "choice2": "Alikariri mistari yake.",
+        "label": 0,
+        "changed": false
+    },
+    "424": {
+        "question": "effect",
+        "premise": "Familia ilikwenda katika bustani ya wanyama.",
+        "choice1": "Watoto waliwapenda wanyama.",
+        "choice2": "Watoto waliwakimbiza wanyama.",
+        "label": 0,
+        "changed": false
+    },
+    "321": {
+        "question": "effect",
+        "premise": "Msichana alinong'ona na kuenea kwa kila mtu katika meza ya chakula cha mchana.",
+        "choice1": "Wanafunzi wengine walikaa kitako katika meza ya chakula cha mchana.",
+        "choice2": "Wanafunzi wengine katika meza ya chakula walijisikia kuondoka.",
+        "label": 1,
+        "changed": false
+    },
+    "316": {
+        "question": "effect",
+        "premise": "Niliamka usiku wa manane nikihisi baridi.",
+        "choice1": "Nilivaa suruali nyepesi.",
+        "choice2": "Nilikunywa bilauri ya maji.",
+        "label": 0,
+        "changed": false
+    },
+    "185": {
+        "question": "effect",
+        "premise": "Nilifanya mazoezi.",
+        "choice1": "Nilijihisi mwenye nguvu.",
+        "choice2": "Nilikuwa na hofu.",
+        "label": 0,
+        "changed": false
+    },
+    "295": {
+        "question": "effect",
+        "premise": "Muziki ulikuwa dhaifu sana kusikia.",
+        "choice1": "Niliongeza sauti.",
+        "choice2": "Nilitunga wimbo wangu mwenyewe.",
+        "label": 0,
+        "changed": false
+    },
+    "98": {
+        "question": "effect",
+        "premise": "Tulibebwa na chombo kwenye hifadhi ya pumbao.",
+        "choice1": "Chombo hili lilitisha.",
+        "choice2": "Chombo hili lilifurahisha.",
+        "label": 1,
+        "changed": false
+    },
+    "360": {
+        "question": "effect",
+        "premise": "Mwanaume alitofautika na umati.",
+        "choice1": "Alibeba mfuko wa begani.",
+        "choice2": "Alivaa fulana ya neon.",
+        "label": 1,
+        "changed": false
+    },
+    "35": {
+        "question": "cause",
+        "premise": "Nimepoteza uvumilivu wangu.",
+        "choice1": "Rafiki yangu alinifanya nimsubiri.",
+        "choice2": "Rafiki yangu alifika kwa wakati.",
+        "label": 0,
+        "changed": false
+    },
+    "23": {
+        "question": "effect",
+        "premise": "Mwanafunzi alijua jibu la swali.",
+        "choice1": "Aliinua mkono wake.",
+        "choice2": "Hakujishughulisha.",
+        "label": 0,
+        "changed": false
+    },
+    "338": {
+        "question": "effect",
+        "premise": "Mwanamke alimpiga mshambulizi wake puani.",
+        "choice1": "Mwili wa mshambulizi wake ulikufa.",
+        "choice2": "Mshambulizi alianza kuvuja damu.",
+        "label": 1,
+        "changed": false
+    },
+    "116": {
+        "question": "cause",
+        "premise": "Mvuke ulitoka nje ya chngu cha maji.",
+        "choice1": "Maji yalichemka.",
+        "choice2": "Nilifunika chungu.",
+        "label": 0,
+        "changed": false
+    },
+    "395": {
+        "question": "cause",
+        "premise": "Familia iliwapongeza wanandoa.",
+        "choice1": "Wanandoa walitangaza kuwa wametengana.",
+        "choice2": "Wanandoa walitangaza kuwa wamepata mtoto.",
+        "label": 1,
+        "changed": false
+    },
+    "148": {
+        "question": "effect",
+        "premise": "Mwanamke alibakia nyumbani kutoka kazini.",
+        "choice1": "Bosi wake alimpongeza yeye.",
+        "choice2": "Mfanyakazi mwenzake alichukua nafasi kwa ajili yake.",
+        "label": 1,
+        "changed": false
+    },
+    "444": {
+        "question": "effect",
+        "premise": "Mwanaume alipita kwenye matibabu.",
+        "choice1": "Jamaa yake ina ugonjwa wa akili.",
+        "choice2": "Aligunduliwa kuwa na unyogovu wa akili.",
+        "label": 1,
+        "changed": false
+    },
+    "478": {
+        "question": "effect",
+        "premise": "Msichana alionekana ana safura.",
+        "choice1": "Baba yake alimsomea hadithi.",
+        "choice2": "Baba yake alimgusa paji la uso.",
+        "label": 1,
+        "changed": false
+    },
+    "51": {
+        "question": "effect",
+        "premise": "Rada ya rubani iligundua dhoruba.",
+        "choice1": "Rubani aliondoa kutoka kwenye dhoruba.",
+        "choice2": "Rubani aliruka kuielekea dhoruba.",
+        "label": 0,
+        "changed": false
+    },
+    "447": {
+        "question": "effect",
+        "premise": "Mbwa aliangalia pande la nyama juu ya meza.",
+        "choice1": "Alitoka mate.",
+        "choice2": "Alilala chini.",
+        "label": 0,
+        "changed": false
+    },
+    "454": {
+        "question": "cause",
+        "premise": "Mwanamke alijikwaa katika njia ya wapitao kwa miguu.",
+        "choice1": "Kulikuwa na ufa katika saruji.",
+        "choice2": "Alisikia jina lake linaitwa.",
+        "label": 0,
+        "changed": false
+    },
+    "232": {
+        "question": "cause",
+        "premise": "Zebaki ndani ya kipima joto ilipanda.",
+        "choice1": "Niliangusha kipimajoto.",
+        "choice2": "Hali ya hewa ilkuwa ya joto sana.",
+        "label": 1,
+        "changed": false
+    },
+    "325": {
+        "question": "cause",
+        "premise": "Moto wa msitu ulienea.",
+        "choice1": "Upepo ulikuwa mwingi.",
+        "choice2": "Wachomaji walichukuliwa.",
+        "label": 0,
+        "changed": false
+    },
+    "186": {
+        "question": "effect",
+        "premise": "Nilikamua spongi tepetepe.",
+        "choice1": "Lilirowana maji.",
+        "choice2": "Maji yalitiririka nje yake.",
+        "label": 1,
+        "changed": false
+    },
+    "83": {
+        "question": "effect",
+        "premise": "Mume alijihisi mwenye makosa kuhusu kumlangai mkewe.",
+        "choice1": "Alimtuhumu yeye kwa kukosa uaminifu.",
+        "choice2": "Alikiri uzizi wake kwake.",
+        "label": 1,
+        "changed": false
+    },
+    "189": {
+        "question": "effect",
+        "premise": "Gari nisiyoijua iliegesha nje ya nyumba yangu.",
+        "choice1": "Nilikuwa na wasiwasi.",
+        "choice2": "Nilipigia simu askari.",
+        "label": 0,
+        "changed": false
+    },
+    "181": {
+        "question": "cause",
+        "premise": "Mtoto alichululiwa  na usingizi.",
+        "choice1": "Baba alibadilisha nepi ya mtoto.",
+        "choice2": "Baba taratibu alimtikisa mtoto.",
+        "label": 1,
+        "changed": false
+    },
+    "107": {
+        "question": "cause",
+        "premise": "Choo kilijaa maji.",
+        "choice1": "Choo kilifurika sana.",
+        "choice2": "Tanki ya kupashia maji moto iliharibika.",
+        "label": 0,
+        "changed": false
+    },
+    "343": {
+        "question": "effect",
+        "premise": "Mwanamke alipungukiwa na pesa kwa ajili ya kukodi.",
+        "choice1": "Alifanya kazi muda wa ziada.",
+        "choice2": "Aliacha kazi.",
+        "label": 0,
+        "changed": false
+    },
+    "136": {
+        "question": "cause",
+        "premise": "Jengo la kati ya mji liliporomoka.",
+        "choice1": "Tetemeko la ardhi lilipiga jiji.",
+        "choice2": "Kiwango cha uhalifu katika jiji kiliongezeka.",
+        "label": 0,
+        "changed": false
+    },
+    "470": {
+        "question": "cause",
+        "premise": "Onesho la televisheni lilitathminiwa lugha yake.",
+        "choice1": "Lilikuwa na lugha ya kipuuzi.",
+        "choice2": "Lilikuwa na mjengeko mgumu.",
+        "label": 0,
+        "changed": false
+    },
+    "349": {
+        "question": "effect",
+        "premise": "Niliondoa tunda juu ya meza.",
+        "choice1": "Tunda lilitoa mbegu.",
+        "choice2": "Nzi walilizunguka tunda.",
+        "label": 1,
+        "changed": false
+    },
+    "331": {
+        "question": "cause",
+        "premise": "Daktari alimtambua mgonjwa.",
+        "choice1": "Alibaini dalili za mgonjwa.",
+        "choice2": "Aliandika vidonge kwa mgonjwa.",
+        "label": 0,
+        "changed": false
+    },
+    "36": {
+        "question": "effect",
+        "premise": "Nchi zinazopigana zilitaka amani.",
+        "choice1": "Zilitengeneza silaha za nyuklia.",
+        "choice2": "Zilijadiliana mkataba.",
+        "label": 1,
+        "changed": false
+    }
+}

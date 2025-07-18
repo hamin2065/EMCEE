@@ -1,0 +1,102 @@
+[
+    {
+        "id": "-1768532999191146026",
+        "prompt": "Answer the question in one or a few words in English: \n\u043a\u0430\u043a\u0438\u0435 \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0438\u0435 \u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u043d\u044b\u0435 \u0428\u0442\u0430\u0442\u044b \u0432 \u0418\u043d\u0434\u0438\u0438\nLet's think step-by-step in English.\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "The last states formed in India were Telangana and Jharkhand. \n\nAnswer: Telangana, Jharkhand",
+        "predicted_answer": "Telangana, Jharkhand",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q1168",
+                "text": "\u0427\u0445\u0430\u0442\u0442\u0438\u0441\u0433\u0430\u0440\u0445",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q1184",
+                "text": "\u0414\u0436\u0430\u0440\u043a\u0445\u0430\u043d\u0434",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q1499",
+                "text": "\u0423\u0442\u0442\u0430\u0440\u0430\u043a\u0445\u0430\u043d\u0434",
+                "aliases": [
+                    "\u0423\u0442\u0442\u0430\u0440\u0430\u043d\u0447\u0430\u043b"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q677037",
+                "text": "\u0422\u0435\u043b\u0430\u043d\u0433\u0430\u043d\u0430",
+                "aliases": [
+                    "\u0422\u0435\u043b\u0438\u043d\u0433\u0430\u043d\u0430"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "7232773031032315501",
+        "prompt": "Answer the question in one or a few words in English: \n\u043a\u0442\u043e \u043d\u0430\u043f\u0438\u0441\u0430\u043b \u043c\u0443\u0437\u044b\u043a\u0443 \u0434\u043b\u044f \u043d\u0435\u043c\u0435\u0446\u043a\u043e\u0433\u043e \u043d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0433\u0438\u043c\u043d\u0430\nLet's think step-by-step in English.\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "The music for the German national anthem was composed by Joseph Haydn. \n\nAnswer: Joseph Haydn",
+        "predicted_answer": "Joseph Haydn",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q7349",
+                "text": "\u0419\u043e\u0437\u0435\u0444 \u0413\u0430\u0439\u0434\u043d",
+                "aliases": [
+                    "\u0413\u0430\u0439\u0434\u043d",
+                    "\u0424\u0440\u0430\u043d\u0446 \u0419\u043e\u0437\u0435\u0444 \u0413\u0430\u0439\u0434\u043d"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "-3792991085056399823",
+        "prompt": "Answer the question in one or a few words in English: \n\u043a\u0442\u043e \u0445\u043e\u0434\u0438\u0442 \u043f\u0435\u0440\u0432\u044b\u043c \u0432 \u0448\u0430\u0445\u043c\u0430\u0442\u0430\u0445 \u0447\u0435\u0440\u043d\u044b\u0435 \u0438\u043b\u0438 \u0431\u0435\u043b\u044b\u0435\nLet's think step-by-step in English.\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "In chess, the player with the white pieces always moves first. \n\nAnswer: White.",
+        "predicted_answer": "White.",
+        "ground_truth": [
+            {
+                "type": "short_phrase",
+                "text": "\u0411\u0435\u043b\u044b\u0435"
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "-8817675850857402488",
+        "prompt": "Answer the question in one or a few words in English: \n\u043c\u0438\u043d\u0438\u043c\u0430\u043b\u044c\u043d\u044b\u0439 \u0432\u043e\u0437\u0440\u0430\u0441\u0442, \u0447\u0442\u043e\u0431\u044b \u043c\u043e\u0436\u043d\u043e \u0431\u044b\u043b\u043e \u0441\u0442\u0430\u0442\u044c \u0447\u043b\u0435\u043d\u043e\u043c \u0437\u0430\u043a\u043e\u043d\u043e\u0434\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u0441\u043e\u0432\u0435\u0442\u0430\nLet's think step-by-step in English.\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "The minimum age to become a member of a legislative council varies by country or region. In many places, it is typically around 18 to 25 years old. \n\nAnswer: 18-25 years old",
+        "predicted_answer": "18-25 years old",
+        "ground_truth": [
+            {
+                "type": "number_with_unit",
+                "text": "30.0 \u043b\u0435\u0442",
+                "aliases": [
+                    "30 \u043b\u0435\u0442"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "6630622010535273304",
+        "prompt": "Answer the question in one or a few words in English: \n\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u0432\u0438\u043d\u043e\u0434\u0435\u043b\u0435\u043d \u0432 \u0448\u0442\u0430\u0442\u0435 \u0412\u0430\u0448\u0438\u043d\u0433\u0442\u043e\u043d\nLet's think step-by-step in English.\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "Washington state has over 1,000 wineries. \n\nAnswer: Over 1,000",
+        "predicted_answer": "Over 1,000",
+        "ground_truth": [
+            {
+                "type": "number",
+                "text": "900.0",
+                "aliases": [
+                    "900"
+                ]
+            }
+        ],
+        "is_correct": null
+    }
+]

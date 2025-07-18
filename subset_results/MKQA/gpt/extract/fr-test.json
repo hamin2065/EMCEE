@@ -1,0 +1,99 @@
+[
+    {
+        "id": "5170765158681567047",
+        "sys_prompt": "The following is a reasoning question. Given question and explanation, write answer with format of \"Answer: [one or a few words]\".",
+        "user_prompt": "Question: quand a \u00e9t\u00e9 publi\u00e9e pour la premi\u00e8re fois Sourde, muette, aveugle : histoire de ma vie\nExplanation: \"Sourde, muette, aveugle : histoire de ma vie\" is the autobiography of Helen Keller, published for the first time in 1903. Keller was an extraordinary figure who overcame the challenges of being deaf and blind to become a renowned author, activist, and lecturer. Her life story is not only inspiring but also highlights the importance of education and communication for individuals with disabilities. Understanding the historical context of her achievements can help students appreciate the significance of her work in advocating for the rights of people with disabilities and the advancements in education during her time.",
+        "response": "1903",
+        "explanation": "\"Sourde, muette, aveugle : histoire de ma vie\" is the autobiography of Helen Keller, published for the first time in 1903. Keller was an extraordinary figure who overcame the challenges of being deaf and blind to become a renowned author, activist, and lecturer. Her life story is not only inspiring but also highlights the importance of education and communication for individuals with disabilities. Understanding the historical context of her achievements can help students appreciate the significance of her work in advocating for the rights of people with disabilities and the advancements in education during her time.",
+        "predicted_answer": "1903",
+        "ground_truth": [
+            {
+                "type": "date",
+                "text": "1903",
+                "aliases": [
+                    "1903"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "4189590166138253194",
+        "sys_prompt": "The following is a reasoning question. Given question and explanation, write answer with format of \"Answer: [one or a few words]\".",
+        "user_prompt": "Question: qui a le plus d'argent dans la nba\nExplanation: As of my last update, the player with the highest career earnings in the NBA is LeBron James. His financial success comes not only from his substantial player contracts but also from lucrative endorsement deals and business ventures. LeBron's impact extends beyond the court, as he has built a brand that includes media production and investments, showcasing how athletes can leverage their sports careers into broader financial success. Understanding the business side of sports, including endorsements and personal branding, is crucial for grasping how players like LeBron achieve such high earnings.",
+        "response": "LeBron James",
+        "explanation": "As of my last update, the player with the highest career earnings in the NBA is LeBron James. His financial success comes not only from his substantial player contracts but also from lucrative endorsement deals and business ventures. LeBron's impact extends beyond the court, as he has built a brand that includes media production and investments, showcasing how athletes can leverage their sports careers into broader financial success. Understanding the business side of sports, including endorsements and personal branding, is crucial for grasping how players like LeBron achieve such high earnings.",
+        "predicted_answer": "LeBron James",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q189240",
+                "text": "Kevin Garnett",
+                "aliases": []
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "-851149197598120689",
+        "sys_prompt": "The following is a reasoning question. Given question and explanation, write answer with format of \"Answer: [one or a few words]\".",
+        "user_prompt": "Question: qui joue le p\u00e8re de cole dans f the prom\nExplanation: In the film \"The Prom,\" the character of Cole's father is played by actor Keegan-Michael Key. The movie, which is based on the Broadway musical of the same name, features a diverse cast and explores themes of acceptance and self-identity, particularly in the context of LGBTQ+ issues. Keegan-Michael Key is known for his comedic talent and has appeared in various films and television shows, bringing a unique blend of humor and depth to his roles. Understanding the context of the film and its themes can enhance your appreciation of the characters and their relationships.",
+        "response": "Keegan-Michael Key",
+        "explanation": "In the film \"The Prom,\" the character of Cole's father is played by actor Keegan-Michael Key. The movie, which is based on the Broadway musical of the same name, features a diverse cast and explores themes of acceptance and self-identity, particularly in the context of LGBTQ+ issues. Keegan-Michael Key is known for his comedic talent and has appeared in various films and television shows, bringing a unique blend of humor and depth to his roles. Understanding the context of the film and its themes can enhance your appreciation of the characters and their relationships.",
+        "predicted_answer": "Keegan-Michael Key",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q352233",
+                "text": "Ian Ziering",
+                "aliases": []
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "5862856443680173655",
+        "sys_prompt": "The following is a reasoning question. Given question and explanation, write answer with format of \"Answer: [one or a few words]\".",
+        "user_prompt": "Question: quand ont ils chang\u00e9 la boxe en 12 rounds\nExplanation: The change to a 12-round limit for championship boxing matches was officially established by the World Boxing Association (WBA) in 1982. Prior to this, championship fights were often scheduled for 15 rounds, a tradition that dated back many years. The decision to reduce the number of rounds was largely influenced by concerns over fighter safety and the physical toll that longer bouts could take on boxers. Understanding this context is important, as it highlights the evolving nature of the sport and the ongoing efforts to prioritize the health and well-being of athletes.",
+        "response": "1982",
+        "explanation": "The change to a 12-round limit for championship boxing matches was officially established by the World Boxing Association (WBA) in 1982. Prior to this, championship fights were often scheduled for 15 rounds, a tradition that dated back many years. The decision to reduce the number of rounds was largely influenced by concerns over fighter safety and the physical toll that longer bouts could take on boxers. Understanding this context is important, as it highlights the evolving nature of the sport and the ongoing efforts to prioritize the health and well-being of athletes.",
+        "predicted_answer": "1982",
+        "ground_truth": [
+            {
+                "type": "date",
+                "text": "1987-10-19",
+                "aliases": [
+                    "1987-10-19",
+                    "10/19/1987",
+                    "10-19-1987",
+                    "1987 octobre 19",
+                    "10 19 1987",
+                    "19-10-1987",
+                    "1987 10 19",
+                    "19/10/1987",
+                    "19 10 1987",
+                    "1987 october, 19",
+                    "19 octobre 1987"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "6873585089990668750",
+        "sys_prompt": "The following is a reasoning question. Given question and explanation, write answer with format of \"Answer: [one or a few words]\".",
+        "user_prompt": "Question: qui est l\u2019entra\u00eeneur principal des browns de cleveland\nExplanation: As of my last update, the head coach of the Cleveland Browns is Kevin Stefanski, who took over the position in 2020. Stefanski is known for his offensive expertise and has worked to revitalize the Browns' performance in the NFL. Understanding the role of a head coach in shaping a team's strategy, culture, and performance is crucial, especially in a league where coaching can significantly impact a team's success. Additionally, the Browns have a storied history, and their recent efforts to build a competitive team under Stefanski have garnered attention from fans and analysts alike. Always check the latest sources for the most current information, as coaching positions can change frequently in professional sports.",
+        "response": "Kevin Stefanski",
+        "explanation": "As of my last update, the head coach of the Cleveland Browns is Kevin Stefanski, who took over the position in 2020. Stefanski is known for his offensive expertise and has worked to revitalize the Browns' performance in the NFL. Understanding the role of a head coach in shaping a team's strategy, culture, and performance is crucial, especially in a league where coaching can significantly impact a team's success. Additionally, the Browns have a storied history, and their recent efforts to build a competitive team under Stefanski have garnered attention from fans and analysts alike. Always check the latest sources for the most current information, as coaching positions can change frequently in professional sports.",
+        "predicted_answer": "Kevin Stefanski",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q5496752",
+                "text": "Freddie Kitchens",
+                "aliases": []
+            }
+        ],
+        "is_correct": null
+    }
+]

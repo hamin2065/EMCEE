@@ -1,0 +1,89 @@
+[
+    {
+        "id": "5170765158681567047",
+        "prompt": "Answer the question in one or a few words in English: \nquand a \u00e9t\u00e9 publi\u00e9e pour la premi\u00e8re fois Sourde, muette, aveugle : histoire de ma vie\nLet's think step-by-step in English.\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "The book \"Sourde, muette, aveugle : histoire de ma vie\" was first published in 1903. \n\nAnswer: 1903",
+        "predicted_answer": "1903",
+        "ground_truth": [
+            {
+                "type": "date",
+                "text": "1903",
+                "aliases": [
+                    "1903"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "4189590166138253194",
+        "prompt": "Answer the question in one or a few words in English: \nqui a le plus d'argent dans la nba\nLet's think step-by-step in English.\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "To determine who has the most money in the NBA, we need to consider both player salaries and overall net worth. As of my last knowledge update, the player with the highest salary in the NBA is often a key factor, but net worth can also include endorsements and investments.\n\nAs of 2023, LeBron James is frequently cited as one of the wealthiest players in the NBA due to his extensive endorsements and business ventures, in addition to his salary.\n\nFinal answer: Answer: LeBron James",
+        "predicted_answer": "Answer: LeBron James",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q189240",
+                "text": "Kevin Garnett",
+                "aliases": []
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "-851149197598120689",
+        "prompt": "Answer the question in one or a few words in English: \nqui joue le p\u00e8re de cole dans f the prom\nLet's think step-by-step in English.\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "In \"The Prom,\" the character of Cole's father is played by actor Keegan-Michael Key. \n\nAnswer: Keegan-Michael Key",
+        "predicted_answer": "Keegan-Michael Key",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q352233",
+                "text": "Ian Ziering",
+                "aliases": []
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "5862856443680173655",
+        "prompt": "Answer the question in one or a few words in English: \nquand ont ils chang\u00e9 la boxe en 12 rounds\nLet's think step-by-step in English.\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "The change to 12 rounds in boxing was officially adopted in 1987 by the WBC (World Boxing Council). \n\nAnswer: 1987",
+        "predicted_answer": "1987",
+        "ground_truth": [
+            {
+                "type": "date",
+                "text": "1987-10-19",
+                "aliases": [
+                    "1987-10-19",
+                    "10/19/1987",
+                    "10-19-1987",
+                    "1987 octobre 19",
+                    "10 19 1987",
+                    "19-10-1987",
+                    "1987 10 19",
+                    "19/10/1987",
+                    "19 10 1987",
+                    "1987 october, 19",
+                    "19 octobre 1987"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "6873585089990668750",
+        "prompt": "Answer the question in one or a few words in English: \nqui est l\u2019entra\u00eeneur principal des browns de cleveland\nLet's think step-by-step in English.\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "As of my last update, the head coach of the Cleveland Browns was Kevin Stefanski. \n\nAnswer: Kevin Stefanski",
+        "predicted_answer": "Kevin Stefanski",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q5496752",
+                "text": "Freddie Kitchens",
+                "aliases": []
+            }
+        ],
+        "is_correct": null
+    }
+]

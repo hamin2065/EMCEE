@@ -1,0 +1,42 @@
+[
+    {
+        "id": "es-4211",
+        "prompt": "Given the premise and hypothesis, your task is to judge whether the hypothesis is true, false, or undetermined given the premise. The relationship can be chosen from entailment, contradiction, and neutral.\nPremise: Disparan a los estudiantes, \u00bfno?\nHypothesis: Hacen magdalenas para los estudiantes, \u00bfno?\nYou should provide the final answer at the end in the format: 'Relationship: [entailment, neutral or contradiction]'.",
+        "response": "Para analizar la relaci\u00f3n entre la premisa y la hip\u00f3tesis, debemos entender el contexto de la oraci\u00f3n.\n\nLa premisa \"Disparan a los estudiantes, \u00bfno?\" sugiere que hay alg\u00fan tipo de conflicto o situaci\u00f3n problem\u00e1tica involucrando a los estudiantes. El uso de \"disparan\" en este contexto es inusual, ya que normalmente se asocia con disparos de arma de fuego, pero en este caso, podr\u00eda ser un juego de palabras o una met\u00e1fora.\n\nLa hip\u00f3tesis \"Hacen magdalenas para los estudiantes, \u00bfno?\" sugiere una acci\u00f3n positiva y generosa hacia los estudiantes.\n\nConsiderando la relaci\u00f3n entre ambas oraciones, no hay una conexi\u00f3n l\u00f3gica directa entre disparar a los estudiantes y hacer magdalenas para ellos. La premisa sugiere una situaci\u00f3n negativa, mientras que la hip\u00f3tesis sugiere una situaci\u00f3n positiva.\n\nPor lo tanto, la relaci\u00f3n entre la premisa y la hip\u00f3tesis es: Relationship: neutral.",
+        "predicted_answer": 1,
+        "ground_truth": 2,
+        "is_correct": false
+    },
+    {
+        "id": "es-3872",
+        "prompt": "Given the premise and hypothesis, your task is to judge whether the hypothesis is true, false, or undetermined given the premise. The relationship can be chosen from entailment, contradiction, and neutral.\nPremise: FOREVER PLAID, un nombre que connota la continuaci\u00f3n de los valores tradicionales, de la familia, el hogar y la armon\u00eda.\nHypothesis: Nuestro CEO ide\u00f3 el nombre POR SIEMPRE A CUADROS.\nYou should provide the final answer at the end in the format: 'Relationship: [entailment, neutral or contradiction]'.",
+        "response": "Primero debemos analizar la relaci\u00f3n entre la premisa y la hip\u00f3tesis.\n\nLa premisa menciona \"FOREVER PLAID\", que connota la continuaci\u00f3n de los valores tradicionales, de la familia, el hogar y la armon\u00eda. Esto sugiere que el nombre se relaciona con la estabilidad y la tradici\u00f3n.\n\nLa hip\u00f3tesis menciona \"POR SIEMPRE A CUADROS\", que no tiene una clara conexi\u00f3n con la idea de la tradici\u00f3n, la familia, el hogar y la armon\u00eda. \n\nEn realidad, \"POR SIEMPRE A CUADROS\" parece referirse a una canci\u00f3n de la banda de rock brit\u00e1nico The Kinks, pero tambi\u00e9n podr\u00eda ser un nombre que se refiere a algo que cambia constantemente, lo que contradice la idea de la estabilidad y la tradici\u00f3n.\n\nPor lo tanto, la relaci\u00f3n entre la premisa y la hip\u00f3tesis es: Relationship: contradiction.",
+        "predicted_answer": 2,
+        "ground_truth": 1,
+        "is_correct": false
+    },
+    {
+        "id": "es-580",
+        "prompt": "Given the premise and hypothesis, your task is to judge whether the hypothesis is true, false, or undetermined given the premise. The relationship can be chosen from entailment, contradiction, and neutral.\nPremise: sabes, todos mis hijos son geniales, muy buenos, y creo que no, aprende de los ni\u00f1os mayores tambi\u00e9n, pero\nHypothesis: Estoy muy orgulloso de lo mucho que mis hijos saben.\nYou should provide the final answer at the end in the format: 'Relationship: [entailment, neutral or contradiction]'.",
+        "response": "Para determinar la relaci\u00f3n entre la premisa y la hip\u00f3tesis, debemos analizar el contenido de ambas.\n\nLa premisa menciona que \"todos mis hijos son geniales, muy buenos\", lo que sugiere que los hijos tienen habilidades y cualidades positivas. Tambi\u00e9n menciona que \"aprende de los ni\u00f1os mayores tambi\u00e9n\", lo que sugiere que los hijos est\u00e1n en proceso de aprendizaje y crecimiento.\n\nLa hip\u00f3tesis \"Estoy muy orgulloso de lo mucho que mis hijos saben\" sugiere que los hijos tienen conocimientos y habilidades que merecen ser orgullosos.\n\nDado que la premisa menciona que los hijos tienen habilidades y cualidades positivas, y la hip\u00f3tesis expresa orgullo por sus conocimientos, podemos concluir que la hip\u00f3tesis es una consecuencia l\u00f3gica de la premisa. Por lo tanto, la relaci\u00f3n entre la premisa y la hip\u00f3tesis es de implicaci\u00f3n.\n\nRelationship: entailment.",
+        "predicted_answer": 0,
+        "ground_truth": 1,
+        "is_correct": false
+    },
+    {
+        "id": "es-1362",
+        "prompt": "Given the premise and hypothesis, your task is to judge whether the hypothesis is true, false, or undetermined given the premise. The relationship can be chosen from entailment, contradiction, and neutral.\nPremise: Dios solo es mencionado como el Dios de la naturaleza, en virtud del cual cualquier persona tiene el derecho a un parte igual y separada en la comunidad de las naciones.\nHypothesis: Las personas nunca son iguales.\nYou should provide the final answer at the end in the format: 'Relationship: [entailment, neutral or contradiction]'.",
+        "response": "Para evaluar la relaci\u00f3n entre la premisa y la hip\u00f3tesis, debemos analizar la informaci\u00f3n proporcionada.\n\nLa premisa establece que Dios es mencionado como el Dios de la naturaleza, lo que otorga a cualquier persona el derecho a una parte igual y separada en la comunidad de las naciones. Esto implica que las personas tienen una base igualitaria en la comunidad.\n\nLa hip\u00f3tesis afirma que las personas nunca son iguales. Esta afirmaci\u00f3n parece contradecir la premisa, ya que si las personas nunca son iguales, entonces no podr\u00edan tener un derecho a una parte igual y separada en la comunidad.\n\nPor lo tanto, la relaci\u00f3n entre la premisa y la hip\u00f3tesis es de contradicci\u00f3n.\n\nRelationship: contradiction.",
+        "predicted_answer": 2,
+        "ground_truth": 2,
+        "is_correct": true
+    },
+    {
+        "id": "es-17",
+        "prompt": "Given the premise and hypothesis, your task is to judge whether the hypothesis is true, false, or undetermined given the premise. The relationship can be chosen from entailment, contradiction, and neutral.\nPremise: As\u00ed que no tengo muy claro por qu\u00e9.\nHypothesis: No s\u00e9 por qu\u00e9 sucedi\u00f3 eso.\nYou should provide the final answer at the end in the format: 'Relationship: [entailment, neutral or contradiction]'.",
+        "response": "To determine the relationship between the premise and the hypothesis, let's analyze them.\n\nThe premise \"As\u00ed que no tengo muy claro por qu\u00e9\" translates to \"So I'm not very clear why\" or \"So I'm not clear why this is the case.\" It implies a lack of understanding or clarity about a situation.\n\nThe hypothesis \"No s\u00e9 por qu\u00e9 sucedi\u00f3 eso\" translates to \"I don't know why it happened.\" It explicitly states a lack of knowledge about a specific event.\n\nGiven the analysis, the premise provides a context where the speaker is unclear about a situation, and the hypothesis is a direct expression of that uncertainty, specifically about not knowing the reason behind an event. \n\nSince the premise provides a context for the hypothesis and the hypothesis is a direct consequence of that context, the relationship between them is one of entailment.\n\nRelationship: entailment",
+        "predicted_answer": 0,
+        "ground_truth": 0,
+        "is_correct": true
+    }
+]

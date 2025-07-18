@@ -1,0 +1,42 @@
+[
+    {
+        "id": 220,
+        "prompt": "Die volgende is 'n meerkeusevraag.\nBonga het 'n kartondoosskyf wat hy in stukke wil sny om 'n reghoekige piramide te maak. Hy gaan die volgende stukke sny:\n(A) Vier reghoeke en twee vierkante\n(B) Twee reghoeke en vier vierkante\n(C) Drie reghoeke en een driehoek\n(D) Een reghoek en vier driehoeke\nJy moet die finale antwoord aan die einde verskaf in die formaat: 'Antwoord: [opsie]'",
+        "response": "Laat ek die vraag stap-vir-stap ontleed:\n\nOm 'n reghoekige piramide te maak, het jy nodig:\n- Een vierkante basis\n- Vier driehoekige sykante wat na bo by 'n punt ontmoet\n\nTel die vorms wat jy sal moet sny:\n- 1 vierkant vir die basis\n- 4 driehoeke vir die sykante\n\nAs ek na die opsies kyk, sien ek dat opsie (D) presies pas:\n- Een reghoek (wat eintlik 'n vierkant sal wees vir die basis)\n- Vier driehoeke vir die sykante\n\nDus is die korrekte antwoord opsie (D).\n\nAntwoord: D",
+        "predicted_answer": "D",
+        "ground_truth": "D",
+        "is_correct": true
+    },
+    {
+        "id": 59,
+        "prompt": "Die volgende is 'n meerkeusevraag.\nGeleiers is gewoonlik van ... gemaak.\n(A) metale\n(B) skakelaars\n(C) wol\n(D) nie-metale\nJy moet die finale antwoord aan die einde verskaf in die formaat: 'Antwoord: [opsie]'",
+        "response": "Laat ek die vraag stap-vir-stap ontleed:\n\n\u2022 Geleiers is materiaal wat elektrisiteit maklik kan gelei of deurlaat.\n\u2022 Metale is bekende goeie geleiers van elektrisiteit.\n\u2022 Skakelaars is toestelle, nie materiale nie.\n\u2022 Wol is 'n isoleerder, nie 'n geleier nie.\n\u2022 Nie-metale is gewoonlik swak geleiers.\n\nDus is die korrekte antwoord metale.\n\nAntwoord: A",
+        "predicted_answer": "A",
+        "ground_truth": "A",
+        "is_correct": true
+    },
+    {
+        "id": 2,
+        "prompt": "Die volgende is 'n meerkeusevraag.\nIn 'n sak met albasters is daar 7 blou, 5 rooi en 8 geel albasters. Wat is die waarskynlikheid dat 'n rooi albaster uitgehaal sal word?\n(A) 1/5\n(B) 1/2\n(C) 1/3\n(D) 1/4\nJy moet die finale antwoord aan die einde verskaf in die formaat: 'Antwoord: [opsie]'",
+        "response": "Laat ons die probleem stap-vir-stap oplos:\n\n1. Tel eers die totale aantal albasters:\n   \u2022 Blou albasters: 7\n   \u2022 Rooi albasters: 5\n   \u2022 Geel albasters: 8\n   \u2022 Totaal: 7 + 5 + 8 = 20 albasters\n\n2. Bereken die waarskynlikheid van 'n rooi albaster:\n   \u2022 Aantal rooi albasters: 5\n   \u2022 Totale aantal albasters: 20\n   \u2022 Waarskynlikheid = 5/20 = 1/4\n\n3. Kontroleer die gegewe opsies:\n   \u2022 1/4 stem ooreen met opsie (D)\n\nAntwoord: (D)",
+        "predicted_answer": "(D)",
+        "ground_truth": "D",
+        "is_correct": true
+    },
+    {
+        "id": 235,
+        "prompt": "Die volgende is 'n meerkeusevraag.\nWat is die verskil tussen \u0149 serie stroombaan en \u0149 parallelle stroombaan?\n(A) \u0149 Serie stroombaan volg een baan (pad) en \u0149 parallelle stroombaan verdeel in verskillende bane (takke).\n(B) \u0149 Serie stroombaan moet \u0149 smeltdraad h\u00ea.\n(C) \u0149 Parallelle stroombaan moet \u0149 stroombreker h\u00ea.\n(D) \u0149 Parallelle stroombaan volg een baan (pad) en \u0149 serie stroombaan verdeel in verskillende bane (takke).\nJy moet die finale antwoord aan die einde verskaf in die formaat: 'Antwoord: [opsie]'",
+        "response": "Laat ek die opsies ontleed:\n\n(A) \u0149 Serie stroombaan volg een baan (pad) en \u0149 parallelle stroombaan verdeel in verskillende bane (takke).\n- Dit is KORREK. In \u0149 serie stroombaan vloei die stroom deur een enkele pad, terwyl in \u0149 parallelle stroombaan die stroom verdeel in verskillende takke.\n\n(B) \u0149 Serie stroombaan moet \u0149 smeltdraad h\u00ea.\n- Dit is NIE \u0149 kenmerkende verskil tussen serie en parallelle stroombane nie.\n\n(C) \u0149 Parallelle stroombaan moet \u0149 stroombreker h\u00ea.\n- Dit is NIE \u0149 kenmerkende verskil tussen serie en parallelle stroombane nie.\n\n(D) \u0149 Parallelle stroombaan volg een baan (pad) en \u0149 serie stroombaan verdeel in verskillende bane (takke).\n- Dit is VERKEERD, want dit is die teenoorgestelde van wat werklik gebeur.\n\nAntwoord: A",
+        "predicted_answer": "A",
+        "ground_truth": "A",
+        "is_correct": true
+    },
+    {
+        "id": 193,
+        "prompt": "Die volgende is 'n meerkeusevraag.\nWatter EEN van die volgende is 'n gevolg van die vernietiging van vleilande?\n(A) Verhoogde biodiversiteit\n(B) Afname in die beskikbaarheid van water\n(C) Afname in aardverwarming\n(D) Verhoogde watergehalte\nJy moet die finale antwoord aan die einde verskaf in die formaat: 'Antwoord: [opsie]'",
+        "response": "Laat ek elke opsie ontleed:\n\n(A) Verhoogde biodiversiteit - Verkeerd. Vleilande ondersteun juis 'n groot verskeidenheid plante en diere. Hul vernietiging sal biodiversiteit verminder.\n\n(B) Afname in die beskikbaarheid van water - Korrek. Vleilande is natuurlike waterbergings wat water vashou en filter. Hul vernietiging sal waterbronne verminder.\n\n(C) Afname in aardverwarming - Verkeerd. Vleilande help juis om koolstof vas te l\u00ea en kan klimaatsverandering vertraag.\n\n(D) Verhoogde watergehalte - Verkeerd. Vleilande suiwer water en dien as natuurlike filters. Hul vernietiging sal watergehalte eerder verlaag.\n\nAntwoord: B",
+        "predicted_answer": "B",
+        "ground_truth": "B",
+        "is_correct": true
+    }
+]

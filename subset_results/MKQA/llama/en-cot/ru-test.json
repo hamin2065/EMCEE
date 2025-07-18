@@ -1,0 +1,102 @@
+[
+    {
+        "id": "-1768532999191146026",
+        "prompt": "Answer the question in one or a few words in English: \n\u043a\u0430\u043a\u0438\u0435 \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0438\u0435 \u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u043d\u044b\u0435 \u0428\u0442\u0430\u0442\u044b \u0432 \u0418\u043d\u0434\u0438\u0438\nLet's think step-by-step in English.\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "To find the latest formed states in India, let's consider the recent history of state formation in the country.\n\n1. **Step 1:** Identify the year when the last major state formation occurred in India. The last major state formation occurred in 2000 when three new states were formed: \n   - Uttaranchal (now Uttarakhand)\n   - Chhattisgarh\n   - Jharkhand\n\n2. **Step 2:** Look for any recent state formations that might have occurred after 2000. There haven't been any major state formations since 2000.\n\n3. **Step 3:** Check if any Union Territories (UTs) have been upgraded to states recently. In 2019, two UTs were upgraded to states:\n   - Daman and Diu, along with Dadra and Nagar Haveli, were merged to form the union territory of Daman and Diu, Dadra and Nagar Haveli and Daman and Diu (now Daman and Diu and Dadra and Nagar Haveli and Daman and Diu). However, in 2020, Daman and Diu and Dadra and Nagar Haveli were separated and became separate union territories, and in 202",
+        "predicted_answer": "To find the latest formed states in India, let's consider the recent history of state formation in the country.\n\n1. **Step 1:** Identify the year when the last major state formation occurred in India. The last major state formation occurred in 2000 when three new states were formed: \n   - Uttaranchal (now Uttarakhand)\n   - Chhattisgarh\n   - Jharkhand\n\n2. **Step 2:** Look for any recent state formations that might have occurred after 2000. There haven't been any major state formations since 2000.\n\n3. **Step 3:** Check if any Union Territories (UTs) have been upgraded to states recently. In 2019, two UTs were upgraded to states:\n   - Daman and Diu, along with Dadra and Nagar Haveli, were merged to form the union territory of Daman and Diu, Dadra and Nagar Haveli and Daman and Diu (now Daman and Diu and Dadra and Nagar Haveli and Daman and Diu). However, in 2020, Daman and Diu and Dadra and Nagar Haveli were separated and became separate union territories, and in 202",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q1168",
+                "text": "\u0427\u0445\u0430\u0442\u0442\u0438\u0441\u0433\u0430\u0440\u0445",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q1184",
+                "text": "\u0414\u0436\u0430\u0440\u043a\u0445\u0430\u043d\u0434",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q1499",
+                "text": "\u0423\u0442\u0442\u0430\u0440\u0430\u043a\u0445\u0430\u043d\u0434",
+                "aliases": [
+                    "\u0423\u0442\u0442\u0430\u0440\u0430\u043d\u0447\u0430\u043b"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q677037",
+                "text": "\u0422\u0435\u043b\u0430\u043d\u0433\u0430\u043d\u0430",
+                "aliases": [
+                    "\u0422\u0435\u043b\u0438\u043d\u0433\u0430\u043d\u0430"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "7232773031032315501",
+        "prompt": "Answer the question in one or a few words in English: \n\u043a\u0442\u043e \u043d\u0430\u043f\u0438\u0441\u0430\u043b \u043c\u0443\u0437\u044b\u043a\u0443 \u0434\u043b\u044f \u043d\u0435\u043c\u0435\u0446\u043a\u043e\u0433\u043e \u043d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0433\u0438\u043c\u043d\u0430\nLet's think step-by-step in English.\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "To find the answer, let's break down the question step-by-step:\n\n1. We are looking for the composer of the German national anthem.\n2. The German national anthem is known as \"Deutschlandlied\" (Song of Germany).\n3. \"Deutschlandlied\" was originally composed by Joseph Haydn, but it was later arranged by Johann Friedrich Reichardt.\n4. However, the melody we use today for the German national anthem was actually written by Haydn, but it was based on a melody from a song called \"Gott erhalte Franz den Kaiser\" (God Save Emperor Francis).\n5. The actual song \"Gott erhalte Franz den Kaiser\" was written by Joseph Haydn, but the lyrics were written by Lorenz Leopold Haschka, but they were actually written by Joseph Mohr's friend, but the melody was originally written by Joseph Haydn.\n6. The melody was actually written by Joseph Haydn for the Austrian national anthem, but it was later adopted by the Germans for their national anthem.\n7. The lyrics of the German national anthem were written by August Heinrich Hoffmann von Fallersleben.\n\nSo, the composer of the music for the German national anthem is Joseph Haydn.\n\nAnswer",
+        "predicted_answer": "To find the answer, let's break down the question step-by-step:\n\n1. We are looking for the composer of the German national anthem.\n2. The German national anthem is known as \"Deutschlandlied\" (Song of Germany).\n3. \"Deutschlandlied\" was originally composed by Joseph Haydn, but it was later arranged by Johann Friedrich Reichardt.\n4. However, the melody we use today for the German national anthem was actually written by Haydn, but it was based on a melody from a song called \"Gott erhalte Franz den Kaiser\" (God Save Emperor Francis).\n5. The actual song \"Gott erhalte Franz den Kaiser\" was written by Joseph Haydn, but the lyrics were written by Lorenz Leopold Haschka, but they were actually written by Joseph Mohr's friend, but the melody was originally written by Joseph Haydn.\n6. The melody was actually written by Joseph Haydn for the Austrian national anthem, but it was later adopted by the Germans for their national anthem.\n7. The lyrics of the German national anthem were written by August Heinrich Hoffmann von Fallersleben.\n\nSo, the composer of the music for the German national anthem is Joseph Haydn.\n\nAnswer",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q7349",
+                "text": "\u0419\u043e\u0437\u0435\u0444 \u0413\u0430\u0439\u0434\u043d",
+                "aliases": [
+                    "\u0413\u0430\u0439\u0434\u043d",
+                    "\u0424\u0440\u0430\u043d\u0446 \u0419\u043e\u0437\u0435\u0444 \u0413\u0430\u0439\u0434\u043d"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "-3792991085056399823",
+        "prompt": "Answer the question in one or a few words in English: \n\u043a\u0442\u043e \u0445\u043e\u0434\u0438\u0442 \u043f\u0435\u0440\u0432\u044b\u043c \u0432 \u0448\u0430\u0445\u043c\u0430\u0442\u0430\u0445 \u0447\u0435\u0440\u043d\u044b\u0435 \u0438\u043b\u0438 \u0431\u0435\u043b\u044b\u0435\nLet's think step-by-step in English.\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "To determine who goes first in chess, we need to consider the rules of the game. \n\n1. In most chess variants, the player with the white pieces goes first.\n2. This is a standard convention, and it's widely accepted in the chess community.\n3. There's no specific rule that states the player with the black pieces must go first.\n\nConsidering these points, we can conclude that:\n\nAnswer: White.",
+        "predicted_answer": "White.",
+        "ground_truth": [
+            {
+                "type": "short_phrase",
+                "text": "\u0411\u0435\u043b\u044b\u0435"
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "-8817675850857402488",
+        "prompt": "Answer the question in one or a few words in English: \n\u043c\u0438\u043d\u0438\u043c\u0430\u043b\u044c\u043d\u044b\u0439 \u0432\u043e\u0437\u0440\u0430\u0441\u0442, \u0447\u0442\u043e\u0431\u044b \u043c\u043e\u0436\u043d\u043e \u0431\u044b\u043b\u043e \u0441\u0442\u0430\u0442\u044c \u0447\u043b\u0435\u043d\u043e\u043c \u0437\u0430\u043a\u043e\u043d\u043e\u0434\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u0441\u043e\u0432\u0435\u0442\u0430\nLet's think step-by-step in English.\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "To answer the question, we need to determine the minimum age required to become a member of the legislative council in a specific jurisdiction.\n\nSince you didn't specify a country or region, I'll provide a general answer. However, the minimum age requirement may vary depending on the jurisdiction.\n\nTypically, in countries with a legislative council or upper house, the minimum age is 21 years old. This is the case in many Commonwealth countries, such as the United Kingdom, Australia, and Canada.\n\nIf you provide more context or specify a particular country, I can give a more accurate answer.\n\nFor now, let's assume a general case.\n\nAnswer: 21 years.",
+        "predicted_answer": "21 years.",
+        "ground_truth": [
+            {
+                "type": "number_with_unit",
+                "text": "30.0 \u043b\u0435\u0442",
+                "aliases": [
+                    "30 \u043b\u0435\u0442"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "6630622010535273304",
+        "prompt": "Answer the question in one or a few words in English: \n\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u0432\u0438\u043d\u043e\u0434\u0435\u043b\u0435\u043d \u0432 \u0448\u0442\u0430\u0442\u0435 \u0412\u0430\u0448\u0438\u043d\u0433\u0442\u043e\u043d\nLet's think step-by-step in English.\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "To find the number of wineries in Washington state, we'll consider the following steps:\n\n1. Washington state is known for its wine production, particularly in the regions of Walla Walla, Yakima Valley, and Columbia Valley.\n2. The state has a well-established wine industry with many wineries and vineyards.\n3. To get an accurate count, we can refer to the Washington State Wine Commission or the Association of Washington Wine.\n\nHowever, without access to real-time data or the most recent statistics, I can provide a general estimate.\n\nWashington state is home to over 1,000 wineries and vineyards.",
+        "predicted_answer": "To find the number of wineries in Washington state, we'll consider the following steps:\n\n1. Washington state is known for its wine production, particularly in the regions of Walla Walla, Yakima Valley, and Columbia Valley.\n2. The state has a well-established wine industry with many wineries and vineyards.\n3. To get an accurate count, we can refer to the Washington State Wine Commission or the Association of Washington Wine.\n\nHowever, without access to real-time data or the most recent statistics, I can provide a general estimate.\n\nWashington state is home to over 1,000 wineries and vineyards.",
+        "ground_truth": [
+            {
+                "type": "number",
+                "text": "900.0",
+                "aliases": [
+                    "900"
+                ]
+            }
+        ],
+        "is_correct": null
+    }
+]

@@ -1,0 +1,89 @@
+[
+    {
+        "id": "3643218479176707788",
+        "prompt": "I want you to act as a question answering expert for turkish.\nQuestion: stranger things'in (acayip \u015feyler) ka\u00e7 sezonu vard\u0131r\nYou should retell the question in English.\nYou should answer the question in English in one or a few words.\nYou should step-by-step answer the request.\nYou should tell me the answer in one or a few words in English in this format 'Answer: '",
+        "response": "Let me help you with this Turkish question about Stranger Things:\n\n1. Translating the question to English:\n\"How many seasons does Stranger Things have?\"\n\n2. Researching the answer:\nAs of 2023, Stranger Things has completed 4 seasons, with a 5th and final season announced.\n\n3. Answering in the requested format:\n\nAnswer: 4 (with a 5th final season coming)",
+        "predicted_answer": "4 (with a 5th final season coming)",
+        "ground_truth": [
+            {
+                "type": "number",
+                "text": "3.0",
+                "aliases": [
+                    "3"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "3356010362039543701",
+        "prompt": "I want you to act as a question answering expert for turkish.\nQuestion: i regret i have but one life to give for my country s\u00f6z\u00fcn\u00fc kim s\u00f6yledi\nYou should retell the question in English.\nYou should answer the question in English in one or a few words.\nYou should step-by-step answer the request.\nYou should tell me the answer in one or a few words in English in this format 'Answer: '",
+        "response": "Let me help you with this:\n\nQuestion Translation:\nWho said the quote \"I regret that I have but one life to give for my country\"?\n\nStep-by-step analysis:\n1. This is a famous quote from American history\n2. The quote is attributed to Nathan Hale\n3. Nathan Hale was an American Revolutionary War soldier\n4. He was a spy for the Continental Army\n5. He was captured by the British and executed in 1776\n6. These were reportedly his last words before being hanged\n\nAnswer: Nathan Hale",
+        "predicted_answer": "Nathan Hale",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "text": "Nathan Hale",
+                "entity": "Q16932034"
+            },
+            {
+                "type": "entity",
+                "text": "Nathan Hale",
+                "entity": "Q16932034"
+            },
+            {
+                "type": "entity",
+                "text": "Nathan Hale",
+                "entity": "Q16932034"
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "5965447391112455356",
+        "prompt": "I want you to act as a question answering expert for turkish.\nQuestion: sansa stark'\u0131 oynayan aktris kimdir\nYou should retell the question in English.\nYou should answer the question in English in one or a few words.\nYou should step-by-step answer the request.\nYou should tell me the answer in one or a few words in English in this format 'Answer: '",
+        "response": "Step 1: Translate the question to English\n\"Who is the actress who plays Sansa Stark?\"\n\nStep 2: Recall the actress who portrays Sansa Stark in the TV series Game of Thrones\n\nAnswer: Sophie Turner",
+        "predicted_answer": "Sophie Turner",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q240573",
+                "text": "Sophie Turner",
+                "aliases": []
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "476368974337766528",
+        "prompt": "I want you to act as a question answering expert for turkish.\nQuestion: cumhuriyet\u00e7i parti se\u00e7imi en son ne zaman kazand\u0131\nYou should retell the question in English.\nYou should answer the question in English in one or a few words.\nYou should step-by-step answer the request.\nYou should tell me the answer in one or a few words in English in this format 'Answer: '",
+        "response": "Let me help you with this Turkish question:\n\nStep 1: Translate the question to English\n\"When did the Republican Party last win the election?\"\n\nStep 2: Research and analyze the context\nThe question refers to the Republican People's Party (CHP) in Turkey.\n\nStep 3: Provide a concise answer\n\nAnswer: Never (in national elections)\n\nExplanation: The Republican People's Party (CHP) has not won a national presidential or parliamentary election in Turkey since the multi-party democratic era began. The party has been in opposition since 1950.",
+        "predicted_answer": "Let me help you with this Turkish question:\n\nStep 1: Translate the question to English\n\"When did the Republican Party last win the election?\"\n\nStep 2: Research and analyze the context\nThe question refers to the Republican People's Party (CHP) in Turkey.\n\nStep 3: Provide a concise answer\n\nAnswer: Never (in national elections)\n\nExplanation: The Republican People's Party (CHP) has not won a national presidential or parliamentary election in Turkey since the multi-party democratic era began. The party has been in opposition since 1950.",
+        "ground_truth": [
+            {
+                "type": "date",
+                "text": "2004",
+                "aliases": [
+                    "2004"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "6116319690634922724",
+        "prompt": "I want you to act as a question answering expert for turkish.\nQuestion: new albany ohio nun n\u00fcfusu nedir\nYou should retell the question in English.\nYou should answer the question in English in one or a few words.\nYou should step-by-step answer the request.\nYou should tell me the answer in one or a few words in English in this format 'Answer: '",
+        "response": "Let me help you with this Turkish question:\n\n1. Question Translation:\n\"What is the population of New Albany, Ohio?\"\n\n2. Research Steps:\n- Confirm the location (New Albany is a city in Ohio, USA)\n- Check recent population data\n\n3. Population Research:\nAccording to recent census data, New Albany has approximately 10,000 residents.\n\nAnswer: 10,000",
+        "predicted_answer": "10,000",
+        "ground_truth": [
+            {
+                "type": "number",
+                "text": "10889.0",
+                "aliases": [
+                    "10889"
+                ]
+            }
+        ],
+        "is_correct": null
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "id": 220,
+        "prompt": "Die volgende is 'n meerkeusevraag.\nBonga het 'n kartondoosskyf wat hy in stukke wil sny om 'n reghoekige piramide te maak. Hy gaan die volgende stukke sny:\n(A) Vier reghoeke en twee vierkante\n(B) Twee reghoeke en vier vierkante\n(C) Drie reghoeke en een driehoek\n(D) Een reghoek en vier driehoeke\nKom ons dink stap-vir-stap in Afrikaans, en gee die finale antwoord aan die einde in die formaat: 'Antwoord: [opsie]'\nJy moet die finale antwoord aan die einde verskaf in die formaat: 'Antwoord: [opsie]'",
+        "response": "Om 'n reghoekige piramide te maak, het ons 'n basis en 'n aantal sye nodig. 'n Reghoekige piramide het 'n reghoekige basis en drie driehoekige sye.\n\nKom ons kyk na die opsies:\n\n(A) Vier reghoeke en twee vierkante - Dit sal nie werk nie, want ons het nie die regte vorms vir 'n piramide nie.\n\n(B) Twee reghoeke en vier vierkante - Dit is ook nie geskik nie, aangesien ons nie die nodige driehoeke het nie.\n\n(C) Drie reghoeke en een driehoek - Dit is nie reg nie, want ons het nie genoeg driehoeke vir die sye nie.\n\n(D) Een reghoek en vier driehoeke - Dit is die korrekte opsie, want ons het een reghoekige basis en drie driehoeke wat die sye van die piramide vorm.\n\nNa die evaluering van al die opsies, kom ons tot die gevolgtrekking dat die beste opsie is:\n\nAntwoord: D",
+        "predicted_answer": "D",
+        "ground_truth": "D",
+        "is_correct": true
+    },
+    {
+        "id": 59,
+        "prompt": "Die volgende is 'n meerkeusevraag.\nGeleiers is gewoonlik van ... gemaak.\n(A) metale\n(B) skakelaars\n(C) wol\n(D) nie-metale\nKom ons dink stap-vir-stap in Afrikaans, en gee die finale antwoord aan die einde in die formaat: 'Antwoord: [opsie]'\nJy moet die finale antwoord aan die einde verskaf in die formaat: 'Antwoord: [opsie]'",
+        "response": "Om die vraag te beantwoord, moet ons eers verstaan wat geleiers is. Geleiers is materiale wat elektrisiteit of hitte goed kan oordra. Gewoonlik is dit metale wat as geleiers gebruik word, omdat hulle 'n ho\u00eb geleidingsvermo\u00eb het.\n\nKom ons kyk na die opsies:\n\n(A) metale - Dit is korrek, want metale soos koper en aluminium is uitstekende geleiers van elektrisiteit.\n\n(B) skakelaars - Skakelaars is nie geleiers nie; hulle is toestelle wat die vloei van elektrisiteit beheer.\n\n(C) wol - Wol is 'n isolator en nie 'n geleier nie.\n\n(D) nie-metale - Nie-metale is gewoonlik nie goeie geleiers nie, behalwe vir 'n paar spesifieke gevalle soos grafiet.\n\nGegewe hierdie inligting, is die beste antwoord:\n\nAntwoord: (A)",
+        "predicted_answer": "(A)",
+        "ground_truth": "A",
+        "is_correct": true
+    },
+    {
+        "id": 2,
+        "prompt": "Die volgende is 'n meerkeusevraag.\nIn 'n sak met albasters is daar 7 blou, 5 rooi en 8 geel albasters. Wat is die waarskynlikheid dat 'n rooi albaster uitgehaal sal word?\n(A) 1/5\n(B) 1/2\n(C) 1/3\n(D) 1/4\nKom ons dink stap-vir-stap in Afrikaans, en gee die finale antwoord aan die einde in die formaat: 'Antwoord: [opsie]'\nJy moet die finale antwoord aan die einde verskaf in die formaat: 'Antwoord: [opsie]'",
+        "response": "Om die waarskynlikheid te bereken dat 'n rooi albaster uitgehaal sal word, moet ons eers die totale aantal albasters in die sak bepaal.\n\n1. **Tel die albasters op:**\n   - Blou albasters: 7\n   - Rooi albasters: 5\n   - Geel albasters: 8\n\n   Totale aantal albasters = 7 (blou) + 5 (rooi) + 8 (geel) = 20 albasters.\n\n2. **Bepaal die aantal rooi albasters:**\n   - Aantal rooi albasters = 5.\n\n3. **Bereken die waarskynlikheid:**\n   Die waarskynlikheid om 'n rooi albaster te trek is die aantal rooi albasters gedeel deur die totale aantal albasters.\n\n   Waarskynlikheid = Aantal rooi albasters / Totale aantal albasters = 5 / 20 = 1 / 4.\n\nDie finale antwoord is dus:\n\nAntwoord: (D)",
+        "predicted_answer": "(D)",
+        "ground_truth": "D",
+        "is_correct": true
+    },
+    {
+        "id": 235,
+        "prompt": "Die volgende is 'n meerkeusevraag.\nWat is die verskil tussen \u0149 serie stroombaan en \u0149 parallelle stroombaan?\n(A) \u0149 Serie stroombaan volg een baan (pad) en \u0149 parallelle stroombaan verdeel in verskillende bane (takke).\n(B) \u0149 Serie stroombaan moet \u0149 smeltdraad h\u00ea.\n(C) \u0149 Parallelle stroombaan moet \u0149 stroombreker h\u00ea.\n(D) \u0149 Parallelle stroombaan volg een baan (pad) en \u0149 serie stroombaan verdeel in verskillende bane (takke).\nKom ons dink stap-vir-stap in Afrikaans, en gee die finale antwoord aan die einde in die formaat: 'Antwoord: [opsie]'\nJy moet die finale antwoord aan die einde verskaf in die formaat: 'Antwoord: [opsie]'",
+        "response": "Kom ons ontleed die opsies een vir een.\n\n(A) \u0149 Serie stroombaan volg een baan (pad) en \u0149 parallelle stroombaan verdeel in verskillende bane (takke).  \nHierdie stelling is korrek. In 'n serie stroombaan vloei die stroom deur een enkele pad, terwyl 'n parallelle stroombaan die stroom in verskeie takke verdeel.\n\n(B) \u0149 Serie stroombaan moet \u0149 smeltdraad h\u00ea.  \nHierdie stelling is nie noodwendig waar nie. 'n Serie stroombaan kan 'n smeltdraad h\u00ea, maar dit is nie 'n vereiste nie. Dit hang af van die ontwerp van die stroombaan.\n\n(C) \u0149 Parallelle stroombaan moet \u0149 stroombreker h\u00ea.  \nHierdie stelling is ook nie waar nie. 'n Parallelle stroombaan kan 'n stroombreker h\u00ea, maar dit is nie 'n vereiste nie. Dit hang af van die spesifieke toepassing.\n\n(D) \u0149 Parallelle stroombaan volg een baan (pad) en \u0149 serie stroombaan verdeel in verskillende bane (takke).  \nHierdie stelling is verkeerd. Dit is eintlik die teenoorgestelde van wat waar is.\n\nNa die ontleding van die opsies, kan ons s\u00ea dat die korrekte antwoord is:\n\nAntwoord: (A)",
+        "predicted_answer": "(A)",
+        "ground_truth": "A",
+        "is_correct": true
+    },
+    {
+        "id": 193,
+        "prompt": "Die volgende is 'n meerkeusevraag.\nWatter EEN van die volgende is 'n gevolg van die vernietiging van vleilande?\n(A) Verhoogde biodiversiteit\n(B) Afname in die beskikbaarheid van water\n(C) Afname in aardverwarming\n(D) Verhoogde watergehalte\nKom ons dink stap-vir-stap in Afrikaans, en gee die finale antwoord aan die einde in die formaat: 'Antwoord: [opsie]'\nJy moet die finale antwoord aan die einde verskaf in die formaat: 'Antwoord: [opsie]'",
+        "response": "Kom ons ontleed die opsies een vir een:\n\n(A) Verhoogde biodiversiteit - Vleilande is bekend vir hul ho\u00eb biodiversiteit. Die vernietiging van vleilande sal waarskynlik lei tot 'n afname in biodiversiteit, nie 'n toename nie.\n\n(B) Afname in die beskikbaarheid van water - Vleilande speel 'n belangrike rol in die water siklus en help om water te stoor. Die vernietiging van vleilande kan lei tot 'n afname in die beskikbaarheid van water.\n\n(C) Afname in aardverwarming - Vleilande help om koolstof te stoor en kan dus 'n rol speel in die vermindering van aardverwarming. Die vernietiging van vleilande sal waarskynlik nie 'n afname in aardverwarming tot gevolg h\u00ea nie.\n\n(D) Verhoogde watergehalte - Die vernietiging van vleilande sal waarskynlik lei tot 'n afname in watergehalte, aangesien vleilande help om water te filtreer en te suiwer.\n\nNa die ontleding van al die opsies, is die mees waarskynlike gevolg van die vernietiging van vleilande 'n afname in die beskikbaarheid van water.\n\nAntwoord: (B)",
+        "predicted_answer": "(B)",
+        "ground_truth": "B",
+        "is_correct": true
+    }
+]

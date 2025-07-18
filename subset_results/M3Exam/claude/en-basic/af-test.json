@@ -1,0 +1,42 @@
+[
+    {
+        "id": 220,
+        "prompt": "The following is a multiple-choice question.\nBonga het 'n kartondoosskyf wat hy in stukke wil sny om 'n reghoekige piramide te maak. Hy gaan die volgende stukke sny:\n(A) Vier reghoeke en twee vierkante\n(B) Twee reghoeke en vier vierkante\n(C) Drie reghoeke en een driehoek\n(D) Een reghoek en vier driehoeke\nYou should provide the final answer at the end in the format: 'Answer: [option]'",
+        "response": "Let me help solve this step by step:\n\n1. A reghoekige piramide (rectangular pyramid) has specific geometric requirements:\n\u2022 A rectangular base\n\u2022 Four triangular side faces that meet at a point (the apex)\n\n2. To construct such a pyramid, you would need:\n\u2022 One rectangular base\n\u2022 Four triangular side faces that connect to the base's edges\n\n3. Let's analyze the options:\n(A) Four rectangles and two squares - This doesn't match a pyramid's structure\n(B) Two rectangles and four squares - Also incorrect\n(C) Three rectangles and one triangle - Not sufficient\n(D) One rectangle and four triangles - This matches the exact requirements of a rectangular pyramid!\n\n4. Option D provides:\n\u2022 One rectangular base\n\u2022 Four triangular side faces that will connect to form the pyramid's sides\n\n5. This option perfectly describes how to construct a rectangular pyramid.\n\nTherefore, the correct answer matches the geometric requirements for creating a rectangular pyramid.\n\nAnswer: D",
+        "predicted_answer": "D",
+        "ground_truth": "D",
+        "is_correct": true
+    },
+    {
+        "id": 59,
+        "prompt": "The following is a multiple-choice question.\nGeleiers is gewoonlik van ... gemaak.\n(A) metale\n(B) skakelaars\n(C) wol\n(D) nie-metale\nYou should provide the final answer at the end in the format: 'Answer: [option]'",
+        "response": "Let me help you solve this Afrikaans language multiple-choice question.\n\nThe question translates to: \"Jellies are usually made of ...\"\n\nLet's analyze the options:\n(A) metale = metals\n(B) skakelaars = switches\n(C) wol = wool\n(D) nie-metale = non-metals\n\nJellies (or jelly) are typically made from non-metallic substances like gelatin, pectin, or other food-based ingredients. Therefore, the most appropriate answer would be non-metals.\n\nAnswer: D",
+        "predicted_answer": "D",
+        "ground_truth": "A",
+        "is_correct": false
+    },
+    {
+        "id": 2,
+        "prompt": "The following is a multiple-choice question.\nIn 'n sak met albasters is daar 7 blou, 5 rooi en 8 geel albasters. Wat is die waarskynlikheid dat 'n rooi albaster uitgehaal sal word?\n(A) 1/5\n(B) 1/2\n(C) 1/3\n(D) 1/4\nYou should provide the final answer at the end in the format: 'Answer: [option]'",
+        "response": "Let's solve this step by step:\n\n1. First, let's count the total number of albasters in the sak (bag):\n   \u2022 Blou (blue) albasters: 7\n   \u2022 Rooi (red) albasters: 5\n   \u2022 Geel (yellow) albasters: 8\n\n2. Calculate the total number of albasters:\n   7 + 5 + 8 = 20 total albasters\n\n3. Calculate the probability of drawing a rooi (red) albaster:\n   \u2022 Number of rooi albasters: 5\n   \u2022 Total number of albasters: 20\n   \u2022 Probability = 5/20 = 1/4\n\n4. Check the given options:\n   (A) 1/5\n   (B) 1/2\n   (C) 1/3\n   (D) 1/4\n\n5. The probability of drawing a rooi albaster is 1/4, which corresponds to option (D).\n\nAnswer: (D)",
+        "predicted_answer": "(D)",
+        "ground_truth": "D",
+        "is_correct": true
+    },
+    {
+        "id": 235,
+        "prompt": "The following is a multiple-choice question.\nWat is die verskil tussen \u0149 serie stroombaan en \u0149 parallelle stroombaan?\n(A) \u0149 Serie stroombaan volg een baan (pad) en \u0149 parallelle stroombaan verdeel in verskillende bane (takke).\n(B) \u0149 Serie stroombaan moet \u0149 smeltdraad h\u00ea.\n(C) \u0149 Parallelle stroombaan moet \u0149 stroombreker h\u00ea.\n(D) \u0149 Parallelle stroombaan volg een baan (pad) en \u0149 serie stroombaan verdeel in verskillende bane (takke).\nYou should provide the final answer at the end in the format: 'Answer: [option]'",
+        "response": "Let me analyze this carefully:\n\n\u2022 Option A states that in a series circuit, current follows one path, while in a parallel circuit, the current divides into different branches.\n\n\u2022 Option B suggests that a series circuit must have a fuse wire, which is not a defining characteristic of series circuits.\n\n\u2022 Option C suggests that a parallel circuit must have a circuit breaker, which is also not a defining characteristic of parallel circuits.\n\n\u2022 Option D claims the opposite of what Option A states - that a parallel circuit follows one path and a series circuit divides into branches, which is incorrect.\n\nThe correct description is in Option A:\n- In a series circuit, current follows a single path through all components\n- In a parallel circuit, current can divide into multiple branches/paths\n\nTherefore, the answer is based on the accurate description of circuit types.\n\nAnswer: A",
+        "predicted_answer": "A",
+        "ground_truth": "A",
+        "is_correct": true
+    },
+    {
+        "id": 193,
+        "prompt": "The following is a multiple-choice question.\nWatter EEN van die volgende is 'n gevolg van die vernietiging van vleilande?\n(A) Verhoogde biodiversiteit\n(B) Afname in die beskikbaarheid van water\n(C) Afname in aardverwarming\n(D) Verhoogde watergehalte\nYou should provide the final answer at the end in the format: 'Answer: [option]'",
+        "response": "Let me help you solve this multiple-choice question about the consequences of wetland destruction.\n\nLet's analyze each option:\n\n(A) Verhoogde biodiversiteit (Increased biodiversity)\n\u2022 Wetland destruction actually REDUCES biodiversity, not increases it\n\u2022 This is incorrect\n\n(B) Afname in die beskikbaarheid van water (Decrease in water availability)\n\u2022 Wetlands are important water storage and filtration systems\n\u2022 Destroying wetlands leads to reduced water availability\n\u2022 This is a CORRECT consequence of wetland destruction\n\n(C) Afname in aardverwarming (Decrease in global warming)\n\u2022 Wetlands actually help mitigate global warming by storing carbon\n\u2022 Destroying wetlands would INCREASE, not decrease global warming\n\u2022 This is incorrect\n\n(D) Verhoogde watergehalte (Increased water quality)\n\u2022 Wetlands naturally filter and purify water\n\u2022 Destroying wetlands would REDUCE, not increase water quality\n\u2022 This is incorrect\n\nBased on this analysis, the consequence of wetland destruction is a decrease in water availability.\n\nAnswer: B",
+        "predicted_answer": "B",
+        "ground_truth": "B",
+        "is_correct": true
+    }
+]

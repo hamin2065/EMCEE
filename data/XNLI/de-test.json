@@ -1,0 +1,502 @@
+{
+    "de-4630": {
+        "premise": "Sage brechen, Steak, doch kahl und Streifen.",
+        "hypothesis": "Sag Biegung.",
+        "label": 1
+    },
+    "de-4282": {
+        "premise": "Naja, irgendwie vermute ich das die Bewohner von Madrid und Atlanta, Modernität bevorzugen, während sie vielleicht den Verlust von Traditionen bereuen können.",
+        "hypothesis": "Die Bewohner von Madrid und Atlanta praktizieren heimlich ihre Bräuche zu Hause.",
+        "label": 1
+    },
+    "de-2591": {
+        "premise": "Wenn eine übereinstimmung für ein Hotel und anderen Zusatzgebühren besteht, wird eine überprüfung von der tatsächlichen Reise verrichtet.",
+        "hypothesis": "Es gibt keine Möglichkeit zu überprüfen, ob tatsächlich eine Reise stattgefunden hat oder nicht.",
+        "label": 2
+    },
+    "de-2136": {
+        "premise": "Auch einen Besuch wert sind das Haus von Balzac (47 Rue Razanouard) und das Studio Delacroix (6 Rue de Furstenberg).",
+        "hypothesis": "Balzas Zuhause und Delacroix' Studio sind die besten Dinge, die man sich in der Gegend ansehen kann.",
+        "label": 1
+    },
+    "de-1673": {
+        "premise": "Ich werde Sie nicht länger aufhalten, meine Dame.",
+        "hypothesis": "Sie werden für den Rest Ihres Lebens inhaftiert sein, Ma'am.",
+        "label": 2
+    },
+    "de-2573": {
+        "premise": "Dies ermöglichte Demonstrationen des Designs, bevor die Unternehmen mehr in Produktionsanlagen und Werkzeuge investierten, um produktionsrepräsentative Prototypen für die Demonstrationsphase zu bauen.",
+        "hypothesis": "Sie hatten keine Ahnung, wie sie die Auswirkung von Investitionen demonstrieren können.",
+        "label": 2
+    },
+    "de-1955": {
+        "premise": "Er richtete sein Fernrohr auf diese Gestalt.",
+        "hypothesis": "Er hat sein Teleskop gebrochen und konnte daher nichts damit sehen.",
+        "label": 2
+    },
+    "de-2175": {
+        "premise": "Abgesehen von den bestimmten Stellen ist der größte Teil der Musik perkussiv und dient dazu, die Handlung und Stimmung zu unterstützen und zu reflektieren.",
+        "hypothesis": "Ein Großteil der Musik sind Schlagzeuge.",
+        "label": 0
+    },
+    "de-3242": {
+        "premise": "Das Büro des FBI-Rechtsanwalts in Paris nahm am 16. oder 17. August zum ersten Mal Kontakt mit der französischen Regierung auf, kurz nachdem er telefonisch mit dem Minneapolis-Sachbearbeiter gesprochen hatte.",
+        "hypothesis": "Das FBI hat im Jahr 1925 ein Büro in Paris eröffnet.",
+        "label": 1
+    },
+    "de-1072": {
+        "premise": "Ein Großteil der Forschung über Quinceaeeras zeigt, dass Familien eine kulturhistorische Tradition beibehalten wollen und die Feier des fünfzehnten Geburtstages einer Tochter ist ein Mittel, die kulturellen Bindungen an ein lateinamerikanisches Erbe fortzusetzen.",
+        "hypothesis": "Geburtstage sind fast immer teuer.",
+        "label": 1
+    },
+    "de-2457": {
+        "premise": "Man ist davor gewarnt, Essen offen zu essen, da die Affen dies wahrscheinlich als eine Einladung zum Essen betrachten.",
+        "hypothesis": "Es ist nicht sicher Nahrung draußen zu essen.",
+        "label": 1
+    },
+    "de-3745": {
+        "premise": "Es is wesentlich, dass wir die Amerikaner über die Wichtigkeit der Menschenliebe  unterrichten, dass wir eine neue Generation von informierten und engagierten Leiter entwickeln.",
+        "hypothesis": "Wir sollten den Amerikanern beibringen, wie wichtig Wohltätigkeit ist.",
+        "label": 0
+    },
+    "de-2590": {
+        "premise": "Wenn eine übereinstimmung für ein Hotel und anderen Zusatzgebühren besteht, wird eine überprüfung von der tatsächlichen Reise verrichtet.",
+        "hypothesis": "Die Reise wird prüfen welche Hotelkosten bezahlt werden müssen.",
+        "label": 0
+    },
+    "de-594": {
+        "premise": "Nun, das ist das schöne am Landleben, man muss sich über all das keine Sorgen machen.",
+        "hypothesis": "Auf dem Land zu sein lässt dich in ständiger Angst vor diesen Dingen leben.",
+        "label": 2
+    },
+    "de-76": {
+        "premise": "Also, ich musste einfach die Summen nehmen und es versuchen es so zu machen.",
+        "hypothesis": "Ich habe keine Ahnung, was ich nur mit den Summen machen kann, bitte gib mir mehr Details, um dieses Chaos zu verstehen.",
+        "label": 2
+    },
+    "de-3754": {
+        "premise": "Mit diesem Schreiben möchten wir Sie wissen lassen, dass wir, obwohl wir in dieser Saison etwas Erfolg hatten, weiterhin Ihre Hilfe benötigen, um unsers starkes Steuerverwaltung und die lebhaften Theaterproduktionen fortzusetzen.",
+        "hypothesis": "Wir brauchen 10.000 $ mehr in dieser Saison, um das Musical aufzuführen.",
+        "label": 1
+    },
+    "de-4612": {
+        "premise": "(In den Schulterrassen hört das große Geräusch -- Hubbub -- auf.",
+        "hypothesis": "Es gibt weniger Schüler auf den Schulhöfen und daher weniger Lärm.",
+        "label": 1
+    },
+    "de-819": {
+        "premise": "Es sind, ähm, ungefähr zwanzig Minuten",
+        "hypothesis": "Ich denke, es ist fast zwanzig Minuten, aber ich bin mir nicht sicher.",
+        "label": 1
+    },
+    "de-600": {
+        "premise": "und jetzt habe ich eine Schwester in Deutschland",
+        "hypothesis": "Momentan habe ich einen Geschwisterteil in Deutschland.",
+        "label": 0
+    },
+    "de-4404": {
+        "premise": "Gleichgültig, ob der Dow Jones Industrial Average das richtige Maß dafür ist, wie gut es den Reichen geht.",
+        "hypothesis": "Der Dow Jones steigt und reiche Leute kaufen mehr.",
+        "label": 1
+    },
+    "de-1746": {
+        "premise": "Das Land ist alles, Sir, der Herrscher nichts.",
+        "hypothesis": "Das Land ist nur ein Teil des Ganzen, Sir.",
+        "label": 2
+    },
+    "de-4144": {
+        "premise": "Der Senat stimmte überein, dass eine neue Behörde die Forschung an Atomwaffen überwachen sollte.",
+        "hypothesis": "Der Senat war der Meinung, dass eine neue Agentur die Nachforschung nuklearer Waffen überschauen sollte.",
+        "label": 0
+    },
+    "de-2172": {
+        "premise": "Als ein Teil der Stadtmauer, das Tor war von den pragmatischen Preußen dazu bestimmt, nicht so sehr als Triumphbogen sondern als stattliches Grenztor zu sein um Zoll einzusammeln.",
+        "hypothesis": "Das Tor wurde gebaut, damit sie von Passanten einen Preis verlangen konnten.",
+        "label": 0
+    },
+    "de-1085": {
+        "premise": "Die Girlanden in Gebäuden des achtzehnten Jahrhunderts sind gemeißelte oder gemalte Versionen der Schärpen und geblühten Ornamente, die von Männern und Frauen getragen werden.",
+        "hypothesis": "Die Girlanden in den Gebäuden des achtzehnten Jahrhunderts sind Abwandlungen der von den Menschen getragenen Schärpen und Ornamente.",
+        "label": 0
+    },
+    "de-2859": {
+        "premise": "Weitere Informationen finden Sie unter //www.healtheffects.org/Pubs/NMMAPSletter.pdf.",
+        "hypothesis": "Auf dieser Seite finden Sie auch Links zu anderen Ressourcen.",
+        "label": 1
+    },
+    "de-563": {
+        "premise": "mhm das stimmt es ist es ist nicht wirklich äh konsistent",
+        "hypothesis": "Wir haben Recht damit, dass es nicht einheitlich ist.",
+        "label": 0
+    },
+    "de-2001": {
+        "premise": "Aber sie war nicht herausgekommen, denn ihr Rücken war ihm zugewandt, und sie bewegte sich in die gleiche Richtung.",
+        "hypothesis": "Niemals drehte sie sich um, um ihn anzuschauen.",
+        "label": 1
+    },
+    "de-3027": {
+        "premise": "Geheimdienstbericht, Befragung von Binalshibh, 1. Okto. 2002",
+        "hypothesis": "Binalshibh wurde von einer FBI-Task Force verhört.",
+        "label": 1
+    },
+    "de-2334": {
+        "premise": "Das bekannteste Merkmal des Gebäudes ist die Grashüpfer-Wetterfahne.",
+        "hypothesis": "Das Gebäude hat eine riesige Eisenwetterfahne.",
+        "label": 1
+    },
+    "de-1292": {
+        "premise": "Veröffentlichungen der frühen amerikanischen Reisenden nach südwest und Mexiko stellen die spanischen Mexikaner schrecklich dar, sondern auch mit extremer Leidenschaft.",
+        "hypothesis": "Amerikaner früherer Zeiten sprachen über all die guten Dinge, die spanische Mexikaner taten.",
+        "label": 2
+    },
+    "de-3589": {
+        "premise": "Linda Hardwick Entwicklungsdirektorin &amp;",
+        "hypothesis": "Link Harwick, Entwicklung",
+        "label": 1
+    },
+    "de-4450": {
+        "premise": "Manchmal wird dieser persönliche Prozess der Reife oder des Verfalls (wählen Sie) durch das, was in der Kultur passiert, verstärkt.",
+        "hypothesis": "Nichts, was heute in der Kultur passiert, unterstützt diesen persönlichen Prozess, wie immer man ihn nennen mag.",
+        "label": 2
+    },
+    "de-2478": {
+        "premise": "Abseits der Küste fällt das Gelände durch Pinien, Mimosen, Eukalyptus und Heide auf eine Höhe von fast 915 m  (3,000 ft) ab.",
+        "hypothesis": "Das Gelände hat Höhlen.",
+        "label": 1
+    },
+    "de-4333": {
+        "premise": "Das selbe kann nicht für die New York Times gesagt werden. In ihrem Leitartikel über die Kokain Kontroverse hat die Times empfohlen das Bush ehrlich sein sollte und das Land sein Mass nehmen soll.",
+        "hypothesis": "Die Times sagte, Bush müsse Ehrlichkeit zeigen.",
+        "label": 0
+    },
+    "de-64": {
+        "premise": "Ich möchte sagen, dass es keine Gefahr gab mit der Bombe in die Luft zu gehen, weil sie nicht explodieren würde, egal wie hart sie auf dem Boden aufschlug.",
+        "hypothesis": "Die Bombe hatte keine Möglichkeit zu explodieren.",
+        "label": 0
+    },
+    "de-4543": {
+        "premise": "Split Ends ein Kosmetologie-Shop ist ein schönes Beispiel für appositionelle Eleganz kombiniert mit Euphemismus in der Appositive und der maßvollen oder außergewöhnlichen Eröffnung.",
+        "hypothesis": "Split Ends ist eine Eisdiele.",
+        "label": 2
+    },
+    "de-2452": {
+        "premise": "Das Gebäude verbindet zwei identische Kirchen, den Französischen Dom im Norden, erbaut für die zugewanderten Hugenotten, und den Deutschen Dom im Süden.",
+        "hypothesis": "Die beiden Kirchen haben beide große hohe Kirchtürme.",
+        "label": 1
+    },
+    "de-848": {
+        "premise": "Ich weiß nicht, aber ich denke immer noch daran, als sie mir auf dem Land sagte, dass ich sei wie",
+        "hypothesis": "Es ist mitten in der Stadt.",
+        "label": 2
+    },
+    "de-1100": {
+        "premise": "Die Pachuca war das Pendant zum Pachuco der 1940er Jahre, aber auch der Hausmädchen-Archetypus, der in der jungen Chicana zusammenkommt, die in einer städtischen, ghettoisierten Umgebung aufwachsen.",
+        "hypothesis": "Pachucas trugen viel Schminke.",
+        "label": 1
+    },
+    "de-2166": {
+        "premise": "Dieser Link der wichtigsten öffentlichen Strände (von Warwick Long Bay bis Horseshoe Bay).",
+        "hypothesis": "Alle Strände sind privat.",
+        "label": 2
+    },
+    "de-945": {
+        "premise": "nun ja, ich habe keine Kinder deshalb ist das etwas schwer zu sagen.",
+        "hypothesis": "Ich habe keine Kinder.",
+        "label": 0
+    },
+    "de-876": {
+        "premise": "so ziemlich die meiste Zeit wenn man einen Bus sieht äh du weißt schon die Busse mit Diesel äh das sind Kohlenstoffpartikel und äh Kohlenstoff Dioxid und Wasserdampf",
+        "hypothesis": "Alle Busse werden mit Propan betrieben.",
+        "label": 2
+    },
+    "de-4532": {
+        "premise": "Wie kann man das nur tun?",
+        "hypothesis": "Wie ist es möglich, dass man das macht?",
+        "label": 0
+    },
+    "de-1273": {
+        "premise": "Die Bedeutung von gemeinsamer Bestimmung ist nirgendw besser ausgedrückt als in der jüdischen Kol Jehudim eruvim ze bze [Alle Jüden sind verantwortlich für einander].",
+        "hypothesis": "Juden lieben einander.",
+        "label": 0
+    },
+    "de-2231": {
+        "premise": "Süßwasserangler benötigen eine Genehmigen. Für Information, wie Sie diese erhalten können, wenden Sie sich an das nächste Touristenbüro.",
+        "hypothesis": "Sie müssen eine Erlaubnis haben, um Fische zu fangen, die größer als 6 Zoll sind.",
+        "label": 1
+    },
+    "de-2308": {
+        "premise": "The National Theater and Concert Hall, Tel. 01-7282333, im Allgemeinen bekannt als Megaron, befindet sich in Vas.",
+        "hypothesis": "Das Megaron ist die größte Konzerthalle des Landes.",
+        "label": 1
+    },
+    "de-4954": {
+        "premise": "Niemand scheint zu wissen, ob diese Sportarten auf einem Platz mit einem Netz, gegen eine Wand, oder beides, gespielt werden.",
+        "hypothesis": "Die Regeln und Richtlinien dieser Sportarten sind noch unklar.",
+        "label": 0
+    },
+    "de-1725": {
+        "premise": "Aber er gab dem Vorhaben des Schützen's keine Pause.",
+        "hypothesis": "Es hatte die Absicht des Richtschützen völlig unterbunden, etwas zu tun.",
+        "label": 2
+    },
+    "de-2808": {
+        "premise": "Während der Planungsphase eines Audits sollten die Auditoren ihre Verantwortlichkeiten für die Prüfung und Berichterstattung über die Einhaltung der Gesetze und Vorschriften und die interne Kontrolle der Finanzberichterstattung kommunizieren.",
+        "hypothesis": "Prüfer sollten nicht überregulieren.",
+        "label": 1
+    },
+    "de-1667": {
+        "premise": "Du hättest die Gefahr sehen sollen.",
+        "hypothesis": "Sie müssen sich wirklich des Notfallgeschehens bewusst sein.",
+        "label": 0
+    },
+    "de-2162": {
+        "premise": "Dieses Ereignis wird am 14-15 August wiederholt.",
+        "hypothesis": "Es wird nie wieder passieren.",
+        "label": 2
+    },
+    "de-4140": {
+        "premise": "Times Porträt von Kenneth Starr stellt ihn als konservativ, übereifrig und intelligent aber sozial unbeholfen dar.",
+        "hypothesis": "Kenneth Starr wird als liberaler, schüchterner, athletischer Mann dargestellt.",
+        "label": 2
+    },
+    "de-4002": {
+        "premise": "Bitte denken Sie betend darüber nach, wie viel Sie geben können.",
+        "hypothesis": "Ich weiß, dass Sie religiös sind, also denken Sie bitte daran, was Gott dazu sagen würde, wenn Sie etwas spenden würden.",
+        "label": 1
+    },
+    "de-2057": {
+        "premise": "Seine Grabkammern, 27 m (88ft) unter der Erde, sind aus Marmor und umfassen 1.200 m² (13.000 sq ft).",
+        "hypothesis": "Seine Grabkammern sind aus Holz.",
+        "label": 2
+    },
+    "de-416": {
+        "premise": "Es ist wie eine Datei mit einer ganzen Reihe von Tabs, von verschiedenen, wissen Sie, jeder Tab hat eine andere Tabelle.",
+        "hypothesis": "Die Registerkarten zeigen das aktuelle Guthaben jedes Kontos an.",
+        "label": 1
+    },
+    "de-756": {
+        "premise": "und, oh jee, es geht mir nicht aus dem Kopf, dass er eintausendachthundert Dollar für einen Papageien gezahlt hat, das war einfach irrsinnig.",
+        "hypothesis": "Er hat den Papagei gestohlen.",
+        "label": 2
+    },
+    "de-3469": {
+        "premise": "Alle ausser 2 von den 15 Muskelentführern, wurden als Touristen zugelassen und leisteten sich einen sechs-Monate langen Aufenthalt in den Vereinigten Staaten.",
+        "hypothesis": "Die meisten Entführer wurden als Touristen zugelassen.",
+        "label": 0
+    },
+    "de-2266": {
+        "premise": "Weniger als eine Meile nach dem Arboretum, stehen zwei Kirchen auf der rechten Seite der Straße, mit Hunderten von weiß bemalten Familiengräbern auf dem Hügel im Hintergrund.",
+        "hypothesis": "Die Kirchen befinden sich auf der linken Straßenseite.",
+        "label": 2
+    },
+    "de-361": {
+        "premise": "Wenn es ein Jota daneben war, musste man etwas an den Regler selbst anpassen.",
+        "hypothesis": "Der Regler würde der ganze Druck dein Anzugs ändern.",
+        "label": 1
+    },
+    "de-29": {
+        "premise": "Ich bin äh, Chief Master Sergeant, im Ruhestand, wie Rick sagte.",
+        "hypothesis": "Rick sagte dir, dass ich im Ruhestand war.",
+        "label": 0
+    },
+    "de-2732": {
+        "premise": "Eine Initiative beinhaltete die Festlegung der strategischen Ausrichtung, Richtlinien und Standards für die Einführung des elektronischen Handels in der Landesregierung.",
+        "hypothesis": "Die Initiative war darauf ausgelegt, alle staatliche Abhängigkeit von Computersystemen zu beseitigen.",
+        "label": 2
+    },
+    "de-1071": {
+        "premise": "Ein Großteil der Forschung über Quinceaeeras zeigt, dass Familien eine kulturhistorische Tradition beibehalten wollen und die Feier des fünfzehnten Geburtstages einer Tochter ist ein Mittel, die kulturellen Bindungen an ein lateinamerikanisches Erbe fortzusetzen.",
+        "hypothesis": "Der zehnte Geburtstag einer Tochter ist ein Mittel zur Fortführung kultureller Bindungen.",
+        "label": 2
+    },
+    "de-2145": {
+        "premise": "Prunkstücke sind die neue Löwenausstellung, Schneeleoparden- und Gepardenausstellung sowie ein afrikanischer tropischer Regenwald mit Gorillas und Warzenschweinen.",
+        "hypothesis": "Ziemlich beliebte Sehenswürdigkeiten sind die neue Löwenausstellung, Schneeleoparden und Geparden und ein afrikanischer tropischer Regenwald.",
+        "label": 1
+    },
+    "de-1323": {
+        "premise": "Das chaotische Regime kontrastiert deutlich mit der angeordneten Regime.",
+        "hypothesis": "Man kann das chaotische Regime nicht vom geordneten Regime unterscheiden; sie sind zu ähnlich.",
+        "label": 2
+    },
+    "de-3619": {
+        "premise": "Letztes Jahr kamen 17% des Museum's  Budget durch Spenden von loyalen Spendern zustande",
+        "hypothesis": "Mehr als die Hälfte des Betriebsbudgets des Museums kommt jedes Jahr aus Spenden.",
+        "label": 2
+    },
+    "de-4519": {
+        "premise": "Das Team war zuvor durch die denkwürdige Bezeichnung Beaneaters bekannt geworden, die in kurioser Weise auch als indischer Spitzname gelten könnte.",
+        "hypothesis": "Das Team hatte vor diesem einen Namen, der auch als indianischer Spitzname gelten könnte.",
+        "label": 0
+    },
+    "de-3503": {
+        "premise": "Binalshibh glaubt, dass die Meinungsverschiedenheiten zum Teil von Jarrahs Familienbesuchen herrührten.",
+        "hypothesis": "Jarrah war in einen Streit mit seinem Schwager involviert.",
+        "label": 1
+    },
+    "de-4594": {
+        "premise": "Und manchmal ist es auch das raffinierteste.",
+        "hypothesis": "Es macht sehr wenig Lärm dank eines sorgfältig isolierten Motors.",
+        "label": 1
+    },
+    "de-79": {
+        "premise": "Er kam, er öffnete die Tür und ich erinnere mich daran dass ich zurück schaute und den Ausdruck auf seinem Gesicht sah, und ich wusste, dass er enttäuscht war.",
+        "hypothesis": "Er versuchte, uns nicht schuldig fühlen zu lassen, aber wir wussten, dass wir ihm Schwierigkeiten bereitet hatten.",
+        "label": 1
+    },
+    "de-916": {
+        "premise": "also wenn wir die Möglichkeit haben, nur weil es leiser ist",
+        "hypothesis": "Dort ist es ruhiger.",
+        "label": 0
+    },
+    "de-616": {
+        "premise": "Das ist also nicht Deine erste Erfahrung mit einem Hund",
+        "hypothesis": "Es tut mir Leid, Ich wusste nicht dass das dein erstes mal einen Hund zu sehen ist.",
+        "label": 2
+    },
+    "de-1221": {
+        "premise": "Das späte 18. Jahrhundert war in der Tat eine wunderbar vereinfachte Zeit.",
+        "hypothesis": "Jemand erinnert sich an das späte 18. Jahrhundert.",
+        "label": 0
+    },
+    "de-4469": {
+        "premise": "Ich bin nicht der erste dem auffällt, dass sich die Weltgeschichte in Richtung Interdependenz entwickelt.",
+        "hypothesis": "Andere Leute haben diesen Fluss nach mir bekannt.",
+        "label": 1
+    },
+    "de-295": {
+        "premise": "Und, ja, aber, in der Nacht dachte ich, ich konnte nicht schlafen.",
+        "hypothesis": "Ich hatte immer Albträume, die mich vom Schlafen abhielten.",
+        "label": 1
+    },
+    "de-3024": {
+        "premise": "Zusätzlich zu Moussaoui waren die beiden von KSM als Kandidaten für die zweite Angriffswelle identifizierten Al Kaida-Aktivisten Abderraouf Jdey, a.k.",
+        "hypothesis": "Eine zweite Angriffswelle wurde von KSM geplant.",
+        "label": 0
+    },
+    "de-4771": {
+        "premise": "Als Antwort auf Richard Lederers Auschreibung für einen sehr würdevollen und sinnvollen 11-Wort-Satz-Wettbewerb [Der Zauber der Grammatik, XVI,4], biete ich ...",
+        "hypothesis": "Richard Lederer hasst es, anmutiges oder zusammenhängendes Geschriebenes zu lesen.",
+        "label": 2
+    },
+    "de-4526": {
+        "premise": "Und ich sympathisiere mit Ihrer Bemerkung auf Seite 19: Brunners Erstes Autorengesetz. In jedem Text gibt es mindestens einen Fehler, den der Autor dreimal gelesen hat.",
+        "hypothesis": "Schriftsteller sind sehr sorgfältig; kein einziger Fehler bleibt unbemerkt unter ihren Augen.",
+        "label": 2
+    },
+    "de-1213": {
+        "premise": "Eltern die ihre Hände verzweifelt in die Luft werfen und in den Regalen der eigenen Eltern und Großeltern nach mehr 'versucht und wahren' Vision suchen werden in ihrem eigenem Sumpf stecken bleiben.",
+        "hypothesis": "Hin und wieder versuchen einige Eltern, einen besseren Weg aus dem Leben ihrer Eltern zu finden.",
+        "label": 0
+    },
+    "de-3520": {
+        "premise": "00 helped macht es möglich für uns Beratung, Motivation und Spaß für fast 400 Kinder aus Indianapolis zur Verfügung zu stellen.",
+        "hypothesis": "Wir hatten gehofft eine Weihnachtsfeier für die Kinder schmeißen zu können, aber konnten niemals etwas für sie tun.",
+        "label": 2
+    },
+    "de-1044": {
+        "premise": "Im chaotischen Regime scheint das funkelnde grüne Meer.",
+        "hypothesis": "Das Meer war tiefblau und glatt wie Glas.",
+        "label": 2
+    },
+    "de-342": {
+        "premise": "Im einen Moment schlägt er er auf den Tisch ein, im nächsten meint er Okay, mach es auf meinem Tisch, dah dah dah dah dah.",
+        "hypothesis": "Er ändert seine Meinung oft.",
+        "label": 0
+    },
+    "de-2525": {
+        "premise": "Folglich nehmen Entscheidungsträger und Manager der Regierung neue Denkweisen an, übernehmen verschiedene Wege um Ziele zu erreichen, und nutzen neue Informationen um Entscheidungen zu lenken.",
+        "hypothesis": "Regierungsvertreter weigern sich, ihre Lebensweisen zu ändern.",
+        "label": 2
+    },
+    "de-2987": {
+        "premise": "Gewinn oder Verlust sollten als ein unwiederbringlicher Gewinn oder Verlust ausgewiesen sein",
+        "hypothesis": "Wenn Sie den Gewinn oder Verlust verbuchen, machen Sie daraus einen Gewinn oder Verlust ohne Kursverlust.",
+        "label": 0
+    },
+    "de-326": {
+        "premise": "In der Zwischenzeit kaufte die Air Force die SR71, nun A-12, an welcher wir mit der CIA arbeiteten.",
+        "hypothesis": "Die Air Force hatte keine Flugzeuge.",
+        "label": 2
+    },
+    "de-2931": {
+        "premise": "Drei Monate nach Anmeldung beurteilen die Aussendienstmitarbeiter eine Probe von jedem neuen Anbieter, um festzustellen, ob es irgendwelche Probleme gibt, die diskutiert werden sollten.",
+        "hypothesis": "Die Außendienstmitarbeiter diskutieren keine Ansprüche.",
+        "label": 2
+    },
+    "de-1720": {
+        "premise": "Es gab hier ganz offensichtlich eine vage Drohung, einen meuternden Geist, den er nicht verstehen konnte.",
+        "hypothesis": "Er hat die bevorstehende Gefahr sehr wohl verstanden.",
+        "label": 2
+    },
+    "de-2044": {
+        "premise": "Kublai Khan hat 1279 seine eigene Hauptstadt am Ufer des Beihai Sees in Peking errichtet, wo einige seiner kaiserlichen Schätze bis heute ausgestellt werden.",
+        "hypothesis": "Kublai Khan hat Schätze in Peking.",
+        "label": 0
+    },
+    "de-842": {
+        "premise": "Oh, Der mit dem Wolf tanzt, den haben wir erst vor kurzem gesehen. Was haben wir noch geschaut, äh, Das Schweigen der Lämmer.",
+        "hypothesis": "Ich habe noch nie einen Film mit Kevin Costner gesehen.",
+        "label": 2
+    },
+    "de-2897": {
+        "premise": "Prototyp - Technische Prototypen (virtuelle oder Produktion, repräsentative Prototypen, erste physische Produkte)",
+        "hypothesis": "Es gibt verschiedene Arten von Prototypen.",
+        "label": 0
+    },
+    "de-4586": {
+        "premise": "Auf einer Ranch hört man vielleicht jemanden sagen: Heute müssen wir diese eingefangenen Ochsen abschneiden, also vielleicht die zu sendenden Exemplare heraustrennen.",
+        "hypothesis": "Die Leute kämpfen mit dem Jargon auf der Ranch.",
+        "label": 1
+    },
+    "de-3329": {
+        "premise": "Der Terrorismus, der von Bin Ladin und al-Qaida gefördert wurde, unterschied sich von allem dass die Regierung zuvor erlebt hatte.",
+        "hypothesis": "Die Regierung hatte schon viele Male mit einem Terrorismus wie diesen zu tun.",
+        "label": 2
+    },
+    "de-1266": {
+        "premise": "Beachten Sie, dass eine sehr einfache, kompakte Beschreibung diese Kennzeichen  des Ungleichgewichtssystems erfasst hat und dass während das Gassystem in ein Gleichgewicht übergeht,  Arbeit gewonnen werden kann.",
+        "hypothesis": "Es ist alles sehr kompliziert zu erklären.",
+        "label": 2
+    },
+    "de-1939": {
+        "premise": "Ich frage mich nun, sagte er sogleich, ob der Schaden dein Werk ist.",
+        "hypothesis": "Er fragte sich, ob die schelmischen Handlungen von Ihnen begangen wurden, oder nicht.",
+        "label": 0
+    },
+    "de-1331": {
+        "premise": "Mit dem Attentat im April 1865 auf den Mann, der eine neue Ordnung der Ideen predigte, wurden die Vereinigten Staaten zu einem vono Macht besessenen Land.",
+        "hypothesis": "Das Ermordung war von einer männlichen Person.",
+        "label": 0
+    },
+    "de-1450": {
+        "premise": "In der Tat ist diese Ausbreitung der erste Schritt der Ausbreitung einer purpurnen Lawine von Schäden.",
+        "hypothesis": "Dies ist der erste Teil des Schadens.",
+        "label": 0
+    },
+    "de-3377": {
+        "premise": "Ihre Anforderungen sind in Größe und Komplexität viel bescheidener.",
+        "hypothesis": "Ihre Anforderungen sind viel liberaler.",
+        "label": 2
+    },
+    "de-203": {
+        "premise": "Das ist wahrscheinlich das erste woran ich mich aus meiner frühen Kindheit erinnere, äh, vor allem wenn ich etwas falsch gemacht hatte.",
+        "hypothesis": "Es war eine meiner ersten Erinnerungen.",
+        "label": 0
+    },
+    "de-1469": {
+        "premise": "Die Rechte gelten für diejenigen, die einer Straftat verdächtigt werden.",
+        "hypothesis": "Leute die in einer Straftat verdächtigt werden haben solche Rechte.",
+        "label": 0
+    },
+    "de-2721": {
+        "premise": "Die Zeit von der Auftragserteilung bis zum Abschluss der Inbetriebnahmeaktivitäten beträgt für beide Einheiten 46 Wochen.",
+        "hypothesis": "Beide Einheiten benötigten sechsundvierzig Wochen um den Befehl auszuführen.",
+        "label": 0
+    },
+    "de-3372": {
+        "premise": "Nach dem Flugzeugabsturz, konnten sie nicht nach unten gehen, da die drei Treppenhäuser des Gebäudes Schaden genommen hatten beziehungsweise unpassierbar waren.",
+        "hypothesis": "Die Treppenhäuser waren sauber.",
+        "label": 2
+    }
+}

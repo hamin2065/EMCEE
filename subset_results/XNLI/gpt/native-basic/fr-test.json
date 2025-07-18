@@ -1,0 +1,42 @@
+[
+    {
+        "id": "fr-4363",
+        "prompt": "Vous \u00eates un expert en inf\u00e9rence en langage naturel. \u00c9tant donn\u00e9 la pr\u00e9misse et l'hypoth\u00e8se, votre t\u00e2che est de juger si l'hypoth\u00e8se est vraie, fausse ou ind\u00e9termin\u00e9e compte tenu de la pr\u00e9misse. La relation peut \u00eatre choisie parmi l'implication, la contradiction et la neutralit\u00e9.\nPremise: Marcher sur les pieds des puissants\nHypothesis: Les orteils sont consid\u00e9r\u00e9s comme petits.\nVous devez fournir la r\u00e9ponse finale \u00e0 la fin au format : 'Relation: [Implication, Neutre ou Contradiction]'.",
+        "response": "Relation: Neutre",
+        "predicted_answer": 1,
+        "ground_truth": 2,
+        "is_correct": false
+    },
+    {
+        "id": "fr-913",
+        "prompt": "Vous \u00eates un expert en inf\u00e9rence en langage naturel. \u00c9tant donn\u00e9 la pr\u00e9misse et l'hypoth\u00e8se, votre t\u00e2che est de juger si l'hypoth\u00e8se est vraie, fausse ou ind\u00e9termin\u00e9e compte tenu de la pr\u00e9misse. La relation peut \u00eatre choisie parmi l'implication, la contradiction et la neutralit\u00e9.\nPremise: d\u00e9pensez-le pour ceux qui ont r\u00e9ellement une chance\nHypothesis: D\u00e9pensez-le sur les options qui pourraient fonctionner.\nVous devez fournir la r\u00e9ponse finale \u00e0 la fin au format : 'Relation: [Implication, Neutre ou Contradiction]'.",
+        "response": "Relation: Neutre",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": false
+    },
+    {
+        "id": "fr-2769",
+        "prompt": "Vous \u00eates un expert en inf\u00e9rence en langage naturel. \u00c9tant donn\u00e9 la pr\u00e9misse et l'hypoth\u00e8se, votre t\u00e2che est de juger si l'hypoth\u00e8se est vraie, fausse ou ind\u00e9termin\u00e9e compte tenu de la pr\u00e9misse. La relation peut \u00eatre choisie parmi l'implication, la contradiction et la neutralit\u00e9.\nPremise: Pr\u00e9sentez ce sur quoi vous vous appuyez pour \u00e9valuer la fiabilit\u00e9 des donn\u00e9es comme ind\u00e9termin\u00e9e.\nHypothesis: Il faut expliquer pourquoi la fiabilit\u00e9 des donn\u00e9es n'a pas \u00e9t\u00e9 d\u00e9termin\u00e9e.\nVous devez fournir la r\u00e9ponse finale \u00e0 la fin au format : 'Relation: [Implication, Neutre ou Contradiction]'.",
+        "response": "Relation: Neutre",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": false
+    },
+    {
+        "id": "fr-1961",
+        "prompt": "Vous \u00eates un expert en inf\u00e9rence en langage naturel. \u00c9tant donn\u00e9 la pr\u00e9misse et l'hypoth\u00e8se, votre t\u00e2che est de juger si l'hypoth\u00e8se est vraie, fausse ou ind\u00e9termin\u00e9e compte tenu de la pr\u00e9misse. La relation peut \u00eatre choisie parmi l'implication, la contradiction et la neutralit\u00e9.\nPremise: Et s'il peut? Sang interrompu n\u00e9gligemment.\nHypothesis: Et s'il ne peut pas ? demanda poliment Sang.\nVous devez fournir la r\u00e9ponse finale \u00e0 la fin au format : 'Relation: [Implication, Neutre ou Contradiction]'.",
+        "response": "Relation: Contradiction",
+        "predicted_answer": 2,
+        "ground_truth": 2,
+        "is_correct": true
+    },
+    {
+        "id": "fr-4",
+        "prompt": "Vous \u00eates un expert en inf\u00e9rence en langage naturel. \u00c9tant donn\u00e9 la pr\u00e9misse et l'hypoth\u00e8se, votre t\u00e2che est de juger si l'hypoth\u00e8se est vraie, fausse ou ind\u00e9termin\u00e9e compte tenu de la pr\u00e9misse. La relation peut \u00eatre choisie parmi l'implication, la contradiction et la neutralit\u00e9.\nPremise: Et je pensais que c'\u00e9tait un privil\u00e8ge, et \u00e7a l'est toujours, toujours, j'\u00e9tais le seul 922 Ex-O, c'est l\u00e0 que j'avais effectu\u00e9 ma carri\u00e8re dans l'AFFC Air Force.\nHypothesis: J'avais l'impression que j'\u00e9tais le seul \u00e0 avoir ce num\u00e9ro dans le domaine de carri\u00e8re de l'AFFC Air Force.\nVous devez fournir la r\u00e9ponse finale \u00e0 la fin au format : 'Relation: [Implication, Neutre ou Contradiction]'.",
+        "response": "Relation: Implication",
+        "predicted_answer": 0,
+        "ground_truth": 0,
+        "is_correct": true
+    }
+]

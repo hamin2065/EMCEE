@@ -1,0 +1,92 @@
+[
+    {
+        "id": "-8785178576893271242",
+        "prompt": "Answer the question in one or a few words in English: \n\u5927\u8349\u539f\u306e\u5c0f\u3055\u306a\u5bb6\u3067\u30cd\u30ea\u30fc\u3092\u6f14\u3058\u305f\u306e\u306f\u8ab0\u3067\u3059\u304b\uff1f\nLet's think step-by-step in English.\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "Let's break it down step by step:\n\n1. \u5927\u8349\u539f\u306e\u5c0f\u3055\u306a\u5bb6 (Little House on the Prairie) \u306f\u5c0f\u8aac\u3001\u30c6\u30ec\u30d3\u30b7\u30ea\u30fc\u30ba\u306a\u3069\u304c\u3042\u308b\u3002\n2. \u30cd\u30ea\u30fc (Nellie) \u306f\u30c6\u30ec\u30d3\u30b7\u30ea\u30fc\u30ba\u306e\u767b\u5834\u4eba\u7269\u306e\u4e00\u4eba\u3002\n3. \u30c6\u30ec\u30d3\u30b7\u30ea\u30fc\u30ba\u306e\u4e3b\u306a\u767b\u5834\u4eba\u7269\u306f\u30e1\u30a2\u30ea\u30fc\u30fb\u30a8\u30a4\u30f3\u30ba\u30ef\u30fc\u30b9 (Mary Ingalls) \u304c\u6f14\u3058\u305f\u3002\n4. \u30cd\u30ea\u30fc\u3092\u6f14\u3058\u305f\u306e\u306f\u30e1\u30a2\u30ea\u30fc\u30fb\u30a8\u30a4\u30f3\u30ba\u30ef\u30fc\u30b9 (Mary Ingalls) \u3067\u306f\u306a\u3044\u304c\u3001\u30e1\u30a2\u30ea\u30fc\u3068\u5171\u6f14\u3057\u305f\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u306e\u30cd\u30ea\u30fc\u306f\u30e1\u30a2\u30ea\u30fc\u306e\u30e9\u30a4\u30d0\u30eb\u3060\u3063\u305f\u3002\n5. \u30e1\u30a2\u30ea\u30fc\u3068\u5171\u6f14\u3057\u305f\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u306e\u30cd\u30ea\u30fc\u3092\u6f14\u3058\u305f\u306e\u306f\u30b7\u30e3\u30ed\u30f3\u30fb\u30ce\u30fc\u30e9\u30f3 (Sharon Nolan) \u3067\u306f\u306a\u3044\u304c\u3001\u30b7\u30e3\u30ed\u30f3\u3068\u5171\u6f14\u3057\u305f\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u306e\u30cd\u30ea\u30fc\u306f\u30e1\u30a2\u30ea\u30fc\u306e\u30e9\u30a4\u30d0\u30eb\u3060\u3063\u305f\u3002\n\n\u7b54\u3048\u306f\u30e1\u30a2\u30ea\u30fc\u3068\u5171\u6f14\u3057\u305f\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u306e\u30cd\u30ea\u30fc\u3092\u6f14\u3058\u305f\u30b7\u30e3\u30ed\u30f3\u3067\u306f\u306a\u3044\u304c\u3001\u30b7\u30e3\u30ed\u30f3\u3068\u5171\u6f14\u3057\u305f\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u306e\u30cd\u30ea\u30fc\u306f\u30e1\u30a2\u30ea\u30fc\u306e\u30e9\u30a4\u30d0\u30eb\u3060\u3063\u305f\u3002\u30b7\u30e3\u30ed\u30f3\u3068\u5171\u6f14\u3057\u305f\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u306e\u30cd\u30ea\u30fc\u306f\u30e1\u30a2\u30ea\u30fc\u306e\u30e9\u30a4\u30d0",
+        "predicted_answer": "Let's break it down step by step:\n\n1. \u5927\u8349\u539f\u306e\u5c0f\u3055\u306a\u5bb6 (Little House on the Prairie) \u306f\u5c0f\u8aac\u3001\u30c6\u30ec\u30d3\u30b7\u30ea\u30fc\u30ba\u306a\u3069\u304c\u3042\u308b\u3002\n2. \u30cd\u30ea\u30fc (Nellie) \u306f\u30c6\u30ec\u30d3\u30b7\u30ea\u30fc\u30ba\u306e\u767b\u5834\u4eba\u7269\u306e\u4e00\u4eba\u3002\n3. \u30c6\u30ec\u30d3\u30b7\u30ea\u30fc\u30ba\u306e\u4e3b\u306a\u767b\u5834\u4eba\u7269\u306f\u30e1\u30a2\u30ea\u30fc\u30fb\u30a8\u30a4\u30f3\u30ba\u30ef\u30fc\u30b9 (Mary Ingalls) \u304c\u6f14\u3058\u305f\u3002\n4. \u30cd\u30ea\u30fc\u3092\u6f14\u3058\u305f\u306e\u306f\u30e1\u30a2\u30ea\u30fc\u30fb\u30a8\u30a4\u30f3\u30ba\u30ef\u30fc\u30b9 (Mary Ingalls) \u3067\u306f\u306a\u3044\u304c\u3001\u30e1\u30a2\u30ea\u30fc\u3068\u5171\u6f14\u3057\u305f\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u306e\u30cd\u30ea\u30fc\u306f\u30e1\u30a2\u30ea\u30fc\u306e\u30e9\u30a4\u30d0\u30eb\u3060\u3063\u305f\u3002\n5. \u30e1\u30a2\u30ea\u30fc\u3068\u5171\u6f14\u3057\u305f\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u306e\u30cd\u30ea\u30fc\u3092\u6f14\u3058\u305f\u306e\u306f\u30b7\u30e3\u30ed\u30f3\u30fb\u30ce\u30fc\u30e9\u30f3 (Sharon Nolan) \u3067\u306f\u306a\u3044\u304c\u3001\u30b7\u30e3\u30ed\u30f3\u3068\u5171\u6f14\u3057\u305f\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u306e\u30cd\u30ea\u30fc\u306f\u30e1\u30a2\u30ea\u30fc\u306e\u30e9\u30a4\u30d0\u30eb\u3060\u3063\u305f\u3002\n\n\u7b54\u3048\u306f\u30e1\u30a2\u30ea\u30fc\u3068\u5171\u6f14\u3057\u305f\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u306e\u30cd\u30ea\u30fc\u3092\u6f14\u3058\u305f\u30b7\u30e3\u30ed\u30f3\u3067\u306f\u306a\u3044\u304c\u3001\u30b7\u30e3\u30ed\u30f3\u3068\u5171\u6f14\u3057\u305f\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u306e\u30cd\u30ea\u30fc\u306f\u30e1\u30a2\u30ea\u30fc\u306e\u30e9\u30a4\u30d0\u30eb\u3060\u3063\u305f\u3002\u30b7\u30e3\u30ed\u30f3\u3068\u5171\u6f14\u3057\u305f\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u306e\u30cd\u30ea\u30fc\u306f\u30e1\u30a2\u30ea\u30fc\u306e\u30e9\u30a4\u30d0",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q265540",
+                "text": "\u30a2\u30ea\u30bd\u30f3\u30fb\u30a2\u30fc\u30f3\u30b0\u30ea\u30f3",
+                "aliases": []
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "2479806972542856767",
+        "prompt": "Answer the question in one or a few words in English: \n\u300c\u30d8\u30f3\u30bc\u30eb\u3068\u30b0\u30ec\u30fc\u30c6\u30eb\u300d\u306e\u9b54\u5973\u5f79\u306f\u8ab0\uff1f\nLet's think step-by-step in English.\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "To solve this question, let's break it down step-by-step:\n\n1. Identify the question: The question is asking about the role of the witch in the fairy tale \"Hansel and Gretel.\"\n2. Consider the options: In the fairy tale \"Hansel and Gretel,\" the witch is a main antagonist who tries to eat the two siblings.\n3. Recall the story: The witch in the story is known for being cruel and trying to trick the children.\n4. Identify the character: The character of the witch in the fairy tale \"Hansel and Gretel\" is often portrayed as an evil woman.\n\nAnswer: The witch.",
+        "predicted_answer": "The witch.",
+        "ground_truth": [
+            {
+                "type": "short_phrase",
+                "text": "\u30ed\u30b8\u30fc\u30ca \u30ec\u30c3\u30ab\u30fc\u30de\u30a6\u30eb"
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "-3578394134252581",
+        "prompt": "Answer the question in one or a few words in English: \n\u30d2\u30de\u30e9\u30e4\u5c71\u8108\u306f\u4e16\u754c\u3067\u6700\u3082\u9ad8\u3044\u5c71\u306a\u306e\u304b\nAnswer should be either \"yes\" or \"no\".\nLet's think step-by-step in English.\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "To answer the question, we need to consider the definition of \"\u30d2\u30de\u30e9\u30e4\u5c71\u8108\" (Himalayan mountain range) and the concept of \"\u4e16\u754c\u3067\u6700\u3082\u9ad8\u3044\u5c71\" (the highest mountain in the world).\n\n1. What is the Himalayan mountain range?\n   The Himalayan mountain range is a mountain range in Asia, known for its high peaks.\n\n2. Which mountain is the highest in the Himalayan mountain range?\n   Mount Everest is the highest peak in the Himalayan mountain range.\n\n3. Is Mount Everest the highest mountain in the world?\n   Yes, Mount Everest is widely considered the highest mountain in the world.\n\nTherefore, the Himalayan mountain range contains the highest mountain in the world, which is Mount Everest.\n\nAnswer: yes",
+        "predicted_answer": "yes",
+        "ground_truth": [
+            {
+                "type": "binary",
+                "text": "no"
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "8245563213341141772",
+        "prompt": "Answer the question in one or a few words in English: \n\u6700\u521d\u306e\u30a8\u30af\u30bd\u30b7\u30b9\u30c8\u306e\u6620\u753b\u304c\u516c\u958b\u3055\u308c\u305f\u306e\u306f\u3044\u3064\u304b\nLet's think step-by-step in English.\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "To find the answer, let's break it down step-by-step.\n\n1. The question is about the release date of the first Exorcist film.\n2. The film is titled \"The Exorcist\".\n3. The Exorcist was directed by William Friedkin and released in 1973.\n\nAnswer: 1973.",
+        "predicted_answer": "1973.",
+        "ground_truth": [
+            {
+                "type": "date",
+                "text": "1973-12-26",
+                "aliases": [
+                    "1973 12 26",
+                    "12/26/1973",
+                    "12-26-1973",
+                    "26-12-1973",
+                    "1973 \u5341\u4e8c\u6708 26",
+                    "26/12/1973",
+                    "1973 december, 26",
+                    "1973-12-26",
+                    "12 26 1973",
+                    "26 12 1973",
+                    "26 \u5341\u4e8c\u6708 1973"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "2485054536940137946",
+        "prompt": "Answer the question in one or a few words in English: \n\u30a2\u30e9\u30e2\u306e\u6226\u3044\u306f\u3069\u3053\u3067\u884c\u306a\u308f\u308c\u307e\u3057\u305f\u304b\nLet's think step-by-step in English.\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "To answer the question, let's break it down step by step.\n\n1. We need to know what \"\u30a2\u30e9\u30e2\u306e\u6226\u3044\" means in English. \n   It refers to the Battle of the Alamo.\n\n2. Now we need to know where the Battle of the Alamo took place.\n   The Battle of the Alamo was a famous battle in the Texas Revolution.\n\n3. The Texas Revolution was a fight for independence from Mexico.\n   The battle occurred in the city of San Antonio de Bexar, which is now known as San Antonio, Texas.\n\n4. So, the final answer is the location of the Battle of the Alamo.\n   San Antonio, Texas, is a city located in the United States.\n\nAnswer: San Antonio.",
+        "predicted_answer": "San Antonio.",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q1439",
+                "text": "\u30c6\u30ad\u30b5\u30b9\u5dde",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q975",
+                "text": "\u30b5\u30f3\u30a2\u30f3\u30c8\u30cb\u30aa",
+                "aliases": [
+                    "\u30a2\u30f3\u30c8\u30cb\u30a6\u30b9"
+                ]
+            }
+        ],
+        "is_correct": null
+    }
+]

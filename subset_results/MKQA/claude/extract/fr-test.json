@@ -1,0 +1,99 @@
+[
+    {
+        "id": "5170765158681567047",
+        "sys_prompt": "The following is a reasoning question. Given question and explanation, write answer with format of \"Answer: [one or a few words]\".",
+        "user_prompt": "Question: quand a \u00e9t\u00e9 publi\u00e9e pour la premi\u00e8re fois Sourde, muette, aveugle : histoire de ma vie\nExplanation: Helen Keller's autobiography \"The Story of My Life\" (in French: \"Sourde, muette, aveugle : histoire de ma vie\") was first published in 1903 when she was 22 years old. This groundbreaking book was written during a time when understanding and support for people with disabilities were extremely limited, making her work revolutionary. The book details her remarkable journey of overcoming significant sensory challenges with the help of her dedicated teacher Anne Sullivan, who taught her language and communication. By publishing her autobiography at such a young age, Keller became an inspiration and advocate for people with disabilities, challenging societal perceptions of what was possible for someone who was deaf and blind. Her book not only told her personal story but also became an important historical document about disability, education, and human potential.",
+        "response": "1903",
+        "explanation": "Helen Keller's autobiography \"The Story of My Life\" (in French: \"Sourde, muette, aveugle : histoire de ma vie\") was first published in 1903 when she was 22 years old. This groundbreaking book was written during a time when understanding and support for people with disabilities were extremely limited, making her work revolutionary. The book details her remarkable journey of overcoming significant sensory challenges with the help of her dedicated teacher Anne Sullivan, who taught her language and communication. By publishing her autobiography at such a young age, Keller became an inspiration and advocate for people with disabilities, challenging societal perceptions of what was possible for someone who was deaf and blind. Her book not only told her personal story but also became an important historical document about disability, education, and human potential.",
+        "predicted_answer": "1903",
+        "ground_truth": [
+            {
+                "type": "date",
+                "text": "1903",
+                "aliases": [
+                    "1903"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "4189590166138253194",
+        "sys_prompt": "The following is a reasoning question. Given question and explanation, write answer with format of \"Answer: [one or a few words]\".",
+        "user_prompt": "Question: qui a le plus d'argent dans la nba\nExplanation: LeBron James is currently considered the wealthiest player in the NBA, with a net worth estimated around $1 billion. His wealth comes not just from his basketball salary, but also from numerous lucrative endorsement deals with major brands like Nike, as well as smart business investments in companies, media production, and sports franchises. Beyond his on-court earnings, LeBron has been strategic about building his financial portfolio, including ownership stakes in Liverpool Football Club and Blaze Pizza. Understanding his financial success involves recognizing both his exceptional athletic performance and his savvy business acumen off the basketball court.",
+        "response": "LeBron James",
+        "explanation": "LeBron James is currently considered the wealthiest player in the NBA, with a net worth estimated around $1 billion. His wealth comes not just from his basketball salary, but also from numerous lucrative endorsement deals with major brands like Nike, as well as smart business investments in companies, media production, and sports franchises. Beyond his on-court earnings, LeBron has been strategic about building his financial portfolio, including ownership stakes in Liverpool Football Club and Blaze Pizza. Understanding his financial success involves recognizing both his exceptional athletic performance and his savvy business acumen off the basketball court.",
+        "predicted_answer": "LeBron James",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q189240",
+                "text": "Kevin Garnett",
+                "aliases": []
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "-851149197598120689",
+        "sys_prompt": "The following is a reasoning question. Given question and explanation, write answer with format of \"Answer: [one or a few words]\".",
+        "user_prompt": "Question: qui joue le p\u00e8re de cole dans f the prom\nExplanation: In the Netflix movie \"The Prom\", the character of Cole's father is played by Kevin Cahoon. This is an important detail in understanding the film's narrative about LGBTQ+ acceptance and family dynamics. The movie, which features Meryl Streep and Nicole Kidman, tells the story of a lesbian high school student who wants to bring her girlfriend to the prom, and Kevin Cahoon's character is part of the supporting cast that helps explore themes of family support and understanding. Understanding the actor and his role can provide context to the film's broader message of inclusivity and acceptance.",
+        "response": "Kevin Cahoon",
+        "explanation": "In the Netflix movie \"The Prom\", the character of Cole's father is played by Kevin Cahoon. This is an important detail in understanding the film's narrative about LGBTQ+ acceptance and family dynamics. The movie, which features Meryl Streep and Nicole Kidman, tells the story of a lesbian high school student who wants to bring her girlfriend to the prom, and Kevin Cahoon's character is part of the supporting cast that helps explore themes of family support and understanding. Understanding the actor and his role can provide context to the film's broader message of inclusivity and acceptance.",
+        "predicted_answer": "Kevin Cahoon",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q352233",
+                "text": "Ian Ziering",
+                "aliases": []
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "5862856443680173655",
+        "sys_prompt": "The following is a reasoning question. Given question and explanation, write answer with format of \"Answer: [one or a few words]\".",
+        "user_prompt": "Question: quand ont ils chang\u00e9 la boxe en 12 rounds\nExplanation: The change from 15-round to 12-round boxing matches occurred in 1982, primarily due to safety concerns following the tragic death of boxer Duk Koo Kim in a championship fight against Ray Mancini. This pivotal moment led the World Boxing Council (WBC) and other major boxing organizations to reduce championship fights from 15 to 12 rounds to minimize the risk of severe injuries and fatalities. The decision was a significant turning point in boxing history, reflecting a growing awareness of athlete safety and the potential long-term health consequences of prolonged, intense physical combat. This change has since become the standard for professional boxing championship fights worldwide.",
+        "response": "1982",
+        "explanation": "The change from 15-round to 12-round boxing matches occurred in 1982, primarily due to safety concerns following the tragic death of boxer Duk Koo Kim in a championship fight against Ray Mancini. This pivotal moment led the World Boxing Council (WBC) and other major boxing organizations to reduce championship fights from 15 to 12 rounds to minimize the risk of severe injuries and fatalities. The decision was a significant turning point in boxing history, reflecting a growing awareness of athlete safety and the potential long-term health consequences of prolonged, intense physical combat. This change has since become the standard for professional boxing championship fights worldwide.",
+        "predicted_answer": "1982",
+        "ground_truth": [
+            {
+                "type": "date",
+                "text": "1987-10-19",
+                "aliases": [
+                    "1987-10-19",
+                    "10/19/1987",
+                    "10-19-1987",
+                    "1987 octobre 19",
+                    "10 19 1987",
+                    "19-10-1987",
+                    "1987 10 19",
+                    "19/10/1987",
+                    "19 10 1987",
+                    "1987 october, 19",
+                    "19 octobre 1987"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "6873585089990668750",
+        "sys_prompt": "The following is a reasoning question. Given question and explanation, write answer with format of \"Answer: [one or a few words]\".",
+        "user_prompt": "Question: qui est l\u2019entra\u00eeneur principal des browns de cleveland\nExplanation: Kevin Stefanski is the head coach of the Cleveland Browns, a position he has held since 2020. He was hired to help transform the team's performance and culture after years of struggling. Stefanski is known for his offensive expertise and background in coaching, having previously worked as an offensive coordinator for the Minnesota Vikings. Understanding the context of NFL coaching is important, as head coaches play a crucial role in team strategy, player development, and overall team performance. His appointment was part of the Browns' efforts to rebuild and improve their competitive standing in the league.",
+        "response": "Kevin Stefanski",
+        "explanation": "Kevin Stefanski is the head coach of the Cleveland Browns, a position he has held since 2020. He was hired to help transform the team's performance and culture after years of struggling. Stefanski is known for his offensive expertise and background in coaching, having previously worked as an offensive coordinator for the Minnesota Vikings. Understanding the context of NFL coaching is important, as head coaches play a crucial role in team strategy, player development, and overall team performance. His appointment was part of the Browns' efforts to rebuild and improve their competitive standing in the league.",
+        "predicted_answer": "Kevin Stefanski",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q5496752",
+                "text": "Freddie Kitchens",
+                "aliases": []
+            }
+        ],
+        "is_correct": null
+    }
+]

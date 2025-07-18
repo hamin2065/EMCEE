@@ -1,0 +1,42 @@
+[
+    {
+        "id": "232",
+        "prompt": "Here is a premise: \u6e29\u5ea6\u8ba1\u4e2d\u7684\u6c5e\u4e0a\u5347\u3002. What is the cause? Help me pick the more plausible option: -choice1: \u6211\u628a\u6e29\u5ea6\u8ba1\u6389\u4e86\u3002, -choice2: [choice]\nLet's think step-by-step in English.\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "Let's break down the situation step by step:\n\n1. \u6e29\u5ea6\u8ba1\u4e2d\u7684\u6c5e\u4e0a\u5347 (The mercury in the thermometer is rising).\n2. This usually indicates an increase in temperature.\n3. \u6211\u628a\u6e29\u5ea6\u8ba1\u6389\u4e86 (I dropped the thermometer) - This option implies that the thermometer is being manipulated or moved, which might cause the mercury to rise due to external factors.\n4. Another possible option is missing, but based on the context, we can assume it might be related to the temperature change itself.\n\nConsidering the situation, the most plausible cause of the mercury rising in the thermometer is a change in temperature, not the act of dropping the thermometer. Therefore:\n\nAnswer: 2",
+        "predicted_answer": 2,
+        "ground_truth": 1,
+        "is_correct": true
+    },
+    {
+        "id": "110",
+        "prompt": "Here is a premise: \u6211\u9519\u8fc7\u4e86\u6211\u5973\u670b\u53cb\u7684\u7535\u8bdd\u3002. What is the effect? Help me pick the more plausible option: -choice1: \u6211\u7ed9\u5979\u56de\u4e86\u7535\u8bdd\u3002, -choice2: [choice]\nLet's think step-by-step in English.\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "Let's break down the situation step-by-step:\n\n1. You missed your girlfriend's call.\n2. This means she tried to contact you, but you weren't available at the time.\n3. Now, you need to respond to her call to let her know you received it and to catch up with her.\n\nConsidering these steps, the most plausible option would be to return her call. This shows that you value her time and are making an effort to communicate with her.\n\nAnswer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "71",
+        "prompt": "Here is a premise: \u5973\u4eba\u7761\u8fc7\u5934\u4e86\u3002. What is the cause? Help me pick the more plausible option: -choice1: \u5979\u5728\u65c5\u9986\u4f4f\u4e86\u4e00\u665a\u3002, -choice2: [choice]\nLet's think step-by-step in English.\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "To determine the cause of the woman sleeping in, let's analyze the given options.\n\n1. Choice 1: \u5979\u5728\u65c5\u9986\u4f4f\u4e86\u4e00\u665a. (She stayed in a hotel for one night.) This option implies that she was traveling and possibly had a late check-in or an early check-out the next day. It's a plausible reason for oversleeping.\n\n2. We don't have a second option provided in the prompt, but I can suggest an alternative option: \u5979\u6628\u665a\u71ac\u591c\u5de5\u4f5c\u4e86\u3002 (She worked late into the night yesterday.) This option implies that she was engaged in an activity that kept her awake until late, leading to oversleeping the next day.\n\nConsidering the options, I think the more plausible reason for the woman sleeping in is that she stayed in a hotel for one night. This scenario is more directly related to oversleeping, as she might have had a disrupted sleep schedule due to the travel.\n\nAnswer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 1,
+        "is_correct": false
+    },
+    {
+        "id": "413",
+        "prompt": "Here is a premise: \u7f6a\u72af\u4ece\u8b66\u5bdf\u8eab\u8fb9\u9003\u8d70\u4e86\u3002. What is the effect? Help me pick the more plausible option: -choice1: \u8b66\u5bdf\u7167\u987e\u4e86\u53d7\u5bb3\u8005\u3002, -choice2: [choice]\nLet's think step-by-step in English.\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "Let's break down the situation step by step.\n\n1. A criminal escapes from the police.\n2. The police are now focused on catching the escaped criminal.\n3. Their priority is to apprehend the fugitive, not to care for the victim.\n\nConsidering these steps, the most plausible outcome is that the police will be too busy chasing the escaped criminal to care for the victim.\n\nAnswer: 2",
+        "predicted_answer": 2,
+        "ground_truth": 1,
+        "is_correct": true
+    },
+    {
+        "id": "478",
+        "prompt": "Here is a premise: \u5973\u5b69\u8138\u8272\u82cd\u767d\u3002. What is the effect? Help me pick the more plausible option: -choice1: \u5979\u7236\u4eb2\u7ed9\u5979\u8bfb\u4e86\u4e00\u4e2a\u6545\u4e8b\u3002, -choice2: [choice]\nLet's think step-by-step in English.\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "To analyze the effect of the premise \"\u5973\u5b69\u8138\u8272\u82cd\u767d\u3002\" (The girl's face is pale.), let's break it down step by step.\n\n1. The girl's face is pale, which suggests she might be feeling unwell or experiencing some kind of physical or emotional distress.\n2. The story choice options are:\n   - choice1: \u5979\u7236\u4eb2\u7ed9\u5979\u8bfb\u4e86\u4e00\u4e2a\u6545\u4e8b\u3002 (Her father read her a story.)\n   - choice2: (This option is incomplete, so we'll ignore it for now.)\n\nConsidering the girl's pale face, we need to think of a scenario that would cause her to feel unwell or distressed. Reading a story is generally a calming and enjoyable activity, so it's less likely to cause distress.\n\nHowever, there are many other possible scenarios that could cause a girl to feel pale, such as being sick, scared, or experiencing a traumatic event.\n\nSince we don't have more information, let's think of a plausible option that might be related to her pale face. \n\nAnswer: 2",
+        "predicted_answer": 2,
+        "ground_truth": 1,
+        "is_correct": true
+    }
+]

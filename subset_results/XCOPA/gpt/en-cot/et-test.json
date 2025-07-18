@@ -1,0 +1,42 @@
+[
+    {
+        "id": "279",
+        "prompt": "Here is a premise: T\u00fcdruk \u00fchines v\u00e4itlusmeeskonnaga.. What is the effect? Help me pick the more plausible option: -choice1: Ta \u00f5ppis arvutit kasutama., -choice2: [choice]\nLet's think step-by-step in English.\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "To determine the effect of the premise \"T\u00fcdruk \u00fchines v\u00e4itlusmeeskonnaga\" (The girl joined the debate team), we need to consider what joining a debate team typically entails. \n\nJoining a debate team usually involves developing skills in argumentation, public speaking, critical thinking, and possibly research. While learning to use a computer could be a part of this process (for example, researching topics or preparing presentations), it is not a direct or guaranteed effect of joining a debate team.\n\nOn the other hand, the skills learned from being part of a debate team are more directly related to communication and argumentation rather than computer skills.\n\nGiven the options:\n- choice1: \"Ta \u00f5ppis arvutit kasutama.\" (She learned to use a computer.)\n- choice2: [choice]\n\nSince choice1 is not a direct effect of joining a debate team, and we don't have a specific choice2 to evaluate, we can conclude that choice1 is less plausible as a direct effect.\n\nTherefore, the more plausible option is choice2, which we assume to be more relevant to the context of joining a debate team.\n\nAnswer: 2",
+        "predicted_answer": 2,
+        "ground_truth": 1,
+        "is_correct": true
+    },
+    {
+        "id": "112",
+        "prompt": "Here is a premise: Ma n\u00e4gin oma hinge\u00f5hku, kui ma v\u00e4lja hindasin.. What is the cause? Help me pick the more plausible option: -choice1: Ilm oli jahe., -choice2: [choice]\nLet's think step-by-step in English.\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "To analyze the premise \"Ma n\u00e4gin oma hinge\u00f5hku, kui ma v\u00e4lja hindasin,\" which translates to \"I saw my breath when I evaluated outside,\" we need to consider the context. Seeing one's breath typically occurs in cold weather, as the warm moisture from the breath condenses in the cooler air.\n\nNow, let's evaluate the choices:\n\n- Choice 1: \"Ilm oli jahe.\" translates to \"The weather was cool.\"\n- Choice 2: [choice] (not provided).\n\nSince the first choice directly relates to the phenomenon of seeing one's breath, it is the most plausible cause.\n\nAnswer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "23",
+        "prompt": "Here is a premise: \u00d5pilane teadis k\u00fcsimusele vastust.. What is the effect? Help me pick the more plausible option: -choice1: Ta t\u00f5stis oma k\u00e4e., -choice2: [choice]\nLet's think step-by-step in English.\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "To analyze the premise \"\u00d5pilane teadis k\u00fcsimusele vastust\" (The student knew the answer to the question), we need to consider the implications of this knowledge. \n\nIf the student knows the answer, it is reasonable to expect that they would want to indicate this knowledge, especially in a classroom setting. The action of raising a hand is a common way for students to signal that they have an answer or want to participate.\n\nNow, let's evaluate the options:\n- choice1: \"Ta t\u00f5stis oma k\u00e4e.\" (He/She raised his/her hand.)\n- choice2: [choice] (This option is unspecified, so we cannot evaluate it.)\n\nGiven that choice1 directly correlates with the premise by showing a logical action that a student would take upon knowing the answer, it is the more plausible option.\n\nTherefore, the answer is:\nAnswer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "140",
+        "prompt": "Here is a premise: Poiss teritas pliiatsit.. What is the cause? Help me pick the more plausible option: -choice1: See oli odav., -choice2: [choice]\nLet's think step-by-step in English.\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "To determine the cause of the premise \"Poiss teritas pliiatsit\" (which translates to \"The boy sharpened the pencils\"), we need to analyze the options provided.\n\n- Choice 1: \"See oli odav.\" translates to \"It was cheap.\" This suggests that the boy might have sharpened the pencils because they were inexpensive, possibly indicating that he wanted to make use of them rather than waste them.\n\n- Choice 2: [choice] is not specified, so we cannot evaluate it.\n\nSince we only have one clear option to analyze, and it provides a plausible reason for why the boy would sharpen the pencils, we can conclude that it is the most reasonable choice.\n\nAnswer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 1,
+        "is_correct": false
+    },
+    {
+        "id": "445",
+        "prompt": "Here is a premise: Naine haaras oma k\u00f5rist.. What is the cause? Help me pick the more plausible option: -choice1: Ta neelas oma toidu alla., -choice2: [choice]\nLet's think step-by-step in English.\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "To determine the cause of \"Naine haaras oma k\u00f5rist\" (The woman grabbed her throat), we need to analyze the options provided.\n\n- **Choice 1: Ta neelas oma toidu alla.** (She swallowed her food down.) This option suggests that the woman might have had difficulty swallowing, which could lead her to grab her throat, possibly indicating choking or discomfort.\n\n- **Choice 2: [choice]** (This option is unspecified, so we cannot evaluate it.)\n\nSince choice 1 provides a clear and plausible reason for the woman grabbing her throat, while choice 2 lacks any information, we can conclude that choice 1 is the more plausible option.\n\nAnswer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 1,
+        "is_correct": false
+    }
+]

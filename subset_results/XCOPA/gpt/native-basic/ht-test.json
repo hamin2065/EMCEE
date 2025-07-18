@@ -1,0 +1,42 @@
+[
+    {
+        "id": "107",
+        "prompt": "Men yon premis: Saldeben an te inonde.. Ki sa ki k\u00f2z? Ede m chwazi opsyon ki pi plizib: -chwa1: Twal\u00e8t la te deb\u00f2de., -chwa2: Chofdlo a te kase.\nOu ta dwe chwazi s\u00e8lman yon opsyon pou repons ou an. Ou ta dwe reponn kesyon an nan f\u00f2ma \"Repons: [1 oswa 2]\"",
+        "response": "Repons: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "464",
+        "prompt": "Men yon premis: Fanmi a te vle f\u00e8 konesans nouvo vwazen yo.. Ki sa ki ef\u00e8? Ede m chwazi opsyon ki pi plizib: -chwa1: Fanmi a te envite vwazen yo pou dine., -chwa2: Fanmi a te voye men bay vwazen yo nan lakou a.\nOu ta dwe chwazi s\u00e8lman yon opsyon pou repons ou an. Ou ta dwe reponn kesyon an nan f\u00f2ma \"Repons: [1 oswa 2]\"",
+        "response": "Repons: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "63",
+        "prompt": "Men yon premis: Men mwen te sezi.. Ki sa ki k\u00f2z? Ede m chwazi opsyon ki pi plizib: -chwa1: Mwen te ekri redaksyon an a la men., -chwa2: Madanm mwen kenbe men av\u00e8 mwen.\nOu ta dwe chwazi s\u00e8lman yon opsyon pou repons ou an. Ou ta dwe reponn kesyon an nan f\u00f2ma \"Repons: [1 oswa 2]\"",
+        "response": "Repons: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "454",
+        "prompt": "Men yon premis: Madanm nan te trebiche sou trotwa a.. Ki sa ki k\u00f2z? Ede m chwazi opsyon ki pi plizib: -chwa1: Te gen yon fant nan siman an., -chwa2: Li te tande yon moun ap rele non li.\nOu ta dwe chwazi s\u00e8lman yon opsyon pou repons ou an. Ou ta dwe reponn kesyon an nan f\u00f2ma \"Repons: [1 oswa 2]\"",
+        "response": "Repons: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "456",
+        "prompt": "Men yon premis: Mwen te pran antibyotik.. Ki sa ki ef\u00e8? Ede m chwazi opsyon ki pi plizib: -chwa1: Enfeksyon mwen te geri., -chwa2: Enfeksyon mwen te gaye.\nOu ta dwe chwazi s\u00e8lman yon opsyon pou repons ou an. Ou ta dwe reponn kesyon an nan f\u00f2ma \"Repons: [1 oswa 2]\"",
+        "response": "Repons: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    }
+]

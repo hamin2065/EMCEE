@@ -1,0 +1,288 @@
+{
+    "et": {
+        "18": {
+            "question": "cause",
+            "premise": "Koka silmad jooksid vett.",
+            "choice1": "Tal said sibulad otsa.",
+            "choice2": "Ta hakkis sibulat.",
+            "label": 1,
+            "explanation": "The premise \"Koka silmad jooksid vett\" translates to \"The cook's eyes were watering.\" This is a common reaction when someone is chopping onions, as onions release a gas that irritates the eyes and causes them to water. Therefore, the correct cause of the cook's eyes watering is that they were chopping onions, which corresponds to choice 2: \"Ta hakkis sibulat\" (\"They were chopping onions\"). Choice 1, \"Tal said sibulad otsa\" (\"They ran out of onions\"), would not cause the cook's eyes to water, as it does not involve the physical action that releases the eye-irritating gas."
+        },
+        "58": {
+            "question": "cause",
+            "premise": "Mees minestas.",
+            "choice1": "Ta tegi uinaku.",
+            "choice2": "Ta jooksis maratoni.",
+            "label": 1,
+            "explanation": "The premise states that a man fainted. Fainting can occur due to physical exhaustion, dehydration, or overexertion, which are common outcomes of running a marathon. Marathons are long-distance races that require significant physical effort, often leading to fatigue or fainting if the runner is not adequately prepared or hydrated. On the other hand, taking a nap, as suggested in choice 1, is generally a restful activity and unlikely to cause fainting. Therefore, the more plausible cause of fainting in this context is the physical exertion from running a marathon, making choice 2 the correct answer."
+        },
+        "98": {
+            "question": "effect",
+            "premise": "Arvutit oli kallis parandada.",
+            "choice1": "Ma lasin selle \u00e4ra parandada.",
+            "choice2": "Ma ostsin uue.",
+            "label": 1,
+            "explanation": "When something is expensive to repair, people often consider whether it's more cost-effective to replace it rather than fix it. In this scenario, the premise states that the computer was expensive to repair. This suggests that the owner might decide against repairing it due to the high cost. Therefore, the more logical effect is that the owner chose to buy a new computer instead, as indicated by choice 2. This choice reflects a common decision-making process where individuals weigh the costs and benefits of repairing versus replacing an item."
+        }
+    },
+    "ht": {
+        "18": {
+            "question": "cause",
+            "premise": "Je kwizinye a te f\u00e8 dlo.",
+            "choice1": "Li te fini ak zonyon yo.",
+            "choice2": "Li te koupe yon zonyon.",
+            "label": 1,
+            "explanation": "The premise \"Je kwizinye a te f\u00e8 dlo\" translates to \"The chef's eyes watered.\" This is a common reaction when someone cuts an onion, as onions release a gas that irritates the eyes, causing them to water. Choice 2, \"Li te koupe yon zonyon,\" means \"He cut an onion,\" which directly explains why the chef's eyes would water. On the other hand, choice 1, \"Li te fini ak zonyon yo,\" means \"He finished with the onions,\" which does not directly cause the eyes to water. Therefore, the correct choice is 2, as it directly relates to the action that causes the eyes to water."
+        },
+        "58": {
+            "question": "cause",
+            "premise": "Msye a te endispoze.",
+            "choice1": "Li te ale domi.",
+            "choice2": "Li te kouri yon maraton.",
+            "label": 1,
+            "explanation": "The premise states that \"Msye a te endispoze,\" which means \"The man was unwell.\" To determine the cause of his condition, we need to consider which activity is more likely to lead to feeling unwell. Choice 1, \"Li te ale domi,\" means \"He went to sleep,\" which is generally a restful activity and unlikely to cause someone to feel unwell. On the other hand, choice 2, \"Li te kouri yon maraton,\" means \"He ran a marathon,\" which is a physically demanding activity that could easily lead to someone feeling unwell due to exhaustion or overexertion. Therefore, the correct choice is 2, as running a marathon is a plausible cause for feeling unwell."
+        },
+        "98": {
+            "question": "effect",
+            "premise": "Konpit\u00e8 a te koute sh\u00e8 pou repare.",
+            "choice1": "Mwen te fe repare li.",
+            "choice2": "Mwen te ashte youn n\u00e8f.",
+            "label": 1,
+            "explanation": "The premise states that the computer was expensive to repair. When faced with high repair costs, a common decision is to consider whether it's more economical to buy a new item instead of repairing the old one. In this context, if the repair costs are high, it might make more sense to purchase a new computer, which could offer better value and updated features. Therefore, the effect of the computer being expensive to repair is that the person decided to buy a new one, making choice 2 the correct answer."
+        }
+    },
+    "id": {
+        "18": {
+            "question": "cause",
+            "premise": "Mata koki itu berkaca-kaca.",
+            "choice1": "Ia telah kehabisan bawang.",
+            "choice2": "Ia sedang memotong bawang.",
+            "label": 1,
+            "explanation": "The phrase \"mata koki itu berkaca-kaca\" suggests that the chef's eyes are watery or teary. This is a common reaction when someone is cutting onions, as onions release a gas that irritates the eyes and causes them to tear up. Therefore, the correct cause of the chef's watery eyes is that they are cutting onions, which aligns with choice 2. Running out of onions, as mentioned in choice 1, would not cause the chef's eyes to water."
+        },
+        "58": {
+            "question": "cause",
+            "premise": "Lelaki itu pingsan.",
+            "choice1": "Ia telah bertidur siang.",
+            "choice2": "Ia telah lari dalam maraton.",
+            "label": 1,
+            "explanation": "The premise states that the man fainted. Fainting is often caused by physical exhaustion, dehydration, or a sudden drop in blood pressure, which can occur after intense physical activity. Running a marathon is a strenuous activity that can lead to such conditions, making it a plausible cause for fainting. On the other hand, taking a nap is generally a restful activity and is unlikely to cause someone to faint. Therefore, the correct choice is that the man fainted because he had been running in a marathon."
+        },
+        "98": {
+            "question": "effect",
+            "premise": "Komputer ini mahal kalau diperbaiki.",
+            "choice1": "Saya memperbaikinya.",
+            "choice2": "Saya membeli yang baru.",
+            "label": 1,
+            "explanation": "The premise states that repairing the computer is expensive. When faced with high repair costs, a common and logical decision is to consider alternatives that might be more cost-effective in the long run. Buying a new computer can be a more practical solution if the repair costs are close to or exceed the price of a new one. Therefore, the effect of the computer being expensive to repair is more likely to lead to the decision to purchase a new one, making choice 2 the correct answer."
+        }
+    },
+    "it": {
+        "18": {
+            "question": "cause",
+            "premise": "Gli occhi del cuoco lacrimarono.",
+            "choice1": "Aveva finito le cipolle.",
+            "choice2": "Aveva tagliato una cipolla.",
+            "label": 1,
+            "explanation": "The correct choice is that the cook's eyes watered because he had cut an onion. This is a common experience when cutting onions, as they release a gas called syn-Propanethial-S-oxide, which irritates the eyes and causes them to produce tears. The other option, that the cook had finished the onions, would not cause his eyes to water. This is a well-known phenomenon in cooking, and understanding this common reaction helps identify the correct cause of the cook's tears."
+        },
+        "58": {
+            "question": "cause",
+            "premise": "L'uomo svenne.",
+            "choice1": "Si era fatto un pisolino.",
+            "choice2": "Aveva corso una maratona.",
+            "label": 1,
+            "explanation": "The premise states that the man fainted. Fainting is often caused by physical exhaustion, dehydration, or a sudden drop in blood pressure, which can occur after intense physical activity. Running a marathon is a strenuous activity that can lead to such conditions, making it a plausible cause for fainting. On the other hand, taking a nap is generally a restful activity and is unlikely to cause someone to faint. Therefore, the correct choice is that the man fainted because he had run a marathon."
+        },
+        "98": {
+            "question": "effect",
+            "premise": "Era troppo caro aggiustare il computer.",
+            "choice1": "Lo feci riparare.",
+            "choice2": "Ne comprai uno nuovo.",
+            "label": 1,
+            "explanation": "When something is described as \"too expensive\" to repair, it often leads to the decision to find an alternative solution that is more cost-effective. In this case, if repairing the computer is too costly, a common alternative is to purchase a new one instead. This is because buying a new computer might be more economical in the long run, especially if the cost of repairs approaches or exceeds the price of a new device. Therefore, the logical effect of the premise is to buy a new computer, making choice 2 the correct answer."
+        }
+    },
+    "qu": {
+        "18": {
+            "question": "cause",
+            "premise": "Wayk'uqpa \u00f1awinqa wiqiyarqan.",
+            "choice1": "Manam cebullan karqanchu.",
+            "choice2": "Cebullatam kuchurqan.",
+            "label": 1,
+            "explanation": "The premise \"Wayk'uqpa \u00f1awinqa wiqiyarqan\" suggests that the cook's eyes were affected, likely causing them to tear up. In many cultures, including those familiar with Quechua, it is common knowledge that cutting onions can cause eyes to water due to the release of certain chemicals. Therefore, the correct choice is \"Cebullatam kuchurqan,\" which means \"He/she cut onions.\" This choice directly links the action of cutting onions to the effect on the eyes, providing a logical cause for the cook's eyes watering. The other choice, \"Manam cebullan karqanchu,\" implies that there were no onions, which would not explain the watering eyes."
+        },
+        "58": {
+            "question": "cause",
+            "premise": "Qhariqa yuyaynintam chinkarachirqan.",
+            "choice1": "Samarikuspa pu\u00f1urikurqan.",
+            "choice2": "Phawaypim atinakurqan.",
+            "label": 1,
+            "explanation": "The premise states that the man lost his memory. The question asks for the cause of this memory loss. Choice 1 suggests that the man lost his memory because he was sleeping, which is unlikely since sleeping typically does not cause memory loss. Choice 2 suggests that the man lost his memory because he was flying, which could imply a situation where he was in an accident or experienced a traumatic event while flying, leading to memory loss. In many contexts, such as a plane crash or a fall, flying could indeed result in a head injury or trauma that causes memory loss. Therefore, choice 2 is the more plausible cause of the memory loss."
+        },
+        "98": {
+            "question": "effect",
+            "premise": "Computadora allichayqa sinchi qullqipaqmi karqan.",
+            "choice1": "Allichachirqani.",
+            "choice2": "Musuqtam rantirqani.",
+            "label": 1,
+            "explanation": "The premise states that repairing the computer was very expensive. This implies that the cost of fixing the computer was high enough to consider other options. The correct choice, \"Musuqtam rantirqani,\" translates to \"I bought a new one.\" This choice makes sense because when the cost of repair is very high, it is often more practical or economical to purchase a new item rather than spend a lot of money on repairs. This reasoning aligns with common consumer behavior, where people opt for new products when repair costs are prohibitive."
+        }
+    },
+    "sw": {
+        "18": {
+            "question": "cause",
+            "premise": "Macho ya mpishi yalitoka machozi.",
+            "choice1": "Vitunguu vilimwishia.",
+            "choice2": "Alikata kitunguu.",
+            "label": 1,
+            "explanation": "The premise states that the cook's eyes were tearing up. In many cultures, including Swahili-speaking ones, it is a common experience that cutting onions causes eyes to tear up due to the release of a chemical irritant. This is a well-known phenomenon and is the most likely reason for the cook's tears. On the other hand, running out of onions would not cause someone to cry physically, although it might be disappointing. Therefore, the correct choice is that the cook was cutting an onion, which directly explains the tears."
+        },
+        "58": {
+            "question": "cause",
+            "premise": "Mwanamme alizimia.",
+            "choice1": "Alipata lepe la usingizi.",
+            "choice2": "Alikimbia mbio za masafa marefu.",
+            "label": 1,
+            "explanation": "The premise states that a man fainted, and we need to determine the likely cause. Choice 1 suggests that he fell asleep, which is generally a natural and restful state, not typically associated with fainting. On the other hand, choice 2 suggests that he ran a long-distance race. Running long distances can be physically demanding and may lead to exhaustion, dehydration, or a drop in blood sugar levels, all of which can cause someone to faint. Therefore, the more plausible cause of fainting in this context is the physical exertion from running a long-distance race, making choice 2 the correct answer."
+        },
+        "98": {
+            "question": "effect",
+            "premise": "Kompyuta ikuwa ni gali sana kutengeneza.",
+            "choice1": "Nilipeleka kutengenezwa.",
+            "choice2": "Nilinunua nyengine mpya.",
+            "label": 1,
+            "explanation": "The premise states that repairing the computer is very expensive. When faced with high repair costs, a common and logical decision is to consider alternatives that might be more cost-effective in the long run. In this context, buying a new computer can be a more practical solution than spending a lot of money on repairs, especially if the cost of repair approaches or exceeds the price of a new one. Therefore, the correct choice is \"Nilinunua nyengine mpya,\" which means \"I bought a new one.\" This choice reflects a decision to avoid the high repair costs by opting for a new purchase."
+        }
+    },
+    "ta": {
+        "18": {
+            "question": "cause",
+            "premise": "\u0b85\u0ba8\u0bcd\u0ba4 \u0b9a\u0bae\u0bc8\u0baf\u0bb1\u0bcd\u0b95\u0bbe\u0bb0\u0bb0\u0bcd \u0b95\u0ba3\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0ba8\u0bc0\u0bb0\u0bcd \u0bb5\u0b9f\u0bbf\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1",
+            "choice1": "\u0b85\u0bb5\u0ba9\u0bbf\u0b9f\u0bae\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4 \u0bb5\u0bc6\u0b99\u0bcd\u0b95\u0bbe\u0baf\u0bae\u0bcd \u0ba4\u0bc0\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1 \u0baa\u0bcb\u0ba9\u0ba4\u0bc1",
+            "choice2": "\u0b85\u0bb5\u0bb0\u0bcd \u0bb5\u0bc6\u0b99\u0bcd\u0b95\u0bbe\u0baf\u0ba4\u0bcd\u0ba4\u0bc8 \u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd",
+            "label": 1,
+            "explanation": "The premise states that the cook's eyes were watering. In many cultures, including Tamil culture, it is a common experience that cutting onions causes eyes to water due to the release of certain chemicals that irritate the eyes. This is a well-known phenomenon and is often mentioned in cooking contexts. Therefore, the correct cause for the cook's eyes watering is that he was cutting onions, which aligns with choice 2. The first choice, about running out of onions, does not logically lead to eyes watering."
+        },
+        "58": {
+            "question": "cause",
+            "premise": "\u0b85\u0ba8\u0bcd\u0ba4 \u0bae\u0ba9\u0bbf\u0ba4\u0ba9\u0bcd \u0bae\u0baf\u0b95\u0bcd\u0b95\u0bae\u0bcd \u0b85\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd",
+            "choice1": "\u0b85\u0bb5\u0ba9\u0bcd \u0b92\u0bb0\u0bc1 \u0b9a\u0bbf\u0bb1\u0bc1\u0ba4\u0bc2\u0b95\u0bcd\u0b95\u0bae\u0bcd \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0ba9\u0bcd",
+            "choice2": "\u0b85\u0bb5\u0ba9\u0bcd \u0ba8\u0bc6\u0b9f\u0bc1\u0ba8\u0bcd\u0ba4\u0bc2\u0bb0 \u0b93\u0b9f\u0bcd\u0b9f\u0baa\u0bcd\u0baa\u0ba8\u0bcd\u0ba4\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b93\u0b9f\u0bbf\u0ba9\u0bbe\u0ba9\u0bcd",
+            "label": 1,
+            "explanation": "The premise states that the man fainted. To determine the cause, we need to consider which activity is more likely to lead to fainting. Choice 1 suggests that the man took a short nap, which is generally a restful activity and unlikely to cause fainting. On the other hand, choice 2 indicates that the man participated in a long-distance race, which is a physically demanding activity. Engaging in such strenuous exercise without proper preparation or hydration can lead to exhaustion and fainting. Therefore, the correct choice is 2, as it provides a plausible explanation for the man fainting due to physical exertion."
+        },
+        "98": {
+            "question": "effect",
+            "premise": "\u0b85\u0ba8\u0bcd\u0ba4 \u0b95\u0ba3\u0bbf\u0ba3\u0bbf\u0baf\u0bc8\u0b9a\u0bcd \u0b9a\u0bb0\u0bbf \u0b9a\u0bc6\u0baf\u0bcd\u0baf \u0ba8\u0bbf\u0bb1\u0bc8\u0baf \u0b9a\u0bc6\u0bb2\u0bb5\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0baf \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1",
+            "choice1": "\u0ba8\u0bbe\u0ba9\u0bcd \u0baa\u0bb4\u0bc1\u0ba4\u0bc1 \u0baa\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bc7\u0ba9\u0bcd",
+            "choice2": "\u0ba8\u0bbe\u0ba9\u0bcd \u0baa\u0bc1\u0ba4\u0bbf\u0baf\u0ba4\u0bca\u0ba9\u0bcd\u0bb1\u0bc1 \u0bb5\u0bbe\u0b99\u0bcd\u0b95\u0bbf\u0ba9\u0bc7\u0ba9\u0bcd",
+            "label": 1,
+            "explanation": "In the given premise, it is mentioned that fixing the computer required a lot of money. This implies that the cost of repair was significantly high. In such situations, people often consider whether it is more economical to repair an item or to purchase a new one. If the repair costs are too high, it might be more practical and cost-effective to buy a new computer instead. Therefore, the effect of the high repair cost would likely lead to the decision to purchase a new computer, which aligns with choice 2."
+        }
+    },
+    "th": {
+        "18": {
+            "question": "effect",
+            "premise": "\u0e1e\u0e48\u0e2d\u0e04\u0e23\u0e31\u0e27\u0e19\u0e4d\u0e49\u0e32\u0e15\u0e32\u0e44\u0e2b\u0e25",
+            "choice1": "\u0e40\u0e02\u0e32\u0e43\u0e0a\u0e49\u0e2b\u0e31\u0e27\u0e2b\u0e2d\u0e21\u0e2b\u0e21\u0e14",
+            "choice2": "\u0e40\u0e02\u0e32\u0e1b\u0e2d\u0e01\u0e2b\u0e31\u0e27\u0e2b\u0e2d\u0e21",
+            "label": 1,
+            "explanation": "The premise \"\u0e1e\u0e48\u0e2d\u0e04\u0e23\u0e31\u0e27\u0e19\u0e4d\u0e49\u0e32\u0e15\u0e32\u0e44\u0e2b\u0e25\" translates to \"The chef is tearing up.\" This situation is commonly associated with the act of peeling or cutting onions, as onions release a chemical that irritates the eyes and causes tears. Therefore, the effect of the chef tearing up is most likely because he is peeling onions, not because he has used them all up. The correct choice is \"\u0e40\u0e02\u0e32\u0e1b\u0e2d\u0e01\u0e2b\u0e31\u0e27\u0e2b\u0e2d\u0e21?\" which means \"He is peeling onions?\" This choice directly relates to the common experience of tearing up while handling onions."
+        },
+        "58": {
+            "question": "effect",
+            "premise": "\u0e1c\u0e39\u0e49\u0e0a\u0e32\u0e22\u0e40\u0e1b\u0e47\u0e19\u0e25\u0e21",
+            "choice1": "\u0e40\u0e02\u0e32\u0e19\u0e2d\u0e19\u0e1e\u0e31\u0e01",
+            "choice2": "\u0e40\u0e02\u0e32\u0e27\u0e34\u0e48\u0e07\u0e21\u0e32\u0e23\u0e32\u0e18\u0e2d\u0e19",
+            "label": 1,
+            "explanation": "The premise states that a man fainted, which typically means he lost consciousness temporarily. When someone faints, they are usually unable to perform any physical activities, especially something as strenuous as running a marathon. Therefore, the effect of fainting would more logically lead to the man needing to rest and recover, rather than engaging in a physically demanding activity. Thus, the correct choice should be that he rests, not that he runs a marathon. However, the label indicates choice 2, which seems incorrect based on the reasoning provided."
+        },
+        "98": {
+            "question": "effect",
+            "premise": "\u0e04\u0e48\u0e32\u0e0b\u0e48\u0e2d\u0e21\u0e04\u0e2d\u0e21\u0e1e\u0e34\u0e27\u0e40\u0e15\u0e2d\u0e23\u0e4c\u0e41\u0e1e\u0e07\u0e40\u0e01\u0e34\u0e19\u0e44\u0e1b",
+            "choice1": "\u0e09\u0e31\u0e19\u0e40\u0e2d\u0e32\u0e21\u0e31\u0e19\u0e44\u0e1b\u0e0b\u0e48\u0e2d\u0e21",
+            "choice2": "\u0e09\u0e49\u0e19\u0e0b\u0e37\u0e49\u0e2d\u0e40\u0e04\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e43\u0e2b\u0e21\u0e48",
+            "label": 1,
+            "explanation": "When the cost of repairing a computer is too high, it often makes more financial sense to purchase a new one instead. This is because the expense of repairs might approach or even exceed the cost of a new computer, especially if the computer is old or the damage is extensive. Therefore, the logical effect of high repair costs is to opt for buying a new computer, as it can be a more cost-effective and practical solution in the long run. This reasoning aligns with choice 2, \"\u0e09\u0e49\u0e19\u0e0b\u0e37\u0e49\u0e2d\u0e40\u0e04\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e43\u0e2b\u0e21\u0e48\" (I buy a new one)."
+        }
+    },
+    "tr": {
+        "18": {
+            "question": "effect",
+            "premise": "A\u015f\u00e7\u0131n\u0131n g\u00f6zleri suland\u0131.",
+            "choice1": "Elindeki so\u011fanlar bitti.",
+            "choice2": "So\u011fan\u0131 do\u011frad\u0131.",
+            "label": 1,
+            "explanation": "When a cook's eyes water, it is commonly due to chopping onions. Onions release a gas that irritates the eyes, causing them to tear up. This is a well-known phenomenon in cooking. Therefore, the effect of the cook's eyes watering is most likely because they were chopping an onion, making choice 2 the correct answer. The first choice, \"Elindeki so\u011fanlar bitti,\" does not directly relate to the cause of the eyes watering."
+        },
+        "58": {
+            "question": "effect",
+            "premise": "Adam bay\u0131ld\u0131.",
+            "choice1": "Kestirdi.",
+            "choice2": "Bir maraton ko\u015ftu.",
+            "label": 1,
+            "explanation": "The premise states that \"Adam bay\u0131ld\u0131,\" which means \"Adam fainted\" in English. Fainting is often a result of physical exhaustion, dehydration, or overexertion. Running a marathon is an activity that requires significant physical effort and can lead to exhaustion, making it a plausible cause for fainting. Therefore, the correct choice is that Adam fainted because he ran a marathon, as this activity aligns with the potential causes of fainting."
+        },
+        "98": {
+            "question": "effect",
+            "premise": "Bilgisayar\u0131 tamir etmek pahal\u0131yd\u0131.",
+            "choice1": "Tamir ettirdim.",
+            "choice2": "Yeni bir tane ald\u0131m.",
+            "label": 1,
+            "explanation": "When faced with an expensive repair for a computer, a common decision is to consider the cost-effectiveness of repairing versus replacing. If the repair is too costly, it might be more economical to purchase a new computer instead. This reasoning aligns with choice 2, \"Yeni bir tane ald\u0131m,\" which means \"I bought a new one.\" This choice reflects the decision to avoid the high repair costs by opting for a new purchase."
+        }
+    },
+    "vi": {
+        "18": {
+            "question": "cause",
+            "premise": "Ng\u01b0\u1eddi \u0111\u1ea7u b\u1ebfp ch\u1ea3y n\u01b0\u1edbc m\u1eaft.",
+            "choice1": "\u00d4ng \u1ea5y h\u1ebft h\u00e0nh.",
+            "choice2": "\u00d4ng \u1ea5y c\u1eaft m\u1ed9t c\u1ee7 h\u00e0nh.",
+            "label": 1,
+            "explanation": "The correct choice is that the chef is cutting an onion. When onions are cut, they release a chemical irritant known as syn-Propanethial-S-oxide, which stimulates the eyes' lachrymal glands and causes them to produce tears. This is a common experience for anyone who has chopped onions, as the chemical reaction is well-known for causing eyes to water. The other choice, running out of onions, would not typically cause someone to cry."
+        },
+        "58": {
+            "question": "cause",
+            "premise": "Ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng ng\u1ea5t \u0111i.",
+            "choice1": "Anh ta ch\u1ee3p m\u1eaft.",
+            "choice2": "Anh ta ch\u1ea1y marathon.",
+            "label": 1,
+            "explanation": "The premise states that the man fainted. Fainting is often caused by physical exhaustion, dehydration, or a sudden drop in blood pressure. Running a marathon is a physically demanding activity that can lead to exhaustion and dehydration, making it a plausible cause for fainting. On the other hand, taking a nap is generally a restful activity and is unlikely to cause someone to faint. Therefore, the correct choice is that the man fainted because he ran a marathon."
+        },
+        "98": {
+            "question": "effect",
+            "premise": "M\u00e1y t\u00ednh r\u1ea5t \u0111\u1eaft \u0111\u1ec3 s\u1eeda.",
+            "choice1": "T\u00f4i \u0111\u00e3 thu\u00ea ng\u01b0\u1eddi s\u1eeda n\u00f3.",
+            "choice2": "T\u00f4i \u0111\u00e3 mua m\u1ed9t c\u00e1i m\u1edbi.",
+            "label": 1,
+            "explanation": "When faced with an expensive repair cost for a computer, a common and logical decision is to consider purchasing a new one instead. This is because the cost of repairs might approach or even exceed the price of a new computer, making it more economical to invest in a new device. Therefore, the effect of the high repair cost is that the person decides to buy a new computer, aligning with choice 2."
+        }
+    },
+    "zh": {
+        "18": {
+            "question": "cause",
+            "premise": "\u53a8\u5e08\u7684\u773c\u775b\u6d41\u6cea\u4e86\u3002",
+            "choice1": "\u4ed6\u6ca1\u6709\u6d0b\u8471\u4e86\u3002",
+            "choice2": "\u4ed6\u5207\u4e86\u6d0b\u8471\u3002",
+            "label": 1,
+            "explanation": "The correct choice is that the chef's eyes are tearing up because he cut onions. When onions are cut, they release a chemical irritant known as syn-Propanethial-S-oxide, which stimulates the eyes' lachrymal glands and causes them to produce tears. This is a common experience for anyone who chops onions, as the chemical reaction is a natural defense mechanism of the onion. The other choice, that the chef has no onions left, would not cause his eyes to tear up."
+        },
+        "58": {
+            "question": "cause",
+            "premise": "\u90a3\u4eba\u6655\u5012\u4e86\u3002",
+            "choice1": "\u4ed6\u5c0f\u7761\u4e86\u4e00\u4e0b\u3002",
+            "choice2": "\u4ed6\u8dd1\u4e86\u9a6c\u62c9\u677e\u3002",
+            "label": 1,
+            "explanation": "The premise states that a person fainted. Fainting can occur due to physical exhaustion or overexertion. Running a marathon is an intense physical activity that can lead to exhaustion, dehydration, or a drop in blood sugar levels, all of which are common causes of fainting. On the other hand, taking a nap is generally a restful activity and is unlikely to cause someone to faint. Therefore, the more plausible cause of fainting in this context is that the person ran a marathon."
+        },
+        "98": {
+            "question": "effect",
+            "premise": "\u8fd9\u53f0\u8ba1\u7b97\u673a\u4fee\u7406\u8d77\u6765\u5f88\u6602\u8d35\u3002",
+            "choice1": "\u6211\u53bb\u4fee\u597d\u4e86\u5b83\u3002",
+            "choice2": "\u6211\u4e70\u4e86\u4e00\u4e2a\u65b0\u7684\u3002",
+            "label": 1,
+            "explanation": "When faced with an expensive repair for a computer, a common and practical decision is to consider the cost-effectiveness of the repair versus purchasing a new one. If the repair costs are high, it might be more economical to buy a new computer, which could offer better performance and a warranty. This reasoning aligns with choice 2, \"\u6211\u4e70\u4e86\u4e00\u4e2a\u65b0\u7684,\" as it reflects a decision to avoid the high repair costs by opting for a new purchase instead."
+        }
+    }
+}

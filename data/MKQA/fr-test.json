@@ -1,0 +1,1541 @@
+{
+    "4189590166138253194": {
+        "query": "qui a le plus d'argent dans la nba",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q189240",
+                "text": "Kevin Garnett",
+                "aliases": []
+            }
+        ]
+    },
+    "667957236772653012": {
+        "query": "quelle était la chanson numéro un en juin 1994",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q5979116",
+                "text": "I Swear",
+                "aliases": []
+            }
+        ]
+    },
+    "-1432205510645020796": {
+        "query": "quand les Beatles ont-ils joué leur dernier concert",
+        "answer": [
+            {
+                "type": "date",
+                "text": "1966-08-29",
+                "aliases": [
+                    "08 29 1966",
+                    "08/29/1966",
+                    "1966-08-29",
+                    "1966 août 29",
+                    "1966 08 29",
+                    "08-29-1966",
+                    "29 août 1966",
+                    "29/08/1966",
+                    "1966 august, 29",
+                    "29-08-1966",
+                    "29 08 1966"
+                ]
+            }
+        ]
+    },
+    "5599533282117956985": {
+        "query": "distribution de star trek l'attaque préventive de la nouvelle génération",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q239075",
+                "text": "Michelle Forbes",
+                "aliases": [
+                    "Michelle Renee Forbes Guajardo"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q8019281",
+                "text": "William Thomas",
+                "aliases": [
+                    "William Thomas, Jr."
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q1966135",
+                "text": "Natalia Nogulich",
+                "aliases": []
+            }
+        ]
+    },
+    "5238223295674784350": {
+        "query": "d’où vient le nom de famille bates?",
+        "answer": [
+            {
+                "type": "short_phrase",
+                "text": "bartholomew"
+            }
+        ]
+    },
+    "-6535101360203026950": {
+        "query": "qui chante keep me searching for a heart of gold",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q633",
+                "text": "Neil Young",
+                "aliases": [
+                    "Neil Percival Young"
+                ]
+            }
+        ]
+    },
+    "2649357716325848890": {
+        "query": "qui a chanté ever fallen in love with someone",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q939329",
+                "text": "Buzzcocks",
+                "aliases": [
+                    "The Buzzcocks"
+                ]
+            }
+        ]
+    },
+    "-2597595626409302649": {
+        "query": "caractères de dragon ball z commençant par j",
+        "answer": [
+            {
+                "type": "short_phrase",
+                "text": "jeice"
+            },
+            {
+                "type": "short_phrase",
+                "text": "Jewel"
+            },
+            {
+                "type": "short_phrase",
+                "text": "jaco"
+            },
+            {
+                "type": "short_phrase",
+                "text": "janemba"
+            },
+            {
+                "type": "short_phrase",
+                "text": "jacunks"
+            },
+            {
+                "type": "short_phrase",
+                "text": "fr_FR"
+            }
+        ]
+    },
+    "-2165390496741063541": {
+        "query": "Quel était le prix du bitcoin en 2014",
+        "answer": [
+            {
+                "type": "number_with_unit",
+                "text": "400.0 dollar américain",
+                "aliases": [
+                    "400 dollar américain"
+                ]
+            }
+        ]
+    },
+    "-1287563823270820584": {
+        "query": "quand était la dernière fois que manchester united a remporté la ligue des champions",
+        "answer": [
+            {
+                "type": "date",
+                "text": "2008",
+                "aliases": [
+                    "2008"
+                ]
+            }
+        ]
+    },
+    "-6381335597930245919": {
+        "query": "Quelle personne a vécu le plus longtemps au monde ?",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q182260",
+                "text": "Jeanne Calment",
+                "aliases": [
+                    "Jeanne Louise Calment"
+                ]
+            }
+        ]
+    },
+    "5951813401828362619": {
+        "query": "Quand a-t-il été construit, le batiment 'Prudential Plaza' à Chicago?",
+        "answer": [
+            {
+                "type": "date",
+                "text": "1955",
+                "aliases": [
+                    "1955"
+                ]
+            }
+        ]
+    },
+    "2346633961794086914": {
+        "query": "combien y a-t-il de saisons de blue mountain state",
+        "answer": [
+            {
+                "type": "number",
+                "text": "3.0",
+                "aliases": [
+                    "3"
+                ]
+            }
+        ]
+    },
+    "4399719059324940888": {
+        "query": "quand le premier film star trek est sorti",
+        "answer": [
+            {
+                "type": "date",
+                "text": "1979-12-06",
+                "aliases": [
+                    "06/12/1979",
+                    "1979 12 06",
+                    "06 décembre 1979",
+                    "1979-12-06",
+                    "12-06-1979",
+                    "12 06 1979",
+                    "1979 december, 06",
+                    "06 12 1979",
+                    "06-12-1979",
+                    "12/06/1979",
+                    "1979 décembre 06"
+                ]
+            }
+        ]
+    },
+    "5170765158681567047": {
+        "query": "quand a été publiée pour la première fois Sourde, muette, aveugle : histoire de ma vie",
+        "answer": [
+            {
+                "type": "date",
+                "text": "1903",
+                "aliases": [
+                    "1903"
+                ]
+            }
+        ]
+    },
+    "-4420042330380330759": {
+        "query": "Qui a chanté \"how do you talk to an angel\"",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q959159",
+                "text": "Jamie Walters",
+                "aliases": []
+            }
+        ]
+    },
+    "222091346320307366": {
+        "query": "quand est-ce que scooby doo spooky island est sorti",
+        "answer": [
+            {
+                "type": "date",
+                "text": "1969",
+                "aliases": [
+                    "1969"
+                ]
+            }
+        ]
+    },
+    "1435767707210013159": {
+        "query": "Qui chante la chanson In the arms of an angel",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q224650",
+                "text": "Sarah McLachlan",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q715859",
+                "text": "Phil Coulter",
+                "aliases": []
+            }
+        ]
+    },
+    "2121161681161335801": {
+        "query": "Est ce que Deacon découvre que Maddie est sa fille",
+        "answer": [
+            {
+                "type": "binary",
+                "text": "yes"
+            }
+        ]
+    },
+    "1642451768350414016": {
+        "query": "qui chante came in like a wrecking ball",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q4235",
+                "text": "Miley Cyrus",
+                "aliases": [
+                    "Destiny Hope Cyrus",
+                    "Miley Ray Cyrus",
+                    "Destiny Cyrus"
+                ]
+            }
+        ]
+    },
+    "3506569397136907907": {
+        "query": "qui est notre actuel ministre en chef du tamilnadu",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q6323772",
+                "text": "K. Palanisamy",
+                "aliases": []
+            }
+        ]
+    },
+    "-8526285606688247045": {
+        "query": "qui a écrit this guy's in love with you",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q449030",
+                "text": "Hal David",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q212762",
+                "text": "Burt Bacharach",
+                "aliases": []
+            }
+        ]
+    },
+    "-3385807951596078903": {
+        "query": "quand commence la saison des pluies en floride",
+        "answer": [
+            {
+                "type": "date",
+                "text": "05-15",
+                "aliases": [
+                    "may, 15",
+                    "05 15",
+                    "mai 15",
+                    "15 mai",
+                    "05-15"
+                ]
+            }
+        ]
+    },
+    "-851149197598120689": {
+        "query": "qui joue le père de cole dans f the prom",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q352233",
+                "text": "Ian Ziering",
+                "aliases": []
+            }
+        ]
+    },
+    "-448107662289886499": {
+        "query": "qui chante i want to sing you a love song",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q236543",
+                "text": "Anne Murray",
+                "aliases": []
+            }
+        ]
+    },
+    "2709335559771163605": {
+        "query": "quand est sorti le premier disque vinyle",
+        "answer": [
+            {
+                "type": "date",
+                "text": "1930",
+                "aliases": [
+                    "1930"
+                ]
+            }
+        ]
+    },
+    "3317714975739547118": {
+        "query": "Quelle est la largeur de la Manche entre Douvres et Calais",
+        "answer": [
+            {
+                "type": "number_with_unit",
+                "text": "19.0 other unit",
+                "aliases": [
+                    "19 other unit"
+                ]
+            }
+        ]
+    },
+    "7423675480415732989": {
+        "query": "quand a été vendu le premier ordinateur dans les magasins?",
+        "answer": [
+            {
+                "type": "date",
+                "text": "1975",
+                "aliases": [
+                    "1975"
+                ]
+            }
+        ]
+    },
+    "4084395977667974248": {
+        "query": "qui a été désigné deuxième et troisième personnalité sportive de l'année en 2017",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q2736842",
+                "text": "Jonathan Rea",
+                "aliases": [
+                    "Jonathan Andrew Rea"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q3183590",
+                "text": "Jonnie Peacock",
+                "aliases": []
+            }
+        ]
+    },
+    "-17314878580916020": {
+        "query": "Qui chante school's out for the summer",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q332032",
+                "text": "Alice Cooper",
+                "aliases": [
+                    "Vincent Damon Furnier"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q16821277",
+                "text": "Alice Cooper",
+                "aliases": []
+            }
+        ]
+    },
+    "-7619831388087664305": {
+        "query": "qui est l'acteur qui joue justin dans 13 reasons why",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q29168300",
+                "text": "Brandon Flynn",
+                "aliases": []
+            }
+        ]
+    },
+    "6515983275149803151": {
+        "query": "Qui a chanté \" i want to be with you everywhere\" ?",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q106648",
+                "text": "Fleetwood Mac",
+                "aliases": [
+                    "Fleetwoof Mac"
+                ]
+            }
+        ]
+    },
+    "-991000090485382624": {
+        "query": "qui est mort dans Le Pont du roi Saint-Louis",
+        "answer": [
+            {
+                "type": "short_phrase",
+                "text": "oncle pio"
+            },
+            {
+                "type": "short_phrase",
+                "text": "Marquis de Montemayor"
+            },
+            {
+                "type": "short_phrase",
+                "text": "esteban"
+            },
+            {
+                "type": "short_phrase",
+                "text": "jamie"
+            }
+        ]
+    },
+    "6909049231978617648": {
+        "query": "comment s'appelle la partie supérieure de votre jambe",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q129757",
+                "text": "cuisse",
+                "aliases": []
+            }
+        ]
+    },
+    "-7776188577184430999": {
+        "query": "Qui chante \"i can love you like that\"?",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q1189986",
+                "text": "John Michael Montgomery",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q1291981",
+                "text": "All-4-One",
+                "aliases": []
+            }
+        ]
+    },
+    "-7356948734636149725": {
+        "query": "Qui chante la chanson 30 days in the hole",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q664459",
+                "text": "Humble Pie",
+                "aliases": []
+            }
+        ]
+    },
+    "-31266649331466609": {
+        "query": "une accumulation de sels due à l'évaporation de l'eau d'irrigation est appelée",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q754836",
+                "text": "salinisation",
+                "aliases": []
+            }
+        ]
+    },
+    "-8765854288917066130": {
+        "query": "Quelle est la lettre la plus utilisée en anglais",
+        "answer": [
+            {
+                "type": "short_phrase",
+                "text": "E"
+            }
+        ]
+    },
+    "-3421090921215401691": {
+        "query": "en quelles années les vikings sont allés au superbowl",
+        "answer": [
+            {
+                "type": "date",
+                "text": "1970",
+                "aliases": [
+                    "1970"
+                ]
+            },
+            {
+                "type": "date",
+                "text": "1977",
+                "aliases": [
+                    "1977"
+                ]
+            },
+            {
+                "type": "date",
+                "text": "1973",
+                "aliases": [
+                    "1973"
+                ]
+            },
+            {
+                "type": "date",
+                "text": "1974",
+                "aliases": [
+                    "1974"
+                ]
+            },
+            {
+                "type": "date",
+                "text": "1975",
+                "aliases": [
+                    "1975"
+                ]
+            }
+        ]
+    },
+    "-1898289033626389774": {
+        "query": "Qui a marqué un triplé dans la finale du coupe du monde en 1966?",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q212738",
+                "text": "Geoffrey Hurst",
+                "aliases": [
+                    "Geoff Hurst"
+                ]
+            }
+        ]
+    },
+    "-6754290972969208115": {
+        "query": "Quel est le péage du  pont de Benicia  ?",
+        "answer": [
+            {
+                "type": "number_with_unit",
+                "text": "6.0 dollar américain",
+                "aliases": [
+                    "6 dollar américain"
+                ]
+            }
+        ]
+    },
+    "-7784455955853672149": {
+        "query": "quels sont les plus grands états aux états-unis",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q797",
+                "text": "Alaska",
+                "aliases": []
+            }
+        ]
+    },
+    "7350075231654298286": {
+        "query": "quand a-t-on commencé à utiliser des casques au hockey",
+        "answer": [
+            {
+                "type": "date",
+                "text": "1979",
+                "aliases": [
+                    "1979"
+                ]
+            }
+        ]
+    },
+    "8539224853568539242": {
+        "query": "quand madison est devenu la capitale du wisconsin",
+        "answer": [
+            {
+                "type": "date",
+                "text": "1848",
+                "aliases": [
+                    "1848"
+                ]
+            }
+        ]
+    },
+    "-4155326542396542537": {
+        "query": "A qui doit on l'alternative au capitalisme appellée communisme ou socilalisme",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q9061",
+                "text": "Karl Marx",
+                "aliases": [
+                    "Karl Heinrich Marx",
+                    "Marx"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q34787",
+                "text": "Friedrich Engels",
+                "aliases": [
+                    "Engels"
+                ]
+            }
+        ]
+    },
+    "-5120299878162155824": {
+        "query": "qui chante when you say nothing at all",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q371782",
+                "text": "Alison Krauss",
+                "aliases": [
+                    "Alison Maria Krauss"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q346036",
+                "text": "Keith Whitley",
+                "aliases": []
+            }
+        ]
+    },
+    "-5383641367320421876": {
+        "query": "En quelle année est sorti le film Les Goonies",
+        "answer": [
+            {
+                "type": "date",
+                "text": "1985",
+                "aliases": [
+                    "1985"
+                ]
+            }
+        ]
+    },
+    "-4102688898759230453": {
+        "query": "qui a doublé Tommy Vercetti dans GTA Vice City",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q211280",
+                "text": "Ray Liotta",
+                "aliases": []
+            }
+        ]
+    },
+    "-521273537856516003": {
+        "query": "Qui chante Baby now that I've found you",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q1421054",
+                "text": "The Foundations",
+                "aliases": []
+            }
+        ]
+    },
+    "347191315240643171": {
+        "query": "où se joue le match de all-star major league baseball cette année",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q1154053",
+                "text": "Progressive Field",
+                "aliases": [
+                    "Jacobs Field"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q30",
+                "text": "États-Unis",
+                "aliases": [
+                    "USA",
+                    "US",
+                    "Les États",
+                    "Oncle Sam",
+                    "Amérique",
+                    "Etats-Unis",
+                    "States",
+                    "États-Unis d'Amérique",
+                    "pays de l'Oncle Sam"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q1397",
+                "text": "Ohio",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q37320",
+                "text": "Cleveland",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q49",
+                "text": "Amérique du Nord",
+                "aliases": [
+                    "Amérique du Nord (Q19464773) plus Amérique centrale (Q27611)"
+                ]
+            }
+        ]
+    },
+    "-3806684492746395313": {
+        "query": "Quand est-ce que star wars épisode V l'empire contre-attaque est sorti",
+        "answer": [
+            {
+                "type": "date",
+                "text": "1980-05-17",
+                "aliases": [
+                    "1980-05-17",
+                    "17 05 1980",
+                    "17/05/1980",
+                    "1980 may, 17",
+                    "05-17-1980",
+                    "05/17/1980",
+                    "05 17 1980",
+                    "17-05-1980",
+                    "1980 05 17",
+                    "17 mai 1980",
+                    "1980 mai 17"
+                ]
+            }
+        ]
+    },
+    "-398695217292310666": {
+        "query": "qui a le pouvoir d'appliquer les règles de télémarketing",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q786713",
+                "text": "Federal Trade Commission",
+                "aliases": []
+            }
+        ]
+    },
+    "7558353511789930999": {
+        "query": "est-il possible d'avoir 1 point au football",
+        "answer": [
+            {
+                "type": "binary",
+                "text": "yes"
+            }
+        ]
+    },
+    "-5412482968468523890": {
+        "query": "quels acteurs ont joué james bond",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q134333",
+                "text": "Roger Moore",
+                "aliases": [
+                    "Sir Roger George Moore",
+                    "Roger George Moore"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q81520",
+                "text": "Pierce Brosnan",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q41233",
+                "text": "Timothy Dalton",
+                "aliases": [
+                    "Timothy Peter Dalton"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q4547",
+                "text": "Daniel Craig",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q4573",
+                "text": "Sean Connery",
+                "aliases": []
+            }
+        ]
+    },
+    "3341682738047765749": {
+        "query": "quel est le nombre de sièges au total lok sabha en Inde",
+        "answer": [
+            {
+                "type": "number",
+                "text": "545.0",
+                "aliases": [
+                    "545"
+                ]
+            }
+        ]
+    },
+    "-5379350041754676016": {
+        "query": "quand les bruins ont gagné la stanley cup pour la dernière fois ?",
+        "answer": [
+            {
+                "type": "date",
+                "text": "2011",
+                "aliases": [
+                    "2011"
+                ]
+            }
+        ]
+    },
+    "5733542318101225635": {
+        "query": "qui a joué zac efron dans high school musical",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q3541019",
+                "text": "Troy Bolton",
+                "aliases": []
+            }
+        ]
+    },
+    "-2046638038221503486": {
+        "query": "quand est-ce que meurt Mark Sloan dans Grey's Anatomy",
+        "answer": [
+            {
+                "type": "date",
+                "text": "2012-09-27",
+                "aliases": [
+                    "09/27/2012",
+                    "2012 09 27",
+                    "27 09 2012",
+                    "2012 september, 27",
+                    "2012-09-27",
+                    "27 ߛߊ߲߬ߓߏߟߏ߲ ߉ 2012",
+                    "27/09/2012",
+                    "27-09-2012",
+                    "09-27-2012",
+                    "09 27 2012",
+                    "2012 ߛߊ߲߬ߓߏߟߏ߲ ߉ 27"
+                ]
+            }
+        ]
+    },
+    "-1264906731894382025": {
+        "query": "A quel âge peut-on se faire tatouer à Mexico ?",
+        "answer": [
+            {
+                "type": "number_with_unit",
+                "text": "18.0 années",
+                "aliases": [
+                    "18 années"
+                ]
+            }
+        ]
+    },
+    "2567160397377244141": {
+        "query": "Qui chante Behind the sea de Panic at the disco",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q277551",
+                "text": "Panic! at the Disco",
+                "aliases": [
+                    "Panic at the Disco",
+                    "P!ATD"
+                ]
+            }
+        ]
+    },
+    "-1186907498670550741": {
+        "query": "quand est-ce que la saison 5 de the blacklist termine",
+        "answer": [
+            {
+                "type": "date",
+                "text": "2018-05-16",
+                "aliases": [
+                    "05-16-2018",
+                    "16-05-2018",
+                    "2018 mai 16",
+                    "2018 05 16",
+                    "05/16/2018",
+                    "2018 may, 16",
+                    "2018-05-16",
+                    "16 mai 2018",
+                    "16 05 2018",
+                    "16/05/2018",
+                    "05 16 2018"
+                ]
+            }
+        ]
+    },
+    "-7902554675198577581": {
+        "query": "qui a joué charlie dalton dans le cercle des poètes disparus",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q1336571",
+                "text": "Gale Hansen",
+                "aliases": []
+            }
+        ]
+    },
+    "-3513032860379097783": {
+        "query": "quand les blackhawks ont-ils gagné la stanley cup pour la dernière fois",
+        "answer": [
+            {
+                "type": "date",
+                "text": "2015",
+                "aliases": [
+                    "2015"
+                ]
+            }
+        ]
+    },
+    "1585877172898104611": {
+        "query": "quelle zone du cerveau contrôle le mouvement des yeux",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q192570",
+                "text": "pont",
+                "aliases": [
+                    "Sillon bulbo-pontique",
+                    "Pont de Varole",
+                    "Protubérance annulaire"
+                ]
+            }
+        ]
+    },
+    "-4497993721113215532": {
+        "query": "quand le nouveau billet £5 notes est sorti",
+        "answer": [
+            {
+                "type": "date",
+                "text": "2016-09-13",
+                "aliases": [
+                    "09/13/2016",
+                    "09-13-2016",
+                    "13-09-2016",
+                    "13 ߛߊ߲߬ߓߏߟߏ߲ ߉ 2016",
+                    "09 13 2016",
+                    "2016 ߛߊ߲߬ߓߏߟߏ߲ ߉ 13",
+                    "2016 09 13",
+                    "13 09 2016",
+                    "13/09/2016",
+                    "2016 september, 13",
+                    "2016-09-13"
+                ]
+            }
+        ]
+    },
+    "8949382411371180482": {
+        "query": "Quand l'amérique est entrée en guerre avec le Vietnam ?",
+        "answer": [
+            {
+                "type": "date",
+                "text": "1965",
+                "aliases": [
+                    "1965"
+                ]
+            }
+        ]
+    },
+    "-348540518175445519": {
+        "query": "combien d'installations nucléaires distinctes produisent actuellement de l'électricité à wisconsin",
+        "answer": [
+            {
+                "type": "number",
+                "text": "3.0",
+                "aliases": [
+                    "3"
+                ]
+            }
+        ]
+    },
+    "-1870063306648453159": {
+        "query": "qui joue le jumeau de main dans Friends",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q1319539",
+                "text": "Thomas Lennon",
+                "aliases": []
+            }
+        ]
+    },
+    "-8983137535639837730": {
+        "query": "monarque à la fin de la seconde guerre mondiale",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q280856",
+                "text": "George VI",
+                "aliases": [
+                    "Bertie",
+                    "Albert Frederick Arthur George Windsor"
+                ]
+            }
+        ]
+    },
+    "106854207110967430": {
+        "query": "Quand débute la saison régulières de NFL ?",
+        "answer": [
+            {
+                "type": "date",
+                "text": "2019-09-05",
+                "aliases": [
+                    "09 05 2019",
+                    "2019 september, 05",
+                    "2019-09-05",
+                    "05-09-2019",
+                    "05/09/2019",
+                    "09/05/2019",
+                    "05 09 2019",
+                    "2019 09 05",
+                    "05 ߛߊ߲߬ߓߏߟߏ߲ ߉ 2019",
+                    "09-05-2019",
+                    "2019 ߛߊ߲߬ߓߏߟߏ߲ ߉ 05"
+                ]
+            }
+        ]
+    },
+    "-4542117522133065625": {
+        "query": "qui chante 'what the world needs now is love'",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q271045",
+                "text": "Jackie DeShannon",
+                "aliases": [
+                    "Jackie de Shannon",
+                    "Sharon Lee Myers"
+                ]
+            }
+        ]
+    },
+    "-1759846998765986911": {
+        "query": "combien d'Etats y a t-il sur terre",
+        "answer": [
+            {
+                "type": "number",
+                "text": "206.0",
+                "aliases": [
+                    "206"
+                ]
+            },
+            {
+                "type": "number",
+                "text": "195.0",
+                "aliases": [
+                    "195"
+                ]
+            }
+        ]
+    },
+    "217413029081678261": {
+        "query": "qui chante gonna miss me when i'm gone",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q67701",
+                "text": "Anna Kendrick",
+                "aliases": []
+            }
+        ]
+    },
+    "-154391946168199711": {
+        "query": "quand fut la dernière fois que l'angleterre gagna aux pénalties en coupe du monde",
+        "answer": [
+            {
+                "type": "date",
+                "text": "1996",
+                "aliases": [
+                    "1996"
+                ]
+            }
+        ]
+    },
+    "2435630773273481841": {
+        "query": "quand c'est que les femmes ont obtenu le droit de vote en australie",
+        "answer": [
+            {
+                "type": "date",
+                "text": "1902",
+                "aliases": [
+                    "1902"
+                ]
+            }
+        ]
+    },
+    "-438209701900515346": {
+        "query": "jeux call of duty rétrocompatibles xbox one",
+        "answer": [
+            {
+                "type": "short_phrase",
+                "text": "fr_FR"
+            }
+        ]
+    },
+    "2648531455166818816": {
+        "query": "pays d'Europe qui parlent l'anglais comme langue officielle",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q1410",
+                "text": "Gibraltar",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q27",
+                "text": "Irlande",
+                "aliases": [
+                    "République d'Irlande",
+                    "Eire",
+                    "Éire",
+                    "Republic of Ireland",
+                    "Ireland"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q21",
+                "text": "Angleterre",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q22",
+                "text": "Écosse",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q22890",
+                "text": "Irlande",
+                "aliases": [
+                    "L'île d'émeraude",
+                    "Île d’Irlande",
+                    "Irlandaise",
+                    "Irlandaises",
+                    "Irlandais catholiques",
+                    "Île d'émeraude"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q145",
+                "text": "Royaume-Uni",
+                "aliases": [
+                    "UK",
+                    "Royaume-Uni de Grande-Bretagne et d’Irlande du Nord",
+                    "Royaume Uni",
+                    "GB",
+                    "GBR"
+                ]
+            }
+        ]
+    },
+    "9209506207905378218": {
+        "query": "combien coûte un big mac en amérique",
+        "answer": [
+            {
+                "type": "number_with_unit",
+                "text": "5.58 dollar américain",
+                "aliases": []
+            }
+        ]
+    },
+    "4287529122002750568": {
+        "query": "quelle est la distance entre dallas texas de corpus christi texas",
+        "answer": [
+            {
+                "type": "number_with_unit",
+                "text": "410.9 mille",
+                "aliases": []
+            }
+        ]
+    },
+    "4331972968669336864": {
+        "query": "dans quel film est la chanson the final countdown",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q387638",
+                "text": "Rocky 4",
+                "aliases": []
+            }
+        ]
+    },
+    "3961232627001931908": {
+        "query": "quel genre d'élection autorise les votants d'un parti politique à nominé leurs candidats ?",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q669262",
+                "text": "élection primaire",
+                "aliases": [
+                    "primaire",
+                    "préélections",
+                    "élections primaires",
+                    "primaires"
+                ]
+            }
+        ]
+    },
+    "5307697781908168437": {
+        "query": "Qui chante  I put a spell on you ?",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q455754",
+                "text": "Screamin' Jay Hawkins",
+                "aliases": [
+                    "Screamin Jay Hawkins"
+                ]
+            }
+        ]
+    },
+    "7053814524287958733": {
+        "query": "qui a écrit \"Blinded by the Light Manfred Mann?\"",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q1225",
+                "text": "Bruce Springsteen",
+                "aliases": [
+                    "Bruce Frederick Joseph Springsteen"
+                ]
+            }
+        ]
+    },
+    "8629904539305064115": {
+        "query": "quel est le nom des hyènes dans le Roi Lion?",
+        "answer": [
+            {
+                "type": "entity",
+                "text": "Shenzi",
+                "entity": "Q21772097"
+            }
+        ]
+    },
+    "-7082868981730295400": {
+        "query": "les grottes d'Ajanta et d'Ellora sont situées dans l'Etat de",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q1191",
+                "text": "Maharashtra",
+                "aliases": []
+            }
+        ]
+    },
+    "6873585089990668750": {
+        "query": "qui est l’entraîneur principal des browns de cleveland",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q5496752",
+                "text": "Freddie Kitchens",
+                "aliases": []
+            }
+        ]
+    },
+    "-160058634680685569": {
+        "query": "le brin d'ADN qui est transcrit en ARNm est appelé le",
+        "answer": [
+            {
+                "type": "short_phrase",
+                "text": " brin de modèle"
+            }
+        ]
+    },
+    "5862856443680173655": {
+        "query": "quand ont ils changé la boxe en 12 rounds",
+        "answer": [
+            {
+                "type": "date",
+                "text": "1987-10-19",
+                "aliases": [
+                    "1987-10-19",
+                    "10/19/1987",
+                    "10-19-1987",
+                    "1987 octobre 19",
+                    "10 19 1987",
+                    "19-10-1987",
+                    "1987 10 19",
+                    "19/10/1987",
+                    "19 10 1987",
+                    "1987 october, 19",
+                    "19 octobre 1987"
+                ]
+            }
+        ]
+    },
+    "-6461075033922286018": {
+        "query": "le drapeau de quel pays est blanc avec une croix rouge",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q35",
+                "text": "Danemark",
+                "aliases": []
+            }
+        ]
+    },
+    "2821632668190767125": {
+        "query": "combien de magasins il y a dans le galleria mall houston",
+        "answer": [
+            {
+                "type": "number",
+                "text": "375.0",
+                "aliases": [
+                    "375"
+                ]
+            }
+        ]
+    },
+    "-1931550531319950209": {
+        "query": "qui joue la voix de dora l'exploratrice",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q5511410",
+                "text": "Fátima Ptacek",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q5017918",
+                "text": "Caitlin Sanchez",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q6376744",
+                "text": "Kathleen Herles",
+                "aliases": []
+            }
+        ]
+    },
+    "5009708573885932569": {
+        "query": "Qui a chanté \"when we get behind closed doors\"",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q563057",
+                "text": "Charlie Rich",
+                "aliases": []
+            }
+        ]
+    },
+    "9126781272325366717": {
+        "query": "quand est-ce que le film le cavalier du crépuscule est sorti",
+        "answer": [
+            {
+                "type": "date",
+                "text": "1956-11-15",
+                "aliases": [
+                    "15 11 1956",
+                    "11-15-1956",
+                    "11/15/1956",
+                    "1956 novembre 15",
+                    "1956 11 15",
+                    "11 15 1956",
+                    "1956-11-15",
+                    "15-11-1956",
+                    "15/11/1956",
+                    "15 novembre 1956",
+                    "1956 november, 15"
+                ]
+            }
+        ]
+    },
+    "-4670358332103076641": {
+        "query": "qui a marqué 401 courses dans un match test",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q202877",
+                "text": "Brian Lara",
+                "aliases": []
+            }
+        ]
+    },
+    "-6113042688590090067": {
+        "query": "où le fer est absorbé dans le système digestif",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q134955",
+                "text": "duodénum",
+                "aliases": [
+                    "Duodenum",
+                    "Gastroduodénal"
+                ]
+            }
+        ]
+    },
+    "-60527698070021725": {
+        "query": "avec qui will fini dans the ranger's apprentice",
+        "answer": [
+            {
+                "type": "short_phrase",
+                "text": "Alyss Mainwaring"
+            }
+        ]
+    },
+    "-7366388301296788991": {
+        "query": "qui a joué peter pan dans le film original",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q712955",
+                "text": "Bobby Driscoll",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q285483",
+                "text": "Mary Martin",
+                "aliases": [
+                    "Mary Virginia Martin"
+                ]
+            }
+        ]
+    },
+    "-560717259848119538": {
+        "query": "quand les tours jumelles de new york ont-elles été construites",
+        "answer": [
+            {
+                "type": "date",
+                "text": "1973",
+                "aliases": [
+                    "1973"
+                ]
+            }
+        ]
+    },
+    "7348235037413798099": {
+        "query": "3 types de terrains publics aux États-Unis",
+        "answer": [
+            {
+                "type": "short_phrase",
+                "text": "Etat"
+            },
+            {
+                "type": "short_phrase",
+                "text": "local"
+            },
+            {
+                "type": "short_phrase",
+                "text": "fédéral"
+            }
+        ]
+    },
+    "4086645434591201078": {
+        "query": "Quelles sont les deux parties du système nerveux",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q47273",
+                "text": "système nerveux central",
+                "aliases": [
+                    "névraxe",
+                    "centre nerveux"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q169953",
+                "text": "système nerveux périphérique",
+                "aliases": [
+                    "Nerf périphérique",
+                    "Systeme nerveux peripherique",
+                    "Nerfs périphériques",
+                    "Myélinisation"
+                ]
+            }
+        ]
+    }
+}

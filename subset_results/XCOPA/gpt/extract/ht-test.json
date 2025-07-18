@@ -1,0 +1,52 @@
+[
+    {
+        "id": "107",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: Saldeben an te inonde.\nWhat is the cause?\nChoice1: Twal\u00e8t la te deb\u00f2de.\nChoice2: Chofdlo a te kase.\nExplanation: The premise states that \"Saldeben an te inonde,\" which means \"The bathroom was flooded.\" To determine the cause of the flooding, we need to consider which option is more likely to lead to such a situation. Choice 1, \"Twal\u00e8t la te deb\u00f2de,\" means \"The toilet overflowed,\" which is a common cause of flooding in a bathroom. On the other hand, choice 2, \"Chofdlo a te kase,\" means \"The hot water heater broke,\" which could also cause flooding but is less directly related to the bathroom itself. Given that an overflowing toilet is a frequent and direct cause of bathroom flooding, choice 1 is the correct answer.",
+        "response": "Answer: 1",
+        "explanation": "The premise states that \"Saldeben an te inonde,\" which means \"The bathroom was flooded.\" To determine the cause of the flooding, we need to consider which option is more likely to lead to such a situation. Choice 1, \"Twal\u00e8t la te deb\u00f2de,\" means \"The toilet overflowed,\" which is a common cause of flooding in a bathroom. On the other hand, choice 2, \"Chofdlo a te kase,\" means \"The hot water heater broke,\" which could also cause flooding but is less directly related to the bathroom itself. Given that an overflowing toilet is a frequent and direct cause of bathroom flooding, choice 1 is the correct answer.",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "464",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: Fanmi a te vle f\u00e8 konesans nouvo vwazen yo.\nWhat is the effect?\nChoice1: Fanmi a te envite vwazen yo pou dine.\nChoice2: Fanmi a te voye men bay vwazen yo nan lakou a.\nExplanation: The premise states that \"Fanmi a te vle f\u00e8 konesans nouvo vwazen yo,\" which means \"The family wanted to get to know the new neighbors.\" When a family expresses a desire to meet their neighbors, a common way to do this is by inviting them over for a meal or social gathering. Choice 1, \"Fanmi a te envite vwazen yo pou dine,\" translates to \"The family invited the neighbors for dinner,\" which is a direct action that aligns with their intention to get to know them. Choice 2, \"Fanmi a te voye men bay vwazen yo nan lakou a,\" means \"The family waved to the neighbors in the yard,\" which is a friendly gesture but does not facilitate deeper interaction. Therefore, the correct choice is 1, as it represents a more meaningful effort to connect with the new neighbors.",
+        "response": "Answer: 1",
+        "explanation": "The premise states that \"Fanmi a te vle f\u00e8 konesans nouvo vwazen yo,\" which means \"The family wanted to get to know the new neighbors.\" When a family expresses a desire to meet their neighbors, a common way to do this is by inviting them over for a meal or social gathering. Choice 1, \"Fanmi a te envite vwazen yo pou dine,\" translates to \"The family invited the neighbors for dinner,\" which is a direct action that aligns with their intention to get to know them. Choice 2, \"Fanmi a te voye men bay vwazen yo nan lakou a,\" means \"The family waved to the neighbors in the yard,\" which is a friendly gesture but does not facilitate deeper interaction. Therefore, the correct choice is 1, as it represents a more meaningful effort to connect with the new neighbors.",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "63",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: Men mwen te sezi.\nWhat is the cause?\nChoice1: Mwen te ekri redaksyon an a la men.\nChoice2: Madanm mwen kenbe men av\u00e8 mwen.\nExplanation: The premise \"Men mwen te sezi\" translates to \"But I was surprised.\" To understand the cause of this surprise, we need to analyze the two choices. Choice 1, \"Mwen te ekri redaksyon an a la men,\" means \"I wrote the essay by hand.\" While this could be surprising in some contexts, it doesn't inherently explain a strong emotional reaction. On the other hand, choice 2, \"Madanm mwen kenbe men av\u00e8 mwen,\" means \"My wife held my hand.\" This action can evoke feelings of warmth, affection, or unexpected intimacy, which are more likely to cause surprise. Therefore, the correct choice is 2, as it provides a more relatable and emotional context for the feeling of surprise.",
+        "response": "Answer: 2",
+        "explanation": "The premise \"Men mwen te sezi\" translates to \"But I was surprised.\" To understand the cause of this surprise, we need to analyze the two choices. Choice 1, \"Mwen te ekri redaksyon an a la men,\" means \"I wrote the essay by hand.\" While this could be surprising in some contexts, it doesn't inherently explain a strong emotional reaction. On the other hand, choice 2, \"Madanm mwen kenbe men av\u00e8 mwen,\" means \"My wife held my hand.\" This action can evoke feelings of warmth, affection, or unexpected intimacy, which are more likely to cause surprise. Therefore, the correct choice is 2, as it provides a more relatable and emotional context for the feeling of surprise.",
+        "predicted_answer": 2,
+        "ground_truth": 0,
+        "is_correct": false
+    },
+    {
+        "id": "454",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: Madanm nan te trebiche sou trotwa a.\nWhat is the cause?\nChoice1: Te gen yon fant nan siman an.\nChoice2: Li te tande yon moun ap rele non li.\nExplanation: The premise states that \"Madanm nan te trebiche sou trotwa a,\" which means \"The woman stumbled on the sidewalk.\" To understand the cause of her stumbling, we need to consider which option is more likely to lead to such an incident. Choice 1, \"Te gen yon fant nan siman an,\" means \"There was a crack in the pavement.\" This is a common reason for someone to stumble, as uneven surfaces can cause a person to lose their balance. On the other hand, choice 2, \"Li te tande yon moun ap rele non li,\" means \"She heard someone calling her name,\" which is less likely to directly cause stumbling. Therefore, the correct choice is 1, as a crack in the pavement is a plausible cause for her to stumble.",
+        "response": "Answer: 1",
+        "explanation": "The premise states that \"Madanm nan te trebiche sou trotwa a,\" which means \"The woman stumbled on the sidewalk.\" To understand the cause of her stumbling, we need to consider which option is more likely to lead to such an incident. Choice 1, \"Te gen yon fant nan siman an,\" means \"There was a crack in the pavement.\" This is a common reason for someone to stumble, as uneven surfaces can cause a person to lose their balance. On the other hand, choice 2, \"Li te tande yon moun ap rele non li,\" means \"She heard someone calling her name,\" which is less likely to directly cause stumbling. Therefore, the correct choice is 1, as a crack in the pavement is a plausible cause for her to stumble.",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "456",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: Mwen te pran antibyotik.\nWhat is the effect?\nChoice1: Enfeksyon mwen te geri.\nChoice2: Enfeksyon mwen te gaye.\nExplanation: The premise states, \"Mwen te pran antibyotik,\" which means \"I took antibiotics.\" Antibiotics are medications used to treat bacterial infections, and their primary effect is to help the body fight off these infections. Therefore, if the antibiotics were effective, the expected outcome would be that the infection improves or heals. Choice 1, \"Enfeksyon mwen te geri,\" translates to \"My infection healed,\" which is a logical effect of taking antibiotics. In contrast, choice 2, \"Enfeksyon mwen te gaye,\" means \"My infection spread,\" which would not typically be a result of taking antibiotics. Thus, the correct choice is 1, as it aligns with the expected positive outcome of antibiotic treatment.",
+        "response": "Answer: 1",
+        "explanation": "The premise states, \"Mwen te pran antibyotik,\" which means \"I took antibiotics.\" Antibiotics are medications used to treat bacterial infections, and their primary effect is to help the body fight off these infections. Therefore, if the antibiotics were effective, the expected outcome would be that the infection improves or heals. Choice 1, \"Enfeksyon mwen te geri,\" translates to \"My infection healed,\" which is a logical effect of taking antibiotics. In contrast, choice 2, \"Enfeksyon mwen te gaye,\" means \"My infection spread,\" which would not typically be a result of taking antibiotics. Thus, the correct choice is 1, as it aligns with the expected positive outcome of antibiotic treatment.",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    }
+]

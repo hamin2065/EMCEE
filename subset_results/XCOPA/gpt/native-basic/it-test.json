@@ -1,0 +1,42 @@
+[
+    {
+        "id": "136",
+        "prompt": "Ecco una premessa: Il palazzo in centro citt\u00e0 \u00e8 crollato.. Qual \u00e8 la causa? Aiutami a scegliere l'opzione pi\u00f9 plausibile: -scelta1: Un terremoto ha colpito la citt\u00e0., -scelta2: La criminalit\u00e0 nella citt\u00e0 \u00e8 aumentata.\nDovresti scegliere solo un'opzione per la tua risposta. Dovresti rispondere alla domanda nel formato \"Risposta: [1 o 2]\"",
+        "response": "Risposta: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "316",
+        "prompt": "Ecco una premessa: Mi svegliai nel mezzo della notte per il freddo.. Qual \u00e8 la effetto? Aiutami a scegliere l'opzione pi\u00f9 plausibile: -scelta1: Indossai i pantaloni della tuta., -scelta2: Bevvi un bicchier d'acqua.\nDovresti scegliere solo un'opzione per la tua risposta. Dovresti rispondere alla domanda nel formato \"Risposta: [1 o 2]\"",
+        "response": "Risposta: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "107",
+        "prompt": "Ecco una premessa: Il bagno si \u00e8 allagato.. Qual \u00e8 la causa? Aiutami a scegliere l'opzione pi\u00f9 plausibile: -scelta1: Il gabinetto si \u00e8 intasato., -scelta2: Lo scaldabagno si \u00e8 rotto.\nDovresti scegliere solo un'opzione per la tua risposta. Dovresti rispondere alla domanda nel formato \"Risposta: [1 o 2]\"",
+        "response": "Risposta: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "116",
+        "prompt": "Ecco una premessa: Del vapore si \u00e8 sollevato dalla pentola piena d'acqua.. Qual \u00e8 la causa? Aiutami a scegliere l'opzione pi\u00f9 plausibile: -scelta1: L'acqua bolliva., -scelta2: Ho coperto la pentola.\nDovresti scegliere solo un'opzione per la tua risposta. Dovresti rispondere alla domanda nel formato \"Risposta: [1 o 2]\"",
+        "response": "Risposta: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "414",
+        "prompt": "Ecco una premessa: Il laptop non si accendeva.. Qual \u00e8 la causa? Aiutami a scegliere l'opzione pi\u00f9 plausibile: -scelta1: L'avevo fatto cadere., -scelta2: L'avevo caricato.\nDovresti scegliere solo un'opzione per la tua risposta. Dovresti rispondere alla domanda nel formato \"Risposta: [1 o 2]\"",
+        "response": "Risposta: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    }
+]

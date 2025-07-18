@@ -1,0 +1,42 @@
+[
+    {
+        "id": 349,
+        "prompt": "Ifuatayo ni swali la chaguo nyingi.\nSentensi inayounganisha sentensi: \"Juma ni mzee. Juma anasoma kitabu bila miwani\", kisahihi ni:\nA. Juma ni mzee maadamu anasoma kitabu bila miwani.\nB. Juma anasoma kitabu bila miwani licha ya kuwa yeye ni mzee.\nC. Juma ni mzee madhali anasoma kitabu bila miwani.\nD. Juma anasoma kitabu bila miwani minghairi ya yeye ni mzee.\nWacha tufikiri hatua kwa hatua kwa Kiswahili, na toa jibu la mwisho mwishoni kwa muundo: 'Jibu: [chaguo]'\nUnapaswa kutoa jibu la mwisho mwishoni kwa muundo: 'Jibu: [chaguo]'",
+        "response": "Ili kuunganisha sentensi \"Juma ni mzee\" na \"Juma anasoma kitabu bila miwani\", tunahitaji kuchagua chaguo linaloonyesha uhusiano kati ya umri wa Juma na uwezo wake wa kusoma bila miwani.\n\nA. \"Juma ni mzee maadamu anasoma kitabu bila miwani.\" - Hapa kuna uhusiano wa sababu na matokeo, lakini si sahihi kwa sababu umri wa Juma hauhusiani na uwezo wake wa kusoma bila miwani.\n\nB. \"Juma anasoma kitabu bila miwani licha ya kuwa yeye ni mzee.\" - Hii inaonyesha kwamba ingawa Juma ni mzee, bado anaweza kusoma bila miwani. Hii ni sahihi na inatoa maana inayofaa.\n\nC. \"Juma ni mzee madhali anasoma kitabu bila miwani.\" - Hii inaonyesha kwamba umri wa Juma unategemea uwezo wake wa kusoma, ambayo si sahihi.\n\nD. \"Juma anasoma kitabu bila miwani minghairi ya yeye ni mzee.\" - Neno \"minghairi\" halitumiki vizuri hapa, na sentensi haijakamilika.\n\nBaada ya kuchambua chaguo zote, chaguo sahihi ni B, kwani linaonyesha uhusiano sahihi kati ya umri wa Juma na uwezo wake wa kusoma.\n\nJibu: B",
+        "predicted_answer": "B",
+        "ground_truth": "B",
+        "is_correct": true
+    },
+    {
+        "id": 408,
+        "prompt": "Ifuatayo ni swali la chaguo nyingi.\nTashbihi\nPopo amekonda kama _________\nA. sindano\nB. ng'onda\nC. kijiti\nD. kasuku\nWacha tufikiri hatua kwa hatua kwa Kiswahili, na toa jibu la mwisho mwishoni kwa muundo: 'Jibu: [chaguo]'\nUnapaswa kutoa jibu la mwisho mwishoni kwa muundo: 'Jibu: [chaguo]'",
+        "response": "Ili kuchagua jibu sahihi kwa swali hili, tunahitaji kufikiria kuhusu taswira inayotolewa na neno \"amekonda.\" Tashbihi ni njia ya kulinganisha vitu viwili kwa kutumia sifa fulani.\n\nA. Sindano - Hii ni nyembamba na inaweza kuashiria kitu kilichokonda.\nB. Ng'onda - Hii ni ndefu na inaweza kuwa na umbo fulani, lakini siyo sana kama popo.\nC. Kijiti - Hii ni nyembamba na fupi, lakini siyo sawa na popo.\nD. Kasuku - Hii ni ndege mkubwa na siyo sawa na popo.\n\nKwa hivyo, kati ya chaguo hizi, \"sindano\" na \"kijiti\" zinaweza kuashiria umbo lililokonda. Hata hivyo, \"sindano\" inatoa picha bora zaidi ya umbo la popo lililokonda.\n\nKwa hiyo, jibu sahihi ni:\n\nJibu: A. sindano",
+        "predicted_answer": "A. sindano",
+        "ground_truth": "B",
+        "is_correct": false
+    },
+    {
+        "id": 72,
+        "prompt": "Ifuatayo ni swali la chaguo nyingi.\nMethali zifuatazo zinahusu bidii. Ipi haifai kuwepo?\nA. Mgaagaa na upwa hali wali mkavu.\nB. Umoja ni nguvu utengano ni udhaifu.\nC. Ukiona vyaelea jua vimeundwa.\nD. Mtaka cha mvunguni sharti ainame.\nWacha tufikiri hatua kwa hatua kwa Kiswahili, na toa jibu la mwisho mwishoni kwa muundo: 'Jibu: [chaguo]'\nUnapaswa kutoa jibu la mwisho mwishoni kwa muundo: 'Jibu: [chaguo]'",
+        "response": "Kwanza, hebu tuangalie methali hizi moja moja ili kuona ni ipi haifai kuhusishwa na mada ya bidii.\n\nA. \"Mgaagaa na upwa hali wali mkavu.\" - Methali hii inaashiria kuwa mtu anapaswa kufanya juhudi ili kufanikiwa, hivyo inahusiana na bidii.\n\nB. \"Umoja ni nguvu utengano ni udhaifu.\" - Methali hii inasisitiza umuhimu wa ushirikiano na umoja, lakini haijazungumzia moja kwa moja kuhusu bidii.\n\nC. \"Ukiona vyaelea jua vimeundwa.\" - Methali hii inaonyesha kuwa mambo mazuri yanahitaji juhudi na kazi, hivyo inahusiana na bidii.\n\nD. \"Mtaka cha mvunguni sharti ainame.\" - Methali hii inaonyesha kuwa mtu anapaswa kufanya kazi kwa bidii ili kupata kile anachokitaka, hivyo inahusiana na bidii.\n\nBaada ya kuchambua methali hizi, ni wazi kuwa chaguo B \"Umoja ni nguvu utengano ni udhaifu\" ndicho kisicho husika moja kwa moja na mada ya bidii.\n\nJibu: B",
+        "predicted_answer": "B",
+        "ground_truth": "C",
+        "is_correct": false
+    },
+    {
+        "id": 381,
+        "prompt": "Ifuatayo ni swali la chaguo nyingi.\nChagua neno ambalo limetumia silabi changamano:\nA. Mbuga.\nB. Kituta.\nC. Ziwa.\nD. Utulivu.\nWacha tufikiri hatua kwa hatua kwa Kiswahili, na toa jibu la mwisho mwishoni kwa muundo: 'Jibu: [chaguo]'\nUnapaswa kutoa jibu la mwisho mwishoni kwa muundo: 'Jibu: [chaguo]'",
+        "response": "Ili kubaini neno ambalo lina silabi changamano, kwanza tunahitaji kuelewa maana ya silabi changamano. Silabi changamano ni silabi ambayo ina sauti nyingi au inahitaji matamshi zaidi ya moja. \n\nSasa, hebu tuangalie chaguo zote:\n\nA. Mbuga - ina silabi moja (m-bu-ga).\nB. Kituta - ina silabi tatu (ki-tu-ta).\nC. Ziwa - ina silabi mbili (zi-wa).\nD. Utulivu - ina silabi tatu (u-tu-li-vu).\n\nKatika chaguo hizi, neno \"Utulivu\" lina silabi nyingi zaidi na ni neno lenye silabi changamano kwa sababu lina sauti nyingi na inahitaji matamshi zaidi. \n\nKwa hivyo, jibu ni:\n\nJibu: D. Utulivu",
+        "predicted_answer": "D. Utulivu",
+        "ground_truth": "A",
+        "is_correct": false
+    },
+    {
+        "id": 237,
+        "prompt": "Ifuatayo ni swali la chaguo nyingi.\nTegua kitendawili hiki: \nMava hapo mava pale\nA. kifo\nB. kioo\nC. kumetameta\nD. kivuli\nWacha tufikiri hatua kwa hatua kwa Kiswahili, na toa jibu la mwisho mwishoni kwa muundo: 'Jibu: [chaguo]'\nUnapaswa kutoa jibu la mwisho mwishoni kwa muundo: 'Jibu: [chaguo]'",
+        "response": "Ili kutatua kitendawili hiki, hebu tuangalie maneno yaliyotolewa: \"Mava hapo mava pale.\" \n\nManeno haya yanaweza kumaanisha kitu kinachohusiana na picha au taswira inayoweza kuonekana. \n\nA. Kifo - Hiki hakihusiani na mava.\nB. Kioo - Hiki kinaweza kuhusishwa na mava, kwani kioo kinaonyesha picha ya kile kilichoko mbele yake.\nC. Kumetameta - Hiki hakihusiani moja kwa moja na mava.\nD. Kivuli - Hiki pia hakihusiani moja kwa moja na mava.\n\nKwa hivyo, kati ya chaguo hizo, \"kioo\" ndicho kinachofaa zaidi kwa sababu kioo kinaonyesha picha ya kile kilichoko mbele yake, na hivyo ni kama \"mava\" yanayoonekana.\n\nJibu: B. kioo",
+        "predicted_answer": "B. kioo",
+        "ground_truth": "D",
+        "is_correct": false
+    }
+]

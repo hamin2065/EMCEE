@@ -1,0 +1,42 @@
+[
+    {
+        "id": 349,
+        "prompt": "The following is a multiple-choice question.\nSentensi inayounganisha sentensi: \"Juma ni mzee. Juma anasoma kitabu bila miwani\", kisahihi ni:\nA. Juma ni mzee maadamu anasoma kitabu bila miwani.\nB. Juma anasoma kitabu bila miwani licha ya kuwa yeye ni mzee.\nC. Juma ni mzee madhali anasoma kitabu bila miwani.\nD. Juma anasoma kitabu bila miwani minghairi ya yeye ni mzee.\nYou should provide the final answer at the end in the format: 'Answer: [option]'",
+        "response": "Sentensi inayounganisha sentensi hizo inapaswa kuonyesha uhusiano kati ya umri wa Juma na uwezo wake wa kusoma bila miwani. Kila chaguo linaweza kuwasilisha uhusiano huo kwa njia tofauti. \n\nA. \"Juma ni mzee maadamu anasoma kitabu bila miwani.\" - Hii inaonyesha kuwa umri wa Juma unategemea uwezo wake wa kusoma bila miwani, ambayo si sahihi.\n\nB. \"Juma anasoma kitabu bila miwani licha ya kuwa yeye ni mzee.\" - Hii inaonyesha kuwa licha ya kuwa mzee, Juma bado anaweza kusoma bila miwani, ambayo ni sahihi.\n\nC. \"Juma ni mzee madhali anasoma kitabu bila miwani.\" - Hii inaonyesha kuwa umri wa Juma unategemea uwezo wake wa kusoma bila miwani, ambayo si sahihi.\n\nD. \"Juma anasoma kitabu bila miwani minghairi ya yeye ni mzee.\" - Hii inaonyesha kuwa Juma anasoma bila miwani, lakini inatumia neno \"minghairi\" ambalo si sahihi katika muktadha huu.\n\nKwa hivyo, chaguo sahihi ni B, kwani linaonyesha uhusiano sahihi kati ya umri wa Juma na uwezo wake wa kusoma bila miwani.\n\nAnswer: B",
+        "predicted_answer": "B",
+        "ground_truth": "B",
+        "is_correct": true
+    },
+    {
+        "id": 408,
+        "prompt": "The following is a multiple-choice question.\nTashbihi\nPopo amekonda kama _________\nA. sindano\nB. ng'onda\nC. kijiti\nD. kasuku\nYou should provide the final answer at the end in the format: 'Answer: [option]'",
+        "response": "Popo amekonda kama _________\nA. sindano\nB. ng'onda\nC. kijiti\nD. kasuku\n\nThe correct answer is A. sindano, as it refers to something that is thin and pointed, similar to how a bat (popo) is shaped.\n\nAnswer: A",
+        "predicted_answer": "A",
+        "ground_truth": "B",
+        "is_correct": false
+    },
+    {
+        "id": 72,
+        "prompt": "The following is a multiple-choice question.\nMethali zifuatazo zinahusu bidii. Ipi haifai kuwepo?\nA. Mgaagaa na upwa hali wali mkavu.\nB. Umoja ni nguvu utengano ni udhaifu.\nC. Ukiona vyaelea jua vimeundwa.\nD. Mtaka cha mvunguni sharti ainame.\nYou should provide the final answer at the end in the format: 'Answer: [option]'",
+        "response": "Methali zifuatazo zinahusu bidii. Ipi haifai kuwepo?\n\nA. Mgaagaa na upwa hali wali mkavu.  \nB. Umoja ni nguvu utengano ni udhaifu.  \nC. Ukiona vyaelea jua vimeundwa.  \nD. Mtaka cha mvunguni sharti ainame.  \n\nMethali A, B, na D zote zinahusiana na bidii na juhudi, wakati methali C inahusiana na hali ya mambo na si bidii. \n\nAnswer: C",
+        "predicted_answer": "C",
+        "ground_truth": "C",
+        "is_correct": true
+    },
+    {
+        "id": 381,
+        "prompt": "The following is a multiple-choice question.\nChagua neno ambalo limetumia silabi changamano:\nA. Mbuga.\nB. Kituta.\nC. Ziwa.\nD. Utulivu.\nYou should provide the final answer at the end in the format: 'Answer: [option]'",
+        "response": "Neno ambalo limetumia silabi changamano ni \"Utulivu.\" Silabi changamano ni ile ambayo ina silabi yenye sauti nyingi au inayoleta mchanganyiko wa sauti. \n\nAnswer: D",
+        "predicted_answer": "D",
+        "ground_truth": "A",
+        "is_correct": false
+    },
+    {
+        "id": 237,
+        "prompt": "The following is a multiple-choice question.\nTegua kitendawili hiki: \nMava hapo mava pale\nA. kifo\nB. kioo\nC. kumetameta\nD. kivuli\nYou should provide the final answer at the end in the format: 'Answer: [option]'",
+        "response": "The riddle \"Mava hapo mava pale\" suggests something that reflects or shows an image, which aligns with the characteristics of a mirror. Therefore, the correct answer is:\n\nB. kioo\n\nAnswer: B",
+        "predicted_answer": "B",
+        "ground_truth": "D",
+        "is_correct": false
+    }
+]

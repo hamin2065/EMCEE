@@ -1,0 +1,52 @@
+[
+    {
+        "id": "279",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: T\u00fcdruk \u00fchines v\u00e4itlusmeeskonnaga.\nWhat is the effect?\nChoice1: Ta \u00f5ppis arvutit kasutama.\nChoice2: Ta \u00f5ppis suhtlusoskusi.\nExplanation: The correct answer is Choice2: Ta \u00f5ppis suhtlusoskusi. \n\nWhen a girl joins a debate team, it typically means she is participating in discussions and arguments with others. This situation requires her to communicate effectively, listen to others, and express her own thoughts clearly. Therefore, the most likely effect of joining a debate team is that she will learn important social skills, such as communication and negotiation, which are essential for effective teamwork and argumentation.",
+        "response": "Answer: 2",
+        "explanation": "The correct answer is Choice2: Ta \u00f5ppis suhtlusoskusi. \n\nWhen a girl joins a debate team, it typically means she is participating in discussions and arguments with others. This situation requires her to communicate effectively, listen to others, and express her own thoughts clearly. Therefore, the most likely effect of joining a debate team is that she will learn important social skills, such as communication and negotiation, which are essential for effective teamwork and argumentation.",
+        "predicted_answer": 2,
+        "ground_truth": 1,
+        "is_correct": true
+    },
+    {
+        "id": "112",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: Ma n\u00e4gin oma hinge\u00f5hku, kui ma v\u00e4lja hindasin.\nWhat is the cause?\nChoice1: Ilm oli jahe.\nChoice2: Mul oli rinnus kitsas.\nExplanation: To determine the correct cause, let's analyze the situation. The premise states that the person saw their breath, which means the air was cold enough to make their breath visible. This is a common phenomenon in cold weather. \n\nConsidering this, Choice1: Ilm oli jahe (The weather was cold) is a more likely cause, as cold weather would make the air cold enough to make the person's breath visible. Choice2: Mul oli rinnus kitsas (I had a tight bra) might be a possible cause, but it's less directly related to the visibility of the breath.",
+        "response": "Answer: 1",
+        "explanation": "To determine the correct cause, let's analyze the situation. The premise states that the person saw their breath, which means the air was cold enough to make their breath visible. This is a common phenomenon in cold weather. \n\nConsidering this, Choice1: Ilm oli jahe (The weather was cold) is a more likely cause, as cold weather would make the air cold enough to make the person's breath visible. Choice2: Mul oli rinnus kitsas (I had a tight bra) might be a possible cause, but it's less directly related to the visibility of the breath.",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "23",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: \u00d5pilane teadis k\u00fcsimusele vastust.\nWhat is the effect?\nChoice1: Ta t\u00f5stis oma k\u00e4e.\nChoice2: Ta viilis.\nExplanation: The premise \"\u00d5pilane teadis k\u00fcsimusele vastust\" means \"The student knew the answer to the question.\" In this context, it is likely that the student is in a classroom or testing environment where they are expected to respond to a question.\n\nWhen a student knows the answer to a question, they are usually expected to show their understanding by providing the correct response. In this case, the student would likely raise their hand or show some sign of readiness to answer, rather than simply sitting quietly. \n\nTherefore, the correct choice is: Ta t\u00f5stis oma k\u00e4e. (He raised his hand.)",
+        "response": "Answer: 1",
+        "explanation": "The premise \"\u00d5pilane teadis k\u00fcsimusele vastust\" means \"The student knew the answer to the question.\" In this context, it is likely that the student is in a classroom or testing environment where they are expected to respond to a question.\n\nWhen a student knows the answer to a question, they are usually expected to show their understanding by providing the correct response. In this case, the student would likely raise their hand or show some sign of readiness to answer, rather than simply sitting quietly. \n\nTherefore, the correct choice is: Ta t\u00f5stis oma k\u00e4e. (He raised his hand.)",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "140",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: Poiss teritas pliiatsit.\nWhat is the cause?\nChoice1: See oli odav.\nChoice2: See oli n\u00fcri.\nExplanation: In this task, students need to use common sense to determine the cause of the situation. The premise \"Poiss teritas pliiatsit\" means \"The boy tore his pants.\" To solve this, students should think about what could lead to tearing pants. \n\nChoice1, \"See oli odav,\" means \"This was cheap,\" which doesn't directly relate to the action of tearing pants. While cheap clothes might be more prone to damage, it's not a direct cause of the tearing.\n\nChoice2, \"See oli n\u00fcri,\" means \"This was worn out,\" which is a more plausible cause. If the pants were already worn out, they might be more likely to tear, especially if the boy was engaging in physical activity that put stress on the fabric.\n\nTherefore, the correct choice is Choice2, \"See oli n\u00fcri,\" as it provides a more direct explanation for why the boy's pants might have torn.",
+        "response": "Answer: 2",
+        "explanation": "In this task, students need to use common sense to determine the cause of the situation. The premise \"Poiss teritas pliiatsit\" means \"The boy tore his pants.\" To solve this, students should think about what could lead to tearing pants. \n\nChoice1, \"See oli odav,\" means \"This was cheap,\" which doesn't directly relate to the action of tearing pants. While cheap clothes might be more prone to damage, it's not a direct cause of the tearing.\n\nChoice2, \"See oli n\u00fcri,\" means \"This was worn out,\" which is a more plausible cause. If the pants were already worn out, they might be more likely to tear, especially if the boy was engaging in physical activity that put stress on the fabric.\n\nTherefore, the correct choice is Choice2, \"See oli n\u00fcri,\" as it provides a more direct explanation for why the boy's pants might have torn.",
+        "predicted_answer": 2,
+        "ground_truth": 1,
+        "is_correct": true
+    },
+    {
+        "id": "445",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: Naine haaras oma k\u00f5rist.\nWhat is the cause?\nChoice1: Ta neelas oma toidu alla.\nChoice2: Ta l\u00e4mbus oma toidu k\u00e4es.\nExplanation: Let's analyze the situation. The premise says that the woman braided her hair. To find the cause, we need to think about what could happen when braiding hair. \n\nThe key concept here is the physical action of braiding, which often involves holding the hair in one's hands. Choice 2, \"Ta l\u00e4mbus oma toidu k\u00e4es,\" suggests that the woman is holding something in her hands, which could be related to the act of braiding. This makes it a more plausible cause.",
+        "response": "Answer: 2",
+        "explanation": "Let's analyze the situation. The premise says that the woman braided her hair. To find the cause, we need to think about what could happen when braiding hair. \n\nThe key concept here is the physical action of braiding, which often involves holding the hair in one's hands. Choice 2, \"Ta l\u00e4mbus oma toidu k\u00e4es,\" suggests that the woman is holding something in her hands, which could be related to the act of braiding. This makes it a more plausible cause.",
+        "predicted_answer": 2,
+        "ground_truth": 1,
+        "is_correct": true
+    }
+]

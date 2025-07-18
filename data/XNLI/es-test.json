@@ -1,0 +1,502 @@
+{
+    "es-257": {
+        "premise": "Mmm, ¿ninguno? Dijiste que no recuerdas haber leído nada en particular, pero, cuando ya eras mayor en la escuela, ¿no había ningún libro que te gustara u odiaras?",
+        "hypothesis": "Sé que te encantaron todos los libros que leíste.",
+        "label": 2
+    },
+    "es-2706": {
+        "premise": "La protección del transporte, la energía, los servicios de emergencia, los servicios financieros y los de la comunicación se está convirtiendo en algo cada vez más importante porque dependen en gran medida de la tecnología informática.",
+        "hypothesis": "Los servicios financieros y los sistemas de comunicaciones todavía tienen que unirse al campo de la tecnología de la información.",
+        "label": 2
+    },
+    "es-580": {
+        "premise": "sabes, todos mis hijos son geniales, muy buenos, y creo que no, aprende de los niños mayores también, pero",
+        "hypothesis": "Estoy muy orgulloso de lo mucho que mis hijos saben.",
+        "label": 1
+    },
+    "es-4211": {
+        "premise": "Disparan a los estudiantes, ¿no?",
+        "hypothesis": "Hacen magdalenas para los estudiantes, ¿no?",
+        "label": 2
+    },
+    "es-1949": {
+        "premise": "Antes de que hayamos corrido otra media milla deberíamos estar dentro del rango. Wolverstone juró en detalle, y luego de repente comprobó.",
+        "hypothesis": "Wolverstone dejó escapar una maldición cuando se dio cuenta de que faltaba media milla hasta que estuvieran al alcance.",
+        "label": 0
+    },
+    "es-2281": {
+        "premise": "Más allá de Payangan, la carretera poco utilizada sigue su camino por el espectacular campo hasta llegar a Batur (ver página a59).",
+        "hypothesis": "La carretera está a 15 millas de Payangan a Batur.",
+        "label": 1
+    },
+    "es-3976": {
+        "premise": ".. Haz que nuestra sociedad sea mejor.",
+        "hypothesis": "Por favor ayuda a mejorar nuestra sociedad.",
+        "label": 0
+    },
+    "es-1755": {
+        "premise": "¡Espera!  Blood se interpuso, interrumpiéndolo, y puso una mano prohibitoria en el brazo del tirador.",
+        "hypothesis": "La sangre permitió al artillero continuar con lo que tenía que decir.",
+        "label": 2
+    },
+    "es-4417": {
+        "premise": "¿Alguien recordará la Organización Mundial del Comercio en medio siglo?",
+        "hypothesis": "La Organización Mundial del Comercio no ha tenido ningún impacto memorable en la historia.",
+        "label": 1
+    },
+    "es-1083": {
+        "premise": "Los adornos en los edifcios del siglo XVIII son versiones esculpidas o pintadas de fajines y adornos floreados utilizados por hombres y mujeres.",
+        "hypothesis": "Muchas de las guirnaldas son de hiedra.",
+        "label": 1
+    },
+    "es-4677": {
+        "premise": "Nada subraya las complejidades lingüísticas sutiles de manera más sorprendente que las malas comunicaciones que ocurren entre los pilotos, los miembros de la tripulación y los controladores de tránsito aéreo.",
+        "hypothesis": "Los pilotos son siempre perfectos comunicadores .",
+        "label": 2
+    },
+    "es-4720": {
+        "premise": "Él lo rimaba con pandemonium; a juzgar por las demandas que proliferan en los espacios de estacionamiento de condominio, barbacoas en el balcón y mascotas haciendo caca en los pasillos, podría haber tenido razón al usar el neologismo.",
+        "hypothesis": "Él escribió un poema con la palabra.",
+        "label": 1
+    },
+    "es-3872": {
+        "premise": "FOREVER PLAID, un nombre que connota la continuación de los valores tradicionales, de la familia, el hogar y la armonía.",
+        "hypothesis": "Nuestro CEO ideó el nombre POR SIEMPRE A CUADROS.",
+        "label": 1
+    },
+    "es-1990": {
+        "premise": "Y si no fueras un tonto, Ogle, no necesitarías que te dijera esto.",
+        "hypothesis": "Ogle fue un tonto al creer en la existencia de Santa Claus.",
+        "label": 1
+    },
+    "es-3874": {
+        "premise": "Como organización local anfitriona del Consejo Nacional de Visitantes Internacionales, el Programa de Prácticas de Sudáfrica y las Prácticas Médicas de China, en 1999 el centro recibió a más de 100 huéspedes en Indiana.",
+        "hypothesis": "En julio, el centro estaba feliz por recibir a 100 estudiantes universitarios sudafricanos.",
+        "label": 1
+    },
+    "es-3334": {
+        "premise": "Dubái era un lugar de paso ideal: una ciudad moderna con fácil acceso a un importante aeropuerto, agencias de viajes, hoteles y establecimientos comerciales occidentales.",
+        "hypothesis": "Dubai fue la primera opción como punto de tránsito.",
+        "label": 1
+    },
+    "es-1559": {
+        "premise": "Ogle lo arrancó de un tirón, con un juramento.",
+        "hypothesis": "Ogle solo siguió mirándole, sin moverse.",
+        "label": 2
+    },
+    "es-772": {
+        "premise": "sabes que es fácil decir bueno construiremos un agujero de cemento y no pasará nada y después dirán bueno la única manera de probarlo es durante un largo periodo así que",
+        "hypothesis": "Necesitan darle tiempo para que se fije el concreto antes de comenzar cualquier prueba.",
+        "label": 1
+    },
+    "es-794": {
+        "premise": "Bueno, no creo que él quiera hacer eso, pero él sería como un estadista veterano o lo que sea.",
+        "hypothesis": "¡Sé que le encantaría!",
+        "label": 2
+    },
+    "es-3531": {
+        "premise": "Como usted sabe, la suscripción a este grupo incluye a aquellos amigos y ex alumnos que contribuyen con 1.000 $ o más anualmente a la facultad de derecho.",
+        "hypothesis": "Algunos de los miembros de este grupo han donado más de 100k $ a la escuela.",
+        "label": 1
+    },
+    "es-2902": {
+        "premise": "Por lo tanto, sería posible obtener el promedio de los datos demográficos del mismo código postal de 5 dígitos para dos cuartiles diferentes.",
+        "hypothesis": "Los datos demográficos se pueden promediar.",
+        "label": 1
+    },
+    "es-3469": {
+        "premise": "Todos menos 2 de los 15 secuestradores de músculo fueron admitidos como turistas, lo que les permitía pasar seis meses en los Estados Unidos (excepto en el caso de Mihdhar, al que solo le concedieron cuatro meses).",
+        "hypothesis": "La mayor parte de los secuestradores fueron admitidos como turistas.",
+        "label": 0
+    },
+    "es-3367": {
+        "premise": "Dos días después, Ahmed al Ghamdi y Abdul Aziz al Omari, que habían estado viviendo en Nueva Jersey con Hazmi y Hanjour, volaron a Miami, lo que probablemente significa que los cuatro equipos de secuestro finalmente habían sido formados.",
+        "hypothesis": "Ahmed al Ghamdi, Abdul Aziz al Omari, Hazmi y Hanjour vivieron juntos en Nueva Jersey.",
+        "label": 0
+    },
+    "es-3825": {
+        "premise": "En nombre del presidente Bush, estoy deseoso de trabajar con ustedes en el futuro.",
+        "hypothesis": "Trabajo con el presidente Bush.",
+        "label": 0
+    },
+    "es-443": {
+        "premise": "Cuando DOT tomó su propiedad, nos mudamos a un área mucho más pequeña en Concord, donde no está permitido tener animales porque está dividido en zonas, por lo que es el final de la historia del animal.",
+        "hypothesis": "Vendimos todos nuestros animales cuando nos mudamos a Concord.",
+        "label": 1
+    },
+    "es-806": {
+        "premise": "es es un arma automática de plástico que dispara",
+        "hypothesis": "El arma está hecha de cartón.",
+        "label": 2
+    },
+    "es-496": {
+        "premise": "Todo está conectado y dios, ni sé por cuánto tiempo.",
+        "hypothesis": "No sé cuánto tiempo durará la historia.",
+        "label": 1
+    },
+    "es-3298": {
+        "premise": "Mientras él seguía supervisando el canal SOD en toda la ciudad, que utilizaban los helicópteros de la Policía de Nueva York, también supervisó el canal táctico punto a punto que usarían los equipos ESU que escalaban las torres.",
+        "hypothesis": "Nadie veía el canal Citywide SOD.",
+        "label": 2
+    },
+    "es-2779": {
+        "premise": "Se está progresando en aviación, pero se necesita atención a largo plazo.",
+        "hypothesis": "Se requiere atención a largo plazo a pesar del progreso a corto plazo",
+        "label": 0
+    },
+    "es-895": {
+        "premise": "y echemos un vistazo a hace veinte años, creo que estábamos empezando a entrar en lo que ellos llamaban la revolución sexual eh en la que eh después de la píldora y eh uh",
+        "hypothesis": "La píldora fue parte de la revolución sexual.",
+        "label": 0
+    },
+    "es-2036": {
+        "premise": "Los mejores puertos del Mediterráneo son junio, julio, agosto y Mae, dijo el almirante veneciano del siglo XVI, Andrea Doria, y señaló que fuera de la temporada veraniega de navegación, una flota no podría hacer nada mejor que refugiarse aquí.",
+        "hypothesis": "La temporada de verano tiene los mejores puertos.",
+        "label": 0
+    },
+    "es-1569": {
+        "premise": "Y, sin embargo, ha sido lo que ha sido y ha hecho lo que ha hecho en estos tres años, dijo ella. Pero ahora lo dijo con tristeza, sin ninguno de sus desprecios anteriores.",
+        "hypothesis": "A ella no le gustó que hubiera asesinado a muchos hombres en los últimos tres años.",
+        "label": 1
+    },
+    "es-1558": {
+        "premise": "Ogle lo arrancó de un tirón, con un juramento.",
+        "hypothesis": "Ogle no se quedó en silencio cuando le liberó.",
+        "label": 0
+    },
+    "es-4393": {
+        "premise": "O, considera el problema de informar al Congreso sobre acciones encubiertas.",
+        "hypothesis": "El Congreso no puede ser informado sobre acciones encubiertas.",
+        "label": 2
+    },
+    "es-3675": {
+        "premise": "Es un gran momento del año para contar una historia.",
+        "hypothesis": "Prefiero esperar hasta diciembre para contar historias.",
+        "label": 2
+    },
+    "es-1148": {
+        "premise": "Hasta que no hagas aritmética no te das cuenta de que en la mente de Lincoln el momento decisivo fue la firma de la Declaración de Independencia del 1776.",
+        "hypothesis": "Muchos historiadores están en desacuerdo con la interpretación de Lincoln de estas fechas.",
+        "label": 1
+    },
+    "es-3456": {
+        "premise": "Muchos oficiales del PAPD se encontraban en la planta baja del complejo-algunos ayudando en la evacuación, otros al mando del mostrador del PAPD en la World Trade Center 5 o ayudando en puestos de comando en el vestíbulo.",
+        "hypothesis": "El PAPD no estaba en ninguna parte en 5 WTC.",
+        "label": 2
+    },
+    "es-1503": {
+        "premise": "Le aseguró, señor, que estaba absolutamente al corriente de todo.",
+        "hypothesis": "Te digo que me pusieron al corriente sobre todo.",
+        "label": 0
+    },
+    "es-3789": {
+        "premise": "Espero tener noticias tuyas pronto.",
+        "hypothesis": "Espero que hablemos pronto.",
+        "label": 0
+    },
+    "es-2046": {
+        "premise": "La Costa Na Pali en la celestial costa norte es una de las excursiones costeras más desafiantes y majestuosas del mundo (ver página 71).",
+        "hypothesis": "La costa de Na Pali puede ser una caminata desafiante.",
+        "label": 1
+    },
+    "es-617": {
+        "premise": "así que esta no es tu primera experiencia con un perro",
+        "hypothesis": "Esta no es la primera vez que maneja un animal domesticado.",
+        "label": 1
+    },
+    "es-3630": {
+        "premise": "Las casillas estarán marcadas con los nombres de Cassie, Corey, Rachel, Isaiah, Kelly, Kyle y los otros estudiantes de Columbine High School que perdieron la vida a principios de este año.",
+        "hypothesis": "Al menos 6 estudiantes de Columbine High School murieron a principios de este año.",
+        "label": 0
+    },
+    "es-4508": {
+        "premise": "La apasionada historia de portada advierte que los parques nacionales de Estados Unidos están siendo arruinados por el hacinamiento, la falta de fondos, la invasión de especies exóticas de plantas y animales y el desarrollo comercial.",
+        "hypothesis": "Los parques nacionales están demasiado llenos.",
+        "label": 0
+    },
+    "es-802": {
+        "premise": "oh dios, acabó de nombrar el curso uh, se me acaba de olvidar pero es el Parlamento de la Paz",
+        "hypothesis": "A menudo tengo problemas para recordar nombres al momento.",
+        "label": 1
+    },
+    "es-414": {
+        "premise": "Es como un archivo con un montón de pestañas diferentes, ya sabes. Cada pestaña tiene como una hoja de cálculo diferente en ella.",
+        "hypothesis": "La página es solo una lista de números.",
+        "label": 2
+    },
+    "es-4428": {
+        "premise": "Todavía con vida a los 93, de Kooning ahora no es ni artista ni navegante de canales.",
+        "hypothesis": "De Kooning terminó muriendo a los 72.",
+        "label": 2
+    },
+    "es-120": {
+        "premise": "Teníamos trajes completos de presión en el avión, como los que usaban los astronautas, excepto que el nuestro era totalmente plateado, plateado, con bota y todo, para reflejar el calor, por supuesto.",
+        "hypothesis": "Nuestros trajes no se parecían en nada a los que tenían los astronautas.",
+        "label": 2
+    },
+    "es-764": {
+        "premise": "probablemente sea más porque me gusta la tapa que y sea porque no tengo tiempo de leer el papel ya sabes",
+        "hypothesis": "Tratan mucho más de lo que te puede aportar ese papel.",
+        "label": 1
+    },
+    "es-1936": {
+        "premise": "Ah, pero, con su permiso, seguramente no hay nada que aprehender del Coronel Bishop.",
+        "hypothesis": "El coronel Bishop dijo algo que debía ser aprehendido con absoluto disgusto.",
+        "label": 2
+    },
+    "es-1362": {
+        "premise": "Dios solo es mencionado como el Dios de la naturaleza, en virtud del cual cualquier persona tiene el derecho a un parte igual y separada en la comunidad de las naciones.",
+        "hypothesis": "Las personas nunca son iguales.",
+        "label": 2
+    },
+    "es-3329": {
+        "premise": "El terrorismo que alimentaron Bin Laden y al Qaeda era diferente a cualquier cosa a la que el gobierno se hubiera enfrentado.",
+        "hypothesis": "El gobierno se había enfrentado al terrorismo de esta manera muchas veces antes.",
+        "label": 2
+    },
+    "es-3978": {
+        "premise": "De este modo, la asociación YMCA pretende poner en práctica los principios cristianos mediante programas que fomentan el crecimiento personal y desarrollan la salud de espíritu, mente y cuerpo en las personas.",
+        "hypothesis": "El YMCA tiene más de 100 programas que promueven los principios cristianos.",
+        "label": 1
+    },
+    "es-3943": {
+        "premise": "He estado afiliado al IRT durante 17 años.",
+        "hypothesis": "He trabajado en recaudación de fondos para el IRT durante más de una década.",
+        "label": 1
+    },
+    "es-1751": {
+        "premise": "Su mano se cerró sobre la culata de una de las pistolas colgadas ante él.",
+        "hypothesis": "Había puesto una pistola en sí mismo.",
+        "label": 0
+    },
+    "es-3285": {
+        "premise": "Oficiales de Hezbolá en Beirut e Irán esperaban la llegada de un grupo durante el mismo período de tiempo.",
+        "hypothesis": "Un informante anónimo había informado a los funcionarios de Hezbolá sobre la llegada del grupo.",
+        "label": 1
+    },
+    "es-480": {
+        "premise": "Y, desgraciadamente, volvimos a mudarnos.",
+        "hypothesis": "Nos mudamos en otro momento.",
+        "label": 0
+    },
+    "es-1348": {
+        "premise": "Los arabescos y las volutas de las molduras y los ornamentos arquitectónicos en un salón francés reflejaban los volantes que adornaban los vestidos de las mujeres y los volantes de las camisas de los hombres.",
+        "hypothesis": "Los vestidos de las mujeres tenían cintas.",
+        "label": 0
+    },
+    "es-3104": {
+        "premise": "Otros relacionados únicamente con el transporte de pasajeros específicos.",
+        "hypothesis": "Estas reglas incluían controles de seguridad mejorados.",
+        "label": 1
+    },
+    "es-17": {
+        "premise": "Así que no tengo muy claro por qué.",
+        "hypothesis": "No sé por qué sucedió eso.",
+        "label": 0
+    },
+    "es-3198": {
+        "premise": "Esta declaración se emitió el día después de que los mercados financieros volvieran a abrir.",
+        "hypothesis": "Los mercados financieros operan continuamente y nunca se cierran.",
+        "label": 2
+    },
+    "es-2172": {
+        "premise": "Formando parte de la muralla de la ciudad, los prusianos más pragmáticos pretendían que la puerta no fuera tanto un arco de triunfo como un imponente peaje para recaudar impuestos.",
+        "hypothesis": "La puerta fue construida para que pudieran cargar personas.",
+        "label": 0
+    },
+    "es-3727": {
+        "premise": "Hace cuarenta años, una estudiante, Betty Groh Tower, ingresó al Programa de Administración de Registros Médicos para convertirse en nuestra primera graduada.",
+        "hypothesis": "Betty Groh Tower se graduó hace cuarenta años.",
+        "label": 0
+    },
+    "es-2336": {
+        "premise": "La característica más legendaria del edificio es la veleta en forma de saltamontes.",
+        "hypothesis": "Hay una veleta en la parte superior del edificio.",
+        "label": 0
+    },
+    "es-3465": {
+        "premise": "Por ejemplo, el alcalde y el comisionado de policía consultaron con el jefe del departamento del FDNY aproximadamente a las 9:20.",
+        "hypothesis": "El jefe de FDNY no pudo ser ubicado hasta después del mediodía.",
+        "label": 2
+    },
+    "es-4552": {
+        "premise": "La alfabetización y los conocimientos matemáticos se presentan en los últimos años como problemas mayores, no solo (ni siquiera tanto) en el tercer mundo, sino también en las naciones industrializadas.",
+        "hypothesis": "Las naciones industrializadas no tienen problemas con el analfabetismo.",
+        "label": 2
+    },
+    "es-3986": {
+        "premise": "Los amigos operan en dos niveles: los Citywide Friends y los Branch Friends, y puedes estar activo en uno o en ambos niveles.",
+        "hypothesis": "No separamos el nivel de amigos, todos son iguales.",
+        "label": 2
+    },
+    "es-1268": {
+        "premise": "Tener en cuenta que una descripción compacta muy simple ha recogido  estas características del sistema desequilibrado y se puede obtener trabajo cuando el sistema gaseoso circula hacia el equilibrio.",
+        "hypothesis": "Puedes entenderlo si puedes leer a un nivel de 7.º curso.",
+        "label": 1
+    },
+    "es-1555": {
+        "premise": "¡Ah!",
+        "hypothesis": "El que pregunta está solo y no tiene a nadie cerca para consultar.",
+        "label": 2
+    },
+    "es-2430": {
+        "premise": "Dam Square estuvo rodeada de tierra por primera vez en su historia.",
+        "hypothesis": "La plaza Dam no solía estar sin salida al mar.",
+        "label": 0
+    },
+    "es-1783": {
+        "premise": "Mi nombre es Wade, Lord Julian Wade.",
+        "hypothesis": "Julian Wade recibió su señoría por derecho de nacimiento.",
+        "label": 1
+    },
+    "es-479": {
+        "premise": "Así que ahora, aquí está, lo quiere hoy.",
+        "hypothesis": "Dice que le gustaría recibir el proyecto final antes de las 5.00 de la tarde.",
+        "label": 1
+    },
+    "es-4744": {
+        "premise": "La generación del Sr. Kaplan ha muerto en gran medida y su progenie se ha americanizado.",
+        "hypothesis": "Toda la generación del Sr. Kaplan aún sigue viva.",
+        "label": 2
+    },
+    "es-4441": {
+        "premise": "El programa Maestro del Año es patrocinado por Scholastic Inc., conocido entre los impresionables estudiantes por la distribución de revistas geniales cuyo único anunciante son los Estados Unidos.",
+        "hypothesis": "Los niños de la escuela no tienen maestros.",
+        "label": 2
+    },
+    "es-499": {
+        "premise": "Esta vez ni siquiera me sentía feliz de que estuviera allí porque estaba tan estresada.",
+        "hypothesis": "Estaba demasiado ansioso como para estar feliz porque ella hubiera llegado un día antes.",
+        "label": 1
+    },
+    "es-2569": {
+        "premise": "Con base en esta evaluación de riesgos, Centrelink desarrolló una serie de estrategias de prevención destinadas a formar a los beneficiarios y empleadores sobre sus obligaciones a la hora de declarar ingresos.",
+        "hypothesis": "Centrelink tenía muchas estrategias para enseñarle a la gente a informar los ingresos porque el gobierno estaba perdiendo mucho dinero por los errores.",
+        "label": 1
+    },
+    "es-468": {
+        "premise": "sabes, y ella está rellenando los pétalos allá y yo no sabía nada de ninguna consecuencia.",
+        "hypothesis": "No sabía que se pondría muy enferma.",
+        "label": 1
+    },
+    "es-410": {
+        "premise": "Y entonces, nos mudamos a Las Vegas, NV, y yo informé, igual que lo hice en Washington, a cierta dirección en el centro de Las Vegas.",
+        "hypothesis": "Trabajé como taxista en ambas ciudades.",
+        "label": 1
+    },
+    "es-4785": {
+        "premise": "Golpes de estilo retro, ¿no es así?",
+        "hypothesis": "Parece una preferencia pasada de moda, ¿no es así?",
+        "label": 0
+    },
+    "es-3905": {
+        "premise": "Incluso con la continua generosidad de los donantes, el museo tiene programas y operaciones que no reciben financiación todos los años.",
+        "hypothesis": "El museo tiene un costo de 500 000 $ este año.",
+        "label": 1
+    },
+    "es-4119": {
+        "premise": "Costo monetario para mantener el microondas por $6.",
+        "hypothesis": "Mantener un microondas cuesta seis dólares.",
+        "label": 0
+    },
+    "es-4350": {
+        "premise": "¿Qué pasó con el enfoque despiadado clásico de los militares de encontrar un chivo expiatorio?",
+        "hypothesis": "Los cambios en las tradiciones militares son evidentes ya que se utilizan menos chivos expiatorios para explicar los problemas de disciplina y comando.",
+        "label": 1
+    },
+    "es-1289": {
+        "premise": "El principio general de tratamiento igualitario, según lo hemos elaborado, se presta al argumento de limitar la libertad de expresión.",
+        "hypothesis": "Hay una discusión sobre la libertad de expresión.",
+        "label": 0
+    },
+    "es-465": {
+        "premise": "Y luego dijo su mamá, su mamá se inclinó hacia adelante y observo y dijo: Anda como él.",
+        "hypothesis": "Ella dijo que su madre también camina de puntillas.",
+        "label": 1
+    },
+    "es-4160": {
+        "premise": "Entrega de lunes a viernes de la columna Moneybox de James Surowiecki, más otros artículos económicos y financieros de Slate.",
+        "hypothesis": "Los lectores han dado críticas positivas a la columna de Moneybox de James Surowiecki.",
+        "label": 1
+    },
+    "es-656": {
+        "premise": "si, le oigo",
+        "hypothesis": "Creo que lo oigo.",
+        "label": 1
+    },
+    "es-1522": {
+        "premise": "Te lo debía, o así lo creí, dijo él.",
+        "hypothesis": "Te lo debe por la ayuda que le proporcionaste cuando no tenía un duro.",
+        "label": 1
+    },
+    "es-561": {
+        "premise": "oh, eso de verdad no es realmente, oh consistente",
+        "hypothesis": "No estoy de acuerdo contigo, es muy constante.",
+        "label": 2
+    },
+    "es-4874": {
+        "premise": "Además los editores ahora mismo están generalmente menos reacios que antes para hacer disponibles a los investigadores los discos y cintas que contienen los textos.",
+        "hypothesis": "Los editores no quieren dar las cintas del texto a los investigadores.",
+        "label": 0
+    },
+    "es-556": {
+        "premise": "Sí, él sugirió solo comprar una fregona como la que usarías.",
+        "hypothesis": "Sugirió encontrar una fregona.",
+        "label": 0
+    },
+    "es-1926": {
+        "premise": "Debo regresar al coronel Bishop para recibir mis órdenes, les dijo.",
+        "hypothesis": "Dijo que no tenía que ir al Coronel Bishop para recibir órdenes.",
+        "label": 2
+    },
+    "es-3307": {
+        "premise": "Después de rechazar por primera vez la solicitud de préstamo de Hazmi, el administrador acordó permitirle utilizar la cuenta bancaria del administrador para recibir la transferencia bancaria de 5000 $.",
+        "hypothesis": "El administrador no permitió a Hazmi usar su cuenta bancaria bajo ningún concepto.",
+        "label": 2
+    },
+    "es-982": {
+        "premise": "Sí, no te sientes cómodo con ese tipo de decisión porque",
+        "hypothesis": "¿Por qué no estás cómodo con esa decisión?",
+        "label": 0
+    },
+    "es-4666": {
+        "premise": "Otro ejemplo proviene del VIP, el péptido intestinal vasoactivo.",
+        "hypothesis": "VIP no es un ejemplo",
+        "label": 2
+    },
+    "es-2016": {
+        "premise": "Vinculado a Nueva Escocia por el angosto Istmo de Chignecto, Nueva Brunswick se convirtió en una provincia separada en 1784 a petición de 14 000 refugiados lealistas.",
+        "hypothesis": "New Brunswick se convirtió en una provincia porque tenía suficiente personas.",
+        "label": 1
+    },
+    "es-4742": {
+        "premise": "Para el horror de algunos lectores del Western, sin embargo, lo citaron al menos una vez fuera de contexto en donde amenazaba enterrar a América.",
+        "hypothesis": "Se informó de que quería quemar América, aunque esto no era verdad.",
+        "label": 0
+    },
+    "es-4870": {
+        "premise": "Sigmund Freud no queda libre de culpa.",
+        "hypothesis": "Freud tiene algo de culpa.",
+        "label": 0
+    },
+    "es-325": {
+        "premise": "Mientras tanto La Fuerza Aérea compró el SR71, ahora el A-12, que estábamos trabajando con la CIA.",
+        "hypothesis": "Las fuerzas aéreas compraron aviones.",
+        "label": 0
+    },
+    "es-671": {
+        "premise": "Golly, sabes que él ni siquiera siguió ninguna de las reglas y a mi ni siquiera parecía molestarme, por supuesto, lo sacaron a patadas de inmediato",
+        "hypothesis": "Él debería haber seguido las normas.",
+        "label": 1
+    },
+    "es-3434": {
+        "premise": "A las 10:45 se les pidió a los participantes que esperaran en el DEFCON 3, pero un minuto después se había restablecido el orden.",
+        "hypothesis": "Cuando Defcon 3 está activado, toda baja militar queda cancelada hasta nuevo aviso.",
+        "label": 1
+    },
+    "es-4781": {
+        "premise": "Dos bibliotecarios de referencia no sabían cómo comenzar una búsqueda.",
+        "hypothesis": "Los dos bibliotecarios de referencia son expertos en investigación y realizan la búsqueda necesaria al instante.",
+        "label": 2
+    }
+}

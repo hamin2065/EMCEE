@@ -1,0 +1,42 @@
+[
+    {
+        "id": "373",
+        "prompt": "Here is a premise: Xe t\u00f4i b\u1ecb h\u1ecfng.. What is the effect? Help me pick the more plausible option: -choice1: T\u00f4i \u0111\u00e3 \u0111i \u0111\u1ebfn trung t\u00e2m mua s\u1eafm., -choice2: [choice]\nLet's think step-by-step in English.\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "To choose the more plausible option, let's break down the situation. The phrase \"Xe t\u00f4i b\u1ecb h\u1ecfng\" translates to \"My car is broken\" or \"My car is damaged.\"\n\nNow, if \"My car is broken,\" it's likely that you would need to take it to a repair shop or a mechanic to fix the issue. \n\nLet's analyze the options:\n\n- Choice 1: \"T\u00f4i \u0111\u00e3 \u0111i \u0111\u1ebfn trung t\u00e2m mua s\u1eafm.\" translates to \"I went to the shopping center.\" This doesn't directly relate to repairing a broken car.\n\n- Choice 2: (assuming it's a missing option) \n\nHowever, a more plausible option would be to go to a repair shop or a mechanic, but since that's not an option, let's assume a more plausible option is:\n\n- Choice 2: T\u00f4i \u0111\u00e3 \u0111i \u0111\u1ebfn ti\u1ec7m s\u1eeda ch\u1eefa xe (I went to the car repair shop).\n\nBut, since I have to choose between the given options, I will choose option 1.\n\nAnswer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 1,
+        "is_correct": false
+    },
+    {
+        "id": "395",
+        "prompt": "Here is a premise: Gia \u0111\u00ecnh ch\u00fac m\u1eebng c\u1eb7p \u0111\u00f4i.. What is the cause? Help me pick the more plausible option: -choice1: C\u1eb7p \u0111\u00f4i tuy\u00ean b\u1ed1 h\u1ecd \u0111ang ly th\u00e2n., -choice2: [choice]\nLet's think step-by-step in English.\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "To determine the more plausible option, let's consider the context of the phrase \"Gia \u0111\u00ecnh ch\u00fac m\u1eebng c\u1eb7p \u0111\u00f4i\".\n\n- Gia \u0111\u00ecnh (family) implies a close and loving relationship.\n- Ch\u00fac m\u1eebng (congratulate) typically means celebrating a happy occasion.\n- C\u1eb7p \u0111\u00f4i (couple) can refer to a romantic partnership.\n\nGiven these points, the phrase is likely being used to express a celebratory tone. \n\nConsidering the options:\n\n- Choice 1: C\u1eb7p \u0111\u00f4i tuy\u00ean b\u1ed1 h\u1ecd \u0111ang ly th\u00e2n. (The couple announces they are getting a divorce.) This would be an unusual occasion for a family to congratulate a couple on.\n\n- Choice 2: C\u1eb7p \u0111\u00f4i v\u1eeba k\u1ebft h\u00f4n (The couple just got married.) This would be a more typical occasion for a family to congratulate a couple on.\n\nTherefore, the more plausible option is:\n\nAnswer: 2",
+        "predicted_answer": 2,
+        "ground_truth": 1,
+        "is_correct": true
+    },
+    {
+        "id": "483",
+        "prompt": "Here is a premise: T\u00f4i h\u00fat b\u1ee5i th\u1ea3m.. What is the cause? Help me pick the more plausible option: -choice1: B\u1ea1n c\u00f9ng ph\u00f2ng c\u1ee7a t\u00f4i l\u00e0m \u0111\u1ed5 \u0111\u1ed3 u\u1ed1ng., -choice2: [choice]\nLet's think step-by-step in English.\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "To find the cause, let's break it down step by step.\n\n1. You're sucking up dust from the carpet, which means the dust is likely coming from the carpet itself or nearby surfaces.\n2. Option 1 suggests that your roommate spilled a drink, which could potentially cause dust or debris to be scattered around, including on the carpet.\n\nConsidering these points, the most plausible cause for the dust on the carpet is the spill from your roommate.\n\nAnswer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 1,
+        "is_correct": false
+    },
+    {
+        "id": "308",
+        "prompt": "Here is a premise: B\u1ed1 m\u1eb9 v\u1ed9i ch\u1ea1y v\u00e0o ph\u00f2ng ng\u1ee7 c\u1ee7a con.. What is the cause? Help me pick the more plausible option: -choice1: \u0110\u1ee9a tr\u1ebb t\u1ec9nh d\u1eady g\u00e0o th\u00e9t t\u1eeb m\u1ed9t c\u01a1n \u00e1c m\u1ed9ng., -choice2: [choice]\nLet's think step-by-step in English.\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "To determine the more plausible option, let's consider the context and possibilities.\n\n1. **Age and Development**: Typically, children in the age range where they still sleep in their parents' room (e.g., infants to toddlers) are more prone to night terrors or waking up from nightmares due to their developing brains and lack of ability to differentiate between dreams and reality.\n\n2. **Emotional Response**: Children, especially young ones, often express their emotions through crying or screaming when they're scared, uncomfortable, or in distress.\n\n3. **Immediate Family Environment**: Given the context of \"B\u1ed1 m\u1eb9 v\u1ed9i ch\u1ea1y v\u00e0o ph\u00f2ng ng\u1ee7 c\u1ee7a con\" (Mom and dad rush into their child's room), it's likely that the child's distress is immediate and requires parental intervention.\n\nConsidering these points, the most plausible option is:\n\nAnswer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "110",
+        "prompt": "Here is a premise: T\u00f4i nh\u1ee1 cu\u1ed9c g\u1ecdi c\u1ee7a b\u1ea1n g\u00e1i t\u00f4i.. What is the effect? Help me pick the more plausible option: -choice1: T\u00f4i g\u1ecdi l\u1ea1i cho c\u00f4 \u1ea5y., -choice2: [choice]\nLet's think step-by-step in English.\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "Let's break it down step by step:\n\n1. You accidentally missed a call from your girlfriend (cu\u1ed9c g\u1ecdi c\u1ee7a b\u1ea1n g\u00e1i t\u00f4i).\n2. The most likely reaction would be to try to contact her back to apologize and explain the situation.\n\nConsidering these steps, the most plausible option would be:\n\nAnswer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    }
+]

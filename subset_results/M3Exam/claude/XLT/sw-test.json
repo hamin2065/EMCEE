@@ -1,0 +1,42 @@
+[
+    {
+        "id": 349,
+        "prompt": "I want you to act as a question answering expert for swahili.\nRequest: Sentensi inayounganisha sentensi: \"Juma ni mzee. Juma anasoma kitabu bila miwani\", kisahihi ni:\nA. Juma ni mzee maadamu anasoma kitabu bila miwani.\nB. Juma anasoma kitabu bila miwani licha ya kuwa yeye ni mzee.\nC. Juma ni mzee madhali anasoma kitabu bila miwani.\nD. Juma anasoma kitabu bila miwani minghairi ya yeye ni mzee.\nYou should retell the request in English.\nYou should step-by-step answer to obtain an option.\nYou should tell me the answer in this format: 'Answer: [option]'.",
+        "response": "English Translation of the Request:\nFind the correct sentence that connects the following two sentences: \"Juma is an old man. Juma is reading a book without glasses\", which option is correct?\n\nStep-by-Step Solution:\n1. First, analyze the two original sentences:\n   - \"Juma ni mzee\" (Juma is an old man)\n   - \"Juma anasoma kitabu bila miwani\" (Juma is reading a book without glasses)\n\n2. We need to find a connecting word or phrase that logically links these two statements\n\n3. Let's examine each option:\n   A. Uses \"maadamu\" (since) - doesn't create a logical connection\n   B. Uses \"licha ya kuwa\" (despite being) - creates a logical contrast\n   C. Uses \"madhali\" (while) - creates a simultaneous action connection\n   D. Uses \"minghairi ya\" (other than) - doesn't make grammatical sense\n\n4. Option B best connects the two sentences, showing that despite being an old man, Juma is reading without glasses\n\nAnswer: B",
+        "predicted_answer": "B",
+        "ground_truth": "B",
+        "is_correct": true
+    },
+    {
+        "id": 408,
+        "prompt": "I want you to act as a question answering expert for swahili.\nRequest: Tashbihi\nPopo amekonda kama _________\nA. sindano\nB. ng'onda\nC. kijiti\nD. kasuku\nYou should retell the request in English.\nYou should step-by-step answer to obtain an option.\nYou should tell me the answer in this format: 'Answer: [option]'.",
+        "response": "English Translation:\nThe question is a simile (tashbihi) where the task is to complete the phrase \"Popo (bat) is sleeping like a ________\"\n\nStep-by-step solution:\n1. Analyze the options:\n- A. sindano = needle\n- B. ng'onda = stick/log\n- C. kijiti = small stick\n- D. kasuku = parrot\n\n2. Consider how a bat typically sleeps:\n- Bats usually hang upside down\n- They often cling to something long and thin\n- They need a stable, elongated surface to rest on\n\n3. Evaluate the options for best match:\n- A needle (sindano) is too thin and sharp\n- A log/stick (ng'onda) provides a good hanging surface\n- A small stick (kijiti) might be too weak\n- A parrot (kasuku) is not a suitable sleeping surface\n\n4. The most logical choice is a log or stick\n\nAnswer: B. ng'onda",
+        "predicted_answer": "B. ng'onda",
+        "ground_truth": "B",
+        "is_correct": true
+    },
+    {
+        "id": 72,
+        "prompt": "I want you to act as a question answering expert for swahili.\nRequest: Methali zifuatazo zinahusu bidii. Ipi haifai kuwepo?\nA. Mgaagaa na upwa hali wali mkavu.\nB. Umoja ni nguvu utengano ni udhaifu.\nC. Ukiona vyaelea jua vimeundwa.\nD. Mtaka cha mvunguni sharti ainame.\nYou should retell the request in English.\nYou should step-by-step answer to obtain an option.\nYou should tell me the answer in this format: 'Answer: [option]'.",
+        "response": "English Translation:\n\"The following proverbs are about effort. Which one does not fit?\"\n\nStep-by-step solution:\n\n1. Analyze each proverb's meaning related to effort:\n\nA. \"One who is idle with fish is like dry rice\" \n- This proverb suggests that without effort, one cannot achieve results\n- Relates to the importance of hard work\n\nB. \"Unity is strength, separation is weakness\"\n- Emphasizes collective effort and teamwork\n- Directly speaks about working together\n\nC. \"If you see something floating, know it was constructed\"\n- Implies that achievements require deliberate construction/effort\n- Suggests things don't happen by chance\n\nD. \"One who wants something from under the bed must bend down\"\n- Directly speaks about personal effort being necessary to achieve goals\n- Indicates that success requires personal action\n\n2. Evaluate which proverb does NOT relate to effort:\n\nOption B is the only proverb that doesn't directly discuss personal or collective effort. It's more about unity and teamwork's general principle.\n\nAnswer: B",
+        "predicted_answer": "B",
+        "ground_truth": "C",
+        "is_correct": false
+    },
+    {
+        "id": 381,
+        "prompt": "I want you to act as a question answering expert for swahili.\nRequest: Chagua neno ambalo limetumia silabi changamano:\nA. Mbuga.\nB. Kituta.\nC. Ziwa.\nD. Utulivu.\nYou should retell the request in English.\nYou should step-by-step answer to obtain an option.\nYou should tell me the answer in this format: 'Answer: [option]'.",
+        "response": "English Translation:\nChoose the word that uses a complex syllable.\n\nStep-by-step solution:\n1. First, recall what a complex syllable (silabi changamano) is:\n   - A complex syllable contains a consonant cluster or multiple consonants together\n   - It's not a simple CV (consonant-vowel) structure\n\n2. Analyze each word's syllable structure:\n   A. Mbuga: \n      - Contains 'mb' consonant cluster\n      - This is a complex syllable\n   \n   B. Kituta:\n      - Syllables: Ki-tu-ta\n      - No consonant clusters\n      - Simple syllables\n\n   C. Ziwa:\n      - Syllables: Zi-wa\n      - No consonant clusters\n      - Simple syllables\n\n   D. Utulivu:\n      - Syllables: U-tu-li-vu\n      - No consonant clusters\n      - Simple syllables\n\n3. Identify the word with a complex syllable\n\nAnswer: A. Mbuga",
+        "predicted_answer": "A. Mbuga",
+        "ground_truth": "A",
+        "is_correct": true
+    },
+    {
+        "id": 237,
+        "prompt": "I want you to act as a question answering expert for swahili.\nRequest: Tegua kitendawili hiki: \nMava hapo mava pale\nA. kifo\nB. kioo\nC. kumetameta\nD. kivuli\nYou should retell the request in English.\nYou should step-by-step answer to obtain an option.\nYou should tell me the answer in this format: 'Answer: [option]'.",
+        "response": "English Translation:\nSolve this riddle:\nMava hapo mava pale\n(Literally: Mava here, mava there)\n\nStep-by-step solution:\n1. First, let's understand what \"mava\" might represent\n2. The repetition of \"mava\" suggests something that appears or exists in multiple places\n3. Let's analyze each option:\n   A. kifo (death) - doesn't fit the context\n   B. kioo (mirror) - this is interesting because a mirror reflects images in different places\n   C. kumetameta (to be scattered/spread out) - possible, but not as precise\n   D. kivuli (shadow) - also possible, but not as fitting\n\n4. The key is \"mava hapo mava pale\" which sounds like describing something that appears in multiple locations\n5. A mirror reflects images in different places, matching the riddle's description perfectly\n\nAnswer: B. kioo (mirror)\n\nThe riddle describes how a mirror shows the same image in different locations, hence \"mava hapo mava pale\" - the same thing here and there.",
+        "predicted_answer": "B. kioo (mirror)",
+        "ground_truth": "D",
+        "is_correct": false
+    }
+]

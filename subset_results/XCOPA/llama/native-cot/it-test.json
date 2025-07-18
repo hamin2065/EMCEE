@@ -1,0 +1,42 @@
+[
+    {
+        "id": "136",
+        "prompt": "Ecco una premessa: Il palazzo in centro citt\u00e0 \u00e8 crollato.. Qual \u00e8 la causa? Aiutami a scegliere l'opzione pi\u00f9 plausibile: -scelta1: Un terremoto ha colpito la citt\u00e0., -scelta2: La criminalit\u00e0 nella citt\u00e0 \u00e8 aumentata.\nPensiamo passo per passo in italiano.\nDovresti scegliere solo un'opzione per la tua risposta. Dovresti rispondere alla domanda nel formato \"Risposta: [1 o 2]\"",
+        "response": "Risposta: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "316",
+        "prompt": "Ecco una premessa: Mi svegliai nel mezzo della notte per il freddo.. Qual \u00e8 la effetto? Aiutami a scegliere l'opzione pi\u00f9 plausibile: -scelta1: Indossai i pantaloni della tuta., -scelta2: Bevvi un bicchier d'acqua.\nPensiamo passo per passo in italiano.\nDovresti scegliere solo un'opzione per la tua risposta. Dovresti rispondere alla domanda nel formato \"Risposta: [1 o 2]\"",
+        "response": "Risposta: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "107",
+        "prompt": "Ecco una premessa: Il bagno si \u00e8 allagato.. Qual \u00e8 la causa? Aiutami a scegliere l'opzione pi\u00f9 plausibile: -scelta1: Il gabinetto si \u00e8 intasato., -scelta2: Lo scaldabagno si \u00e8 rotto.\nPensiamo passo per passo in italiano.\nDovresti scegliere solo un'opzione per la tua risposta. Dovresti rispondere alla domanda nel formato \"Risposta: [1 o 2]\"",
+        "response": "Risposta: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "116",
+        "prompt": "Ecco una premessa: Del vapore si \u00e8 sollevato dalla pentola piena d'acqua.. Qual \u00e8 la causa? Aiutami a scegliere l'opzione pi\u00f9 plausibile: -scelta1: L'acqua bolliva., -scelta2: Ho coperto la pentola.\nPensiamo passo per passo in italiano.\nDovresti scegliere solo un'opzione per la tua risposta. Dovresti rispondere alla domanda nel formato \"Risposta: [1 o 2]\"",
+        "response": "Risposta: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "414",
+        "prompt": "Ecco una premessa: Il laptop non si accendeva.. Qual \u00e8 la causa? Aiutami a scegliere l'opzione pi\u00f9 plausibile: -scelta1: L'avevo fatto cadere., -scelta2: L'avevo caricato.\nPensiamo passo per passo in italiano.\nDovresti scegliere solo un'opzione per la tua risposta. Dovresti rispondere alla domanda nel formato \"Risposta: [1 o 2]\"",
+        "response": "Per determinare la causa pi\u00f9 plausibile, andiamo a considerare i due scenari:\n\n- Se l'hai fatto cadere (scelta 1), \u00e8 probabile che ci siano stati danni interni, come rotture di componenti o disallineamenti di parti meccaniche. Ci\u00f2 potrebbe impedire al laptop di accendersi.\n- Se l'hai caricato (scelta 2), \u00e8 probabile che il problema sia legato alla mancanza di alimentazione elettrica, oppure a un problema con il caricatore o la presa di corrente.\n\nConsiderando queste due possibilit\u00e0, la causa pi\u00f9 plausibile \u00e8 legata a un evento fisico, come un impatto, che potrebbe aver causato danni interni. Quindi:\n\nRisposta: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "id": 64,
+        "prompt": "Ing ngisor iki minangka pitakon pilihan ganda.\nKanggo nyegah sumebare COVID-19, sabubare lelungan perlu reresik tangan ....\nA. Sadurunge ndemok sedulur lan anggota kulawargane.\nB. Sadurunge ndemok anggota kulawarga lan barang-barang sing ana ing ngomahe.\nC. Sadurunge mangan lan ngombe ing ngomahe\nD. Sadurunge adus lan ngumbah klambine.\nSampeyan kudu nyedhiyakake jawaban pungkasan ing pungkasan nganggo format: 'Wangsulan: [pilihan]'",
+        "response": "Wangsulan: B",
+        "predicted_answer": "Wangsulan: B",
+        "ground_truth": "B",
+        "is_correct": true
+    },
+    {
+        "id": 46,
+        "prompt": "Ing ngisor iki minangka pitakon pilihan ganda.\nWaluh, Semangka, Lan Timun Kuwi Klebu Tanduran ....\nA. Palakirna\nB. Palakependhem\nC. Palawija\nD. Palakesimpar\nSampeyan kudu nyedhiyakake jawaban pungkasan ing pungkasan nganggo format: 'Wangsulan: [pilihan]'",
+        "response": "Wangsulan: D. Palakesimpar",
+        "predicted_answer": "Wangsulan: D. Palakesimpar",
+        "ground_truth": "D",
+        "is_correct": false
+    },
+    {
+        "id": 196,
+        "prompt": "Ing ngisor iki minangka pitakon pilihan ganda.\n\u201cWiwitanipun usaha inggih namung nyobi-nyobi, krana pekarangannipun wiyar Panjenengannipun nyobi ternak lele. Dhasar mara sepuhipun pegawai Dinas Peternakan, dados saged ngangsu kawruh bab ternak lele\u201d.\n\nApa gagasan utama saka paragraf ing ndhuwur kuwi ....\nA. Wirausaha ternak lele\nB. Wirausaha\nC. Ternak lele\nD. Pegawai Dinas Peternakan\nSampeyan kudu nyedhiyakake jawaban pungkasan ing pungkasan nganggo format: 'Wangsulan: [pilihan]'",
+        "response": "Wangsulan: B",
+        "predicted_answer": "Wangsulan: B",
+        "ground_truth": "A",
+        "is_correct": false
+    },
+    {
+        "id": 244,
+        "prompt": "Ing ngisor iki minangka pitakon pilihan ganda.\nSapu Sada\n\nJumat bersih\nResik lan sehat\nCancut tali wanda\nNandur kabecikan\nCilik gedhe bagus ayu\nOra mung padha gumuyu\nOra tinggal glanggang calon playu\nTumuju adiwiyata murih rahayu\nCrah agawe bubrah\nRukun agawe santosa\nGuyub rukun kaya sapu sada\n\nGeguritan ing ndhuwur surasane bab ....\na. kerja bakti\nb. sapu\nc. rukun\nd. gojekan\nSampeyan kudu nyedhiyakake jawaban pungkasan ing pungkasan nganggo format: 'Wangsulan: [pilihan]'",
+        "response": "Sakwis puji, sawenengen karo jawaban. \n\nWangsulan: c. rukun",
+        "predicted_answer": "Sakwis puji, sawenengen karo jawaban. \n\nWangsulan: c. rukun",
+        "ground_truth": "a",
+        "is_correct": false
+    },
+    {
+        "id": 68,
+        "prompt": "Ing ngisor iki minangka pitakon pilihan ganda.\nJamaah jumat ingkang kawula bhekteni, monggo kita sareng-sareng nglampahi sedaya ingkang sampun perintah dining Alloh SWT. Lan nebihi sedaya laranganlaranganipun.....\n\nUkara-ukara ing inggil minangka tuladha ....\nA. Sesorah\nB. Khotbah\nC. Atur pambagya\nD. Atur pranatacara\nSampeyan kudu nyedhiyakake jawaban pungkasan ing pungkasan nganggo format: 'Wangsulan: [pilihan]'",
+        "response": "Wangsulan: B",
+        "predicted_answer": "Wangsulan: B",
+        "ground_truth": "B",
+        "is_correct": true
+    }
+]

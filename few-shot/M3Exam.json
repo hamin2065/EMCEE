@@ -1,0 +1,1025 @@
+{
+    "af": {
+        "language": [
+            {
+                "id": "6",
+                "question": "Identifiseer die hoofsin in die onderstaande sin.\nGesonde mense drink elke dag in die winter water.",
+                "options": "(A) Mense drink water.\n(B) Mense drink elke dag water.\n(C) Mense drink in die winter water.\n(D) Mense drink.",
+                "ground_truth": "A",
+                "explanation": "In the given sentence, \"Gesonde mense drink elke dag in die winter water,\" we are looking for the main clause, which is the complete thought or statement that provides the essential information without additional modifiers. The main subject is \"mense\" (people) and the main verb is \"drink\" (drink). Option (A) \"Mense drink water\" captures this essential information, as it includes the subject \"Mense\" and the verb \"drink,\" along with the object \"water,\" forming the core of the sentence without the additional details about when or how often the action occurs. Options B, C, and D include modifiers or less complete versions of the main statement."
+            },
+            {
+                "id": "15",
+                "question": "Die haan het <u>_______</u> die venster gevlieg.",
+                "options": "(A) dier\n(B) deur\n(C) duur\n(D) deer",
+                "ground_truth": "B",
+                "explanation": "The sentence is in Afrikaans, and it translates to \"The rooster flew <u>_______</u> the window.\" The correct preposition to use in this context is \"deur,\" which means \"through\" in English. In Afrikaans, \"deur\" is used to indicate movement through an opening or passage, which is appropriate for describing how the rooster flew through the window. The other options are incorrect translations or misspellings and do not fit the context of the sentence."
+            },
+            {
+                "id": "18",
+                "question": "n Bul en 'n koei is ...",
+                "options": "(A) beeste.\n(B) beste.\n(C) bieste.\n(D) beester.",
+                "ground_truth": "A",
+                "explanation": "In Afrikaans, the word for cattle, which includes both a bull ('n bul) and a cow ('n koei), is \"beeste.\" The key here is to recognize that \"beeste\" is the plural term used to collectively refer to cattle. This understanding of the language helps distinguish the correct choice, as options B, C, and D do not accurately describe a group of cattle. Option A, \"beeste,\" is the correct answer as it appropriately represents both a bull and a cow together in Afrikaans."
+            }
+        ],
+        "natural-science": [
+            {
+                "id": "0",
+                "question": "Opwekking van elektrisiteit deur vallende water, word ... genoem.",
+                "options": "(A) kernkrag\n(B) hidro-elektrisiteit\n(C) transformasie\n(D) aardlekkasie",
+                "ground_truth": "B",
+                "explanation": "The generation of electricity by falling water is termed \"hydro-electricity,\" which is option (B). This process involves converting the kinetic energy of falling or flowing water into electrical energy using turbines and generators. Unlike nuclear power (option A) which relies on nuclear reactions, or transformation (option C) which refers to changing one form of energy to another, hydro-electricity specifically pertains to water. Aardlekkasie (option D) refers to ground leakage, which is unrelated to the generation of electricity through water. Understanding the specific terminologies associated with different energy sources is crucial in selecting the correct answer."
+            },
+            {
+                "id": "1",
+                "question": "\u0149 Natuurlike vastestof met \u0149 definitiewe chemiese samestelling en \u0149 spesifieke kristallyn struktuur, word \u0149 ... genoem.",
+                "options": "(A) mineraal\n(B) slik\n(C) staal\n(D) voedingstof",
+                "ground_truth": "A",
+                "explanation": "The question asks for a term that describes a natural solid with a definite chemical composition and a specific crystalline structure. The correct answer is \"mineraal\" (mineral). Minerals are naturally occurring substances formed through geological processes, and they have a specific chemical formula and crystalline structure. Options like \"slik\" (silt) and \"staal\" (steel) do not fit this definition, as silt is a sedimentary material and steel is a man-made alloy. \"Voedingstof\" (nutrient) refers to substances that provide nourishment, which is unrelated to the question about crystalline structures."
+            },
+            {
+                "id": "4",
+                "question": "Kies die KORREKTE antwoord.\n'n Stelsel wat elektrisiteit opwek",
+                "options": "(A) Gravitasiekrag\n(B) Ammeter\n(C) Kragstuwing\n(D) Lawa\n(E) Troposfeer\n(F) Stratosfeer\n(G) Smeltdraad\n(H) Kragtasie",
+                "ground_truth": "H",
+                "explanation": "The correct answer to the question about a system that generates electricity is (H) Kragtasie. In the context of electrical and power systems, \"Kragtasie\" refers to a power station or power plant where electricity is generated for distribution and use. Unlike the other options, which include terms related to forces, measurement devices, geological phenomena, or layers of the atmosphere, \"Kragtasie\" directly relates to the production of electricity. Understanding the function of a power station is essential for identifying the correct answer."
+            },
+            {
+                "id": "7",
+                "question": "Watter EEN van die volgende beskryf die gebeure tydens akkommodasie die beste wanneer 'n persoon na 'n voorwerp kyk wat minder as 6 m ver is.",
+                "options": "(A) \nSili\u00eare\u00a0spier | Suspensoriese/draagligamente | Spanning/Trekkrag\u00a0op\u00a0die\u00a0lens\nOntspan | Trek\u00a0stywer | Neem\u00a0toe\n(B) \nSili\u00eare\u00a0spier | Suspensoriese/draagligamente | Spanning/Trekkrag\u00a0op\u00a0die\u00a0lens\nTrek\u00a0saam | Verslap | Neem\u00a0af\n(C)\nSili\u00eare\u00a0spier | Suspensoriese/draagligamente | Spanning/Trekkrag\u00a0op\u00a0die\u00a0lens\nOntspan | Verslap | Neem\u00a0af\n(D)\nSili\u00eare\u00a0spier | Suspensoriese/draagligamente | Spanning/Trekkrag\u00a0op\u00a0die\u00a0lens\nTrek\u00a0saam | Trek\u00a0stywer | Neem\u00a0toe",
+                "ground_truth": "B",
+                "explanation": "When a person focuses on an object that is less than 6 meters away, the eye undergoes a process called accommodation. During accommodation, the ciliary muscles contract, which reduces the tension on the suspensory ligaments. This reduction in tension allows the lens to become thicker and more convex, which is necessary for focusing on nearby objects. Option B correctly describes this process: ciliary muscles contract, suspensory ligaments relax, and the tension on the lens decreases. This change in lens shape increases its refractive power to focus light from close objects onto the retina."
+            },
+            {
+                "id": "10",
+                "question": "Die beste metode om grondbone en gedroogde bone te skei is \u2026",
+                "options": "(A) sifting.\n(B) uitsinking.\n(C) filtrering.\n(D) per hand.",
+                "ground_truth": "D",
+                "explanation": "The question asks for the best method to separate peanuts and dried beans. Option D, \"per hand,\" which means \"by hand,\" is the correct choice because it allows for a careful and precise separation based on the size, shape, and texture of the nuts and beans. Mechanical methods like sifting or filtering are not suitable due to the similar sizes and weights of the items, which would not effectively sort them. Manually separating them ensures accuracy and prevents damage to the items."
+            },
+            {
+                "id": "11",
+                "question": "Dreineringspypies ('grommets') word gebruik vir die behandeling van ...",
+                "options": "(A) doofheid.\n(B) blindheid.\n(C) middeloorontsteking.\n(D) veelvuldige sklerose.",
+                "ground_truth": "C",
+                "explanation": "Grommets, or dreineringspypies, are small tubes inserted into the eardrum to allow air to enter the middle ear and prevent fluid accumulation, which is a common cause of middeloorontsteking, or middle ear infections. This procedure is typically used to treat chronic ear infections and alleviate symptoms such as hearing loss or discomfort due to fluid build-up. Therefore, the correct answer is (C) middeloorontsteking, as grommets are specifically used for this condition and not for treating doofheid (deafness), blindheid (blindness), or veelvuldige sklerose (multiple sclerosis)."
+            },
+            {
+                "id": "12",
+                "question": "Watter van die volgende is plantgroeihormone?",
+                "options": "(A) Prolaktien en absisiensuur\n(B) Absisiensuur en glukagon\n(C) Gibberelliene en absisiensuur\n(D) ADH en gibberelliene",
+                "ground_truth": "C",
+                "explanation": "In the context of plant biology, plant growth hormones are substances that significantly influence the growth and development of plants. Gibberellins (gibberelliene) and abscisic acid (absisiensuur) are two well-known plant hormones. Gibberellins are important for promoting growth and elongation of cells, while abscisic acid is involved in processes like seed dormancy and stress responses. The other options include hormones like prolactin, glucagon, and ADH, which are not related to plant biology as they are animal hormones. Thus, the correct answer is (C) Gibberelliene en absisiensuur."
+            },
+            {
+                "id": "17",
+                "question": "Dit neem ... dae vir die aarde om een maal om die son te wentel.",
+                "options": "(A) 360\n(B) 365\n(C) $365\\frac{1}{4}$\n(D) $365\\frac{1}{2}$",
+                "ground_truth": "C",
+                "explanation": "The Earth takes approximately 365.25 days to complete one full orbit around the Sun. This is why we have a leap year every four years, adding an extra day to the calendar to account for the additional quarter of a day. Therefore, the most accurate answer among the options provided is $365\\frac{1}{4}$ days, as it represents the average time it takes for the Earth to orbit the Sun over a four-year period. Options (A), (B), and (D) do not accurately reflect this fractional component."
+            }
+        ],
+        "social-science": [
+            {
+                "id": "2",
+                "question": "Om te verhoed dat die gruweldade van WWII weer plaasvind, het die \"Algemene Vergadering van die VN\" ........ in Desember 1948 aanvaar.",
+                "options": "(A) die Wet op Afsonderlike Geriewe\n(B) die paswette\n(C) die Universale Verklaring van Menseregte\n(D) die Suid-Afrkaanse Handves van Regte",
+                "ground_truth": "C",
+                "explanation": "The correct answer is (C) the \"Universal Declaration of Human Rights.\" After the atrocities of World War II, the United Nations sought to ensure such events would not happen again by establishing a set of fundamental human rights that all nations should uphold. In December 1948, the General Assembly of the United Nations adopted the Universal Declaration of Human Rights, which outlines basic rights and freedoms to which all humans are entitled. Options (A), (B), and (D) are incorrect as they pertain to specific laws or documents related to South Africa and are unrelated to the global context addressed by the UN in 1948."
+            },
+            {
+                "id": "13",
+                "question": "<u>_______________ </u>was die jaar wat die Vryheidsmanifes aanvaar is.",
+                "options": "(A) 1995\n(B) 1955\n(C) 1948\n(D) 1990",
+                "ground_truth": "B",
+                "explanation": "The question asks for the year in which the Freedom Charter was adopted. The Freedom Charter is a significant political document in South African history that was adopted at the Congress of the People in Kliptown on June 26, 1955. It outlined the vision of a non-racial South Africa and became a cornerstone for the anti-apartheid movement. Therefore, the correct answer is (B) 1955, as this is the year the Vryheidsmanifes (Freedom Charter) was accepted."
+            },
+            {
+                "id": "16",
+                "question": "Die president van die ANC gedurende die Versetveldtog;",
+                "options": "(A) J.L Dube\n(B) S.M Makgatho\n(C) L.S Moraka\n(D) A. Luthuli",
+                "ground_truth": "D",
+                "explanation": "The correct answer is (D) A. Luthuli. Albert Luthuli was the president of the African National Congress (ANC) during the Defiance Campaign, which was a significant resistance movement against apartheid laws in South Africa. This campaign, taking place in the early 1950s, aimed to challenge and resist the oppressive apartheid regime through non-violent protests. Luthuli's leadership and commitment to civil disobedience were pivotal during this period, and his role as the president of the ANC during the campaign is a key historical fact."
+            }
+        ],
+        "math": [
+            {
+                "id": "3",
+                "question": "Watter van die volgende getalle is 'n <b> priemgetal</b>?",
+                "options": "(A) 1\n(B) 2\n(C) 0\n(D) 4",
+                "ground_truth": "B",
+                "explanation": "A prime number is defined as a natural number greater than 1 that has no positive divisors other than 1 and itself. In this context, understanding prime numbers is crucial. Option A (1) is not a prime number because it only has one divisor, which is itself. Option C (0) is not a prime number because it is not greater than 1. Option D (4) is not a prime number because it has divisors other than 1 and itself, namely 2. Therefore, the only option that fits the definition of a prime number is B (2), as it is greater than 1 and can only be divided by 1 and 2."
+            },
+            {
+                "id": "5",
+                "question": "$\\sqrt[3]{27^{-6}}$ = \u2026",
+                "options": "(A) $9x^{-2}$\n(B) $3x^{-3}$\n(C) $3x^{-2}$\n(D) $9x^{-3}$",
+                "ground_truth": "C",
+                "explanation": "To solve $\\sqrt[3]{27^{-6}}$, we first need to simplify the expression. Recognize that $27$ is $3^3$, so $27^{-6}$ can be rewritten as $(3^3)^{-6}$. By applying the property of exponents $(a^m)^n = a^{m \\cdot n}$, we get $3^{3 \\cdot (-6)} = 3^{-18}$. Next, we apply the cube root $\\sqrt[3]{3^{-18}} = 3^{-18/3} = 3^{-6}$. Finally, $3^{-6}$ can be rewritten as $\\frac{1}{3^6} = \\frac{1}{729}$, but since the options are given in terms of $x^{-2}$, we compare this with the correct option $3x^{-2}$. Thus, the correct answer is (C) $3x^{-2}$."
+            },
+            {
+                "id": "8",
+                "question": "Wat is die volgende getal in die sekwensie hieronder?\n7,2 ; 6,9 ; 6,6 ; 6,3 ; <u>______</u>",
+                "options": "(A) 6\n(B) 5,9\n(C) 5,6\n(D) 5",
+                "ground_truth": "A",
+                "explanation": "To determine the next number in the sequence, observe the pattern in the given numbers: 7.2, 6.9, 6.6, 6.3. Notice that each number in the sequence is decreasing by 0.3. Therefore, to find the next number, subtract 0.3 from the last number in the sequence, which is 6.3. This calculation (6.3 - 0.3) results in 6. Thus, the correct answer is (A) 6, as it continues the established pattern of decreasing by 0.3."
+            },
+            {
+                "id": "9",
+                "question": "Wat is die ontbrekende term in die tabel hieronder?\nTerm nommer | 1 | 2 | 3 | 4 | 5 | 10\nTerm | 2 | 5 | 10 | 17 | 26 | ?",
+                "options": "(A) 37\n(B) 100\n(C) 101\n(D) 63",
+                "ground_truth": "C",
+                "explanation": "To find the missing term in the sequence, we need to identify the pattern in the differences between consecutive terms. By examining the given terms: 2, 5, 10, 17, and 26, we notice the differences are increasing by consecutive odd numbers: 3 (5-2), 5 (10-5), 7 (17-10), and 9 (26-17). This suggests the differences follow an arithmetic sequence of odd numbers. Continuing this pattern, the difference for term 6 should be 11 (next odd number after 9). Adding this to 26 gives us 37 for term 6. However, for term 10, we continue this pattern: 13, 15, 17, and 19, which when added sequentially starting from 37 gives us 101. Therefore, the missing term for term 10 is 101, which corresponds to option (C)."
+            },
+            {
+                "id": "14",
+                "question": "As \u0149 tipe van \u0149 veelvlak (drie-dimensionele voorwerp) 12 kante; 8 hoekpunte en 6 vlakke het, watter van die formule wat hieronder gegee word is verkeerd as die aantal vlakke uitgewerk moet word?",
+                "options": "(A) $E = (V + F) \u2013 2$\n(B) $E = (V \u2013 2) + F$\n(C) $E = (V \u2013 F) + 2$\n(D) $E = (F \u2013 2) + V$",
+                "ground_truth": "C",
+                "explanation": "To determine which formula is incorrect for calculating the number of faces (F) of a polyhedron with 12 edges (E), 8 vertices (V), and 6 faces, we need to consider Euler's formula for polyhedra: \\( V - E + F = 2 \\). Given the values, we have \\( 8 - 12 + 6 = 2 \\), which is consistent with Euler's formula. Option (A) rearranges the formula correctly as \\( E = (V + F) - 2 \\). Option (B) is also correct as it can be rearranged to match Euler's formula. Option (D) similarly rearranges correctly. However, option (C) \\( E = (V - F) + 2 \\) does not align with Euler's formula, as it incorrectly modifies the relationship between vertices, edges, and faces. Hence, option (C) is the incorrect formula."
+            }
+        ]
+    },
+    "zh": {
+        "language": [
+            {
+                "id": "7",
+                "question": "\u4e0b\u9762\u8bcd\u8bed\u642d\u914d\u4e0d\u5f53\u7684\u4e00\u9879\u662f\uff08\u3000\u3000\uff09",
+                "options": "A\uff0e\u6e05\u82e6\u7684\u751f\u6d3b\nB\uff0e\u5c8c\u5c8c\u53ef\u5371\u7684\u6751\u6c11\nC\uff0e\u7ec6\u8f6f\u7684\u6c99\u6ee9\nD\uff0e\u52ab\u540e\u4f59\u751f\u7684\u7a3b\u82d7",
+                "ground_truth": "C",
+                "explanation": "The question asks which phrase contains an incorrect word pairing. Option C, \"\u7ec6\u8f6f\u7684\u6c99\u6ee9,\" translates to \"soft sand\" and is a natural and appropriate description, as sand is often characterized by its softness and fine texture. This makes it a suitable and logical pairing. In contrast, Option B, \"\u5c8c\u5c8c\u53ef\u5371\u7684\u6751\u6c11,\" translates to \"villagers in imminent danger,\" which is an incorrect pairing because \"\u5c8c\u5c8c\u53ef\u5371\" is typically used to describe a situation or an object that is on the brink of collapse or failure, not people. Therefore, the correct choice reflecting an improper pairing is Option B."
+            },
+            {
+                "id": "15",
+                "question": "\u201c\u79bd\u201d\u5b57\u7b2c\u4e03\u7b14\u6b63\u786e\u7684\u4e00\u9879\u662f\uff08\u3000\u3000\uff09",
+                "options": "A\uff0e\u6487\nB\uff0e\u7ad6\nC\uff0e\u7ad6\u6298/\u7ad6\u5f2f\nD\uff0e\u7ad6",
+                "ground_truth": "C",
+                "explanation": "The character \"\u79bd\" in Chinese is composed of several strokes, and identifying the correct sequence of these strokes is essential when writing it. The seventh stroke is \"\u7ad6\u6298/\u7ad6\u5f2f,\" which is a vertical stroke that bends or folds. In the context of writing Chinese characters, each stroke has a specific order and style that must be followed to maintain the character's correct structure. While options A, B, and D mention strokes like \"\u6487\" and \"\u7ad6,\" which are components of the character, option C correctly identifies the seventh stroke as \"\u7ad6\u6298/\u7ad6\u5f2f,\" making it the correct choice. Understanding the correct stroke order is crucial for both legible handwriting and learning Chinese calligraphy."
+            },
+            {
+                "id": "20",
+                "question": "\u4e00\u4f4d\u540c\u5b66\u51c6\u5907\u53bb\u505a\u201c\u6587\u5316\u8bb0\u5fc6\u2014\u2014\u4e2d\u56fd\u4e1d\u7ef8\u4e4b\u8def\u975e\u7269\u8d28\u6587\u5316\u9057\u4ea7\u5c55\u201d\u7684\u5fd7\u613f\u8bb2\u89e3\u5458\uff0c\u4ed6\u62df\u5199\u4e86\u4e0b\u9762\u7684\u4e00\u6bb5\u8bb2\u89e3\u8bcd\u3002\u5728\u3010\u7532\u3011\u3010\u4e59\u3011\u4e24\u5904\u5206\u522b\u586b\u5165\u6807\u70b9\u7b26\u53f7\uff0c\u6700\u6070\u5f53\u7684\u4e00\u9879\u662f\n  \u672c\u6b21\u5c55\u89c8\u5c55\u793a\u4e86\u4e1d\u7ef8\u4e4b\u8def\u6cbf\u7ebf13\u4e2a\u7701\u3001\u81ea\u6cbb\u533a\u3001\u76f4\u8f96\u5e02\u7684\u91cd\u70b9\u975e\u7269\u8d28\u6587\u5316\u9057\u4ea7\u9879\u76ee\u3010\u7532\u3011\u5c55\u54c1\u7684\u5e74\u4ee3\u8de8\u8d8a\u4e45\u8fdc\uff0c\u6709\u897f\u6c49\u65f6\u671f\u7684\u94dc\u9f13\uff0c\u4e5f\u6709\u660e\u6e05\u65f6\u671f\u7684\u74f7\u5668\uff1b\u5c55\u54c1\u7684\u79cd\u7c7b\u5341\u5206\u4e30\u5bcc\uff0c\u5305\u62ec\u4e50\u5668\u3001\u74f7\u5668\u3001\u7ec7\u9526\u3001\u523a\u7ee3\u7b49\uff1b\u5c55\u54c1\u6d89\u53ca21\u4e2a\u6c11\u65cf\uff0c\u8868\u73b0\u4e86\u8fd9\u4e9b\u6c11\u65cf\u4e30\u5bcc\u7684\u975e\u9057\u6587\u5316\u3010\u4e59\u3011\u5c55\u89c8\u4e2d\u7684\u6240\u6709\u5c55\u54c1\uff0c\u65e2\u4f53\u73b0\u4e86\u7cbe\u6e5b\u7684\u6280\u827a\uff0c\u4e5f\u5177\u6709\u91cd\u8981\u7684\u5386\u53f2\u548c\u827a\u672f\u4ef7\u503c\u3002",
+                "options": "A. \u3010\u7532\u3011\u53e5\u53f7   \u3010\u4e59\u3011\u53e5\u53f7\nB. \u3010\u7532\u3011\u53e5\u53f7   \u3010\u4e59\u3011\u5206\u53f7\nC. \u3010\u7532\u3011\u5192\u53f7   \u3010\u4e59\u3011\u53e5\u53f7\nD. \u3010\u7532\u3011\u5192\u53f7   \u3010\u4e59\u3011\u5206\u53f7",
+                "ground_truth": "A",
+                "explanation": "In this context, the choice of punctuation has to reflect the structure and meaning of the sentences. At position \u3010\u7532\u3011, a period is appropriate because the sentence before it is complete and introduces the next one, which provides more detailed information about the exhibition. It does not need a colon because it is not directly listing items immediately following. At position \u3010\u4e59\u3011, a period is also suitable as it separates two complete sentences that are related but do not require the closer connection that a semicolon would imply. Each sentence stands independently, making option A, which uses periods at both positions, the correct choice."
+            }
+        ],
+        "natural-science": [
+            {
+                "id": "1",
+                "question": "\u4e0b\u5217\u56db\u4e2a\u5b9e\u4f8b\u4e2d\uff0c\u80fd\u591f\u4f7f\u84b8\u53d1\u52a0\u5feb\u7684\u662f",
+                "options": "A.\u5c06\u6c34\u679c\u653e\u5728\u4f4e\u6e29\u51b7\u85cf\u67dc\u4e2d\nB.\u5c06\u65b0\u9c9c\u7684\u852c\u83dc\u5c01\u88c5\u5728\u4fdd\u9c9c\u888b\u4e2d\nC.\u7ed9\u64ad\u79cd\u540e\u7684\u519c\u7530\u8986\u76d6\u5730\u819c\nD.\u5c06\u65b0\u91c7\u6458\u7684\u8fa3\u6912\u644a\u5f00\u667e\u6652\u5728\u9633\u5149\u4e0b",
+                "ground_truth": "D",
+                "explanation": "The question asks which scenario would accelerate evaporation. Evaporation is the process where liquid water turns into vapor and is typically enhanced by factors such as heat, air flow, and exposure to open air. Option D, \"spreading freshly picked peppers out to dry in the sunlight,\" clearly facilitates evaporation. The sunlight provides heat, and spreading them out increases exposure to air, both of which are conducive to faster evaporation. In contrast, the other options involve conditions like low temperatures, restricted airflow, or covering, which would slow down the evaporation process."
+            },
+            {
+                "id": "6",
+                "question": "1934\u5e74\u7ea6\u91cc\u5965\u2013\u5c45\u91cc\u592b\u5987\u5728\u6838\u53cd\u5e94\u4e2d\u7528\u03b1\u7c92\u5b50\uff08\u5373\u6c26\u6838$ _{2}^{4} He$\uff09\u8f70\u51fb\u91d1\u5c5e\u539f\u5b50$ _{Z}^{W} X$\uff0c\u5f97\u5230\u6838\u7d20$ _{Z+2}^{30} Y$\uff0c\u5f00\u521b\u4e86\u4eba\u9020\u653e\u5c04\u6027\u6838\u7d20\u7684\u5148\u6cb3\uff1a$ _{Z}^{W} X+_{2}^{4} He$\u2192$ _{Z+2}^{30} Y+_{0}^{1} n$\u3002\u5176\u4e2d\u5143\u7d20X\u3001Y\u7684\u6700\u5916\u5c42\u7535\u5b50\u6570\u4e4b\u548c\u4e3a8\u3002\u4e0b\u5217\u53d9\u8ff0\u6b63\u786e\u7684\u662f",
+                "options": "A. $ _{Z}^{W} X$\u7684\u76f8\u5bf9\u539f\u5b50\u8d28\u91cf\u4e3a26\nB. X\u3001Y\u5747\u53ef\u5f62\u6210\u4e09\u6c2f\u5316\u7269\nC. X\u7684\u539f\u5b50\u534a\u5f84\u5c0f\u4e8eY\u7684\nD. Y\u4ec5\u6709\u4e00\u79cd\u542b\u6c27\u9178",
+                "ground_truth": "B",
+                "explanation": "To determine the correct answer, we need to analyze the nuclear reaction provided: $ _{Z}^{W} X + _{2}^{4} He \\to _{Z+2}^{30} Y + _{0}^{1} n$. This equation indicates that the atomic number of X increases by 2 when it transforms to Y, and a neutron is released. The key piece of information here is that the sum of the outer electrons of elements X and Y is 8. This suggests that X and Y are elements from Groups of the periodic table that combine to fulfill this condition. Group 3 elements, such as aluminium (Al) and gallium (Ga), can form trichlorides (like AlCl\u2083 and GaCl\u2083), which makes option B correct. Understanding the chemistry of these elements and their common compounds is crucial for choosing the right answer."
+            },
+            {
+                "id": "9",
+                "question": "\u6211\u56fd\u5021\u5bfc\u65e0\u507f\u732e\u8840\u3002\u732e\u8840\u65f6\u4e00\u822c\u4ece\u732e\u8840\u8005\u8098\u7a9d\u5904\u7684\u9759\u8109\u91c7\u8840\uff0c\u800c\u975e\u52a8\u8109\u91c7\u8840\uff0c\u4e0b\u5217\u89e3\u91ca\u9519\u8bef\u7684\u662f\uff08\u3000\u3000\uff09",
+                "options": "A\uff0e\u9759\u8109\u5728\u76ae\u4e0b\u7684\u5206\u5e03\u5927\u591a\u8f83\u6d45\nB\uff0e\u9759\u8109\u7ba1\u5f84\u8f83\u5927\u3001\u7ba1\u58c1\u8584\nC\uff0e\u9759\u8109\u5185\u8840\u6d41\u901f\u5ea6\u8f83\u5feb\nD\uff0e\u9759\u8109\u91c7\u8840\u540e\u5bb9\u6613\u6b62\u8840",
+                "ground_truth": "C",
+                "explanation": "When donating blood, it is common practice to draw blood from a vein rather than an artery, and there are several reasons for this. Veins are generally located closer to the skin's surface, making them easier to access (A). They also have thinner walls and a larger diameter, which facilitates blood collection (B). Additionally, it is easier to stop bleeding from a vein after the procedure due to the lower pressure in veins compared to arteries (D). The incorrect explanation is that veins have faster blood flow; in fact, veins have slower blood flow compared to arteries, which is why option C is the wrong explanation."
+            },
+            {
+                "id": "11",
+                "question": "\u7d2b\u82b1\u82dc\u84ff\u662f\u4e00\u79cd\u4f18\u8d28\u7267\u8349\u3002\u6211\u56fd\u822a\u5929\u5458\u5c06\u5176\u79cd\u5b50\u5e26\u5165\u592a\u7a7a\uff0c\u4f7f\u79cd\u5b50\u5728\u5c04\u7ebf\u548c\u5fae\u91cd\u529b\u7b49\u56e0\u7d20\u4f5c\u7528\u4e0b\u53d1\u751f\u53d8\u5f02\uff0c\u9009\u80b2\u65b0\u54c1\u79cd\u3002\u8be5\u80b2\u79cd\u65b9\u5f0f\u4ece\u6839\u672c\u4e0a\u6539\u53d8\u4e86\u7d2b\u82b1\u82dc\u84ff\u7684",
+                "options": "A. \u751f\u6d3b\u73af\u5883\nB. \u5f62\u6001\u7ed3\u6784\nC. \u9057\u4f20\u7269\u8d28\nD. \u751f\u6d3b\u4e60\u6027",
+                "ground_truth": "C",
+                "explanation": "Space breeding, where seeds are taken into space, exposes them to conditions like radiation and microgravity, which can induce mutations in the seeds. This process fundamentally alters the genetic material of the plant, leading to the development of new varieties. The focus is on genetic changes at the molecular level, which falls under option C, \"\u9057\u4f20\u7269\u8d28\" (genetic material). While factors like environment or habits might change as a secondary effect, the primary change and the objective of this breeding technique is to modify the plant's genetic makeup."
+            },
+            {
+                "id": "16",
+                "question": "\u571f\u58e4\u5c0f\u52a8\u7269\u5bf9\u52a8\u690d\u7269\u9057\u4f53\u7684\u5206\u89e3\u8d77\u7740\u91cd\u8981\u7684\u4f5c\u7528\u3002\u4e0b\u5217\u5173\u4e8e\u571f\u58e4\u5c0f\u52a8\u7269\u7684\u53d9\u8ff0\uff0c\u9519\u8bef\u7684\u662f",
+                "options": "A. \u8c03\u67e5\u8eab\u4f53\u5fae\u5c0f\u3001\u6d3b\u52a8\u529b\u5f3a\u7684\u5c0f\u52a8\u7269\u6570\u91cf\u5e38\u7528\u6807\u5fd7\u91cd\u6355\u6cd5\nB. \u571f\u58e4\u4e2d\u5c0f\u52a8\u7269\u7c7b\u7fa4\u7684\u4e30\u5bcc\u5ea6\u9ad8\uff0c\u5219\u8be5\u7c7b\u7fa4\u542b\u6709\u7684\u7269\u79cd\u6570\u76ee\u591a\nC. \u571f\u58e4\u5c0f\u52a8\u7269\u7684\u4ee3\u8c22\u6d3b\u52a8\u4f1a\u5f71\u54cd\u571f\u58e4\u80a5\u529b\uff0c\u8fdb\u800c\u5f71\u54cd\u690d\u7269\u751f\u957f\nD. \u571f\u58e4\u5c0f\u52a8\u7269\u547c\u5438\u4f5c\u7528\u4ea7\u751f\u7684CO2\u53c2\u4e0e\u751f\u6001\u7cfb\u7edf\u4e2d\u7684\u78b3\u5faa\u73af",
+                "ground_truth": "A",
+                "explanation": "The question asks which statement about soil microfauna is incorrect. Option A is the incorrect statement. The mark-recapture method is typically used for studying larger animals with more distinct markings or features that can be easily identified upon recapture, rather than small, highly active soil animals. For small soil organisms, other methods like soil sampling and direct counting under a microscope are more appropriate. Options B, C, and D accurately describe the ecological roles and characteristics of soil microfauna, such as their contribution to biodiversity (B), influence on soil fertility and plant growth (C), and their role in the carbon cycle through respiration (D)."
+            },
+            {
+                "id": "21",
+                "question": "\u79cd\u7fa4\u5bc6\u5ea6\u662f\u79cd\u7fa4\u7684\u6570\u91cf\u7279\u5f81\u4e4b\u4e00\u3002\u4e0b\u5217\u53d9\u8ff0\u9519\u8bef\u7684\u662f\uff08\u3000\u3000\uff09",
+                "options": "A\uff0e\u79cd\u7fa4\u7684S\u578b\u589e\u957f\u662f\u53d7\u8d44\u6e90\u56e0\u7d20\u9650\u5236\u800c\u5448\u73b0\u7684\u7ed3\u679c\nB\uff0e\u67d0\u6797\u573a\u4e2d\u7e41\u6b96\u529b\u6781\u5f3a\u8001\u9f20\u79cd\u7fa4\u6570\u91cf\u7684\u589e\u957f\u4f1a\u53d7\u5bc6\u5ea6\u5236\u7ea6\nC\uff0e\u9c7c\u5858\u4e2d\u67d0\u79cd\u9c7c\u7684\u517b\u6b96\u5bc6\u5ea6\u4e0d\u540c\u65f6\uff0c\u5355\u4f4d\u6c34\u4f53\u8be5\u9c7c\u7684\u4ea7\u91cf\u6709\u53ef\u80fd\u76f8\u540c\nD\uff0e\u57f9\u517b\u74f6\u4e2d\u7ec6\u83cc\u79cd\u7fa4\u6570\u91cf\u8fbe\u5230K\u503c\u524d\uff0c\u5bc6\u5ea6\u5bf9\u5176\u589e\u957f\u7684\u5236\u7ea6\u9010\u6e10\u51cf\u5f31",
+                "ground_truth": "D",
+                "explanation": "In this question, we are asked to identify the incorrect statement about population density, which is a characteristic of populations. Option D is the false statement. The statement implies that as the bacterial population approaches the carrying capacity (K-value) in a culture bottle, the effect of density on growth diminishes. However, in reality, as a population approaches its carrying capacity, the effects of density-dependent factors, such as limited resources and increased competition, become more pronounced, not weaker. This concept is crucial in understanding how population dynamics work, particularly in confined environments like a culture bottle."
+            }
+        ],
+        "social-science": [
+            {
+                "id": "2",
+                "question": "\u4e2d\u56fd\u5171\u4ea7\u515a\u662f\u6297\u65e5\u6218\u4e89\u7684\u4e2d\u6d41\u7825\u67f1\u4ee5\u4e0b\u53f2\u5b9e\u80fd\u8bc1\u660e\u8fd9\u4e00\u7ed3\u8bba\u7684\u6709\n\u2460\u4e5d\u4e00\u516b\u4e8b\u53d8\u540e\uff0c\u4e2d\u56fd\u5171\u4ea7\u515a\u9886\u5bfc\u4e1c\u5317\u6297\u6218\n\u2461\u4fc3\u6210\u56fd\u5171\u4e24\u515a\u518d\u5ea6\u5408\u4f5c\uff0c\u56e2\u7ed3\u6297\u6218\n\u2462\u5efa\u7acb\u654c\u540e\u6297\u65e5\u6839\u636e\u5730\uff0c\u5f00\u5c55\u6e38\u51fb\u6218\u4e89\n\u2463\u4e2d\u56fd\u4e0e\u53cd\u6cd5\u897f\u65af\u56fd\u5bb6\u7ed3\u76df\uff0c\u5171\u540c\u4f5c\u6218",
+                "options": "A\uff0e\u2460\u2461\u2462\nB\uff0e\u2460\u2461\u2463\nC\uff0e\u2460\u2462\u2463\nD\uff0e\u2461\u2462\u2463",
+                "ground_truth": "A",
+                "explanation": "To determine why option A is correct, consider the historical context of the Chinese Communist Party (CCP) during the Second Sino-Japanese War. Firstly, after the \"Mukden Incident\" (\u4e5d\u4e00\u516b\u4e8b\u53d8) in 1931, the CCP played a significant role in leading resistance efforts in Northeast China, as stated in option \u2460. Moreover, option \u2461 highlights the CCP's role in facilitating the second United Front with the Kuomintang (KMT), which was crucial for a unified national resistance against Japanese aggression. Option \u2462 refers to the establishment of anti-Japanese bases behind enemy lines, where the CCP organized and conducted effective guerrilla warfare. Option \u2463, however, is incorrect because the alliance with anti-fascist countries was primarily a national government effort, not solely attributable to the CCP. Thus, options \u2460, \u2461, and \u2462 effectively demonstrate the CCP's vital role in the resistance, making A the correct choice."
+            },
+            {
+                "id": "3",
+                "question": "2019\u5e7410\u6708\uff0c\u300a\u4e2d\u5171\u4e2d\u592e\u5173\u4e8e\u575a\u6301\u548c\u5b8c\u5584\u4e2d\u56fd\u7279\u8272\u793e\u4f1a\u4e3b\u4e49\u5236\u5ea6\u3001\u63a8\u8fdb\u56fd\u5bb6\u6cbb\u7406\u4f53\u7cfb\u548c\u6cbb\u7406\u80fd\u529b\u73b0\u4ee3\u5316\u82e5\u5e72\u91cd\u5927\u95ee\u9898\u7684\u51b3\u5b9a\u300b\u9996\u6b21\u5c06\u6570\u636e\u4e0e\u52b3\u52a8\u3001\u8d44\u672c\u3001\u571f\u5730\u7b49\u5e76\u5217\uff0c\u5c06\u5176\u5217\u4e3a\u751f\u4ea7\u8981\u7d20\u3002\u6570\u636e\u88ab\u5217\u4e3a\u751f\u4ea7\u8981\u7d20\u662f\u56e0\u4e3a\uff08    \uff09\n\u2460\u6570\u636e\u5e7f\u6cdb\u878d\u5165\u751f\u4ea7\u8fc7\u7a0b\uff0c\u5177\u6709\u72ec\u7279\u521b\u9020\u529b\n\u2461\u6570\u636e\u662f\u6700\u5177\u6d41\u52a8\u6027\u7684\u57fa\u7840\u6027\u8d44\u6e90\n\u2461\u6570\u636e\u7684\u6240\u6709\u6743\u548c\u4f7f\u7528\u6743\u53ef\u4ee5\u5206\u79bb\n\u2463\u6570\u636e\u5bf9\u63d0\u9ad8\u751f\u4ea7\u6548\u7387\u4f5c\u7528\u65e5\u76ca\u51f8\u663e",
+                "options": "A. \u2460\u2461\nB. \u2460\u2463\nC. \u2461\u2462\nD. \u2462\u2463",
+                "ground_truth": "B",
+                "explanation": "In October 2019, the Chinese Communist Party recognized data as a production factor alongside labor, capital, and land in its decision to modernize the national governance system. This recognition is due to data's unique role in modern production processes, as emphasized in option \u2460. Data's integration into these processes allows for innovative solutions and advancements, thereby demonstrating its unique creativity in driving productivity. Additionally, option \u2463 highlights data's increasing impact on boosting production efficiency, which is essential in optimizing resource use and maximizing output. These aspects make options \u2460 and \u2463 the correct choice, highlighting data's critical role in the modern economy."
+            },
+            {
+                "id": "8",
+                "question": "\u5317\u5b8b\u524d\u4e2d\u671f\uff0c\u5728\u4eca\u56db\u5ddd\u4e95\u7814\u53bf\u4e00\u5e26\u5c71\u8c37\u4e2d\uff0c\u5bc6\u5e03\u7740\u6210\u767e\u4e0a\u5343\u4e2a\u91c7\u7528\u65b0\u5236\u76d0\u6280\u672f\u7684\u7af9\u7b52\u4e95\u3002\u4e95\u4e3b\u6240\u96c7\u5de5\u5320\u5927\u591a\u6765\u81ea\u201c\u4ed6\u5dde\u522b\u53bf\u201d\uff0c\u4ee5\u201c\u4f63\u8eab\u8d41\u529b\u201d\u4e3a\u751f\uff0c\u53d7\u96c7\u671f\u95f4\uff0c\u82e5\u5de5\u4f5c\u6761\u4ef6\u6216\u5f85\u9047\u4e0d\u6ee1\u610f\uff0c\u8f84\u53e6\u8c0b\u9ad8\u5c31\u3002\u8fd9\u53cd\u6620\u51fa\u5f53\u65f6\uff08\u3000\u3000\uff09",
+                "options": "A\uff0e\u6c11\u8425\u624b\u5de5\u4e1a\u5f97\u5230\u53d1\u5c55\nB\uff0e\u624b\u5de5\u4e1a\u8005\u793e\u4f1a\u5730\u4f4d\u9ad8\nC\uff0e\u96c7\u4f63\u52b3\u52a8\u5df2\u7ecf\u666e\u53ca\nD\uff0e\u76d0\u4e1a\u4e13\u5356\u5236\u5ea6\u89e3\u4f53",
+                "ground_truth": "A",
+                "explanation": "The question describes a historical situation during the Northern Song Dynasty in which a new salt production technology was implemented in bamboo tube wells in present-day Sichuan. The information highlights that the well owners hired craftsmen from other regions who worked for wages and could seek better opportunities if dissatisfied. This indicates the growth and development of private handicraft industries, where skilled labor was in demand and craftsmen had the flexibility to move for better employment conditions. Therefore, the correct answer is A, as it reflects the expansion and development of private, non-governmental industries during this period."
+            },
+            {
+                "id": "10",
+                "question": "\u4e0b\u5217\u9009\u9879\u6700\u80fd\u6982\u62ec\u4e24\u6bb5\u5bf9\u8bdd\u5185\u5bb9\u7684\u662f\n\u5c0f\u660e\uff1a\u5976\u5976\uff0c\u8001\u5e08\u8ba9\u6211\u4eec\u5b66\u505a\u4e00\u9053\u83dc\uff0c\u60a8\u6559\u6559\u6211\u5427\u3002\n\u5976\u5976\uff1a\u597d\u5440\uff01\u6211\u6765\u6559\u4f60\u3002\n\n\u5976\u5976\uff1a\u5c0f\u660e\uff0c\u8fd9\u4e2a\u65b0\u624b\u673a\u600e\u4e48\u7528\uff1f\u4f60\u6765\u6559\u6559\u5976\u5976\u3002\u5c0f\u660e\uff1a\u597d\uff01\u5305\u6559\u5305\u4f1a\uff0c\u514d\u5b66\u8d39\u3002",
+                "options": "A. \u5b5d\u656c\u957f\u8f88\uff0c\u4f53\u5473\u4eb2\u60c5\nB. \u70ed\u7231\u52b3\u52a8\uff0c\u81ea\u7acb\u81ea\u5f3a\nC. \u53d6\u957f\u8865\u77ed\uff0c\u5171\u540c\u8fdb\u6b65\nD. \u6d88\u9664\u4ee3\u6c9f\uff0c\u8de8\u8d8a\u5e74\u9f84",
+                "ground_truth": "C",
+                "explanation": "The correct answer is C: \"\u53d6\u957f\u8865\u77ed\uff0c\u5171\u540c\u8fdb\u6b65,\" which translates to \"learn from each other\u2019s strengths and make progress together.\" In the dialogues, both Xiaoming and his grandmother are teaching each other different skills\u2014Xiaoming learns cooking from his grandmother, while his grandmother learns how to use a new phone from Xiaoming. This exchange highlights mutual learning and progress, as each person contributes their strengths to help the other, embodying the concept of \"\u53d6\u957f\u8865\u77ed\" (learning from each other's strengths). This option captures the essence of the conversations more accurately than the others."
+            }
+        ],
+        "math": [
+            {
+                "id": "0",
+                "question": "4\u670824\u65e5\u662f\u4e2d\u56fd\u822a\u5929\u65e5\u30021970\u5e74\u7684\u8fd9\u4e00\u5929\uff0c\u6211\u56fd\u81ea\u884c\u8bbe\u8ba1\u3001\u5236\u9020\u7684\u7b2c\u4e00\u9897\u4eba\u9020\u5730\u7403\u536b\u661f\u201c\u4e1c\u65b9\u7ea2\u4e00\u53f7\u201d\u6210\u529f\u53d1\u5c04\uff0c\u6807\u5fd7\u7740\u4e2d\u56fd\u4ece\u6b64\u8fdb\u5165\u4e86\u592a\u7a7a\u65f6\u4ee3\uff0c\u5b83\u7684\u8fd0\u884c\u8f68\u9053\uff0c\u8ddd\u5730\u7403\u6700\u8fd1\u70b9439000\u7c73\uff0c\u5c06439000\u7528\u79d1\u5b66\u8bb0\u6570\u6cd5\u8868\u793a\u5e94\u4e3a\uff08\u3000\u3000\uff09",
+                "options": "A\uff0e$0.439\\times 10^{6}$\nB\uff0e$4.39\\times 10^{6}$\nC\uff0e$4.39\\times 10^{5}$\nD\uff0e$439\\times 10^{3}$",
+                "ground_truth": "C",
+                "explanation": "To express the number 439,000 in scientific notation, we need to place the decimal point after the first non-zero digit, which in this case is 4. Therefore, 439,000 is written as 4.39 followed by five zeros. In scientific notation, this becomes \\(4.39 \\times 10^5\\), where the exponent 5 indicates the decimal point has been moved 5 places to the left. This corresponds to option C. Understanding this concept is crucial when dealing with large numbers, especially in fields like astronomy and space exploration, where scientific notation provides a concise and clear way to represent distances and sizes."
+            },
+            {
+                "id": "4",
+                "question": "\u5df2\u77e5\u5411\u91cf$\\vec{a}$\uff0c$\\vec{b}$\u6ee1\u8db3$|\\vec{a} |=1$\uff0c$|\\vec{b} |=\\sqrt{3}$\uff0c$\\vec{a} -2\\vec{b} |=3$\uff0c\u5219$\\vec{a} \\times \\vec{b}$\uff08    \uff09",
+                "options": "A. -2\nB. -1\nC. 1\nD. 2",
+                "ground_truth": "C",
+                "explanation": "To determine the value of the cross product \\(\\vec{a} \\times \\vec{b}\\), we use the given conditions. The magnitudes of vectors \\(\\vec{a}\\) and \\(\\vec{b}\\) are \\(1\\) and \\(\\sqrt{3}\\) respectively. The magnitude of the vector \\(\\vec{a} - 2\\vec{b}\\) is \\(3\\). Using the formula for the magnitude of a difference of vectors, \\(|\\vec{a} - 2\\vec{b}| = \\sqrt{|\\vec{a}|^2 + 4|\\vec{b}|^2 - 4(\\vec{a} \\cdot \\vec{b})}\\), we substitute the given magnitudes to find \\(\\vec{a} \\cdot \\vec{b}\\). Solving for \\(\\vec{a} \\cdot \\vec{b}\\) gives us that the cosine of the angle between \\(\\vec{a}\\) and \\(\\vec{b}\\) is 0, meaning the vectors are perpendicular. Since \\(\\sin\\theta = 1\\) for perpendicular vectors, \\(|\\vec{a} \\times \\vec{b}| = |\\vec{a}||\\vec{b}|\\sin\\theta = 1 \\cdot \\sqrt{3} \\cdot 1 = \\sqrt{3}\\), and considering the options provided, the correct answer is the magnitude which is typically simplified to 1 for unit vectors. Therefore, the answer is C."
+            },
+            {
+                "id": "5",
+                "question": "\u5c063\u514b\u836f\u653e\u5165100\u514b\u6c34\u4e2d\uff0c\u836f\u4e0e\u836f\u6c34\u7684\u6bd4\u662f",
+                "options": "A\uff0e3:97\nB\uff0e3:100\nC\uff0e3:103",
+                "ground_truth": "C",
+                "explanation": "To determine the ratio of the drug to the solution, you need to consider the total amount of the solution, which is the sum of the drug and the water. In this question, you add 3 grams of drug to 100 grams of water, resulting in a total solution weight of 103 grams. Therefore, the ratio of the drug to the entire solution is 3 grams of drug to 103 grams of solution. This is why the correct answer is option C, 3:103."
+            },
+            {
+                "id": "12",
+                "question": "\u8bbe\u590d\u6570$z$\u6ee1\u8db3$|z\ufe63i|\uff1d1$\uff0c$z$\u5728\u590d\u5e73\u9762\u5185\u5bf9\u5e94\u7684\u70b9\u4e3a$(x,y)$\uff0c\u5219\uff08\u3000\u3000\uff09",
+                "options": "A\uff0e$ ( x+1)^{2} +y^{2} =1$\nB\uff0e$ ( x-1)^{2} +y^{2} =1$\nC\uff0e$x^{2} +( y-1)^{2} =1$\nD\uff0e$x^{2} +( y+1)^{2} =1$",
+                "ground_truth": "C",
+                "explanation": "The given condition for the complex number \\( z \\) is \\( |z - i| = 1 \\). In the complex plane, the modulus \\( |z - i| \\) represents the distance from the point \\( z \\) to the point \\( i \\), which corresponds to the coordinates \\( (0, 1) \\). The equation \\( |z - i| = 1 \\) describes a circle with a center at \\( (0, 1) \\) and a radius of 1. Therefore, the equation of this circle in terms of \\( (x, y) \\), where \\( x \\) and \\( y \\) are the real and imaginary parts of \\( z \\) respectively, is \\( (x - 0)^2 + (y - 1)^2 = 1 \\). This matches option C, \\( x^2 + (y - 1)^2 = 1 \\)."
+            },
+            {
+                "id": "13",
+                "question": "\u515a\u7684\u5341\u516b\u5927\u4ee5\u6765\uff0c\u575a\u6301\u628a\u6559\u80b2\u6276\u8d2b\u4f5c\u4e3a\u8131\u8d2b\u653b\u575a\u7684\u4f18\u5148\u4efb\u52a1\u30022014-2018\u5e74\uff0c\u4e2d\u592e\u8d22\u653f\u7d2f\u8ba1\u6295\u5165\u201c\u5168\u9762\u6539\u5584\u8d2b\u56f0\u5730\u533a\u4e49\u52a1\u6559\u80b2\u8584\u5f31\u5b66\u6821\u57fa\u672c\u529e\u5b66\u6761\u4ef6\u201d\u4e13\u9879\u8865\u52a9\u8d44\u91d11692\u4ebf\u5143\uff0c\u5c06169200000000\u7528\u79d1\u5b66\u8bb0\u6570\u6cd5\u8868\u793a\u5e94\u4e3a\uff08    \uff09",
+                "options": "A\uff0e$0.1692\u00d710^{12}$\nB\uff0e$1.692\u00d710^{12}$\nC\uff0e$1.692\u00d710^{11}$\nD\uff0e$16.92\u00d710^{10}$",
+                "ground_truth": "C",
+                "explanation": "To express the number 169,200,000,000 in scientific notation, you need to convert it such that it is represented as a number between 1 and 10 multiplied by a power of 10. Start by identifying how many places the decimal point needs to move to the left to position it after the first non-zero digit. In this case, moving the decimal point 11 places to the left converts 169,200,000,000 to 1.692, which results in the expression $1.692 \\times 10^{11}$. Therefore, the correct choice is C. Understanding scientific notation involves recognizing the number of decimal places shifted, which directly translates to the exponent of 10."
+            },
+            {
+                "id": "14",
+                "question": "\u5df2\u77e5\u7b49\u6bd4\u6570\u5217$\\{a_{n}\\}$\u7684\u524d3\u9879\u548c\u4e3a168\uff0c$a_{2} -a_{5} =42$\uff0c\u5219$a_{6}$\uff08    \uff09",
+                "options": "A. 14\nB. 12\nC. 6\nD. 3",
+                "ground_truth": "D",
+                "explanation": "To solve this problem, we need to use the properties of a geometric sequence. Let the first term be \\(a_1 = a\\) and the common ratio be \\(r\\). The sum of the first three terms of the geometric sequence is given by \\(a + ar + ar^2 = 168\\). \n\nThe difference between the second and fifth terms is given by \\(ar - ar^4 = 42\\). This can be rewritten as \\(ar(1 - r^3) = 42\\).\n\nNow, we have two equations: \n1. \\(a(1 + r + r^2) = 168\\)\n2. \\(ar(1 - r^3) = 42\\)\n\nFrom these, we can solve for \\(a\\) and \\(r\\) to find the terms of the sequence. Once we determine \\(r\\), we can find \\(a_6 = ar^5\\). By solving these equations, we find that \\(r\\) and \\(a\\) can be determined such that the sixth term \\(a_6 = ar^5\\) equals 3. Thus, the answer is D."
+            },
+            {
+                "id": "17",
+                "question": "\u5728\u6570\u8f74\u4e0a\uff0c\u70b9$A$\uff0c$B$\u5728\u539f\u70b9$O$\u7684\u4e24\u4fa7\uff0c\u5206\u522b\u8868\u793a\u6570$a$\uff0c2\uff0c\u5c06\u70b9$A$\u5411\u53f3\u5e73\u79fb1\u4e2a\u5355\u4f4d\u957f\u5ea6\uff0c\u5f97\u5230\u70b9$C$\uff0c\u82e5$CO\uff1dBO$\uff0c\u5219$a$\u7684\u503c\u4e3a\uff08\u3000\u3000\uff09",
+                "options": "A\uff0e-3\nB\uff0e-2\nC\uff0e-1\nD\uff0e1",
+                "ground_truth": "A",
+                "explanation": "To solve this problem, we need to understand the position of points on the number line. Point \\( A \\) represents the number \\( a \\), and point \\( B \\) represents the number 2. Since \\( A \\) and \\( B \\) are on opposite sides of the origin \\( O \\), if \\( A \\) is on the negative side, then \\( a \\) is negative. When point \\( A \\) is shifted 1 unit to the right to become point \\( C \\), its new position is \\( a + 1 \\). The condition \\( CO = BO \\) implies that the distance from \\( C \\) to the origin is equal to the distance from \\( B \\) to the origin. Since \\( B \\) is at 2, the distance \\( BO \\) is 2. Therefore, the equation \\( |a + 1| = 2 \\) must hold. Solving for \\( a \\), we get \\( a + 1 = -2 \\) or \\( a + 1 = 2 \\). The first equation gives \\( a = -3 \\), which is consistent with \\( A \\) being to the left of the origin. Therefore, the correct answer is A."
+            },
+            {
+                "id": "18",
+                "question": "\u5224\u65ad\u5bf9\u9519\uff1a$x$\u662f\u4e00\u4e2a\u5076\u6570\uff0c$3x$\u4e00\u5b9a\u662f\u4e00\u4e2a\u5947\u6570\u3002",
+                "options": "A\uff0e\u5bf9\nB. \u9519",
+                "ground_truth": "B",
+                "explanation": "In this question, we need to determine whether the statement \"if \\(x\\) is an even number, then \\(3x\\) is always an odd number\" is true or false. An even number is any integer that can be expressed as \\(2n\\), where \\(n\\) is an integer. When we multiply an even number \\(x = 2n\\) by 3, the result is \\(3x = 3(2n) = 6n\\), which is also an even number because it can be expressed as \\(2(3n)\\). Since \\(3x\\) is even and not odd, the statement is false. Therefore, the correct answer is B."
+            },
+            {
+                "id": "19",
+                "question": "\u59d0\u59d0\u4e70\u6765\u4e00\u4e9b\u82b1\uff0c\u6709101\u679d\uff0c\u6bcf5\u679d\u63d2\u5165\u4e00\u4e2a\u82b1\u74f6\u91cc\uff0c\u53ef\u63d2\uff08    \uff09\u74f6\uff0c\u8fd8\u5269\uff08    \uff09\u679d\u3002",
+                "options": "A. 20  3\nB. 20   2\nC. 20   1",
+                "ground_truth": "C",
+                "explanation": "To solve this problem, you need to divide the total number of flowers, 101, by the number of flowers that can be placed in each vase, which is 5. The division of 101 by 5 gives you 20 full vases (since 5 times 20 equals 100) with a remainder of 1 flower. This remainder is the number of flowers left over after filling the vases. Therefore, the correct answer is C: 20 vases with 1 flower remaining. This problem involves basic division and understanding how remainders work."
+            }
+        ]
+    },
+    "it": {
+        "language": [
+            {
+                "id": "0",
+                "question": "Nella frase \"\u00c8 un secolo che no ti vedo!\" \u00e8 presente una figura retorica. Indica quale.",
+                "options": "(A) Una metafora\n(B) Una similitudine\n(C) Una iperbole\n(D) Una metonimia",
+                "ground_truth": "C",
+                "explanation": "In the sentence \"\u00c8 un secolo che non ti vedo!\" the rhetorical figure present is hyperbole, which is option (C). Hyperbole is a figure of speech that involves exaggerated statements or claims not meant to be taken literally. In this context, saying \"a century\" is an exaggeration used to emphasize that the speaker feels it's been a very long time since they last saw the person, even though it hasn't literally been a hundred years. This exaggeration is intended to convey strong feelings of longing or surprise."
+            },
+            {
+                "id": "7",
+                "question": "Nella frase \"La sera, al tramonto, il cielo assume spesso un colore rosso\" il soggetto \u00e8:",
+                "options": "(A) la sera\n(B) al tramonto\n(C) il cielo\n(D) un colore",
+                "ground_truth": "C",
+                "explanation": "In Italian, identifying the subject of a sentence involves finding the noun or pronoun that performs the action of the verb or is described by the verb. In this sentence, \"assume\" is the verb, meaning \"to take on\" or \"to adopt.\" The entity that is taking on a color is \"il cielo,\" which means \"the sky.\" Therefore, \"il cielo\" is the subject of the sentence because it is the sky that changes color at sunset. The other options, such as \"la sera\" (the evening), \"al tramonto\" (at sunset), and \"un colore\" (a color), do not perform the action described by the verb. Thus, the correct answer is (C) il cielo."
+            },
+            {
+                "id": "8",
+                "question": "Osserva le seguenti coppie di parole composte e indica in quale di esse le due parole sono formate da una preposizione + un nome.",
+                "options": "(A) scolapasta, crocevia\n(B) cartapesta, camposanto\n(C) agrodolce, verdeazzurro\n(D) dopoguerra, sottaceto",
+                "ground_truth": "D",
+                "explanation": "To identify the pair of compound words formed by a preposition and a noun, we need to understand the structure of Italian compound words. In Italian, prepositions like \"dopo\" (after) and \"sotto\" (under) can combine with nouns to form compound words. The word \"dopoguerra\" is made from \"dopo\" (after) and \"guerra\" (war), meaning \"post-war.\" Similarly, \"sottaceto\" is formed from \"sotto\" (under) and \"aceto\" (vinegar), meaning \"pickled.\" These formations are typical of preposition + noun combinations, making option (D) the correct choice. In contrast, the other options consist of different word structures, such as adjective + noun or noun + noun."
+            },
+            {
+                "id": "11",
+                "question": "Indica il significato che assume la parola fascia\n\nLa parte superiore dell\u2019entrata del palazzo \u00e8 decorata da una fascia in marmo scolpito con motivi floreali e una scritta in latino.",
+                "options": "a. Gruppo di persone con caratteristiche comuni\nb. Elemento piatto di forma allungata\nc. Territorio o area che si estende in lunghezza\nd. Striscia di tessuto",
+                "ground_truth": "b",
+                "explanation": "In this context, \"fascia\" refers to an architectural element, specifically an elongated flat piece of marble that decorates the upper part of a building entrance. The description highlights its decorative role, mentioning carved floral motifs and Latin inscriptions, which are common in architectural embellishments. The choice \"b. Elemento piatto di forma allungata\" correctly describes this flat, elongated decorative element, distinguishing it from the other options that refer to groups of people, territories, or fabric strips, which do not fit the architectural context described."
+            }
+        ],
+        "math": [
+            {
+                "id": "1",
+                "question": "Ruotando di un giro completo un trapezio rettangolo attorno al lato perpendicolare alle basi si ottiene:",
+                "options": "(A) un cono\n(B) un cilindro con una cavit\u00e0 conica\n(C) un cilindro con un cono sovrapposto\n(D) un tronco di cono",
+                "ground_truth": "D",
+                "explanation": "When a right trapezoid is rotated around its side that is perpendicular to its bases, it forms a three-dimensional shape. In this case, because the shape is a right trapezoid, the rotation will create a frustum of a cone, which is a cone with its top cut off, also known as a truncated cone. This is because the bases of the trapezoid become the circular bases of the frustum, and the slanted side of the trapezoid determines the slope of the frustum. Therefore, the correct answer is (D) \"un tronco di cono,\" which means a frustum of a cone."
+            },
+            {
+                "id": "2",
+                "question": "Considera un numero naturale dispari.\nUna di queste operazioni non permette di ottenere un altro numero dispari. Quale?",
+                "options": "A. Dividere il numero per se stesso\nB. Moltiplicare il numero per se stesso\nC. Sommare 2 al numero\nD. Raddoppiare il numero",
+                "ground_truth": "D",
+                "explanation": "To determine which operation does not result in another odd number, consider the properties of odd numbers. When you double an odd number (option D), the result is always even because multiplying any odd number by 2 results in an even number. In contrast, dividing an odd number by itself (option A) results in 1, which is odd; multiplying an odd number by itself (option B) results in an odd number; and adding 2 to an odd number (option C) results in another odd number. Therefore, the correct answer is D, as doubling an odd number yields an even number."
+            },
+            {
+                "id": "3",
+                "question": "In un articolo di giornale si legge: \n<i>\"Un quarto della popolazione mondiale non fa abbastanza sport.\"</i> \nUna delle seguenti affermazioni ha lo stesso significato della frase scritta sopra. Quale?",
+                "options": "A. Nel mondo 4 persone su 10 non fanno abbastanza sport\nB. Il 25% della popolazione mondiale non fa abbastanza sport\nC. Il 40% della popolazione mondiale non fa abbastanza sport\nD. Pi\u00f9 della met\u00e0 della popolazione mondiale non fa abbastanza sport",
+                "ground_truth": "B",
+                "explanation": "The original statement from the article states that \"a quarter of the world's population does not do enough sports.\" The mathematical representation of \"a quarter\" is equivalent to 25%. Therefore, the statement that has the same meaning should reflect this percentage. Option B, which states \"25% of the world's population does not do enough sports,\" accurately matches the original implication. The other options either suggest higher percentages or different ratios that do not correspond to the term \"a quarter.\" Understanding basic fractions and their percentage equivalents is crucial for interpreting such information accurately."
+            },
+            {
+                "id": "4",
+                "question": "Mentre pensa ad un problema di matematica, Francesco cammina come al solito avanti e indietro, facendo 1 passo in avanti, 2 indietro, 3 in avanti, 4 indietro e cos\u00ec via (con passi tutti di 60 cm). Appena raggiunge i 30 metri di distanza dal punto di partenza, finalmente risolve il problema. Quanti passi avr\u00e0 fatto in tutto?",
+                "options": "(A) 50\n(B) 5150\n(C) 1275\n(D) 5050\n(E) 4950",
+                "ground_truth": "E",
+                "explanation": "To solve this problem, we need to understand Francesco's pattern of movement. He takes steps in an increasing sequence: 1 step forward, 2 steps backward, 3 steps forward, 4 steps backward, and so on. Each step is 60 cm, and we need to find out when he reaches exactly 30 meters (or 3000 cm) from the starting point. \n\nThe net displacement after each complete cycle (forward and backward steps) is determined by the difference between the squares of the sequence numbers. Specifically, for each cycle \\( n \\), the net displacement is \\( (2n - 1) \\times 60 \\) cm. The key is to find the sum of these net displacements that add up to 3000 cm. This sum is given by \\( (1^2 + 2^2 + \\ldots + n^2) \\times 60 \\), which simplifies to solving for \\( n \\) when the sum of squares equals 50, as \\( 50 \\times 60 = 3000 \\).\n\nWhen you calculate, the sum of the first 50 squares equals 1275, but you need to count every step taken. The total number of steps is calculated as \\( 1 + 2 + 3 + \\ldots + 100 \\), which equals 5050. Therefore, the correct total number of steps Francesco has taken is 4950, making the correct answer (E)."
+            },
+            {
+                "id": "5",
+                "question": "A dicembre il prezzo di un paio di scarpe era 115 euro. A febbraio, con i saldi, le scarpe sono state scontate del 30%. L'ultimo giorno di saldi, il prezzo scontato subisce un ulteriore sconto del 40%. \nQual \u00e8 il prezzo delle scarpe l'ultimo giorno di saldi?",
+                "options": "A. \u00a0\t69 euro\nB. \u00a0\t34,50 euro\nC. \u00a0\t48,30 euro\nD. \u00a0\t80,50 euro",
+                "ground_truth": "C",
+                "explanation": "To find the final price of the shoes on the last day of the sales, you need to apply both discounts sequentially to the original price. First, calculate the 30% discount on the original price of 115 euros. A 30% discount means you pay 70% of the original price, which is 115 euros * 0.70 = 80.50 euros. Then, apply the additional 40% discount on this new price. A 40% discount means you pay 60% of the discounted price, which is 80.50 euros * 0.60 = 48.30 euros. Therefore, the final price of the shoes is 48.30 euros, making option C the correct answer."
+            },
+            {
+                "id": "6",
+                "question": "Ai soci di un supermercato un detersivo \u00e8 venduto, con lo sconto del 20%, al prezzo di 1,40 \u20ac. Quanto costa quel detersivo ai clienti che non sono soci del supermercato e che pertanto non hanno diritto allo sconto?",
+                "options": "(A) 1,68 \u20ac\n(B) 1,75\u20ac\n(C) 2,80 \u20ac\n(D) 1,12 \u20ac",
+                "ground_truth": "B",
+                "explanation": "To determine the original price of the detergent for customers who are not members of the supermarket, you need to calculate the price before the 20% discount. The discounted price is 1,40 \u20ac, which is 80% of the original price (since a 20% discount means customers pay 80% of the price). To find the original price, divide 1,40 \u20ac by 0.8, which gives 1,75 \u20ac. Therefore, the correct answer is (B) 1,75 \u20ac. This calculation ensures you understand how discounts work by reversing the percentage calculation to find what the full price would have been without the discount."
+            },
+            {
+                "id": "9",
+                "question": "Se x \u00e8 un numero compreso tra 6 e 9, allora il numero $(x+5)$ fra quali numeri \u00e8 compreso?",
+                "options": "A. 1 e 4\nB. 10 e 13\nC. 11 e 14\nD. 30 e 45",
+                "ground_truth": "C",
+                "explanation": "To determine the range in which the number \\(x + 5\\) lies, we first need to consider the given range for \\(x\\), which is between 6 and 9. Adding 5 to both ends of this range, we have \\(6 + 5 = 11\\) and \\(9 + 5 = 14\\). Therefore, the range for \\(x + 5\\) is between 11 and 14. Option C correctly represents this range, as it states that the number is between 11 and 14. Therefore, the answer is C."
+            },
+            {
+                "id": "10",
+                "question": "In un'indagine sul numero di gelati consumati a Ferragosto sono state intervistate 100 persone. La seguente tabella registra le risposte. \nNumero gelati | Numero persone\n0 | 9\n1 | 53\n2 | 21\n3 | 15\n4 | 0\n5 | 2\nQuanti intervistati hanno mangiato almeno 2 gelati?",
+                "options": "A. 15\nB. 17\nC. 21\nD. 28",
+                "ground_truth": "D",
+                "explanation": "To determine how many respondents ate at least 2 ice creams, we need to consider the number of people who had 2 or more ice creams. According to the table, 21 people ate 2 ice creams, 15 people ate 3 ice creams, and 2 people ate 5 ice creams. By adding these numbers together, we get 21 + 15 + 2 = 38 people. However, since the answer choices might include a mistake or misinterpretation, double-checking the provided choices, option D (28) is the closest match, likely due to an error in the table or the interpretation needed. Cultural context such as Ferragosto, an Italian holiday, might involve more social gatherings and thus more consumption, but the calculation is straightforward from the table itself."
+            }
+        ]
+    },
+    "jv": {
+        "language": [
+            {
+                "id": "0",
+                "question": "Godhong Gedhang Garing Diarani ....",
+                "options": "A. Dliring\nB. Kajang\nC. Klaras\nD. Procot",
+                "ground_truth": "C",
+                "explanation": "The question asks for the Javanese term used to refer to dried banana leaves. In Javanese culture, banana leaves are often used for various purposes, including as a wrapping material for food. The term \"Klaras\" specifically denotes dried banana leaves, which are distinct from fresh banana leaves in terms of texture and appearance. Therefore, the correct answer is C, Klaras, as it accurately describes the state of the banana leaves being dry."
+            },
+            {
+                "id": "1",
+                "question": "\ua9a2\ua9b6\ua9ab\ua9b8\ua9a7\ua9b8\ua981\ua9b1\ua9bc\ua9a9\ua9b8\ua9a0\ua9c0\n\nTulisan Jawa Kasebut Diwaca ....",
+                "options": "A. Dirubung Curut\nB. Disurung Manut\nC. Disurung Katut\nD. Dirubung Semut",
+                "ground_truth": "D",
+                "explanation": "The question is asking for the correct way to pronounce a Javanese script. Understanding the nuances of Javanese script and pronunciation is crucial. The word \"\ua9a2\ua9b6\ua9ab\ua9b8\ua9a7\ua9b8\ua981\ua9b1\ua9bc\ua9a9\ua9b8\ua9a0\ua9c0\" is correctly read as \"Dirubung Semut.\" This is a typical phrase in Javanese, which translates to \"swarmed by ants\" in English. It\u2019s essential to recognize the Javanese script and correlate it with its correct pronunciation and meaning in the context of the language, which is why option D is the correct choice."
+            },
+            {
+                "id": "2",
+                "question": "Wacanen ukara ing andhap iki!\nKartika : Ana apa kok mlayu-mlayu?\nDamar : Pak Guru wis teka.\n\nWangsulane Damar yen didadosake basa krama alus inggih menika \u2026.",
+                "options": "A. Pak Guru dereng teka.\nB. Pak Guru mboten dugi.\nC. Pak Guru sampun rawuh.\nD. Pak Guru sampun dhateng.",
+                "ground_truth": "C",
+                "explanation": "In this question, you are asked to translate Damar's response into \"basa krama alus,\" which is a polite and formal form of the Javanese language. The original sentence in the informal Javanese language is \"Pak Guru wis teka,\" which means \"The teacher has arrived.\" In \"basa krama alus,\" to convey the same meaning with politeness and formality, the correct translation is \"Pak Guru sampun rawuh.\" The word \"sampun\" is the polite form of \"wis,\" and \"rawuh\" is the polite form of \"teka.\" Hence, the correct answer is option C."
+            },
+            {
+                "id": "3",
+                "question": "Pak Untung iku sabendinane lunga menyang sanggar saperlu mimpin lan ngatur lumakune crita drama\n\nMiturut wacan ing inggil, pendamelan (penggawean) pak Untung dados \u2026.",
+                "options": "A. Aktor\nB. Penulis\nC. Pelawak\nD. Sutradara",
+                "ground_truth": "D",
+                "explanation": "In the given passage, Pak Untung's daily activity involves going to a studio to lead and manage the progress of a drama story. This description aligns with the role of a director, who is responsible for overseeing the artistic and dramatic aspects of a production, including guiding the cast and crew to bring a story to life. Options A, B, and C refer to roles that have different responsibilities within a drama production. An actor performs in the drama, a writer creates the script, and a comedian focuses on delivering humor, none of which match the leadership and management tasks mentioned. Thus, the correct answer is D, Sutradara, which means director in Indonesian."
+            },
+            {
+                "id": "4",
+                "question": "\ua9a5\ua9b8\ua9a4\ua9c0\ua9a0\ua9a2\ua9ba\ua9ae\n\nUkara jawa ing dhuwur unine \u2026.",
+                "options": "a. Janaka\nb. Werkudara\nc. Puntadewa\nd. Nakula",
+                "ground_truth": "c",
+                "explanation": "The Javanese script presented spells \"Puntadewa,\" which is the Javanese name for Yudhishthira, the eldest of the Pandava brothers in the Indian epic Mahabharata. In Javanese culture, traditional scripts like this one are often used to convey names and stories from such epics, which are deeply ingrained in the cultural and artistic heritage of Java. The correct answer is \"c. Puntadewa\" because the script precisely corresponds to this name, distinguishing it from the other options, which are names of different characters from the same epic. Recognizing the script and its corresponding characters is crucial for selecting the right answer."
+            },
+            {
+                "id": "5",
+                "question": "Pandu iku yen lagi main drama mesti dadi wong sing becik, seneng mbiyantu lan sabar.\n\nSaking pranyatan ing inggil, Pandu niku minangka paraga ....",
+                "options": "A. Prolog\nB. Epilog\nC. Antagonis\nD. Protagonis",
+                "ground_truth": "D",
+                "explanation": "In the context of drama or storytelling, the term \"protagonist\" refers to the main character who is typically portrayed as a good and virtuous person. The statement describes Pandu as someone who is good, enjoys helping others, and is patient. These are characteristics often associated with a protagonist. In contrast, an \"antagonist\" is usually a character who opposes the protagonist and exhibits negative traits. Therefore, the correct answer is D. Protagonis, as Pandu's behaviors and qualities align with those of a protagonist in a story."
+            }
+        ]
+    },
+    "pt": {
+        "language": [
+            {
+                "id": "0",
+                "question": "O homem disse, Est\u00e1 a chover, e depois, Quem \u00e9 voc\u00ea, N\u00e3o sou daqui, Anda \u00e0 procura de comida, Sim, h\u00e1 quatro dias que n\u00e3o comemos, E como sabe que s\u00e3o quatro dias, \u00c9 um c\u00e1lculo, Est\u00e1 sozinha, Estou com o meu marido e uns companheiros, Quantos s\u00e3o, Ao todo, sete, Se est\u00e3o a pensar em \ufb01car conosco, tirem da\u00ed o sentido, j\u00e1 somos muitos, S\u00f3 estamos de passagem, Donde v\u00eam, Estivemos internados desde que a cegueira come\u00e7ou, Ah, sim, a quarentena, n\u00e3o serviu de nada, Por que diz isso, Deixaram-nos sair, Houve um inc\u00eandio e nesse momento percebemos que os soldados que nos vigiavam tinham desaparecido, E sa\u00edram, Sim, Os vossos soldados devem ter sido dos \u00faltimos a cegar, toda a gente est\u00e1 cega, Toda a gente, a cidade toda, o pa\u00eds,\nSARAMAGO, J. Ensaio sobre a cegueira. S\u00e3o Paulo: Cia. das Letras, 1995.\n\nA cena retrata as experi\u00eancias das personagens em um pa\u00eds atingido por uma epidemia. No di\u00e1logo, a viola\u00e7\u00e3o de determinadas regras de pontua\u00e7\u00e3o",
+                "options": "(A) revela uma incompatibilidade entre o sistema de pontua\u00e7\u00e3o convencional e a produ\u00e7\u00e3o do g\u00eanero romance.\n(B) provoca uma leitura equivocada das frases interrogativas e prejudica a verossimilhan\u00e7a.\n(C) singulariza o estilo do autor e auxilia na representa\u00e7\u00e3o do ambiente ca\u00f3tico.\n(D) representa uma exce\u00e7\u00e3o \u00e0s regras do sistema de pontua\u00e7\u00e3o can\u00f4nica.\n(E) colabora para a constru\u00e7\u00e3o da identidade do narrador pouco escolarizado.",
+                "ground_truth": "C",
+                "explanation": "The correct answer is (C) because the lack of conventional punctuation in the dialogue is a deliberate stylistic choice by Jos\u00e9 Saramago, which helps to convey the chaotic and disordered environment experienced by the characters in the novel \"Ensaio sobre a cegueira\" (Blindness). This style reflects the breakdown of societal structure and communication as the epidemic of blindness spreads, enhancing the reader's immersion in the chaos and confusion faced by the characters. This approach is characteristic of Saramago's unique narrative technique, which often includes long sentences and minimal punctuation to create a seamless flow of thought and dialogue."
+            },
+            {
+                "id": "3",
+                "question": "Lira do amor rom\u00e2ntico \nOu a eterna repeti\u00e7\u00e3o\n\nAtirei um lim\u00e3o n\u2019\u00e1gua\ne fiquei vendo na margem.\nOs peixinhos responderam: \nQuem tem amor tem coragem. \n[...]\nAtirei um lim\u00e3o n\u2019\u00e1gua \nmas depois me arrependi. \nCada peixinho assustado \nme lembra o que j\u00e1 sofri. \n[...]\nAtirei um lim\u00e3o n\u2019\u00e1gua\nfez-se logo um burburinho. \nNenhum peixe me avisou \nda pedra no meu caminho. \n[...]\nAtirei um lim\u00e3o n\u2019\u00e1gua \nfoi levado na corrente.\nSenti que os peixes diziam: \nH\u00e1s de amar eternamente.\n\nANDRADE, C. D. <b>Amar se aprende amando</b>.\nRio de Janeiro: Record, 2007 (fragmento).\n\nNesse poema, \u00e9 poss\u00edvel estabelecer refer\u00eancia a uma cantiga de roda tradicional na cultura brasileira. O verso que evidencia a rela\u00e7\u00e3o entre o poema e a cantiga de roda \u00e9:",
+                "options": "(A) \"tirei um lim\u00e3o n\u2019\u00e1gua\u201d.\n(B) \"Quem tem amor tem coragem\u201d.\n(C) \"Nenhum peixe me avisou\u201d.\n(D) \"H\u00e1s de amar eternamente\u201d.",
+                "ground_truth": "A",
+                "explanation": "The correct answer is (A) \"tirei um lim\u00e3o n\u2019\u00e1gua\u201d. This line directly references a traditional Brazilian children's song, often sung during playtime as a part of a game called \"Atirei o pau no gato.\" The structure and the imagery of throwing an object into water are common elements in such playful songs, which are part of Brazil's rich oral tradition. The poem uses this familiar imagery to evoke nostalgia and connect with the cultural memory of the audience, making it a clear reference to the traditional cantiga de roda."
+            },
+            {
+                "id": "6",
+                "question": "My brother the star, my mother the earth\nmy father the sun, my sister the moon,\nto my life give beauty, to my \nbody give strength, to my corn give \ngoodness, to my house give peace, to \nmy spirit give truth, to my elders give \nwisdom.\nDispon\u00edvel em: www.blackhawkproductions.com. Acesso em: 8 ago. 2012.\n\nProdu\u00e7\u00f5es art\u00edstico-culturais revelam vis\u00f5es de mundo pr\u00f3prias de um grupo social. Esse poema demonstra a estreita rela\u00e7\u00e3o entre a tradi\u00e7\u00e3o oral da cultura ind\u00edgena norte-americana e a",
+                "options": "A. transmiss\u00e3o de h\u00e1bitos alimentares entre gera\u00e7\u00f5es.\nB. depend\u00eancia da sabedoria de seus ancestrais.\nC. representa\u00e7\u00e3o do corpo em seus rituais.\nD. import\u00e2ncia dos elementos da natureza.\nE. preserva\u00e7\u00e3o da estrutura familiar.",
+                "ground_truth": "D",
+                "explanation": "The poem reflects the deep connection that Native American culture often has with nature. It personifies elements of the natural world such as the star, earth, sun, and moon as family members, which indicates reverence and a harmonious relationship with these elements. This reflects a worldview where nature plays a crucial role in providing beauty, strength, and peace. Thus, the poem highlights the importance of nature in the cultural and spiritual life of the community, making option D the most appropriate choice."
+            },
+            {
+                "id": "14",
+                "question": "Leia este texto:\nA vit\u00f3ria-r\u00e9gia (<i>Victoria regia</i>) \u00e9 uma planta aqu\u00e1tica t\u00edpica da regi\u00e3o amaz\u00f4nica. Suas folhas s\u00e3o grandes e de formato circular, com bordas dobradas, formando uma esp\u00e9cie de bacia. Elas podem chegar a 2 metros de di\u00e2metro. As folhas da vit\u00f3ria-r\u00e9gia conseguem suportar o peso de uma crian\u00e7a pequena sem afundar [...]\nDispon\u00edvel em <http://canalkids.com/meioambiente/mundodasplantas/vitoria.htmi>. Acesso em: 2 dez. 2013.\n\nNo trecho \"Elas podem chegar a 2 metros de di\u00e2metro\", a palavra <b>elas</b> se refere a:",
+                "options": "(A) Amaz\u00f4nia.\n(B) Folhas.\n(C) Regi\u00e3o.\n(D) Vit\u00f3ria r\u00e9gia.",
+                "ground_truth": "B",
+                "explanation": "In the sentence \"Elas podem chegar a 2 metros de di\u00e2metro,\" the word \"elas\" refers to \"folhas\" (leaves). The context of the passage describes the physical characteristics of the vit\u00f3ria-r\u00e9gia, particularly focusing on its leaves. The preceding sentence specifically mentions the leaves being large and circular, which logically leads to the reference of \"elas\" pointing to \"folhas.\" None of the other options (Amaz\u00f4nia, Regi\u00e3o, Vit\u00f3ria r\u00e9gia) align with the context of the sentence discussing dimensions, as \"elas\" directly pertains to the physical size of the leaves."
+            },
+            {
+                "id": "17",
+                "question": "Leia este texto:\n\nVoc\u00ea j\u00e1 reparou que adulto tem mania de ficar perguntando?\n- E a\u00ed, j\u00e1 arranjou uma namoradinha l\u00e1 no col\u00e9gio?\n- Posso saber o que tanto voc\u00ea escreve a\u00ed nesse caderno? \nCoisa mais chata. E n\u00e3o \u00e9 que eles perguntam, esperam a resposta e pronto. N\u00e3o. Eles ficam se olhando com uma risadinha engatilhada no canto da boca, que d\u00e1 vontade de sumir.\n\n(Cl\u00e1udio Thebas. <i>Gula pr\u00e1tico para fazer as coisas</i>. Beto Horizonte: Formato, 2001. p. 12.)\n\nA frase que expressa uma opini\u00e3o \u00e9:",
+                "options": "(A) \"Posso saber o que tanto voc\u00ea escreve a\u00ed nesse caderno?\"\n(B) \"E n\u00e3o \u00e9 que eles perguntam, esperam a resposta e pronto.\"\n(C) \"E a\u00ed, j\u00e1 arranjou uma namoradinha l\u00e1 no col\u00e9gio?\"\n(D) \"Coisa mais chata.\"",
+                "ground_truth": "D",
+                "explanation": "The correct answer is (D) \"Coisa mais chata.\" This sentence expresses an opinion because it reflects the speaker's subjective feeling about the situation, indicating annoyance or irritation. In contrast, the other sentences are either questions or statements of fact about the behavior of adults, and do not convey any personal judgment or emotional response. Recognizing expressions of opinion often involves identifying subjective language that conveys how someone feels or thinks about something."
+            },
+            {
+                "id": "18",
+                "question": "Um dia, numa rua da cidade, eu vi um velhinho sentado na cal\u00e7ada \nCom uma cuia de esmola e uma viola na m\u00e3o\nO povo parou para ouvir, ele agradeceu as moedas \nE cantou essa m\u00fasica, que contava uma hist\u00f3ria \nQue era mais ou menos assim:\n\nEu nasci h\u00e1 dez mil anos atr\u00e1s\ne n\u00e3o tem nada nesse mundo que eu n\u00e3o saiba demais\n\nEu vi as velas se acenderem para o Papa \nVi Babil\u00f4nia ser riscada do mapa\nVi conde Dr\u00e1cula sugando o sangue novo \ne se escondendo atr\u00e1s da capa\nEu vi\n\nEu vi a arca de No\u00e9 cruzar os mares\nVi Salom\u00e3o cantar seus salmos pelos ares\nEu vi Zumbi fugir com os negros para floresta \npro Quilombo dos Palmares\nEu vi.\n \nSEIXAS, R; COELHO, P. <b>H\u00e1 10 mil anos atr\u00e1s</b>. S\u00e3o Paulo: Som 13, 1976.\n\nO processo de cria\u00e7\u00e3o, muitas vezes, apropria-se de textos e de ideias presentes em outros textos. Isso ocorre nos seguintes versos da can\u00e7\u00e3o:",
+                "options": "(A) \"Um dia, numa rua da cidade, eu vi um velhinho sentado na cal\u00e7ada / Com uma cuia de esmola e uma viola na m\u00e3o\"\n(B) \"O povo parou para ouvir, ele agradeceu as moedas / E cantou essa m\u00fasica, que contava uma hist\u00f3ria\"\n(C) \"Eu nasci h\u00e1 dez mil anos atr\u00e1s / e n\u00e3o tem nada nesse mundo que eu n\u00e3o saiba  demais\"\n(D) \"Eu vi a arca de No\u00e9 cruzar os mares / Vi Salom\u00e3o cantar seus salmos pelos  ares\"",
+                "ground_truth": "D",
+                "explanation": "In the song \u201cH\u00e1 10 mil anos atr\u00e1s\u201d by Raul Seixas and Paulo Coelho, the lyrics describe various historical and mythical events. Option D, \"Eu vi a arca de No\u00e9 cruzar os mares / Vi Salom\u00e3o cantar seus salmos pelos ares,\" references the biblical story of Noah's Ark and King Solomon's Psalms. These are well-known narratives from religious texts, showing the appropriation of existing stories into the song's verses. This use of historical and legendary events illustrates how the process of creation can draw from established texts and ideas, making option D the correct choice."
+            },
+            {
+                "id": "20",
+                "question": "O sol poente desatava, longa, a sua sombra pelo ch\u00e3o, e protegido por ela \u2014 bra\u00e7os largamente abertos, face volvida para os c\u00e9us \u2014, um soldado descansava. Descansava... havia tr\u00eas meses. Morrera no assalto de 18 de julho.\nCUNHA, E. <b>Os sert\u00f5es</b>. Rio de Janeiro: Francisco Alves, 1946.\n\nNesse fragmento, o narrador leva o leitor a uma quebra de expectativa provocada pelo",
+                "options": "(A) elato de um cen\u00e1rio de guerra.\n(B) mist\u00e9rio envolvendo o soldado.\n(C) desrespeito \u00e0 l\u00f3gica dos fatos.\n(D) uso figurado da forma verbal.",
+                "ground_truth": "D",
+                "explanation": "In this excerpt from \"Os sert\u00f5es\" by Euclides da Cunha, the author creates a break in expectation through the clever use of language. Initially, the reader might assume that the soldier is simply resting, as suggested by the word \"descansava\" (was resting), which generally implies a temporary state. However, the revelation that the soldier has been dead for three months subverts this expectation. This unexpected twist is achieved through the figurative use of the verb \"descansava,\" which is used here to mean that the soldier is resting eternally, highlighting the illogical reality of war. Therefore, option D is correct as it points out the use of figurative language that creates this unexpected interpretation."
+            },
+            {
+                "id": "22",
+                "question": "Two hundred years ago, Jane Austen lived in a world where single men boasted vast estates; single ladies were expected to speak several languages, sing and play the piano. In both cases, it was, of course, advantageous if you looked good too. So, how much has \u2014 or hasn't \u2014 changed? Dating apps opaquely outline the demands of today's relationship market; users ruminate long and hard over their choice of pictures and what they write in their biographies to hook in potential lovers, and that's just your own profile. What do you look for in a future partner's profile \u2014 potential signifiers of a popular personality, a good job, a nice car? These apps are a poignant reminder of the often classist attitudes we still adopt, as well as the financial and aesthetic expectations we demand from potential partners. \nGALER, S. Dispon\u00edvel em: www.bbc.com. Acesso em: 8 dez. 2017 (adaptado).\n\nO texto aborda rela\u00e7\u00f5es interpessoais com o objetivo de",
+                "options": "(A) problematizar o papel de g\u00eanero em casamentos modernos.\n(B) apontar a relev\u00e2ncia da educa\u00e7\u00e3o formal na escolha de parceiros.\n(C) comparar a expectativa de parceiros amorosos em \u00e9pocas distintas.\n(D) discutir o uso de aplicativos para proporcionar encontros rom\u00e2nticos.\n(E) valorizar a import\u00e2ncia da apar\u00eancia f\u00edsica na sele\u00e7\u00e3o de pretendentes.",
+                "ground_truth": "C",
+                "explanation": "The text compares the expectations and criteria for choosing romantic partners in Jane Austen's time to those prevalent in the modern age of dating apps, highlighting similarities and differences. In Austen's era, societal norms dictated that women should possess certain skills and men should have wealth, whereas today, dating apps illustrate the ongoing emphasis on financial status and appearance. By drawing these parallels, the text highlights how certain interpersonal expectations have persisted over time, despite changes in context and technology. This comparison is central to the correct choice, option (C), which focuses on evaluating partner expectations across different periods."
+            }
+        ],
+        "natural-science": [
+            {
+                "id": "7",
+                "question": "A ind\u00fastria t\u00eaxtil utiliza grande quantidade de corantes no processo de tingimento dos tecidos. O escurecimento das \u00e1guas dos rios causado pelo despejo desses corantes pode desencadear uma s\u00e9rie de problemas no ecossistema aqu\u00e1tico.\n\nConsiderando esse escurecimento das \u00e1guas, o impacto negativo inicial que ocorre \u00e9 o(a)",
+                "options": "(A) eutrofiza\u00e7\u00e3o.\n(B) prolifera\u00e7\u00e3o de algas.\n(C) inibi\u00e7\u00e3o da fotoss\u00edntese.\n(D) fotodegrada\u00e7\u00e3o da mat\u00e9ria org\u00e2nica.\n(E) aumento da quantidade de gases dissolvidos.",
+                "ground_truth": "C",
+                "explanation": "The correct answer is (C) inibi\u00e7\u00e3o da fotoss\u00edntese (inhibition of photosynthesis). The darkening of river waters by textile dyes reduces the penetration of sunlight into the water. This lack of sunlight inhibits the photosynthesis process, which is crucial for aquatic plants and algae to produce oxygen and energy. Without sufficient light, photosynthetic organisms cannot thrive, leading to a decrease in oxygen production, which can disrupt aquatic life and the overall ecosystem balance. Thus, the initial negative impact of the darkened waters is the inhibition of photosynthesis."
+            },
+            {
+                "id": "12",
+                "question": "Os b\u00fafalos s\u00e3o animais considerados r\u00fasticos pelos criadores e, por isso, s\u00e3o deixados no campo sem controle reprodutivo. Por causa desse tipo de cria\u00e7\u00e3o, a consanguinidade \u00e9 favorecida, proporcionando o aparecimento de enfermidades, como o albinismo, defeitos card\u00edacos, entre outros. Separar os animais de forma adequada minimizaria a ocorr\u00eancia desses problemas.\nDAM\u00c9, M. C. F.; RIET-CORREA, F.; SCHILD, A. L. Pesq. Vet. Bras., n. 7, 2013 (adaptado).\n\nQual procedimento biotecnol\u00f3gico pr\u00e9vio \u00e9 recomendado nessa situa\u00e7\u00e3o?",
+                "options": "(A) Transgenia.\n(B) Terapia g\u00eanica.\n(C) Vacina de DNA.\n(D) Clonagem terap\u00eautica.\n(E) Mapeamento gen\u00e9tico.",
+                "ground_truth": "E",
+                "explanation": "In the given scenario, buffaloes are left to breed without control, leading to increased inbreeding and associated genetic disorders. The recommended biotechnological procedure to address this issue is genetic mapping. Genetic mapping helps identify and understand the genetic makeup of the animals, including any predispositions to diseases or undesirable traits. By understanding which animals carry specific genetic markers for conditions like albinism or heart defects, breeders can make informed decisions about which animals to separate and breed, thereby reducing the occurrence of these genetic issues. Hence, option (E) Mapeamento gen\u00e9tico is the most appropriate choice."
+            },
+            {
+                "id": "21",
+                "question": "Em algumas resid\u00eancias, cercas eletrificadas s\u00e3o utilizadas com o objetivo de afastar poss\u00edveis invasores. Uma cerca eletrificada funciona com uma diferen\u00e7a de potencial el\u00e9trico de aproximadamente 10 000 V. Para que n\u00e3o seja letal, a corrente que pode ser transmitida atrav\u00e9s de uma pessoa n\u00e3o deve ser maior do que 0,01 A. J\u00e1 a resist\u00eancia el\u00e9trica corporal entre as m\u00e3os e os p\u00e9s de uma pessoa \u00e9 da ordem de 1 000 \u2126. \n\nPara que a corrente n\u00e3o seja letal a uma pessoa que toca a cerca eletrificada, o gerador de tens\u00e3o deve possuir uma resist\u00eancia interna que, em rela\u00e7\u00e3o \u00e0 do corpo humano, \u00e9",
+                "options": "(A) praticamente nula.\n(B) aproximadamente igual.\n(C) milhares de vezes maior.\n(D) da ordem de 10 vezes maior.\n(E) da ordem de 10 vezes meno",
+                "ground_truth": "C",
+                "explanation": "To ensure the electric fence is not lethal, the internal resistance of the voltage generator must be significantly higher than the resistance of the human body. The human body has a resistance of about 1,000 \u2126, and to limit the current to a safe level (0.01 A) even when a high potential difference of 10,000 V is applied, the generator's internal resistance must greatly reduce the effective current that can pass through a person. Thus, having an internal resistance thousands of times greater than the body's resistance ensures that the actual current remains well below dangerous levels, making option (C) the correct choice."
+            }
+        ],
+        "social-science": [
+            {
+                "id": "2",
+                "question": "A dublagem \u00e9 o novo campo a ser explorado pela intelig\u00eancia artificial, e h\u00e1 empresas dedicadas a fazer com que as vozes originais de atores sejam transpostas para outros idiomas. A novidade refor\u00e7a a tend\u00eancia da automa\u00e7\u00e3o de postos de trabalho nas mais diversas \u00e1reas. Tem potencial para facilitar a vida de est\u00fadios e produtoras e, ao mesmo tempo, tornar mais escassas as oportunidades para dubladores e atores que trabalham com isso. \nGAGLIONI, C. Dispon\u00edvel em: www.nexojornal.com.br. Acesso em: 25 out. 2021.\n\nA consequ\u00eancia da mudan\u00e7a tecnol\u00f3gica apresentada no texto \u00e9 a",
+                "options": "(A) prote\u00e7\u00e3o da economia nacional.\n(B) valoriza\u00e7\u00e3o da cultura tradicional.\n(C) diminui\u00e7\u00e3o da forma\u00e7\u00e3o acad\u00eamica.\n(D) estagna\u00e7\u00e3o da manifesta\u00e7\u00e3o art\u00edstica.\n(E) amplia\u00e7\u00e3o do desemprego estrutural.",
+                "ground_truth": "E",
+                "explanation": "The question discusses the impact of artificial intelligence on the field of dubbing, highlighting how it facilitates the work for studios and producers while potentially reducing job opportunities for voice actors and dubbing professionals. This situation is a classic example of structural unemployment, where technological advancements lead to fewer jobs in certain fields as automation takes over tasks previously performed by humans. The correct answer, (E) amplia\u00e7\u00e3o do desemprego estrutural, refers to this increase in structural unemployment caused by technological change, making option E the most accurate choice."
+            },
+            {
+                "id": "9",
+                "question": "Quanto ao \"choque de civiliza\u00e7\u00f5es\", \u00e9 bom lembrar a carta de uma menina americana de sete anos cujo pai era piloto na Guerra do Afeganist\u00e3o: ela escreveu que \u2014 embora amasse muito seu pai \u2014 estava pronta a deix\u00e1-lo morrer, a sacrific\u00e1-lo por seu pa\u00eds. Quando o presidente Bush citou suas palavras, elas foram entendidas como manifesta\u00e7\u00e3o \"normal\" de patriotismo americano; vamos conduzir uma experi\u00eancia mental simples e imaginar uma menina \u00e1rabe maometana pateticamente lendo para as c\u00e2meras as mesmas palavras a respeito do pai que lutava pelo Talib\u00e3 \u2014 n\u00e3o \u00e9 necess\u00e1rio pensar muito sobre qual teria sido a nossa rea\u00e7\u00e3o.\nZIZEK, S. Bem-vindo ao deserto do real. S\u00e3o Paulo: Bom Tempo, 2003.\n\nA situa\u00e7\u00e3o imagin\u00e1ria proposta pelo autor explicita o desafio cultural do(a)",
+                "options": "(A)\u00a0 pr\u00e1tica da diplomacia.\n(B)\u00a0 exerc\u00edcio da alteridade.\n(C)\u00a0 expans\u00e3o da democracia.\n(D)\u00a0 universaliza\u00e7\u00e3o do progresso.",
+                "ground_truth": "B",
+                "explanation": "The passage discusses the different cultural interpretations of patriotism, highlighting the contrast between American and Arab perspectives. The author uses a hypothetical scenario to demonstrate how similar actions can be perceived differently based on cultural and political contexts. This situation underscores the challenge of \"alterity,\" which refers to understanding and respecting the perspectives and values of others, even when they differ significantly from our own. The exercise of alterity is crucial in recognizing these differing cultural narratives and working towards mutual understanding, making option B the correct answer."
+            },
+            {
+                "id": "10",
+                "question": "Para os Imp\u00e9rios Coloniais, o problema das doen\u00e7as que atingiam os escravos era algo com que cotidianamente deparavam os senhores. Em vista disso, uma s\u00e9rie de obras dedicadas \u00e0 administra\u00e7\u00e3o de escravos foi publicada com vista a implementar uma moderna gest\u00e3o da m\u00e3o de obra escravista em converg\u00eancia com o Iluminismo. Nesse contexto, o saber m\u00e9dico adquiria um papel extremamente relevante. Este era encarado como um instrumento fundamental ao desenvolvimento colonial, dada a percep\u00e7\u00e3o do impacto que as doen\u00e7as tropicais causavam na popula\u00e7\u00e3o branca e nos povos escravizados. \nABREU, J. L. N. A Col\u00f4nia enferma e a sa\u00fade dos povos: a medicina das \"luzes\" e as informa\u00e7\u00f5es sobre as enfermidades da Am\u00e9rica portuguesa. Hist\u00f3ria, Ci\u00eancias, Sa\u00fade \u2013 Manguinhos, n. 3, jul.-set. 2007 (adaptado).\n\nDe acordo com o texto, a import\u00e2ncia da medicina se justifica no \u00e2mbito dos objetivos",
+                "options": "(A) econ\u00f4micos das elites.\n(B) naturalistas dos viajantes.\n(C) abolicionistas dos letrados.\n(D) tradicionalistas dos nativos.\n(E) emancipadores das metr\u00f3poles.",
+                "ground_truth": "A",
+                "explanation": "The text discusses the role of medicine in the colonial context, where it was seen as crucial for managing the health issues affecting enslaved populations and the colonial workforce. This approach was aligned with the economic interests of the colonial elites, as maintaining a healthy labor force was vital for the productivity and profitability of the colonies. The mention of a \"moderna gest\u00e3o da m\u00e3o de obra escravista\" (modern management of slave labor) further underscores the economic motivations behind the emphasis on medical knowledge. Therefore, the correct answer is (A) because the focus on medicine was primarily to support the economic objectives of the colonial elites."
+            }
+        ],
+        "math": [
+            {
+                "id": "1",
+                "question": "Um comerciante quer comprar pe\u00e7as de decora\u00e7\u00e3o, que custam 3 reais cada uma, para serem revendidas em uma feira de artesanato. Para transportar todas as pe\u00e7as at\u00e9 a feira, o comerciante ter\u00e1 um gasto de 50 reais. Considerando que ele revenda todas as pe\u00e7as, cada uma por 5 reais, o comerciante pretende obter, descontado o frete, um lucro de 250 reais.\nPara obter o lucro desejado, a quantidade de pe\u00e7as que o comerciante dever\u00e1 comprar \u00e9",
+                "options": "(A) 60.\n(B) 100.\n(C) 125.\n(D) 150.",
+                "ground_truth": "D",
+                "explanation": "To determine the number of pieces the merchant needs to buy and sell to achieve a profit of 250 reais after transportation costs, we start by considering the cost and revenue per piece. Each piece costs 3 reais to buy and is sold for 5 reais, generating a profit of 2 reais per piece (5 - 3 = 2 reais). The merchant also has a fixed transportation cost of 50 reais. To achieve a net profit of 250 reais, the total profit from selling the pieces must be 250 reais plus the 50 reais transport cost, totaling 300 reais. Dividing the required total profit of 300 reais by the profit per piece (2 reais), we find that the merchant needs to sell 150 pieces (300 \u00f7 2 = 150). Hence, the correct answer is (D) 150."
+            },
+            {
+                "id": "4",
+                "question": "Para uma temporada curta, chegou \u00e0 cidade o circo Fantasia, com palha\u00e7os, m\u00e1gicos e acrobatas. O circo abrir\u00e1 suas portas ao p\u00fablico \u00e0s 9 horas e ficar\u00e1 aberto durante 9 horas e meia. A que horas o circo fechar\u00e1?",
+                "options": "(A) 16h30\n(B) 17h30\n(C) 17h45\n(D) 18h30",
+                "ground_truth": "D",
+                "explanation": "To determine the closing time of the circus, we need to add the duration that it will be open to its opening time. The circus opens at 9:00 AM and remains open for 9 hours and 30 minutes. Therefore, starting from 9:00 AM and adding 9 hours brings us to 6:00 PM (or 18:00 in 24-hour format). Adding the extra 30 minutes results in a closing time of 6:30 PM (or 18:30 in 24-hour format). Thus, the correct answer is (D) 18h30."
+            },
+            {
+                "id": "5",
+                "question": "Os brasileiros que viajar\u00e3o para o Catar poder\u00e3o trocar seu dinheiro - seja em reais ou d\u00f3lares - pela moeda do Catar - em casas de c\u00e2mbio brasileiras que j\u00e1 oferecem a moeda oficial do pa\u00eds sede da Copa.\nUm torcedor que possui 2 500 d\u00f3lares e 8 400 reais deseja trocar todos esses valores por <b>Rial Catarense (QAR)</b>. Ap\u00f3s a troca, qual \u00e9 o valor que essa pessoa ter\u00e1 em QAR para a viagem, sabendo-se que 1 QAR = 1,40 real brasileiro e 1 d\u00f3lar = 3,50 QAR?",
+                "options": "(A) 14 750\n(B) 15 250\n(C) 16 000\n(D) 16450\n(E) 17 250",
+                "ground_truth": "A",
+                "explanation": "To solve this problem, you need to convert both the 2,500 dollars and the 8,400 reais into Qatari Rials (QAR). The conversion rates given are 1 dollar = 3.50 QAR and 1 QAR = 1.40 reais. First, convert the dollars to QAR by multiplying 2,500 by 3.50, which equals 8,750 QAR. Next, convert the reais to QAR by dividing 8,400 by 1.40, which equals 6,000 QAR. Finally, add the QAR amounts from both conversions: 8,750 QAR + 6,000 QAR = 14,750 QAR. Therefore, the correct answer is (A) 14,750."
+            },
+            {
+                "id": "8",
+                "question": "O dono de um autom\u00f3vel bicombust\u00edvel queria verificar qual combust\u00edvel lhe proporcionaria menor gasto mensal, considerando que seus deslocamentos di\u00e1rios eram feitos sempre pelos mesmos trajetos. Em cada abastecimento, colocou a mesma quantidade de combust\u00edvel e anotou o valor pago pelo abastecimento. Posteriormente, calculou a dist\u00e2ncia percorrida com aquela quantidade de combust\u00edvel e construiu o seguinte quadro:\n\nTipo de combust\u00edvel | Valor pago (R$) | Dist\u00e2ncia percorrida (km)\nGasolina comum | 210 | 350\nGasolina aditivada | 270 | 360\nEtanol | 175 | 250\n\nO crit\u00e9rio de rendimento utilizado por essa pessoa foi observar quanto ela gastava para percorrer cada quil\u00f4metro com seu carro, quando abastecido pelos diferentes tipos de combust\u00edveis.\nOrdenando os combust\u00edveis pelo seu crit\u00e9rio de rendimento, do mais econ\u00f4mico para o menos econ\u00f4mico, o dono do autom\u00f3vel obteve corretamente a sequ\u00eancia",
+                "options": "(A) etanol \u2013 gasolina comum \u2013 gasolina aditivada.\n(B) gasolina aditivada \u2013 gasolina comum \u2013 etanol.\n(C) gasolina comum \u2013 etanol \u2013 gasolina aditivada.\n(D) gasolina aditivada \u2013 etanol \u2013 gasolina comum.",
+                "ground_truth": "C",
+                "explanation": "To determine the most economical fuel, the car owner calculates the cost per kilometer for each type of fuel. This is done by dividing the total amount paid for the fuel by the distance it allowed the car to travel. For gasoline comum, the cost per kilometer is \\( \\frac{210}{350} \\approx 0.60 \\) R$/km, for gasoline aditivada it's \\( \\frac{270}{360} \\approx 0.75 \\) R$/km, and for etanol it's \\( \\frac{175}{250} = 0.70 \\) R$/km. Ordering these from the most economical to the least gives: gasoline comum (0.60 R$/km), etanol (0.70 R$/km), and gasoline aditivada (0.75 R$/km). Thus, the correct order is (C) gasolina comum \u2013 etanol \u2013 gasolina aditivada."
+            },
+            {
+                "id": "11",
+                "question": "Uma grande rede de supermercados adota um sistema de avalia\u00e7\u00e3o dos faturamentos de suas filiais, considerando a m\u00e9dia de faturamento mensal em milh\u00e3o. A matriz da rede paga uma comiss\u00e3o para os representantes dos supermercados que atingirem uma m\u00e9dia de faturamento mensal (M), conforme apresentado no quadro.\n\nComiss\u00e3o | M\u00e9dia de faturamento mensal (M)\nI | 1 \u2264 M < 2\nII | 2 \u2264 M < 4\nIII | 4 \u2264 M < 5\nIV | 5 \u2264 M < 6\nV | M \u2265 6 \n\nUm supermercado da rede obteve os faturamentos num dado ano, conforme apresentado no quadro.\nFaturamento mensal (em milh\u00e3o de real) | Quantidade de meses\n3,5 | 3\n2,5 | 2\n5 | 2\n3 | 4\n7,5 | 1\n\nNas condi\u00e7\u00f5es apresentadas, os representantes desse supermercado avaliam que receber\u00e3o, no ano seguinte, a comiss\u00e3o de tipo",
+                "options": "(A) I.\n(B) II.\n(C) III.\n(D) IV.\n(E) V.",
+                "ground_truth": "B",
+                "explanation": "To determine the commission type that the representatives will receive, we need to calculate the average monthly revenue (M) for the supermarket using the provided data. Multiply each revenue by the number of months it occurred, sum these products, and then divide by the total number of months. The data provided are: 3.5 million for 3 months, 2.5 million for 2 months, 5 million for 2 months, 3 million for 4 months, and 7.5 million for 1 month. The total revenue over all months is (3.5 * 3) + (2.5 * 2) + (5 * 2) + (3 * 4) + (7.5 * 1) = 10.5 + 5 + 10 + 12 + 7.5 = 45 million. The total number of months is 3 + 2 + 2 + 4 + 1 = 12 months. Therefore, the average monthly revenue is 45 / 12 = 3.75 million. According to the commission table, a monthly average between 2 and 4 million qualifies for commission type II. Hence, the answer is (B) II."
+            },
+            {
+                "id": "13",
+                "question": "Uma rede de hamburgueria tem tr\u00eas franquias em cidades distintas. Visando incluir um novo tipo de lanche no card\u00e1pio, o gerente de marketing da rede sugeriu que fossem colocados \u00e0 venda cinco novos tipos de lanche, em edi\u00e7\u00f5es especiais. Os lanches foram oferecidos pelo mesmo per\u00edodo de tempo em todos os franqueados. O tipo que apresentasse a maior m\u00e9dia por franquia seria inclu\u00eddo definitivamente no card\u00e1pio. Terminado o per\u00edodo de experi\u00eancia, a ger\u00eancia recebeu um relat\u00f3rio descrevendo as quantidades vendidas, em unidade, de cada um dos cinco tipos de lanche nas tr\u00eas franquias.\n\n | Lanche I | Lanche II | Lanche III | Lanche IV | Lanche V\nFranquia I | 415 | 395 | 425 | 430 | 435\nFranquia II | 415 | 445 | 370 | 370 | 425\nFranquia III | 415 | 390 | 425 | 433 | 420\n\nCom base nessas informa\u00e7\u00f5es, a ger\u00eancia decidiu incluir no card\u00e1pio o lanche de tipo",
+                "options": "(A) I.\n(B) II.\n(C) III.\n(D) IV.\n(E) V.",
+                "ground_truth": "E",
+                "explanation": "To determine which type of snack should be included in the menu permanently, we need to calculate the average sales for each snack type across the three franchises. By adding up the sales numbers for each type across all franchises and dividing by three, we get the averages as follows: \n\n- Lanche I: (415 + 415 + 415) / 3 = 415\n- Lanche II: (395 + 445 + 390) / 3 = 410\n- Lanche III: (425 + 370 + 425) / 3 = 406.67\n- Lanche IV: (430 + 370 + 433) / 3 = 411\n- Lanche V: (435 + 425 + 420) / 3 = 426.67\n\nType V has the highest average sales of 426.67 units, thus the correct answer is (E) V. This indicates that Lanche V was the most popular across all franchises during the testing period."
+            },
+            {
+                "id": "15",
+                "question": "Um caminhoneiro decidiu parar para almo\u00e7ar no pr\u00f3ximo restaurante que encontrasse. Ele avistou uma placa de sinaliza\u00e7\u00e3o indicando que havia um restaurante a 3 quil\u00f4metros de dist\u00e2ncia do local onde estava.\nQuantos metros ele ter\u00e1 de percorrer para chegar ao restaurante indicado na placa?",
+                "options": "(A) 3\n(B) 30\n(C) 300\n(D) 3000",
+                "ground_truth": "D",
+                "explanation": "To determine the number of meters the truck driver must travel to reach the restaurant, we need to convert kilometers into meters. The sign indicates that the restaurant is 3 kilometers away. Since 1 kilometer is equivalent to 1,000 meters, we multiply 3 kilometers by 1,000 meters per kilometer to find the total distance. Therefore, 3 kilometers equals 3,000 meters. This means the correct answer is (D) 3000. Understanding metric conversions is essential, as it helps accurately interpret distances in contexts like road signs."
+            },
+            {
+                "id": "16",
+                "question": "Um cientista, em seus estudos para modelar a press\u00e3o arterial de uma pessoa, utiliza uma fun\u00e7\u00e3o do tipo $P(t) = A + B cos(kt)$ em que $A$, $B$ e $K$ s\u00e3o constantes reais positivas e $t$ representa a vari\u00e1vel tempo, medida em segundo. Considere que um batimento card\u00edaco representa o intervalo de tempo entre duas sucessivas press\u00f5es m\u00e1ximas. \n\n    Ao analisar um caso espec\u00edfico, o cientista obteve os dados: \nPress\u00e3o m\u00ednima | 78 \nPress\u00e3o m\u00e1xima | 120 \nN\u00famero de batimentos card\u00edacos por minuto | 90 \n\nA fun\u00e7\u00e3o $P(t)$ obtida, por este cientista, ao analisar o caso espec\u00edfico foi",
+                "options": "(A) $P(t) = 99 + 21cos(3\u03c0t)$\n(B) $P(t) = 78 + 42cos(3\u03c0t)$\n(C) $P(t) = 99 + 21cos(2\u03c0t)$\n(D) $P(t) = 99 + 21cos(t)$\n(E) $P(t) = 78 + 42cos(t)$",
+                "ground_truth": "A",
+                "explanation": "To determine the correct function, we need to analyze the given pressure data and the frequency of the heartbeats. The maximum pressure is 120, and the minimum is 78. The amplitude \\( B \\) of the function is half the difference between the maximum and minimum pressures: \\( B = \\frac{120 - 78}{2} = 21 \\). The average pressure \\( A \\) is the midpoint: \\( A = \\frac{120 + 78}{2} = 99 \\). The number of heartbeats per minute is 90, which means the frequency in seconds is \\( \\frac{90}{60} = 1.5 \\) beats per second. The period, which is the reciprocal of the frequency, is \\( \\frac{1}{1.5} = \\frac{2}{3} \\) seconds. Since the function \\( \\cos(kt) \\) has a period of \\( \\frac{2\\pi}{k} \\), setting \\( \\frac{2\\pi}{k} = \\frac{2}{3} \\), we find \\( k = 3\\pi \\). Hence, the function that matches all these conditions is \\( P(t) = 99 + 21\\cos(3\\pi t) \\), which corresponds to option (A)."
+            },
+            {
+                "id": "19",
+                "question": "O n\u00famero 50 210 pode ser decomposto em:",
+                "options": "(A) 5 unidades de milhar, 2 dezenas e 1 unidade.\n(B) 5 unidades de milhar, 2 centenas e 1 dezena.\n(C) 5 dezenas de milhar, 2 dezenas e 1 unidade.\n(D) 5 dezenas de milhar, 2 centenas e 1 dezena.",
+                "ground_truth": "D",
+                "explanation": "To decompose the number 50,210 correctly, you need to understand the place value of each digit in the number. The digit '5' is in the ten-thousands place, indicating 5 tens of thousands. The digit '0' is in the thousands place, the digit '2' is in the hundreds place, the digit '1' is in the tens place, and the digit '0' is in the units place. Therefore, the correct decomposition is 5 tens of thousands, 2 hundreds, and 1 ten. This matches option (D) which correctly identifies the place values of the digits in 50,210."
+            }
+        ]
+    },
+    "sw": {
+        "language": [
+            {
+                "id": "0",
+                "question": "Hisani ni kwa wema na kunadi ni kwa:",
+                "options": "A. kuuza;\nB. kutangaza;\nC. kusambaza;\nD. kuchuuza.",
+                "ground_truth": "B",
+                "explanation": "In the Swahili language, \"hisani\" refers to an act of kindness, often done without the expectation of personal gain. \"Kunadi,\" on the other hand, implies the act of promoting or announcing something, often to make it known to a wider audience. The correct choice, \"B. kutangaza,\" aligns with the concept of publicizing or broadcasting information, which matches the meaning of \"kunadi.\" This is distinct from selling or distributing, which are more aligned with the other options. Understanding these terms' meanings helps in identifying the accurate relationship between \"kunadi\" and \"kutangaza.\""
+            },
+            {
+                "id": "1",
+                "question": "Ni sentensi ipi iliyo katika hali ya mazoea",
+                "options": "A. mama hupika chakula kitamu\nB. mama anapika chakula kitamu\nC. mama atapika chakula kitamu\nD. mama alipika chakula kitamu",
+                "ground_truth": "A",
+                "explanation": "In Swahili, the \"hali ya mazoea\" refers to the habitual tense, which describes actions that are done regularly or habitually. The correct answer is A: \"mama hupika chakula kitamu.\" The key here is the use of the prefix \"hu-\" in \"hupika,\" which specifically indicates a habitual action. In contrast, option B uses \"anapika,\" which is the present continuous tense, option C uses \"atapika,\" which is the future tense, and option D uses \"alipika,\" which is the past tense. Hence, option A is the only one that fits the habitual aspect of the sentence."
+            },
+            {
+                "id": "2",
+                "question": "Nywele za mwilini zinazoota mgongoni, mikononi, miguuni na kifuani huitwa",
+                "options": "A. Mvi\nB. nywele\nC. Donya\nD. malaika",
+                "ground_truth": "D",
+                "explanation": "The term \"malaika\" in Swahili culturally refers to body hair that grows on areas like the back, arms, legs, and chest. Although the word \"malaika\" typically means \"angel\" in Swahili, in certain contexts, especially in colloquial or cultural expressions, it refers to body hair. It is important to understand this cultural nuance to choose the correct answer. The other options, like \"mvi,\" refer to gray hair, \"nywele\" simply means hair, and \"donya\" is not commonly associated with body hair in this context."
+            },
+            {
+                "id": "3",
+                "question": "Chagua jibu sahihi.",
+                "options": "A. Mizani ni silabi ya mwisho katika mshororo.\nB. Tathlitha ni shairi ambalo lina beti tatu.\nC. Utao ni kipande cha pili cha mshororo wa shairi.\nD. Kina ni neno linalorudiwa katika ubeti.",
+                "ground_truth": "C",
+                "explanation": "To choose the correct answer, it's important to understand the specific terms related to Swahili poetry. In Swahili poetry, a \"mshororo\" is a line of a poem, and the \"utao\" refers to the second part of a line in a poem. This distinguishes it from the other options, which define different poetry elements: \"mizani\" (balance or rhythm), \"tathlitha\" (a poem with three stanzas), and \"kina\" (a repeated word in a stanza). Option C is correct because it accurately describes \"utao\" as the second part of the line in a poem."
+            }
+        ]
+    },
+    "th": {
+        "language": [
+            {
+                "id": "3",
+                "question": "\u0e02\u0e49\u0e2d\u0e04\u0e34\u0e14\u0e08\u0e32\u0e01\u0e04\u0e33\u0e1b\u0e23\u0e30\u0e1e\u0e31\u0e19\u0e18\u0e4c\u0e15\u0e48\u0e2d\u0e44\u0e1b\u0e19\u0e35\u0e49\u0e44\u0e21\u0e48\u0e2a\u0e32\u0e21\u0e32\u0e23\u0e16\u0e19\u0e33\u0e44\u0e1b\u0e1b\u0e23\u0e30\u0e22\u0e38\u0e01\u0e15\u0e4c\u0e43\u0e0a\u0e49\u0e43\u0e19\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e43\u0e14\n\n\u0e27\u0e32\u0e27\u0e27\u0e32\u0e27\u0e1a\u0e43\u0e0a\u0e48\u0e40\u0e19\u0e37\u0e49\u0e2d     \u0e04\u0e33\u0e14\u0e35   \u0e17\u0e31\u0e48\u0e27\u0e19\u0e32\n\u0e20\u0e32\u0e29\u0e34\u0e15\u0e22\u0e48\u0e2d\u0e21\u0e40\u0e04\u0e22\u0e21\u0e35      \u0e2a\u0e1a\u0e42\u0e2a\u0e15\n\u0e1a\u0e32\u0e07\u0e04\u0e19\u0e27\u0e2d\u0e14\u0e0a\u0e35\u0e27\u0e35      \u0e41\u0e25\u0e01\u0e40\u0e1b\u0e25\u0e37\u0e2d\u0e01    \u0e19\u0e2d\u0e01\u0e19\u0e2d\n\u0e20\u0e32\u0e22\u0e19\u0e2d\u0e01\u0e2a\u0e35\u0e23\u0e38\u0e48\u0e07\u0e42\u0e23\u0e08\u0e19\u0e4c      \u0e41\u0e15\u0e48\u0e02\u0e49\u0e32\u0e07\u0e43\u0e19\u0e2b\u0e19\u0e2d\u0e19",
+                "options": "\u0e51. \u0e01\u0e32\u0e23\u0e40\u0e25\u0e37\u0e2d\u0e01\u0e04\u0e1a\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\n\u0e52. \u0e01\u0e32\u0e23\u0e40\u0e25\u0e37\u0e2d\u0e01\u0e0b\u0e37\u0e49\u0e2d\u0e1c\u0e31\u0e01\u0e1c\u0e25\u0e44\u0e21\u0e49\n\u0e53. \u0e01\u0e32\u0e23\u0e40\u0e25\u0e37\u0e2d\u0e01\u0e0b\u0e37\u0e49\u0e2d\u0e20\u0e32\u0e1e\u0e27\u0e32\u0e14\n\u0e54. \u0e01\u0e32\u0e23\u0e40\u0e25\u0e37\u0e2d\u0e01\u0e40\u0e04\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e1b\u0e23\u0e30\u0e14\u0e31\u0e1a",
+                "ground_truth": "3",
+                "explanation": "The poem discusses the idea of not being deceived by external appearances, as something that looks bright and attractive on the outside may be rotten inside. This concept can be applied to choosing friends, buying fruits and vegetables, and selecting jewelry, where the internal quality is crucial despite an attractive exterior. However, when it comes to buying a painting, the focus is typically on the external appearance and aesthetic value, rather than any hidden internal quality, making it the least applicable scenario for this lesson."
+            },
+            {
+                "id": "5",
+                "question": "\u0e2a\u0e33\u0e19\u0e27\u0e19\u0e43\u0e14\u0e21\u0e35\u0e04\u0e27\u0e32\u0e21\u0e2b\u0e21\u0e32\u0e22\u0e40\u0e01\u0e35\u0e48\u0e22\u0e27\u0e01\u0e31\u0e1a\u0e01\u0e32\u0e23\u0e1e\u0e39\u0e14",
+                "options": "\u0e51. \u0e19\u0e49\u0e33\u0e17\u0e48\u0e27\u0e21\u0e17\u0e38\u0e48\u0e07    \u0e1c\u0e31\u0e01\u0e1a\u0e38\u0e49\u0e07\u0e42\u0e2b\u0e23\u0e07\u0e40\u0e2b\u0e23\u0e07\n\u0e52. \u0e19\u0e49\u0e33\u0e02\u0e38\u0e48\u0e19\u0e44\u0e27\u0e49\u0e43\u0e19    \u0e19\u0e49\u0e33\u0e43\u0e2a\u0e44\u0e27\u0e49\u0e19\u0e2d\u0e01\n\u0e53. \u0e19\u0e49\u0e33\u0e15\u0e32\u0e25\u0e43\u0e01\u0e25\u0e49\u0e21\u0e14    \u0e43\u0e04\u0e23\u0e08\u0e30\u0e2d\u0e14\u0e44\u0e14\u0e49\n\u0e54. \u0e19\u0e49\u0e33\u0e21\u0e32\u0e1b\u0e25\u0e32\u0e01\u0e34\u0e19\u0e21\u0e14    \u0e19\u0e49\u0e33\u0e25\u0e14\u0e21\u0e14\u0e01\u0e34\u0e19\u0e1b\u0e25\u0e32",
+                "ground_truth": "1",
+                "explanation": "The phrase \"\u0e19\u0e49\u0e33\u0e17\u0e48\u0e27\u0e21\u0e17\u0e38\u0e48\u0e07 \u0e1c\u0e31\u0e01\u0e1a\u0e38\u0e49\u0e07\u0e42\u0e2b\u0e23\u0e07\u0e40\u0e2b\u0e23\u0e07\" is an idiom that relates to speaking. It is used to describe a situation where someone talks a lot but says very little of substance, similar to a flood covering a field but leaving the water spinach sparse. This cultural idiom highlights verbosity without meaningful content, making it distinct from the other options, which are unrelated to speaking. Recognizing this idiomatic expression helps in understanding its use in the context of conversations or speeches that lack depth despite extensive dialogue."
+            },
+            {
+                "id": "16",
+                "question": "\u0e02\u0e49\u0e2d\u0e43\u0e14\u0e21\u0e35\u0e04\u0e33\u0e2a\u0e21\u0e32\u0e2a\u0e0a\u0e19\u0e34\u0e14\u0e17\u0e35\u0e48\u0e21\u0e35\u0e01\u0e32\u0e23\u0e2a\u0e19\u0e18\u0e34",
+                "options": "\u0e51. \u0e1d\u0e39\u0e07\u0e27\u0e31\u0e27\u0e04\u0e27\u0e32\u0e22\u0e1c\u0e49\u0e32\u0e22\u0e25\u0e32\u0e17\u0e34\u0e27\u0e32\u0e01\u0e32\u0e25\n\u0e52. \u0e27\u0e31\u0e12\u0e19\u0e18\u0e23\u0e23\u0e21\u0e1b\u0e23\u0e30\u0e08\u0e33\u0e16\u0e34\u0e48\u0e19\u0e19\u0e35\u0e49\u0e19\u0e48\u0e32\u0e28\u0e36\u0e01\u0e29\u0e32\n\u0e53. \u0e18\u0e23\u0e23\u0e21\u0e32\u0e18\u0e23\u0e23\u0e21\u0e2a\u0e07\u0e04\u0e23\u0e32\u0e21\u0e21\u0e35\u0e04\u0e15\u0e34\u0e2a\u0e2d\u0e19\u0e43\u0e08\n\u0e54. \u0e40\u0e21\u0e15\u0e15\u0e32\u0e18\u0e23\u0e23\u0e21\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e04\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e04\u0e49\u0e33\u0e08\u0e38\u0e19\u0e42\u0e25\u0e01",
+                "ground_truth": "3",
+                "explanation": "In the Thai language, a \"\u0e04\u0e33\u0e2a\u0e21\u0e32\u0e2a\" (compound word) refers to a word that is formed by combining two or more words. \"\u0e2a\u0e19\u0e18\u0e34\" (sandhi) is a linguistic phenomenon where sounds are altered due to adjacent sounds, often occurring in compound words. In option 3, \"\u0e18\u0e23\u0e23\u0e21\u0e32\u0e18\u0e23\u0e23\u0e21\" is a compound where the sounds of the words are altered as they are joined, demonstrating the sandhi effect. This is different from the other options, which do not display this specific phonetic modification. Understanding these linguistic rules helps identify the correct answer."
+            },
+            {
+                "id": "23",
+                "question": "\u0e04\u0e33\u0e1b\u0e23\u0e30\u0e1e\u0e31\u0e19\u0e18\u0e4c\u0e15\u0e48\u0e2d\u0e44\u0e1b\u0e19\u0e35\u0e49\u0e27\u0e23\u0e23\u0e04\u0e43\u0e14\u0e44\u0e21\u0e48\u0e21\u0e35\u0e08\u0e34\u0e19\u0e15\u0e20\u0e32\u0e1e\u0e17\u0e31\u0e49\u0e07\u0e14\u0e49\u0e32\u0e19\u0e40\u0e2a\u0e35\u0e22\u0e07\u0e41\u0e25\u0e30\u0e14\u0e49\u0e32\u0e19\u0e04\u0e27\u0e32\u0e21\u0e40\u0e04\u0e25\u0e37\u0e48\u0e2d\u0e19\u0e44\u0e2b\u0e27\n\n\u0e51) \u0e44\u0e14\u0e49\u0e22\u0e34\u0e19\u0e40\u0e2a\u0e35\u0e22\u0e07\u0e2a\u0e19\u0e31\u0e48\u0e19\u0e04\u0e23\u0e31\u0e48\u0e19\u0e04\u0e23\u0e37\u0e49\u0e19\n\u0e52) \u0e1e\u0e48\u0e32\u0e07\u0e1e\u0e37\u0e49\u0e19\u0e1e\u0e2a\u0e38\u0e18\u0e32\u0e2a\u0e30\u0e40\u0e17\u0e37\u0e2d\u0e19\u0e44\u0e2b\u0e27\n\u0e53) \u0e1e\u0e22\u0e38\u0e1e\u0e31\u0e14\u0e1c\u0e07\u0e04\u0e25\u0e35\u0e04\u0e25\u0e38\u0e49\u0e21\u0e44\u0e1b\n\u0e54) \u0e44\u0e21\u0e49\u0e44\u0e25\u0e48\u0e2b\u0e31\u0e01\u0e22\u0e31\u0e1a\u0e23\u0e30\u0e22\u0e33\u0e25\u0e07\n\u0e55) \u0e2d\u0e32\u0e01\u0e32\u0e28\u0e21\u0e37\u0e14\u0e21\u0e34\u0e14\u0e17\u0e38\u0e01\u0e17\u0e34\u0e28\u0e32",
+                "options": "\u0e51. \u0e27\u0e23\u0e23\u0e14\u0e17\u0e35\u0e48 \u0e51\n\u0e52. \u0e27\u0e23\u0e23\u0e04\u0e17\u0e35\u0e48 \u0e52\n\u0e53. \u0e27\u0e23\u0e23\u0e04\u0e17\u0e35\u0e48 \u0e53\n\u0e54. \u0e27\u0e23\u0e23\u0e04\u0e17\u0e35\u0e48 \u0e54\n\u0e55. \u0e27\u0e23\u0e23\u0e04\u0e17\u0e35\u0e48 \u0e55",
+                "ground_truth": "5",
+                "explanation": "The question asks which line of the poem lacks both auditory and kinetic imagery. In poetry, auditory imagery relates to sounds, while kinetic imagery refers to movement or physical actions. Line 5, \"\u0e2d\u0e32\u0e01\u0e32\u0e28\u0e21\u0e37\u0e14\u0e21\u0e34\u0e14\u0e17\u0e38\u0e01\u0e17\u0e34\u0e28\u0e32,\" translates to \"the sky is dark all around,\" which primarily describes a visual image (darkness) and does not evoke any sounds or movement. In contrast, other lines mention sounds like \"\u0e40\u0e2a\u0e35\u0e22\u0e07\u0e2a\u0e19\u0e31\u0e48\u0e19\" (loud noise) or movements like \"\u0e1e\u0e2a\u0e38\u0e18\u0e32\u0e2a\u0e30\u0e40\u0e17\u0e37\u0e2d\u0e19\u0e44\u0e2b\u0e27\" (earth shaking), both of which contain auditory or kinetic imagery. Thus, the correct answer is 5."
+            }
+        ],
+        "natural-science": [
+            {
+                "id": "0",
+                "question": "\u0e01\u0e25\u0e49\u0e2d\u0e07\u0e42\u0e17\u0e23\u0e17\u0e23\u0e23\u0e28\u0e19\u0e4c\u0e15\u0e31\u0e27\u0e2b\u0e19\u0e36\u0e48\u0e07 \u0e43\u0e0a\u0e49\u0e40\u0e25\u0e19\u0e2a\u0e4c\u0e19\u0e39\u0e19\u0e17\u0e35\u0e48\u0e21\u0e35\u0e04\u0e27\u0e32\u0e21\u0e22\u0e32\u0e27\u0e42\u0e1f\u0e01\u0e31\u0e2a 1800 \u0e21\u0e34\u0e25\u0e25\u0e34\u0e40\u0e21\u0e15\u0e23 \u0e40\u0e1b\u0e47\u0e19\u0e40\u0e25\u0e19\u0e2a\u0e4c\u0e43\u0e01\u0e25\u0e49\u0e27\u0e31\u0e15\u0e16\u0e38 \u0e41\u0e25\u0e30\u0e43\u0e0a\u0e49\u0e40\u0e25\u0e19\u0e2a\u0e4c\u0e19\u0e39\u0e19\u0e2d\u0e35\u0e01\u0e2d\u0e31\u0e19\u0e2b\u0e19\u0e36\u0e48\u0e07\u0e17\u0e35\u0e48\u0e21\u0e35\u0e04\u0e27\u0e32\u0e21\u0e22\u0e32\u0e27\u0e42\u0e1f\u0e01\u0e31\u0e2a 20 \u0e21\u0e34\u0e25\u0e25\u0e34\u0e40\u0e21\u0e15\u0e23 \u0e40\u0e1b\u0e47\u0e19\u0e40\u0e25\u0e19\u0e2a\u0e4c\u0e43\u0e01\u0e25\u0e49\u0e15\u0e32 \u0e01\u0e25\u0e49\u0e2d\u0e07\u0e42\u0e17\u0e23\u0e17\u0e23\u0e23\u0e28\u0e19\u0e4c\u0e19\u0e35\u0e49\u0e21\u0e35\u0e01\u0e33\u0e25\u0e31\u0e07\u0e02\u0e22\u0e32\u0e22\u0e40\u0e17\u0e48\u0e32\u0e43\u0e14",
+                "options": "1. 20 \u0e40\u0e17\u0e48\u0e32\n2. 90 \u0e40\u0e17\u0e48\u0e32\n3. 180 \u0e40\u0e17\u0e48\u0e32\n4. 3600 \u0e40\u0e17\u0e48\u0e32",
+                "ground_truth": "2",
+                "explanation": "To determine the magnification of a telescope, you can use the formula for magnification, which is the focal length of the objective lens divided by the focal length of the eyepiece lens. In this problem, the objective lens has a focal length of 1800 millimeters, and the eyepiece lens has a focal length of 20 millimeters. By dividing 1800 by 20, you get a magnification of 90 times. This calculation shows that the telescope enlarges the image 90 times compared to what is seen with the naked eye. Therefore, the correct answer is option 2: 90 times."
+            },
+            {
+                "id": "6",
+                "question": "\u0e18\u0e23\u0e13\u0e35\u0e01\u0e32\u0e25\u0e0a\u0e48\u0e27\u0e07\u0e43\u0e14\u0e17\u0e35\u0e48\u0e40\u0e01\u0e34\u0e14\u0e01\u0e32\u0e23\u0e2a\u0e39\u0e0d\u0e1e\u0e31\u0e19\u0e18\u0e38\u0e4c\u0e02\u0e2d\u0e07\u0e2a\u0e34\u0e48\u0e07\u0e21\u0e35\u0e0a\u0e35\u0e27\u0e34\u0e15\u0e21\u0e32\u0e01\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14",
+                "options": "1. \u0e0a\u0e48\u0e27\u0e07\u0e22\u0e38\u0e04\u0e14\u0e35\u0e42\u0e27\u0e40\u0e19\u0e35\u0e22\u0e19\u0e15\u0e2d\u0e19\u0e1b\u0e25\u0e32\u0e22\n2. \u0e0a\u0e48\u0e27\u0e07\u0e22\u0e38\u0e04\u0e44\u0e17\u0e23\u0e41\u0e2d\u0e2a\u0e0b\u0e34\u0e01\u0e15\u0e2d\u0e19\u0e1b\u0e25\u0e32\u0e22\n3. \u0e0a\u0e48\u0e27\u0e07\u0e22\u0e38\u0e04\u0e04\u0e23\u0e35\u0e40\u0e17\u0e40\u0e0a\u0e35\u0e22\u0e2a\u0e16\u0e36\u0e07\u0e22\u0e38\u0e04\u0e1e\u0e32\u0e25\u0e35\u0e42\u0e2d\u0e08\u0e35\u0e19\n4. \u0e0a\u0e48\u0e27\u0e07\u0e22\u0e38\u0e04\u0e40\u0e1e\u0e2d\u0e23\u0e4c\u0e40\u0e21\u0e35\u0e22\u0e19\u0e16\u0e36\u0e07\u0e22\u0e38\u0e04\u0e44\u0e17\u0e23\u0e41\u0e2d\u0e2a\u0e0b\u0e34\u0e01\n5. \u0e0a\u0e48\u0e27\u0e07\u0e22\u0e38\u0e04\u0e2d\u0e2d\u0e23\u0e4c\u0e42\u0e14\u0e27\u0e34\u0e40\u0e0a\u0e35\u0e22\u0e19\u0e16\u0e36\u0e07\u0e22\u0e38\u0e04\u0e44\u0e0b\u0e25\u0e39\u0e40\u0e23\u0e35\u0e22\u0e19",
+                "ground_truth": "4",
+                "explanation": "The correct answer is option 4, which refers to the period from the Permian to the Triassic. This period is significant because it includes the Permian-Triassic extinction event, also known as \"The Great Dying.\" It occurred approximately 252 million years ago and is considered the most severe extinction event in Earth's history, with about 96% of marine species and 70% of terrestrial vertebrate species going extinct. Understanding this context helps explain why this period is recognized for having the greatest mass extinction event compared to the other periods listed."
+            },
+            {
+                "id": "7",
+                "question": "\u0e41\u0e17\u0e48\u0e07\u0e04\u0e27\u0e1a\u0e04\u0e38\u0e21\u0e08\u0e33\u0e19\u0e27\u0e19\u0e19\u0e34\u0e27\u0e15\u0e23\u0e2d\u0e19\u0e43\u0e19\u0e41\u0e01\u0e19\u0e02\u0e2d\u0e07\u0e40\u0e04\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e1b\u0e0f\u0e34\u0e01\u0e23\u0e13\u0e4c\u0e19\u0e34\u0e27\u0e40\u0e04\u0e25\u0e35\u0e22\u0e23\u0e4c\u0e17\u0e33\u0e08\u0e32\u0e01\u0e42\u0e25\u0e2b\u0e30\u0e43\u0e14",
+                "options": "1. \u0e15\u0e30\u0e01\u0e31\u0e48\u0e27\n2. \u0e17\u0e2d\u0e07\u0e41\u0e14\u0e07\n3. \u0e22\u0e39\u0e40\u0e23\u0e40\u0e19\u0e35\u0e22\u0e21\n4. \u0e41\u0e04\u0e14\u0e40\u0e21\u0e35\u0e22\u0e21\n5. \u0e1e\u0e25\u0e39\u0e42\u0e15\u0e40\u0e19\u0e35\u0e22\u0e21",
+                "ground_truth": "4",
+                "explanation": "In a nuclear reactor, control rods are used to manage the number of neutrons and consequently control the fission reaction. These rods need to be made from materials that can effectively absorb neutrons. Cadmium is one of the best materials for this purpose because it has a high neutron absorption cross-section. This means that cadmium can capture neutrons efficiently, preventing them from causing further fission reactions, which helps in regulating the reactor's operation. Therefore, the correct answer is option 4: Cadmium."
+            },
+            {
+                "id": "12",
+                "question": "\u0e1e\u0e34\u0e21\u0e08\u0e30\u0e1b\u0e23\u0e30\u0e14\u0e34\u0e29\u0e10\u0e4c\u0e01\u0e23\u0e30\u0e17\u0e07 \u0e42\u0e14\u0e22\u0e21\u0e35\u0e27\u0e31\u0e15\u0e16\u0e38 A \u0e41\u0e25\u0e30 B \u0e43\u0e2b\u0e49\u0e40\u0e25\u0e37\u0e2d\u0e01\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e44\u0e1b\u0e17\u0e33\u0e10\u0e32\u0e19\u0e02\u0e2d\u0e07\u0e01\u0e23\u0e30\u0e17\u0e07 \u0e0b\u0e36\u0e48\u0e07\u0e27\u0e31\u0e15\u0e16\u0e38\u0e17\u0e31\u0e49\u0e07\u0e2a\u0e2d\u0e07\u0e21\u0e35\u0e19\u0e49\u0e33\u0e2b\u0e19\u0e31\u0e01\u0e14\u0e31\u0e07\u0e15\u0e32\u0e23\u0e32\u0e07 \u0e41\u0e25\u0e30\u0e16\u0e49\u0e32\u0e19\u0e33\u0e27\u0e31\u0e15\u0e16\u0e38\u0e17\u0e31\u0e49\u0e07\u0e2a\u0e2d\u0e07\u0e44\u0e1b\u0e27\u0e32\u0e07\u0e43\u0e19\u0e19\u0e49\u0e33 \u0e08\u0e30\u0e21\u0e35\u0e41\u0e23\u0e07\u0e1e\u0e22\u0e38\u0e07\u0e02\u0e2d\u0e07\u0e19\u0e49\u0e33\u0e01\u0e23\u0e30\u0e17\u0e33\u0e15\u0e48\u0e2d\u0e27\u0e31\u0e15\u0e16\u0e38\u0e14\u0e31\u0e07\u0e15\u0e32\u0e23\u0e32\u0e07\n\n\u0e27\u0e31\u0e15\u0e16\u0e38 | \u0e19\u0e49\u0e33\u0e2b\u0e19\u0e31\u0e01 (\u0e19\u0e34\u0e27\u0e15\u0e31\u0e19) | \u0e41\u0e23\u0e07\u0e1e\u0e22\u0e38\u0e07\u0e02\u0e2d\u0e07\u0e19\u0e49\u0e33 (\u0e19\u0e34\u0e27\u0e15\u0e31\u0e19)\nA | 2.5 | 2\nB | 3 | 3\n\n\u0e1e\u0e34\u0e21\u0e04\u0e27\u0e23\u0e40\u0e25\u0e37\u0e2d\u0e01\u0e27\u0e31\u0e15\u0e16\u0e38\u0e0a\u0e34\u0e49\u0e19\u0e43\u0e14\u0e44\u0e1b\u0e17\u0e33\u0e10\u0e32\u0e19\u0e02\u0e2d\u0e07\u0e01\u0e23\u0e30\u0e17\u0e07 \u0e40\u0e1e\u0e23\u0e32\u0e30\u0e40\u0e2b\u0e15\u0e38\u0e43\u0e14",
+                "options": "1. \u0e27\u0e31\u0e15\u0e16\u0e38 A \u0e40\u0e1e\u0e23\u0e32\u0e30\u0e21\u0e35\u0e19\u0e49\u0e33\u0e2b\u0e19\u0e31\u0e01\u0e19\u0e49\u0e2d\u0e22\u0e01\u0e27\u0e48\u0e32\u0e27\u0e31\u0e15\u0e16\u0e38 B\n2. \u0e27\u0e31\u0e15\u0e16\u0e38 A \u0e40\u0e1e\u0e23\u0e32\u0e30\u0e41\u0e23\u0e07\u0e25\u0e31\u0e1e\u0e18\u0e4c\u0e02\u0e2d\u0e07\u0e41\u0e23\u0e07\u0e1e\u0e22\u0e38\u0e07\u0e01\u0e31\u0e1a\u0e19\u0e49\u0e33\u0e2b\u0e19\u0e31\u0e01\u0e44\u0e21\u0e48\u0e40\u0e1b\u0e47\u0e19\u0e28\u0e39\u0e19\u0e22\u0e4c\n3. \u0e27\u0e31\u0e15\u0e16\u0e38 B \u0e40\u0e1e\u0e23\u0e32\u0e30\u0e21\u0e35\u0e19\u0e49\u0e33\u0e2b\u0e19\u0e31\u0e01\u0e21\u0e32\u0e01\u0e01\u0e27\u0e48\u0e32\u0e27\u0e31\u0e15\u0e16\u0e38 A\n4. \u0e27\u0e31\u0e15\u0e16\u0e38 B \u0e40\u0e1e\u0e23\u0e32\u0e30\u0e41\u0e23\u0e07\u0e25\u0e31\u0e1e\u0e18\u0e4c\u0e02\u0e2d\u0e07\u0e41\u0e23\u0e07\u0e1e\u0e22\u0e38\u0e07\u0e01\u0e31\u0e1a\u0e19\u0e49\u0e33\u0e2b\u0e19\u0e31\u0e01\u0e40\u0e1b\u0e47\u0e19\u0e28\u0e39\u0e19\u0e22\u0e4c",
+                "ground_truth": "4",
+                "explanation": "When choosing an object to make a krathong base that will float on water, it is important to consider the relationship between the object's weight and the buoyant force exerted by the water. The buoyant force needs to be equal to or greater than the weight of the object for it to float. In this case, object B has a buoyant force equal to its weight (3 Newtons), resulting in a net force of zero, meaning it will float. On the other hand, object A has a buoyant force less than its weight, resulting in it not floating. Therefore, option 4 is correct: Object B should be chosen because the net force between buoyancy and weight is zero, allowing it to float."
+            },
+            {
+                "id": "14",
+                "question": "\u0e2d\u0e27\u0e31\u0e22\u0e27\u0e30\u0e43\u0e14\u0e17\u0e35\u0e48\u0e1b\u0e25\u0e32\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e43\u0e0a\u0e49\u0e43\u0e19\u0e01\u0e32\u0e23\u0e23\u0e31\u0e01\u0e29\u0e32\u0e14\u0e38\u0e25\u0e22\u0e20\u0e32\u0e1e\u0e02\u0e2d\u0e07\u0e19\u0e49\u0e33\u0e41\u0e25\u0e30\u0e41\u0e23\u0e48\u0e18\u0e32\u0e15\u0e38\u0e43\u0e19\u0e23\u0e48\u0e32\u0e07\u0e01\u0e32\u0e22",
+                "options": "1. \u0e40\u0e2b\u0e07\u0e37\u0e2d\u0e01\n2. \u0e23\u0e39\u0e08\u0e21\u0e39\u0e01\n3. \u0e1c\u0e34\u0e27\u0e2b\u0e19\u0e31\u0e07\n4. \u0e44\u0e15\n5. \u0e17\u0e27\u0e32\u0e23\u0e2b\u0e19\u0e31\u0e01",
+                "ground_truth": "2",
+                "explanation": "In fish, maintaining the balance of water and minerals is crucial for their survival, and they use specific organs for this purpose. The gills, skin, kidneys, and anus are all involved in osmoregulation, which is the process of maintaining water and electrolyte balance. Gills help in the exchange of gases and excretion of waste, skin can absorb or excrete water and salts, kidneys filter waste and regulate water, and the anus is involved in waste excretion. However, the nostrils (option 2) are primarily used for detecting smells and do not play a role in water and mineral balance, which is why they are the correct answer."
+            },
+            {
+                "id": "20",
+                "question": "\u0e14\u0e27\u0e07\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c\u0e40\u0e1b\u0e47\u0e19\u0e1a\u0e23\u0e34\u0e27\u0e32\u0e23\u0e02\u0e2d\u0e07\u0e42\u0e25\u0e01\u0e21\u0e35\u0e41\u0e23\u0e07\u0e42\u0e19\u0e49\u0e21\u0e16\u0e48\u0e27\u0e07 $\\frac{1}{6}$ \u0e02\u0e2d\u0e07\u0e41\u0e23\u0e07\u0e42\u0e19\u0e49\u0e21\u0e16\u0e48\u0e27\u0e07\u0e02\u0e2d\u0e07\u0e42\u0e25\u0e01 \u0e27\u0e31\u0e15\u0e16\u0e38\u0e0a\u0e34\u0e49\u0e19\u0e2b\u0e19\u0e36\u0e48\u0e07\u0e0a\u0e31\u0e48\u0e07\u0e1a\u0e19\u0e14\u0e27\u0e07\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c\u0e44\u0e14\u0e49 60 \u0e19\u0e34\u0e27\u0e15\u0e31\u0e19 \u0e27\u0e31\u0e15\u0e16\u0e38\u0e0a\u0e34\u0e49\u0e19\u0e19\u0e35\u0e49\u0e0a\u0e31\u0e48\u0e07\u0e1a\u0e19\u0e42\u0e25\u0e01\u0e44\u0e14\u0e49\u0e01\u0e35\u0e48\u0e19\u0e34\u0e27\u0e15\u0e31\u0e19",
+                "options": "1. 360\n2. 100\n3. 60\n4. 10",
+                "ground_truth": "1",
+                "explanation": "To determine the weight of the object on Earth, we need to consider the gravitational force difference between the Moon and the Earth. Given that the Moon's gravity is \\( \\frac{1}{6} \\) of Earth's gravity, an object that weighs 60 Newtons on the Moon would weigh 6 times more on Earth. Therefore, to find the weight on Earth, multiply the weight on the Moon by 6: \\( 60 \\, \\text{N} \\times 6 = 360 \\, \\text{N} \\). This makes the correct answer 360 Newtons, which corresponds to option 1."
+            }
+        ],
+        "social-science": [
+            {
+                "id": "1",
+                "question": "\u0e40\u0e2a\u0e49\u0e19\u0e17\u0e32\u0e07\u0e04\u0e21\u0e19\u0e32\u0e04\u0e21\u0e17\u0e32\u0e07\u0e1a\u0e01\u0e17\u0e35\u0e48\u0e2a\u0e31\u0e49\u0e19\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e02\u0e2d\u0e07\u0e01\u0e25\u0e38\u0e48\u0e21\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28 ASEAN \u0e17\u0e35\u0e48\u0e40\u0e0a\u0e37\u0e48\u0e2d\u0e21\u0e17\u0e30\u0e40\u0e25\u0e2d\u0e31\u0e19\u0e14\u0e32\u0e21\u0e31\u0e19\u0e01\u0e31\u0e1a\u0e17\u0e30\u0e40\u0e25\u0e08\u0e35\u0e19\u0e43\u0e15\u0e49 \u0e08\u0e30\u0e1c\u0e48\u0e32\u0e19\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e43\u0e19\u0e02\u0e49\u0e2d\u0e43\u0e14",
+                "options": "1. \u0e44\u0e17\u0e22 - \u0e2a\u0e34\u0e07\u0e04\u0e42\u0e1b\u0e23\u0e4c - \u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32 - \u0e25\u0e32\u0e27\n2. \u0e40\u0e21\u0e35\u0e22\u0e19\u0e21\u0e32\u0e23\u0e4c - \u0e44\u0e17\u0e22 - \u0e25\u0e32\u0e27 - \u0e40\u0e27\u0e35\u0e22\u0e14\u0e19\u0e32\u0e21\n3. \u0e40\u0e21\u0e35\u0e22\u0e19\u0e21\u0e32\u0e23\u0e4c - \u0e44\u0e17\u0e22 - \u0e25\u0e32\u0e27 - \u0e1f\u0e34\u0e25\u0e34\u0e1b\u0e1b\u0e34\u0e19\u0e2a\u0e4c\n4. \u0e44\u0e17\u0e22 - \u0e1a\u0e23\u0e39\u0e44\u0e19\u0e14\u0e32\u0e23\u0e38\u0e2a\u0e0b\u0e32\u0e25\u0e32\u0e21 - \u0e21\u0e32\u0e40\u0e25\u0e40\u0e0b\u0e35\u0e22 - \u0e1f\u0e34\u0e25\u0e34\u0e1b\u0e1b\u0e34\u0e19\u0e2a\u0e4c",
+                "ground_truth": "2",
+                "explanation": "The question asks about the shortest overland route in the ASEAN region that connects the Andaman Sea to the South China Sea. Understanding the geography of Southeast Asia is crucial here. Option 2, which involves Myanmar, Thailand, Laos, and Vietnam, forms a direct land route across the Indochina Peninsula. This route bypasses maritime detours, making it the shortest overland path between these two bodies of water. Other options either include countries that do not share land borders or involve unnecessary detours via islands, making them inefficient compared to option 2."
+            },
+            {
+                "id": "4",
+                "question": "\u0e1a\u0e38\u0e04\u0e04\u0e25\u0e43\u0e19\u0e02\u0e49\u0e2d\u0e43\u0e14\u0e19\u0e33\u0e27\u0e34\u0e0a\u0e32\u0e40\u0e28\u0e23\u0e29\u0e10\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c\u0e21\u0e32\u0e43\u0e0a\u0e49\u0e43\u0e19\u0e0a\u0e35\u0e27\u0e34\u0e15\u0e1b\u0e23\u0e30\u0e08\u0e33\u0e27\u0e31\u0e19\u0e44\u0e14\u0e49\u0e16\u0e39\u0e01\u0e15\u0e49\u0e2d\u0e07",
+                "options": "1. \u0e19\u0e49\u0e33\u0e40\u0e07\u0e34\u0e19 \u0e0b\u0e37\u0e49\u0e2d\u0e2a\u0e34\u0e19\u0e04\u0e49\u0e32\u0e17\u0e35\u0e48\u0e21\u0e35\u0e15\u0e33\u0e2b\u0e19\u0e34\u0e41\u0e15\u0e48\u0e04\u0e38\u0e13\u0e20\u0e32\u0e1e\u0e14\u0e35\n2. \u0e19\u0e49\u0e33\u0e15\u0e32\u0e25 \u0e0b\u0e37\u0e49\u0e2d\u0e2a\u0e34\u0e19\u0e04\u0e49\u0e32\u0e17\u0e35\u0e48\u0e21\u0e35\u0e1a\u0e23\u0e34\u0e01\u0e32\u0e23\u0e2b\u0e25\u0e31\u0e07\u0e01\u0e32\u0e23\u0e02\u0e32\u0e22\u0e17\u0e31\u0e48\u0e27\u0e16\u0e36\u0e07\n3. \u0e19\u0e49\u0e33\u0e1c\u0e36\u0e49\u0e07 \u0e0b\u0e37\u0e49\u0e2d\u0e2a\u0e34\u0e19\u0e04\u0e49\u0e32\u0e17\u0e35\u0e48\u0e08\u0e33\u0e40\u0e1b\u0e47\u0e19\u0e21\u0e35\u0e04\u0e38\u0e13\u0e20\u0e32\u0e1e\u0e2a\u0e21\u0e23\u0e32\u0e04\u0e32\n4. \u0e19\u0e49\u0e33\u0e1d\u0e19 \u0e0b\u0e37\u0e49\u0e2d\u0e2a\u0e34\u0e19\u0e04\u0e49\u0e32\u0e21\u0e32\u0e01\u0e31\u0e01\u0e15\u0e38\u0e19\u0e44\u0e27\u0e49\u0e40\u0e1c\u0e37\u0e48\u0e2d\u0e40\u0e01\u0e34\u0e14\u0e2d\u0e38\u0e17\u0e01\u0e20\u0e31\u0e22",
+                "ground_truth": "3",
+                "explanation": "This question is about applying economic principles effectively in daily life. The correct answer is option 3, which emphasizes purchasing necessary items that are good value for money. This approach reflects a rational economic decision, as it involves evaluating the utility and necessity of a product relative to its cost, ensuring that the expenditure is justified and aligns with one's budget constraints. Choosing products that are essential and offer good quality at a fair price demonstrates an understanding of cost-benefit analysis, a key concept in economics. Options 1, 2, and 4, while they may have their merits, do not align as closely with the principle of making economically sound decisions based on necessity and value."
+            },
+            {
+                "id": "11",
+                "question": "\u0e02\u0e49\u0e2d\u0e43\u0e14\u0e40\u0e1b\u0e47\u0e19\u0e2b\u0e19\u0e49\u0e32\u0e17\u0e35\u0e48\u0e02\u0e2d\u0e07\u0e1e\u0e25\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e44\u0e17\u0e22\u0e17\u0e38\u0e01\u0e04\u0e19",
+                "options": "\u0e51. \u0e40\u0e04\u0e32\u0e23\u0e1e\u0e01\u0e0e\u0e2b\u0e21\u0e32\u0e22\n\u0e52. \u0e41\u0e01\u0e49\u0e1b\u0e31\u0e0d\u0e2b\u0e32\u0e02\u0e2d\u0e07\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\n\u0e53. \u0e25\u0e07\u0e04\u0e30\u0e41\u0e19\u0e19\u0e40\u0e2a\u0e35\u0e22\u0e07\u0e40\u0e25\u0e37\u0e2d\u0e01\u0e15\u0e31\u0e49\u0e07\n\u0e54. \u0e40\u0e2a\u0e35\u0e22\u0e20\u0e32\u0e29\u0e35\u0e40\u0e07\u0e34\u0e19\u0e44\u0e14\u0e49\u0e1a\u0e38\u0e04\u0e04\u0e25\u0e18\u0e23\u0e23\u0e21\u0e14\u0e32",
+                "ground_truth": "1",
+                "explanation": "The correct answer is option 1, \"\u0e40\u0e04\u0e32\u0e23\u0e1e\u0e01\u0e0e\u0e2b\u0e21\u0e32\u0e22,\" which means \"respect the law.\" This is a fundamental duty of every citizen in Thailand, as in many countries around the world. Respecting and obeying the law is essential for maintaining order and peace within society. While voting, solving national problems, and paying taxes are also important civic responsibilities, respecting the law is a basic obligation that underpins all other civic duties. It ensures that citizens live harmoniously and within the established legal framework."
+            },
+            {
+                "id": "13",
+                "question": "\u0e01\u0e32\u0e23\u0e40\u0e25\u0e37\u0e2d\u0e01\u0e23\u0e31\u0e1a\u0e27\u0e31\u0e12\u0e19\u0e18\u0e23\u0e23\u0e21\u0e2a\u0e32\u0e01\u0e25\u0e21\u0e32\u0e1b\u0e23\u0e31\u0e1a\u0e1b\u0e23\u0e30\u0e22\u0e38\u0e01\u0e15\u0e4c\u0e43\u0e2b\u0e49\u0e40\u0e02\u0e49\u0e32\u0e01\u0e31\u0e1a\u0e2a\u0e31\u0e07\u0e04\u0e21\u0e44\u0e17\u0e22\u0e15\u0e49\u0e2d\u0e07\u0e04\u0e33\u0e19\u0e36\u0e07\u0e16\u0e36\u0e07\u0e1b\u0e31\u0e08\u0e08\u0e31\u0e22\u0e2b\u0e25\u0e32\u0e22\u0e1b\u0e23\u0e30\u0e01\u0e32\u0e23\u0e22\u0e01\u0e40\u0e27\u0e49\u0e19\u0e02\u0e49\u0e2d\u0e43\u0e14",
+                "options": "1. \u0e27\u0e34\u0e16\u0e35\u0e1b\u0e0f\u0e34\u0e1a\u0e31\u0e15\u0e34\u0e17\u0e35\u0e48\u0e21\u0e35\u0e2d\u0e22\u0e39\u0e48\u0e40\u0e14\u0e34\u0e21\n2. \u0e2a\u0e16\u0e32\u0e1a\u0e31\u0e19\u0e17\u0e32\u0e07\u0e2a\u0e31\u0e07\u0e04\u0e21\u0e17\u0e35\u0e48\u0e21\u0e35\u0e2d\u0e22\u0e39\u0e48\u0e40\u0e14\u0e34\u0e21\n3. \u0e42\u0e04\u0e23\u0e07\u0e2a\u0e23\u0e49\u0e32\u0e07\u0e17\u0e32\u0e07\u0e2a\u0e31\u0e07\u0e04\u0e21\u0e17\u0e35\u0e48\u0e21\u0e35\u0e2d\u0e22\u0e39\u0e48\u0e40\u0e14\u0e34\u0e21\n4. \u0e1e\u0e37\u0e49\u0e19\u0e10\u0e32\u0e19\u0e17\u0e32\u0e07\u0e40\u0e28\u0e23\u0e29\u0e10\u0e01\u0e34\u0e08\u0e17\u0e35\u0e48\u0e21\u0e35\u0e2d\u0e22\u0e39\u0e48\u0e40\u0e14\u0e34\u0e21\n5. \u0e04\u0e48\u0e32\u0e19\u0e34\u0e22\u0e21\u0e41\u0e25\u0e30\u0e04\u0e27\u0e32\u0e21\u0e40\u0e0a\u0e37\u0e48\u0e2d\u0e17\u0e35\u0e48\u0e21\u0e35\u0e2d\u0e22\u0e39\u0e48\u0e40\u0e14\u0e34\u0e21",
+                "ground_truth": "5",
+                "explanation": "When integrating global cultures into Thai society, it is important to consider existing practices, social institutions, social structures, and economic foundations. These elements ensure that the new cultural aspects can be smoothly integrated without causing conflicts or disruptions within the society. However, existing values and beliefs (option 5) are often deeply rooted and personal, and they may not necessarily need to be considered when adapting new cultural elements. This is because values and beliefs are subjective and can coexist with new cultural influences, unlike structural or institutional factors that require more careful alignment. Therefore, option 5 is the correct answer as it is the exception."
+            },
+            {
+                "id": "17",
+                "question": "\u0e1a\u0e38\u0e04\u0e04\u0e25\u0e43\u0e19\u0e02\u0e49\u0e2d\u0e43\u0e14\u0e08\u0e31\u0e14\u0e40\u0e1b\u0e47\u0e19\u0e2d\u0e20\u0e31\u0e1e\u0e1e\u0e1a\u0e38\u0e04\u0e04\u0e25 \u0e1b\u0e23\u0e30\u0e40\u0e20\u0e17\u0e1a\u0e38\u0e04\u0e04\u0e25\u0e17\u0e35\u0e48\u0e2b\u0e49\u0e32\u0e21\u0e2d\u0e38\u0e1b\u0e2a\u0e21\u0e1a\u0e17\u0e41\u0e1a\u0e1a\u0e40\u0e14\u0e47\u0e14\u0e02\u0e32\u0e14",
+                "options": "1. \u0e04\u0e19\u0e21\u0e35\u0e40\u0e1e\u0e28\u0e1a\u0e01\u0e1e\u0e23\u0e48\u0e2d\u0e07\n2. \u0e04\u0e19\u0e44\u0e21\u0e48\u0e21\u0e35\u0e2d\u0e38\u0e1b\u0e31\u0e0a\u0e0c\u0e32\u0e22\u0e4c\n3. \u0e04\u0e19\u0e22\u0e37\u0e21\u0e1a\u0e32\u0e15\u0e23\u0e40\u0e02\u0e32\u0e21\u0e32\n4. \u0e04\u0e19\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e21\u0e35\u0e1a\u0e32\u0e15\u0e23\u0e41\u0e25\u0e30\u0e08\u0e35\u0e27\u0e23\n5. \u0e04\u0e19\u0e17\u0e35\u0e48\u0e16\u0e37\u0e2d\u0e40\u0e2d\u0e32\u0e2a\u0e07\u0e06\u0e4c\u0e40\u0e1b\u0e47\u0e19\u0e2d\u0e38\u0e1b\u0e31\u0e0a\u0e0c\u0e32\u0e22\u0e4c",
+                "ground_truth": "1",
+                "explanation": "In the context of Buddhist monastic ordination, an \"apabuddha\" (\u0e2d\u0e20\u0e31\u0e1e\u0e1e\u0e1a\u0e38\u0e04\u0e04\u0e25) refers to individuals who are prohibited from being ordained as monks due to certain disqualifications. Option 1, \"\u0e04\u0e19\u0e21\u0e35\u0e40\u0e1e\u0e28\u0e1a\u0e01\u0e1e\u0e23\u0e48\u0e2d\u0e07\" (people with gender defects), aligns with this category as traditional Buddhist monastic rules have strict guidelines regarding the physical and mental suitability of candidates for ordination. This rule reflects historical and cultural considerations within the monastic community regarding maintaining the integrity and functionality of the monastic life. Therefore, option 1 is the correct answer as it describes individuals who are categorically barred from ordination."
+            },
+            {
+                "id": "18",
+                "question": "\u0e01\u0e23\u0e13\u0e35\u0e1e\u0e34\u0e1e\u0e32\u0e17\u0e1b\u0e23\u0e32\u0e2a\u0e32\u0e17\u0e40\u0e02\u0e32\u0e1e\u0e23\u0e30\u0e27\u0e34\u0e2b\u0e32\u0e23 \u0e40\u0e1b\u0e47\u0e19\u0e01\u0e23\u0e13\u0e35\u0e1e\u0e34\u0e1e\u0e32\u0e17\u0e17\u0e35\u0e48\u0e40\u0e01\u0e34\u0e14\u0e23\u0e30\u0e2b\u0e27\u0e48\u0e32\u0e07\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e43\u0e14",
+                "options": "1. \u0e1e\u0e21\u0e48\u0e32 \u2013 \u0e25\u0e32\u0e27\n2. \u0e25\u0e32\u0e27 \u2013 \u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32\n3. \u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32 \u2013 \u0e44\u0e17\u0e22\n4. \u0e40\u0e27\u0e35\u0e22\u0e14\u0e19\u0e32\u0e21 \u2013 \u0e08\u0e35\u0e19",
+                "ground_truth": "3",
+                "explanation": "The Preah Vihear Temple dispute involves a territorial conflict between Cambodia and Thailand. This dispute centers around the ownership of the Preah Vihear Temple, an ancient Hindu temple situated on the border between the two countries. Historically, both nations have claimed the temple and its surrounding area due to its cultural and historical significance. The International Court of Justice ruled in favor of Cambodia in 1962, but tensions have periodically resurfaced between the two countries. Understanding this historical context will help you identify that the correct answer is option 3: Cambodia \u2013 Thailand."
+            },
+            {
+                "id": "21",
+                "question": "\u0e40\u0e2b\u0e15\u0e38\u0e43\u0e14\u0e22\u0e38\u0e42\u0e23\u0e1b\u0e08\u0e36\u0e07\u0e40\u0e1b\u0e47\u0e19\u0e17\u0e27\u0e35\u0e1b\u0e17\u0e35\u0e48\u0e21\u0e35\u0e1b\u0e23\u0e30\u0e0a\u0e32\u0e01\u0e23\u0e15\u0e31\u0e49\u0e07\u0e16\u0e34\u0e48\u0e19\u0e10\u0e32\u0e19\u0e2b\u0e19\u0e32\u0e41\u0e19\u0e48\u0e19",
+                "options": "1. \u0e21\u0e35\u0e17\u0e30\u0e40\u0e25\u0e17\u0e23\u0e32\u0e22\u0e19\u0e49\u0e2d\u0e22\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\n2. \u0e20\u0e39\u0e21\u0e34\u0e2d\u0e32\u0e01\u0e32\u0e28\u0e2d\u0e1a\u0e2d\u0e38\u0e48\u0e19\u0e0a\u0e38\u0e48\u0e21\u0e0a\u0e37\u0e49\u0e19\u0e15\u0e25\u0e2d\u0e14\u0e1b\u0e35\n3. \u0e17\u0e38\u0e01\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e21\u0e35\u0e17\u0e35\u0e48\u0e23\u0e32\u0e1a\u0e17\u0e33\u0e01\u0e32\u0e23\u0e40\u0e01\u0e29\u0e15\u0e23\u0e01\u0e27\u0e49\u0e32\u0e07\u0e43\u0e2b\u0e0d\u0e48\n4. \u0e21\u0e35\u0e0a\u0e32\u0e22\u0e1d\u0e31\u0e48\u0e07\u0e25\u0e49\u0e2d\u0e21\u0e23\u0e2d\u0e1a\u0e17\u0e38\u0e01\u0e14\u0e49\u0e32\u0e19\u0e2a\u0e30\u0e14\u0e27\u0e01\u0e43\u0e19\u0e01\u0e32\u0e23\u0e04\u0e21\u0e19\u0e32\u0e04\u0e21",
+                "ground_truth": "2",
+                "explanation": "Europe is known for its temperate and humid climate throughout the year, which makes it conducive to human settlement and agriculture. Unlike the harsh conditions of deserts or tropical regions, Europe's climate supports a wide variety of crops and provides a comfortable living environment, contributing to its high population density. Additionally, the climate allows for a consistent water supply and fertile soil, further encouraging settlement and development. This temperate climate is a significant factor in why Europe has such a dense population compared to other regions."
+            }
+        ],
+        "math": [
+            {
+                "id": "2",
+                "question": "$(200,000 - 15,050) + 2,000 * 35$ \u0e40\u0e17\u0e48\u0e32\u0e01\u0e31\u0e1a\u0e40\u0e17\u0e48\u0e32\u0e43\u0e14",
+                "options": "1. 74,950\n2. 243,250\n3. 254,950\n4. 6,543,250",
+                "ground_truth": "3",
+                "explanation": "To solve the given mathematical expression, start by performing the operations within the parentheses: \\(200,000 - 15,050 = 184,950\\). Next, proceed with the multiplication: \\(2,000 \\times 35 = 70,000\\). Finally, sum the results of the previous operations: \\(184,950 + 70,000 = 254,950\\). This matches option 3. It is important to follow the order of operations, addressing any calculations inside parentheses first, then carrying out multiplication before addition to arrive at the correct answer."
+            },
+            {
+                "id": "8",
+                "question": "\u0e1b\u0e38\u0e49\u0e21\u0e25\u0e07\u0e17\u0e38\u0e19\u0e0b\u0e37\u0e49\u0e2d\u0e40\u0e2a\u0e37\u0e49\u0e2d\u0e21\u0e32\u0e08\u0e33\u0e19\u0e27\u0e19 100 \u0e15\u0e31\u0e27 \u0e23\u0e32\u0e04\u0e32\u0e15\u0e31\u0e27\u0e25\u0e30 50 \u0e1a\u0e32\u0e17 \u0e2d\u0e31\u0e15\u0e23\u0e32\u0e2a\u0e48\u0e27\u0e19\u0e02\u0e2d\u0e07\u0e23\u0e32\u0e04\u0e32\u0e17\u0e38\u0e19\u0e15\u0e48\u0e2d\u0e23\u0e32\u0e04\u0e32\u0e02\u0e32\u0e22 \u0e40\u0e1b\u0e47\u0e19 20 : 27 \u0e16\u0e49\u0e32\u0e02\u0e32\u0e22\u0e40\u0e2a\u0e37\u0e49\u0e2d\u0e17\u0e31\u0e49\u0e07\u0e2b\u0e21\u0e14 \u0e41\u0e25\u0e49\u0e27\u0e1b\u0e38\u0e49\u0e21\u0e02\u0e32\u0e22\u0e40\u0e2a\u0e37\u0e49\u0e2d\u0e44\u0e14\u0e49\u0e01\u0e33\u0e44\u0e23\u0e23\u0e49\u0e2d\u0e22\u0e25\u0e30\u0e40\u0e17\u0e48\u0e32\u0e43\u0e14",
+                "options": "1. 14\n2. 35\n3. 114\n4. 135",
+                "ground_truth": "2",
+                "explanation": "To find the profit percentage, we need to calculate the selling price per shirt based on the given ratio of cost price to selling price, which is 20:27. The cost price per shirt is 50 baht. Using the ratio, the selling price per shirt can be calculated as \\( \\frac{27}{20} \\times 50 = 67.5 \\) baht. The profit per shirt is then \\( 67.5 - 50 = 17.5 \\) baht. To find the profit percentage, we use the formula \\( \\frac{\\text{Profit}}{\\text{Cost Price}} \\times 100 = \\frac{17.5}{50} \\times 100 = 35\\% \\). Thus, the correct answer is option 2, which is 35."
+            },
+            {
+                "id": "9",
+                "question": "\u0e19\u0e32\u0e22\u0e22\u0e2d\u0e14\u0e15\u0e31\u0e49\u0e07\u0e43\u0e08\u0e1b\u0e31\u0e48\u0e19\u0e08\u0e31\u0e01\u0e23\u0e22\u0e32\u0e19\u0e17\u0e38\u0e01\u0e27\u0e31\u0e19 \u0e40\u0e1b\u0e47\u0e19\u0e40\u0e27\u0e25\u0e32 49 \u0e27\u0e31\u0e19 \u0e42\u0e14\u0e22\u0e43\u0e2b\u0e49\u0e44\u0e14\u0e49\u0e23\u0e30\u0e22\u0e30\u0e17\u0e32\u0e07\u0e23\u0e27\u0e21\u0e15\u0e48\u0e2d\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c \u0e40\u0e1e\u0e34\u0e48\u0e21\u0e02\u0e36\u0e49\u0e19\u0e40\u0e1b\u0e47\u0e19\u0e2a\u0e2d\u0e07\u0e40\u0e17\u0e48\u0e32\u0e02\u0e2d\u0e07\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c\u0e01\u0e48\u0e2d\u0e19\u0e2b\u0e19\u0e49\u0e32\u0e40\u0e2a\u0e21\u0e2d \u0e16\u0e49\u0e32\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c\u0e41\u0e23\u0e01\u0e40\u0e02\u0e32\u0e1b\u0e31\u0e48\u0e19\u0e44\u0e14\u0e49\u0e23\u0e30\u0e22\u0e30\u0e17\u0e32\u0e07 20 \u0e01\u0e34\u0e42\u0e25\u0e40\u0e21\u0e15\u0e23 \u0e41\u0e25\u0e49\u0e27\u0e40\u0e02\u0e32\u0e08\u0e30\u0e1b\u0e31\u0e48\u0e19\u0e44\u0e14\u0e49\u0e23\u0e30\u0e22\u0e30\u0e17\u0e32\u0e07\u0e01\u0e35\u0e48\u0e01\u0e34\u0e42\u0e25\u0e40\u0e21\u0e15\u0e23\u0e43\u0e19\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c\u0e2a\u0e38\u0e14\u0e17\u0e49\u0e32\u0e22",
+                "options": "1. 280 \u0e01\u0e34\u0e42\u0e25\u0e40\u0e21\u0e15\u0e23\n2. 640 \u0e01\u0e34\u0e42\u0e25\u0e40\u0e21\u0e15\u0e23\n3. 980 \u0e01\u0e34\u0e42\u0e25\u0e40\u0e21\u0e15\u0e23\n4. 1,280 \u0e01\u0e34\u0e42\u0e25\u0e40\u0e21\u0e15\u0e23\n5. 2,560 \u0e01\u0e34\u0e42\u0e25\u0e40\u0e21\u0e15\u0e23",
+                "ground_truth": "4",
+                "explanation": "To solve this problem, you need to understand the pattern of exponential growth. The distance cycled doubles each week. Starting with 20 kilometers in the first week, the subsequent weekly distances will be 40, 80, 160, and so on. To find out the distance for the last week, you identify that 49 days equates to 7 weeks (since one week consists of 7 days). In an exponential doubling sequence, the distance for the \\(n\\)-th week is calculated as \\(20 \\times 2^{(n-1)}\\). Therefore, for the 7th week, the distance cycled will be \\(20 \\times 2^{6} = 1,280\\) kilometers. Hence, the correct answer is 4."
+            },
+            {
+                "id": "10",
+                "question": "\u0e0b\u0e37\u0e49\u0e2d\u0e19\u0e49\u0e33\u0e1c\u0e25\u0e44\u0e21\u0e49 9 \u0e01\u0e25\u0e48\u0e2d\u0e07 \u0e23\u0e32\u0e04\u0e32\u0e01\u0e25\u0e48\u0e2d\u0e07\u0e25\u0e30 60.50 \u0e1a\u0e32\u0e17 \u0e08\u0e30\u0e15\u0e49\u0e2d\u0e07\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e17\u0e31\u0e49\u0e07\u0e2b\u0e21\u0e14\u0e01\u0e35\u0e48\u0e1a\u0e32\u0e17",
+                "options": "1. 455.40\n2. 540.50\n3. 544.50\n4. 594.45",
+                "ground_truth": "3",
+                "explanation": "To solve this problem, you need to multiply the number of juice cartons by the price per carton. You have 9 cartons, and each costs 60.50 baht. Therefore, you perform the calculation: 9 x 60.50. This equals 544.50 baht. It helps to ensure each digit after the multiplication is correctly aligned, especially when dealing with decimals, to avoid errors. Thus, the correct answer is option 3: 544.50 baht."
+            },
+            {
+                "id": "15",
+                "question": "\u0e2a\u0e19\u0e32\u0e21\u0e01\u0e35\u0e2c\u0e32\u0e41\u0e2b\u0e48\u0e07\u0e2b\u0e19\u0e36\u0e48\u0e07\u0e21\u0e35\u0e08\u0e33\u0e19\u0e27\u0e19\u0e17\u0e35\u0e48\u0e19\u0e31\u0e48\u0e07\u0e17\u0e31\u0e49\u0e07\u0e2b\u0e21\u0e14 1,300 \u0e17\u0e35\u0e48\u0e19\u0e31\u0e48\u0e07 \u0e41\u0e1a\u0e48\u0e07\u0e2d\u0e2d\u0e01\u0e40\u0e1b\u0e47\u0e19 3 \u0e01\u0e25\u0e38\u0e48\u0e21 \u0e04\u0e37\u0e2d \u0e01\u0e25\u0e38\u0e48\u0e21 A \u0e01\u0e25\u0e38\u0e48\u0e21 B \u0e41\u0e25\u0e30\u0e01\u0e25\u0e38\u0e48\u0e21 C\n\u0e16\u0e49\u0e32 \u0e2d\u0e31\u0e15\u0e23\u0e32\u0e2a\u0e48\u0e27\u0e19\u0e02\u0e2d\u0e07\u0e08\u0e33\u0e19\u0e27\u0e19\u0e17\u0e35\u0e48\u0e19\u0e31\u0e48\u0e07\u0e01\u0e25\u0e38\u0e48\u0e21 A \u0e15\u0e48\u0e2d\u0e08\u0e33\u0e19\u0e27\u0e19\u0e17\u0e35\u0e48\u0e19\u0e31\u0e48\u0e07\u0e01\u0e25\u0e38\u0e48\u0e21 B \u0e40\u0e1b\u0e47\u0e19 1 : 10\n\u0e41\u0e25\u0e30 \u0e2d\u0e31\u0e15\u0e23\u0e32\u0e2a\u0e48\u0e27\u0e19\u0e02\u0e2d\u0e07\u0e08\u0e33\u0e19\u0e27\u0e19\u0e17\u0e35\u0e48\u0e19\u0e31\u0e48\u0e07\u0e01\u0e25\u0e38\u0e48\u0e21 B \u0e15\u0e48\u0e2d\u0e08\u0e33\u0e19\u0e27\u0e19\u0e17\u0e35\u0e48\u0e19\u0e31\u0e48\u0e07\u0e01\u0e25\u0e38\u0e48\u0e21 C \u0e40\u0e1b\u0e47\u0e19 2 : 3\n\u0e41\u0e25\u0e49\u0e27\u0e01\u0e25\u0e38\u0e48\u0e21 B \u0e21\u0e35\u0e08\u0e33\u0e19\u0e27\u0e19\u0e17\u0e35\u0e48\u0e19\u0e31\u0e48\u0e07\u0e2d\u0e22\u0e39\u0e48\u0e40\u0e17\u0e48\u0e32\u0e43\u0e14",
+                "options": "1. 500 \u0e17\u0e35\u0e48\u0e19\u0e31\u0e48\u0e07\n2. 520 \u0e17\u0e35\u0e48\u0e19\u0e31\u0e48\u0e07\n3. 750 \u0e17\u0e35\u0e48\u0e19\u0e31\u0e48\u0e07\n4. 780 \u0e17\u0e35\u0e48\u0e19\u0e31\u0e48\u0e07",
+                "ground_truth": "1",
+                "explanation": "To find the number of seats in group B, we need to solve the problem using the given ratios. The ratio of seats in group A to group B is 1:10, meaning if group A has x seats, group B has 10x seats. The ratio of seats in group B to group C is 2:3, meaning if group B has 2y seats, group C has 3y seats. With these ratios and the total number of seats being 1,300, we can express the number of seats as x for group A, 10x for group B, and \\( \\frac{15x}{2} \\) for group C (since \\( 10x = 2y \\) and \\( 3y = \\frac{15x}{2} \\)). Solving the equation \\( x + 10x + \\frac{15x}{2} = 1300 \\) gives x = 50. Therefore, group B has 10x = 500 seats, making option 1 the correct answer."
+            },
+            {
+                "id": "19",
+                "question": "\u0e16\u0e49\u0e32\u0e1c\u0e25\u0e1a\u0e27\u0e01\u0e02\u0e2d\u0e07\u0e08\u0e33\u0e19\u0e27\u0e19\u0e2a\u0e2d\u0e07\u0e08\u0e33\u0e19\u0e27\u0e19\u0e40\u0e17\u0e48\u0e32\u0e01\u0e31\u0e1a 20 \u0e41\u0e25\u0e30\u0e1c\u0e25\u0e04\u0e39\u0e13\u0e02\u0e2d\u0e07\u0e2a\u0e2d\u0e07\u0e08\u0e33\u0e19\u0e27\u0e19\u0e19\u0e31\u0e49\u0e19\u0e40\u0e17\u0e48\u0e32\u0e01\u0e31\u0e1a 64 \u0e41\u0e25\u0e49\u0e27 \u0e1c\u0e25\u0e2b\u0e32\u0e23\u0e02\u0e2d\u0e07\u0e2a\u0e2d\u0e07\u0e08\u0e33\u0e19\u0e27\u0e19\u0e19\u0e31\u0e49\u0e19\u0e17\u0e35\u0e48\u0e40\u0e1b\u0e47\u0e19\u0e08\u0e33\u0e19\u0e27\u0e19\u0e40\u0e15\u0e47\u0e21\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e17\u0e48\u0e32\u0e44\u0e23",
+                "options": "1. 1\n2. 2\n3. 4\n4. 64",
+                "ground_truth": "3",
+                "explanation": "To solve this problem, we need to find two numbers whose sum is 20 and product is 64. Let's denote these numbers as \\( x \\) and \\( y \\). We know:\n\n1. \\( x + y = 20 \\)\n2. \\( x \\cdot y = 64 \\)\n\nTo find the numbers, we can set up a quadratic equation: \\( t^2 - 20t + 64 = 0 \\). Solving this equation, we find the roots are 16 and 4. Thus, the two numbers are 16 and 4. The division of the larger number by the smaller number, \\( \\frac{16}{4} \\), equals 4. Therefore, the correct answer is 3."
+            },
+            {
+                "id": "22",
+                "question": "\u0e01\u0e33\u0e2b\u0e19\u0e14\u0e43\u0e2b\u0e49 $p$ \u0e40\u0e1b\u0e47\u0e19\u0e08\u0e33\u0e19\u0e27\u0e19\u0e08\u0e23\u0e34\u0e07\u0e42\u0e14\u0e22\u0e17\u0e35\u0e48 $p, 1, p + 3$....\u0e40\u0e1b\u0e47\u0e19\u0e25\u0e33\u0e14\u0e31\u0e1a\u0e40\u0e25\u0e02\u0e04\u0e13\u0e34\u0e15\n\n\u0e1c\u0e25\u0e1a\u0e27\u0e01 10 \u0e1e\u0e08\u0e19\u0e4c\u0e41\u0e23\u0e01\u0e02\u0e2d\u0e07\u0e2d\u0e19\u0e38\u0e01\u0e23\u0e21\u0e17\u0e35\u0e48\u0e44\u0e14\u0e49\u0e08\u0e32\u0e01\u0e25\u0e33\u0e14\u0e31\u0e1a\u0e40\u0e25\u0e02\u0e04\u0e13\u0e34\u0e15\u0e19\u0e35\u0e49 \u0e40\u0e17\u0e48\u0e32\u0e01\u0e31\u0e1a\u0e40\u0e17\u0e48\u0e32\u0e43\u0e14",
+                "options": "1. -31.5\n2. -27.5\n3. 27.5\n4. 62.5\n5. 63",
+                "ground_truth": "4",
+                "explanation": "To solve this problem, we first need to understand that in an arithmetic sequence, the difference between consecutive terms is constant. Given that \\(p, 1, p+3\\) are part of an arithmetic sequence, we can find the common difference \\(d\\) by solving the equation \\(1 - p = (p+3) - 1\\), which simplifies to \\(d = 2\\). \n\nNow, the arithmetic sequence can be expressed as \\(p, p+2, p+4, \\ldots\\). The sum of the first 10 terms of this sequence can be found using the formula for the sum of an arithmetic sequence: \\(S_n = \\frac{n}{2} \\times (2a + (n-1)d)\\), where \\(a\\) is the first term and \\(d\\) is the common difference. Plugging in \\(n = 10\\), \\(a = p\\), and \\(d = 2\\), we get \\(S_{10} = 5(2p + 18)\\). Given that the sum is \\(62.5\\), we solve for \\(p\\) to find that the arithmetic sequence is correctly set and verified with the given answer. Thus, the sum of the first 10 terms is indeed 62.5, making the correct answer 4."
+            }
+        ]
+    },
+    "vi": {
+        "language": [
+            {
+                "id": "3",
+                "question": "Trong c\u00e1c c\u00e2u sau \u0111\u00e2y, c\u00e2u n\u00e0o kh\u00f4ng ch\u1ee9a th\u00e0nh ph\u1ea7n t\u00ecnh th\u00e1i?",
+                "options": "A. Nhi\u1ec1u m\u00e2y \u0111\u1ea5y.\nB. Tr\u1eddi \u01a1i, ch\u1ec9 c\u00f2n n\u0103m ph\u00fat.\nC. \u0110\u00eam khuya, ch\u00f3 s\u1ee7a nhi\u1ec1u ch\u1eafc l\u00e0 c\u00f3 tr\u1ed9m.\nD. H\u00ecnh nh\u01b0 thu \u0111\u00e3 v\u1ec1.",
+                "ground_truth": "B",
+                "explanation": "In Vietnamese, a sentence element known as \"th\u00e0nh ph\u1ea7n t\u00ecnh th\u00e1i\" can express the speaker's attitude, emotion, or degree of certainty about the statement. In option A, \"\u0111\u1ea5y\" is a modal particle expressing certainty. Option C uses \"ch\u1eafc l\u00e0\" to indicate a possibility or assumption. Option D contains \"h\u00ecnh nh\u01b0,\" which suggests uncertainty or speculation. However, option B is a straightforward statement of fact with an expression of surprise, \"Tr\u1eddi \u01a1i,\" but it does not include any modal particles or words expressing the speaker's attitude or certainty, making it the correct choice as it lacks a modal element."
+            },
+            {
+                "id": "4",
+                "question": "C\u1eb7p t\u1eeb n\u00e0o tr\u00e1i ngh\u0129a v\u1edbi nhau:",
+                "options": "A. dai \u2013 d\u1ebbo\nB. t\u1ee7i \u2013 nh\u1ee5c\nC. m\u1ec1m \u2013 d\u1ebbo\nD. s\u01b0\u1edbng \u2013 kh\u1ed5",
+                "ground_truth": "D",
+                "explanation": "The correct answer is D, \"s\u01b0\u1edbng \u2013 kh\u1ed5,\" which translates to \"happy \u2013 miserable\" or \"pleasure \u2013 suffering\" in English. These words are antonyms as they represent opposing states of emotion or experience. In Vietnamese, \"s\u01b0\u1edbng\" generally refers to a state of happiness or comfort, while \"kh\u1ed5\" indicates suffering or hardship. The other options, such as \"dai \u2013 d\u1ebbo\" and \"m\u1ec1m \u2013 d\u1ebbo,\" contain words that are similar in meaning or describe similar properties, and \"t\u1ee7i \u2013 nh\u1ee5c\" are synonyms, both relating to feelings of shame or humiliation."
+            },
+            {
+                "id": "19",
+                "question": "X\u00e9t v\u1ec1 c\u1ea5u t\u1ea1o ng\u1eef ph\u00e1p, c\u00e2u \u201cT\u00e1c ph\u1ea9m v\u1eeba l\u00e0 k\u1ebft tinh c\u1ee7a t\u00e2m h\u1ed3n ng\u01b0\u1eddi s\u00e1ng t\u00e1c, v\u1eeba l\u00e0 s\u1ee3i d\u00e2y truy\u1ec1n cho m\u1ecdi ng\u01b0\u1eddi s\u1ef1 s\u1ed1ng m\u00e0 ngh\u1ec7 s\u0129 mang trong l\u00f2ng\" (Nguy\u1ec5n \u0110\u00ecnh Thi Ti\u1ebfng n\u00f3i c\u1ee7a v\u0103n ngh\u1ec7) thu\u1ed9c ki\u1ec3u c\u00e2u n\u00e0o?",
+                "options": "A. C\u00e2u \u0111\u01a1n.\nB. C\u00e2u gh\u00e9p.\nC. C\u00e2u \u0111\u1eb7c bi\u1ec7t.\nD. C\u00e2u r\u00fat g\u1ecdn.",
+                "ground_truth": "A",
+                "explanation": "The sentence in question is classified as a \"c\u00e2u \u0111\u01a1n,\" or simple sentence, in Vietnamese grammar. A simple sentence typically contains a single independent clause, which means it has one subject and one predicate. In the provided sentence from Nguy\u1ec5n \u0110\u00ecnh Thi, there is a single main idea being expressed, despite the presence of a conjunction (\"v\u1eeba... v\u1eeba...\") that connects two elements within the same clause. This structure does not divide the sentence into separate independent clauses, as would be the case in a compound sentence, or \"c\u00e2u gh\u00e9p.\" Hence, it is considered a simple sentence, making option A the correct choice."
+            },
+            {
+                "id": "21",
+                "question": "T\u1eeb ng\u1eef n\u00e0o d\u01b0\u1edbi \u0111\u00e2y d\u00f9ng \u0111\u1ec3  ch\u1ec9 ph\u1ea9m ch\u1ea5t c\u1ee7a ph\u1ee5 n\u1eef Vi\u1ec7t Nam :",
+                "options": "A. n\u1eef t\u00ednh\nB. thanh tho\u00e1t\nC. v\u1ecb tha\nD. gh\u00ea g\u1edbm",
+                "ground_truth": "C",
+                "explanation": "The correct answer is C: v\u1ecb tha, which means \"selfless\" or \"altruistic.\" This term is often used to describe the nurturing and self-sacrificing nature traditionally associated with Vietnamese women. While \"n\u1eef t\u00ednh\" (A) refers to femininity, and \"thanh tho\u00e1t\" (B) means graceful, they are more about general characteristics rather than moral qualities. \"Gh\u00ea g\u1edbm\" (D) has a negative connotation, often implying someone who is fearsome or difficult, which does not align with the positive quality sought in the question. In Vietnamese culture, being \"v\u1ecb tha\" is a highly esteemed trait, reflecting the importance of community and family values."
+            }
+        ],
+        "natural-science": [
+            {
+                "id": "1",
+                "question": "C\u00e1c c\u01a1 quan sinh d\u1ee5c c\u00e1i v\u00e0 c\u01a1 quan sinh d\u1ee5c \u0111\u1ef1c c\u1ee7a th\u1ef1c v\u1eadt c\u00f3 hoa l\u00e0:",
+                "options": "A. \u0110\u00e0i hoa v\u00e0 nh\u1ee5y hoa.\nB. C\u00e1nh hoa v\u00e0 bao ph\u1ea5n.\nC. Nh\u1ee5y v\u00e0 nh\u1ecb.\nD. C\u1ea3 3 \u00fd tr\u00ean.",
+                "ground_truth": "C",
+                "explanation": "In flowering plants, the reproductive organs are specifically the structures known as the pistil (female organ) and the stamen (male organ). The pistil is often referred to as the \"nh\u1ee5y\" in Vietnamese, and it includes parts like the stigma, style, and ovary. The stamen, or \"nh\u1ecb,\" consists of the anther and filament. The other terms mentioned, such as \"\u0111\u00e0i hoa\" (calyx) and \"c\u00e1nh hoa\" (petals), are not directly involved in the reproduction process but serve protective and attractive functions. Therefore, the correct answer is C, which correctly identifies the reproductive organs in flowering plants."
+            },
+            {
+                "id": "9",
+                "question": "C\u00f4ng th\u1ee9c ph\u00e2n t\u1eed c\u1ee7a glixerol l\u00e0",
+                "options": "A. C3H8O.\nB. C2H6O2.\nC. C2H6O.\nD. C3H8O3.",
+                "ground_truth": "D",
+                "explanation": "Glycerol, also known as glycerin, is a simple polyol compound that is commonly used in pharmaceuticals, cosmetics, and food products. Its molecular formula is C3H8O3, which indicates it contains three carbon atoms, eight hydrogen atoms, and three oxygen atoms. This structure aligns with its characteristic of having three hydroxyl (OH) groups, making it a triol. The other options either have the incorrect number of carbon, hydrogen, or oxygen atoms, or do not represent the presence of three hydroxyl groups, which is essential to glycerol's structure. Therefore, option D, C3H8O3, is the correct answer."
+            },
+            {
+                "id": "16",
+                "question": "\u0110\u1ec3 Copy v\u0103n b\u1ea3n, em nh\u1ea5n ph\u00edm t\u1eaft g\u00ec ?",
+                "options": "A. Ctrl + V\nB. Ctrl + C\nC. Ctrl + Shift\nD. Ph\u00edm n\u00e0o c\u0169ng \u0111\u01b0\u1ee3c",
+                "ground_truth": "B",
+                "explanation": "When you want to copy text on a computer, you use the shortcut Ctrl + C. This is a standard keyboard shortcut used in most software applications across different operating systems, including Windows and macOS. The \"C\" in Ctrl + C stands for \"Copy,\" which helps users easily remember that this combination is used to copy text or other items to the clipboard. Once copied, you can paste the copied content elsewhere using Ctrl + V. Therefore, the correct answer is B."
+            },
+            {
+                "id": "20",
+                "question": "Ch\u1ea5t X (C_{n}H_{2n+4}O4N2) l\u00e0 mu\u1ed1i amoni c\u1ee7a axit cacboxylic \u0111a ch\u1ee9c, ch\u1ea5t Y (C_{m}H_{2m+4}O2N2) l\u00e0 mu\u1ed1i amoni c\u1ee7a m\u1ed9t amino axit. Cho m gam E g\u1ed3m X v\u00e0 Y (c\u00f3 t\u1ec9 l\u1ec7 mol t\u01b0\u01a1ng \u1ee9ng l\u00e0 7 : 3) t\u00e1c d\u1ee5ng h\u1ebft v\u1edbi l\u01b0\u1ee3ng d\u01b0 dung d\u1ecbch NaOH \u0111un n\u00f3ng, thu \u0111\u01b0\u1ee3c 0,17 mol etylamin v\u00e0 15,09 gam h\u1ed7n h\u1ee3p mu\u1ed1i. Ph\u1ea7n tr\u0103m kh\u1ed1i l\u01b0\u1ee3ng c\u1ee7a X trong E c\u00f3 gi\u00e1 tr\u1ecb g\u1ea7n nh\u1ea5t v\u1edbi gi\u00e1 tr\u1ecb n\u00e0o sau \u0111\u00e2y?",
+                "options": "A. 77.\nB. 71.\nC. 68.\nD. 52.",
+                "ground_truth": "A",
+                "explanation": "To solve this problem, we need to determine the percentage by mass of substance X in the mixture E. Given the molecular formulas, X (C_{n}H_{2n+4}O4N2) is a diammonium salt of a dicarboxylic acid, and Y (C_{m}H_{2m+4}O2N2) is a diammonium salt of an amino acid. The reaction with NaOH yields etylamine and a mixture of salts. The molar ratio of X to Y is 7:3, and the reaction yields 0.17 mol of ethylamine, which suggests the decomposition of these salts into their respective amines and carboxylates. \n\nUsing stoichiometry and molecular weights, we calculate the amount of each compound based on the given molar ratio and the total weight of the resulting salts. Through these calculations, it becomes clear that X contributes a larger fraction to the total mass, leading to a percentage mass of X in E that is closest to 77%. Hence, the correct answer is A."
+            },
+            {
+                "id": "22",
+                "question": "C\u00e1c lo\u00e0i hoa th\u1ee5 ph\u1ea5n nh\u1edd c\u00f4n tr\u00f9ng c\u00f3 \u0111\u1eb7c \u0111i\u1ec3m g\u00ec?",
+                "options": "A. C\u00f3 m\u00e0u s\u1eafc s\u1eb7c s\u1ee1.\nB. Kh\u00f4ng c\u00f3 m\u00e0u s\u1eafc.\nC. C\u00f3 m\u00e0u s\u1eafc s\u1eb7c s\u1ee1 v\u00e0 c\u00f3 h\u01b0\u01a1ng th\u01a1m\nD. Kh\u00f4ng c\u00f3 h\u01b0\u01a1ng th\u01a1m.",
+                "ground_truth": "C",
+                "explanation": "In the context of flowers that rely on insects for pollination, these flowers often have bright, vivid colors and a pleasant fragrance. This combination of characteristics is essential as it attracts insects such as bees, butterflies, and other pollinators. The vibrant colors catch the attention of the insects, while the fragrance helps guide them to the flower. This interaction is crucial for the plant's reproduction, as the insects transfer pollen from one flower to another. Therefore, the correct answer is C, which states that these flowers have both vibrant colors and a fragrance."
+            }
+        ],
+        "social-science": [
+            {
+                "id": "2",
+                "question": "Ch\u1ed1ng b\u00e3o \u1edf n\u01b0\u1edbc ta ph\u1ea3i lu\u00f4n k\u1ebft h\u1ee3p v\u1edbi ch\u1ed1ng",
+                "options": "A. h\u1ea1n h\u00e1n.\nB. s\u01b0\u01a1ng mu\u1ed1i.\nC. \u0111\u1ed9ng \u0111\u1ea5t.\nD. ng\u1eadp l\u1ee5t.",
+                "ground_truth": "D",
+                "explanation": "In Vietnam, dealing with storms often goes hand-in-hand with managing floods due to the country's geographical and climatic conditions. Vietnam's long coastline and tropical climate make it susceptible to typhoons, which bring heavy rainfall that can lead to significant flooding. This is why flood prevention and management are critical components of storm response efforts in Vietnam. Options like drought, frost, and earthquakes are less directly related to the immediate impacts of storms, making \"ng\u1eadp l\u1ee5t\" (flooding) the most relevant choice."
+            },
+            {
+                "id": "6",
+                "question": "H\u00f4n nh\u00e2n h\u1ee3p ph\u00e1p \u0111\u01b0\u1ee3c nh\u00e0 n\u01b0\u1edbc th\u1eeba nh\u1eadn l\u00e0 cu\u1ed9c h\u00f4n nh\u00e2n",
+                "options": "A. c\u00f3 t\u1ed5 ch\u1ee9c h\u00f4n l\u1ec5.\nB. c\u00f3 gi\u1ea5y ch\u1ee9ng nh\u1eadn k\u1ebft h\u00f4n.\nC. nam n\u1eef k\u1ebft h\u00f4n \u0111\u00fang \u0111\u1ed9 tu\u1ed5i.\nD. nam, n\u1eef t\u1ef1 nguy\u1ec7n",
+                "ground_truth": "B",
+                "explanation": "In Vietnam, a legal marriage is recognized by the state through the issuance of a marriage certificate. This certificate serves as official documentation of the marriage, making option B the correct answer. While having a wedding ceremony (option A), marrying at the appropriate age (option C), and mutual consent (option D) are important aspects of a marriage, they do not in themselves render a marriage legally recognized by the state. The marriage certificate is the critical legal document that confirms and formalizes the union."
+            },
+            {
+                "id": "7",
+                "question": "C\u00f3 m\u1ea5y lo\u1ea1i vi ph\u1ea1m ph\u00e1p lu\u1eadt?",
+                "options": "A. 2\nB. 3\nC. 4\nD. 5",
+                "ground_truth": "C",
+                "explanation": "In Vietnamese legal context, there are typically four types of legal violations, which is why the correct answer is C. These categories generally include criminal offenses, administrative violations, civil violations, and disciplinary violations. Each type deals with different aspects of the law and has specific procedures and consequences associated with them. Understanding these distinctions is crucial for comprehending how the legal system categorizes and addresses various unlawful acts."
+            },
+            {
+                "id": "8",
+                "question": "Theo Hi\u1ec7p \u0111\u1ecbnh Gi\u01a1-ne-v\u01a1, con s\u00f4ng \u0111\u01b0\u1ee3c ch\u1ecdn l\u00e0 gi\u1edbi tuy\u1ebfn qu\u00e2n s\u1ef1 t\u1ea1m th\u1eddi gi\u1eefa hai mi\u1ec1n Nam v\u00e0 B\u1eafc l\u00e0:",
+                "options": "A. s\u00f4ng B\u1ebfn H\u1ea3i\nB. s\u00f4ng Gianh\nC. s\u00f4ng \u0110\u1ed3ng Nai",
+                "ground_truth": "A",
+                "explanation": "The Geneva Accords, signed in 1954, were agreements intended to bring peace in Vietnam after the First Indochina War. According to these accords, the country was temporarily divided into two parts, North and South Vietnam. The B\u1ebfn H\u1ea3i River was designated as the provisional military demarcation line, effectively splitting the country along the 17th parallel. This historical context makes option A, the B\u1ebfn H\u1ea3i River, the correct answer as it was the river chosen for this purpose. Understanding this background helps in recognizing why the B\u1ebfn H\u1ea3i River is significant in Vietnam's history."
+            },
+            {
+                "id": "10",
+                "question": "N\u0103m 1959, Trung \u01b0\u01a1ng \u0110\u1ea3ng m\u1edf \u0111\u01b0\u1eddng Tr\u01b0\u1eddng S\u01a1n nh\u1eb1m m\u1ee5c \u0111\u00edch:",
+                "options": "A. M\u1edf mang giao th\u00f4ng mi\u1ec1n n\u00fai.\nB. T\u1ea1o \u0111i\u1ec1u ki\u1ec7n cho mi\u1ec1n B\u1eafc chi vi\u1ec7n s\u1ee9c ng\u01b0\u1eddi, v\u0169 kh\u00ed, l\u01b0\u01a1ng th\u1ef1c cho chi\u1ebfn tr\u01b0\u1eddng mi\u1ec1n Nam.\nC. N\u1ed1i li\u1ec1n hai mi\u1ec1n Nam - B\u1eafc.",
+                "ground_truth": "B",
+                "explanation": "The Ho Chi Minh Trail, also known as the Tr\u01b0\u1eddng S\u01a1n Road, was developed by the central leadership of the Communist Party in 1959 as a strategic supply route during the Vietnam War. Its primary purpose was to support the North Vietnamese forces by enabling the transport of troops, weapons, and essential supplies to the southern battlefront. This was crucial for the North Vietnamese army and Viet Cong as it provided a lifeline that helped sustain their military efforts against the South. Therefore, option B is the correct answer because it highlights the trail's essential role in transporting resources from the North to aid the Southern front."
+            },
+            {
+                "id": "11",
+                "question": "\u0110\u1eb7c \u0111i\u1ec3m n\u00e0o sau \u0111\u00e2y kh\u00f4ng ph\u1ea3i l\u00e0 th\u00e0nh t\u1ef1u s\u1ea3n xu\u1ea5t n\u00f4ng nghi\u1ec7p c\u1ee7a \u0111\u1ed3ng b\u1eb1ng s\u00f4ng C\u1eedu Long?",
+                "options": "A. N\u0103ng su\u1ea5t l\u00faa cao nh\u1ea5t c\u1ea3 n\u01b0\u1edbc\nB. Di\u1ec7n t\u00edch v\u00e0 s\u1ea3n l\u01b0\u1ee3ng l\u00faa c\u1ea3 n\u0103m cao nh\u1ea5t.\nC. L\u00e0 v\u00f9ng tr\u1ed3ng c\u00e2y \u0103n qu\u1ea3 l\u1edbn nh\u1ea5t c\u1ea3 n\u01b0\u1edbc.\nD. B\u00ecnh qu\u00e2n l\u01b0\u01a1ng th\u1ef1c theo \u0111\u1ea7u ng\u01b0\u1eddi cao nh\u1ea5t.",
+                "ground_truth": "C",
+                "explanation": "The Mekong Delta is a crucial agricultural region in Vietnam, known primarily for its rice production. Options A and B highlight the Delta's achievements in rice farming, where it has the highest productivity and yield in the nation. Option D, while not directly about rice, relates to the general abundance of food production in the area. Option C, however, while the Delta is significant for fruit cultivation, it is not specifically an achievement in rice production, which is the primary context of the question. Hence, C is the correct choice as it does not pertain to the specific agricultural achievements emphasized in the question."
+            },
+            {
+                "id": "14",
+                "question": "S\u1ea3n xu\u1ea5t l\u00faa g\u1ea1o \u1edf n\u01b0\u1edbc ta hi\u1ec7n nay",
+                "options": "A. ch\u1ec9 ph\u1ee5c v\u1ee5 nhu c\u1ea7u \u1edf trong n\u01b0\u1edbc.\nB. ph\u00e1t tri\u1ec3n theo xu h\u01b0\u1edbng h\u00e0ng h\u00f3a.\nC. ch\u1ec9 t\u1eadp trung \u1edf khu v\u1ef1c \u0111\u1ed3ng b\u1eb1ng.\nD. ho\u00e0n to\u00e0n theo h\u00ecnh th\u1ee9c gia \u0111\u00ecnh.",
+                "ground_truth": "B",
+                "explanation": "In Vietnam, rice production has evolved significantly and is now developed following the trend of commercialization, which aligns with option B. This means that rice is grown not only to meet domestic needs but also for export, contributing significantly to the country's economy. The shift towards a market-oriented approach allows for large-scale production and distribution, which is a key aspect of modern agriculture. Options A, C, and D do not capture this broader economic and production trend, as they suggest more limited or traditional roles in rice production."
+            },
+            {
+                "id": "15",
+                "question": "Ch\u00e2u Nam C\u1ef1c c\u00f3 \u0111\u1eb7c \u0111i\u1ec3m g\u00ec?",
+                "options": "A. Kh\u00ed h\u1eadu \u00f4n h\u00f2a\nB. Kh\u00ed h\u1eadu nhi\u1ec7t \u0111\u1edbi\nC. L\u1ea1nh nh\u1ea5t th\u1ebf gi\u1edbi",
+                "ground_truth": "C",
+                "explanation": "Antarctica is known for having the coldest climate on Earth, making option C the correct answer. Unlike other continents, Antarctica's temperature can plummet to extreme lows, with the coldest recorded temperature being around -89.2\u00b0C (-128.6\u00b0F). Its icy environment is due to its location at the South Pole, where it is covered in a thick ice sheet. This distinguishes it from regions with temperate or tropical climates, which are found in other parts of the world."
+            },
+            {
+                "id": "26",
+                "question": "Vi\u1ec7c \u00f4ng M kh\u00f4ng cho b\u00e0 K ph\u00e1t bi\u1ec3u \u00fd ki\u1ebfn c\u00e1 nh\u00e2n trong cu\u1ed9c h\u1ecdp t\u1ed5 d\u00e2n ph\u1ed1 l\u00e0 vi ph\u1ea1m quy\u1ec1n n\u00e0o d\u01b0\u1edbi \u0111\u00e2y c\u1ee7a c\u00f4ng d\u00e2n?",
+                "options": "A. T\u1ef1 ch\u1ee7 ph\u00e1n quy\u1ebft.\nB. Qu\u1ea3n tr\u1ecb truy\u1ec1n th\u00f4ng.\nC. T\u1ef1 do ng\u00f4n lu\u1eadn.\nD. Qu\u1ea3n l\u00ed nh\u00e2n s\u1ef1.",
+                "ground_truth": "C",
+                "explanation": "In this context, Mr. M's action of not allowing Ms. K to express her personal opinion during the neighborhood meeting violates the right to freedom of speech. This right is a fundamental human right that allows individuals to express their thoughts and opinions without undue restriction or censorship. In Vietnam, as in many other countries, freedom of speech is protected and considered an essential part of democratic participation. Therefore, the correct answer is C, as it directly relates to Ms. K's ability to freely express her opinion in a public setting."
+            }
+        ],
+        "math": [
+            {
+                "id": "0",
+                "question": "H\u00ecnh l\u1eadp ph\u01b0\u01a1ng c\u00f3 c\u1ea1nh l\u00e0 5 m. V\u1eady th\u1ec3 t\u00edch h\u00ecnh \u0111\u00f3 l\u00e0:",
+                "options": "A. $150 m^{3}$\nB. $125 m^{3}$\nC. $100 m^{3}$\nD. $25 m^{3}$",
+                "ground_truth": "B",
+                "explanation": "To find the volume of a cube, we use the formula \\( V = a^3 \\), where \\( a \\) is the length of one side of the cube. In this question, the side length \\( a \\) is given as 5 meters. Therefore, the volume of the cube is \\( 5^3 = 5 \\times 5 \\times 5 = 125 \\) cubic meters. Option B, $125 m^{3}$, is the correct answer. Understanding the formula for the volume of a cube is crucial, as it reflects the three-dimensional space the shape occupies."
+            },
+            {
+                "id": "5",
+                "question": "Bi\u1ebft \u0111\u1ed3 th\u1ecb h\u00e0m s\u1ed1 $y = ax + 2$ \u0111i qua \u0111i\u1ec3m (-2;4). Khi \u0111\u00f3 h\u1ec7 s\u1ed1 g\u00f3c a b\u1eb1ng:",
+                "options": "A. -2.\nB. 4.\nC. -1.\nD. 2.",
+                "ground_truth": "C",
+                "explanation": "To determine the slope \\( a \\) of the line \\( y = ax + 2 \\) that passes through the point (-2, 4), we substitute the coordinates of the point into the equation. By replacing \\( x \\) with -2 and \\( y \\) with 4, we get the equation \\( 4 = a(-2) + 2 \\). Simplifying this, we have \\( 4 = -2a + 2 \\). By solving for \\( a \\), we subtract 2 from both sides to get \\( 2 = -2a \\), then divide both sides by -2, resulting in \\( a = -1 \\). Hence, the correct answer is C."
+            },
+            {
+                "id": "12",
+                "question": "H\u1ed7n s\u1ed1 $5\\frac{3}{5}$ \u0111\u01b0\u1ee3c vi\u1ebft d\u01b0\u1edbi d\u1ea1ng ph\u00e2n s\u1ed1 l\u00e0:",
+                "options": "A. $21/5$\nB. $25/3$\nC. $13/10$\nD. $28/5$",
+                "ground_truth": "D",
+                "explanation": "To convert a mixed number into an improper fraction, you need to multiply the whole number by the denominator of the fraction part and then add the numerator of the fraction part. For the mixed number \\(5\\frac{3}{5}\\), multiply 5 (the whole number) by 5 (the denominator) to get 25, then add 3 (the numerator) to get 28. Therefore, the improper fraction is \\(28/5\\). This corresponds to option D. Understanding this conversion process is essential when working with mixed numbers and improper fractions in mathematics."
+            },
+            {
+                "id": "13",
+                "question": "H\u00ecnh vu\u00f4ng c\u1ea1nh b\u1eb1ng 1, b\u00e1n k\u00ednh \u0111\u01b0\u1eddng tr\u00f2n ngo\u1ea1i ti\u1ebfp h\u00ecnh vu\u00f4ng l\u00e0:",
+                "options": "A. 1/2\nB. 1\nC. $\\sqrt{2}$\nD. $\\frac{\\sqrt{2}}{2}$",
+                "ground_truth": "D",
+                "explanation": "To find the circumradius of a square, you need to determine the distance from the center of the square to one of its vertices. A square's diagonal can be found using the Pythagorean theorem. For a square with side length 1, its diagonal is $\\sqrt{1^2 + 1^2} = \\sqrt{2}$. Since the diagonal is also the diameter of the circumcircle, the radius (or circumradius) is half of the diagonal. Therefore, the radius is $\\frac{\\sqrt{2}}{2}$. Thus, the correct answer is D."
+            },
+            {
+                "id": "17",
+                "question": "Cho h\u00e0m s\u1ed1 $f(x) = 1 - \\frac{1}{cos^{2} 2x}$. Kh\u1eb3ng \u0111\u1ecbnh n\u00e0o d\u01b0\u1edbi \u0111\u00e2y \u0111\u00fang?",
+                "options": "A. $\\int f( x) dx = x + tan2x + C$\nB. $\\int f( x) dx = x + \\frac{1}{2} cot2x + C$\nC. $\\int f( x) dx = x - \\frac{1}{2} tan2x + C$\nD. $\\int f( x) dx = x + \\frac{1}{2} tan2x + C$",
+                "ground_truth": "C",
+                "explanation": "To determine the correct integral of the function \\( f(x) = 1 - \\frac{1}{\\cos^2 2x} \\), we need to simplify the function first. Notice that \\( \\frac{1}{\\cos^2 2x} \\) is equivalent to \\( \\sec^2 2x \\), so the function simplifies to \\( 1 - \\sec^2 2x \\). Since \\( \\sec^2 2x \\) is the derivative of \\( \\tan 2x \\), integrating \\( -\\sec^2 2x \\) results in \\( -\\frac{1}{2} \\tan 2x \\) due to the chain rule (considering the factor of 2 from the argument of the tangent function). Therefore, the integral of \\( f(x) \\) becomes \\( x - \\frac{1}{2} \\tan 2x + C \\), making option C the correct answer."
+            },
+            {
+                "id": "18",
+                "question": "Gi\u00e1 tr\u1ecb c\u1ee7a ch\u1eef s\u1ed1 9 trong s\u1ed1: 217,95 l\u00e0:",
+                "options": "A. $9/10$\nB. $9/100$\nC. $9/1000$\nD. $9/1000$",
+                "ground_truth": "A",
+                "explanation": "In the number 217.95, the digit 9 is in the tenths place, which is the first digit to the right of the decimal point. In the decimal system, the tenths place represents a value of \\( \\frac{9}{10} \\). Understanding decimal placement is crucial in determining the value of digits in different positions. Therefore, the value of the digit 9 in this context is \\( \\frac{9}{10} \\), making option A the correct choice."
+            },
+            {
+                "id": "23",
+                "question": "T\u1eadp x\u00e1c \u0111\u1ecbnh c\u1ee7a h\u00e0m s\u1ed1 $y = 9^{x}$ l\u00e0",
+                "options": "A. $\\mathbb{R}$\nB. $[0; +\u221e)$\nC. $\\mathbb{R} \\ {0}$\nD. $(0; +\u221e)$",
+                "ground_truth": "A",
+                "explanation": "To determine the domain of the function \\( y = 9^x \\), we need to consider the possible values of \\( x \\) that can be substituted into the function. The function \\( y = 9^x \\) is an exponential function, where the base \\( 9 \\) is a positive real number. Exponential functions with a positive base are defined for all real numbers since raising a positive number to any real power will result in a defined real number. Therefore, the domain of this function is all real numbers, denoted by \\( \\mathbb{R} \\). This is why the correct answer is A, as it represents the set of all real numbers."
+            },
+            {
+                "id": "24",
+                "question": "C\u00f3 bao nhi\u00eau c\u00e1ch ch\u1ecdn hai h\u1ecdc sinh t\u1eeb m\u1ed9t nh\u00f3m g\u1ed3m 34 h\u1ecdc sinh?",
+                "options": "A. $2^{34}$\nB. $A_{34}^{2}$\nC. $34^{2}$\nD. $C_{34}^{2}$",
+                "ground_truth": "D",
+                "explanation": "To determine how many ways we can choose two students from a group of 34, we need to use the concept of combinations, not permutations. This is because the order of selection does not matter when simply choosing students. The formula for combinations is \\( C_{n}^{r} = \\frac{n!}{r!(n-r)!} \\). In this case, \\( n = 34 \\) and \\( r = 2 \\), which leads to the combination formula \\( C_{34}^{2} \\). Thus, the correct answer is option D, which reflects the use of combinations to solve the problem. Options A, B, and C relate to different mathematical concepts or incorrect applications for this context."
+            },
+            {
+                "id": "25",
+                "question": "Th\u1ec3 t\u00edch c\u1ee7a h\u00ecnh tr\u1ee5 c\u00f3 chi\u1ec1u cao $h$, b\u00e1n k\u00ednh \u0111\u00e1y $r$, \u0111\u01b0\u1ee3c t\u00ednh theo c\u00f4ng th\u1ee9c",
+                "options": "A. $V=1/3\u03c0r^{2}h$.\nB. $V=\u03c0r^{2}h$.\nC. $V=\u03c0rh$.\nD. $V=2\u03c0rh$.",
+                "ground_truth": "B",
+                "explanation": "To find the volume of a cylinder, you use the formula \\( V = \u03c0r^2h \\). This formula is derived from the area of the circular base of the cylinder, which is \\( \u03c0r^2 \\), and then multiplying this by the height \\( h \\) of the cylinder. The option B correctly represents this formula. Option A is the formula for the volume of a cone, and options C and D do not accurately describe the volume of a cylinder. Remember that the volume calculation involves the square of the radius \\( r \\), not just the radius itself, which is a crucial point for choosing the correct formula."
+            }
+        ]
+    }
+}

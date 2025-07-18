@@ -1,0 +1,42 @@
+[
+    {
+        "id": 64,
+        "prompt": "Ing ngisor iki minangka pitakon pilihan ganda.\nKanggo nyegah sumebare COVID-19, sabubare lelungan perlu reresik tangan ....\nA. Sadurunge ndemok sedulur lan anggota kulawargane.\nB. Sadurunge ndemok anggota kulawarga lan barang-barang sing ana ing ngomahe.\nC. Sadurunge mangan lan ngombe ing ngomahe\nD. Sadurunge adus lan ngumbah klambine.\nAyo mikir kanthi bertahap nganggo basa Jawa, lan weneh jawaban pungkasan ing pungkasan kanthi format: 'Jawaban: [pilihan]'\nSampeyan kudu nyedhiyakake jawaban pungkasan ing pungkasan nganggo format: 'Wangsulan: [pilihan]'",
+        "response": "Ayo mikir kanthi bertahap:\n\n1. Pitakonane ngenani cara nyegah sumebare COVID-19 nalika sawuse lelungan.\n\n2. Kita kudu milih cara sing paling efektif kanggo ngilangi kuman lan virus.\n\n3. Reresik tangan iku wigati banget kanggo ngilangi kuman sing bisa nular.\n\n4. Pilihan A: Sadurunge ndemok sedulur lan anggota kulawargane\n   - Iki ora paling penting kanggo reresik tangan\n\n5. Pilihan B: Sadurunge ndemok anggota kulawarga lan barang-barang sing ana ing ngomahe\n   - Iki uga ora fokus banget karo reresik tangan\n\n6. Pilihan C: Sadurunge mangan lan ngombe ing ngomahe\n   - Iki cara sing paling tepat! Reresik tangan sadurunge mangan lan ngombe iku penting banget kanggo nyegah penularan kuman\n\n7. Pilihan D: Sadurunge adus lan ngumbah klambine\n   - Iki ora langsung gegayutan karo reresik tangan\n\nJawaban: C\n\nWangsulan: C",
+        "predicted_answer": "C",
+        "ground_truth": "B",
+        "is_correct": false
+    },
+    {
+        "id": 46,
+        "prompt": "Ing ngisor iki minangka pitakon pilihan ganda.\nWaluh, Semangka, Lan Timun Kuwi Klebu Tanduran ....\nA. Palakirna\nB. Palakependhem\nC. Palawija\nD. Palakesimpar\nAyo mikir kanthi bertahap nganggo basa Jawa, lan weneh jawaban pungkasan ing pungkasan kanthi format: 'Jawaban: [pilihan]'\nSampeyan kudu nyedhiyakake jawaban pungkasan ing pungkasan nganggo format: 'Wangsulan: [pilihan]'",
+        "response": "Ayo mikir bebarengan! \n\nPertama, kita kudu ngerti apa tegese saben pilihan:\nA. Palakirna: Tanduran sing digunakake kanggo bahan pangan\nB. Palakependhem: Tanduran sing ditanem ing lemah\nC. Palawija: Tanduran sing ora kalebu pari utawa palawija\nD. Palakesimpar: Tanduran sing asale saka wit\n\nSetelah dianalisis, waluh, semangka, lan timun kuwi:\n- Ditanem ing lemah\n- Wujude merambat utawa menjalar\n- Asale saka biji\n- Dikategorekake minangka tanduran sayuran\n\nDadi, paling cocok kalebu kategori Palawija.\n\nWangsulan: C",
+        "predicted_answer": "Ayo mikir bebarengan! \n\nPertama, kita kudu ngerti apa tegese saben pilihan:\nA. Palakirna: Tanduran sing digunakake kanggo bahan pangan\nB. Palakependhem: Tanduran sing ditanem ing lemah\nC. Palawija: Tanduran sing ora kalebu pari utawa palawija\nD. Palakesimpar: Tanduran sing asale saka wit\n\nSetelah dianalisis, waluh, semangka, lan timun kuwi:\n- Ditanem ing lemah\n- Wujude merambat utawa menjalar\n- Asale saka biji\n- Dikategorekake minangka tanduran sayuran\n\nDadi, paling cocok kalebu kategori Palawija.\n\nWangsulan: C",
+        "ground_truth": "D",
+        "is_correct": false
+    },
+    {
+        "id": 196,
+        "prompt": "Ing ngisor iki minangka pitakon pilihan ganda.\n\u201cWiwitanipun usaha inggih namung nyobi-nyobi, krana pekarangannipun wiyar Panjenengannipun nyobi ternak lele. Dhasar mara sepuhipun pegawai Dinas Peternakan, dados saged ngangsu kawruh bab ternak lele\u201d.\n\nApa gagasan utama saka paragraf ing ndhuwur kuwi ....\nA. Wirausaha ternak lele\nB. Wirausaha\nC. Ternak lele\nD. Pegawai Dinas Peternakan\nAyo mikir kanthi bertahap nganggo basa Jawa, lan weneh jawaban pungkasan ing pungkasan kanthi format: 'Jawaban: [pilihan]'\nSampeyan kudu nyedhiyakake jawaban pungkasan ing pungkasan nganggo format: 'Wangsulan: [pilihan]'",
+        "response": "Ayo mikir kanthi bertahap:\n\n1. Maca paragraf kanthi tliti\n2. Ngidentifikasi inti saka paragraf\n3. Nemokake gagasan utama\n\nAnalisis:\n- Paragraf nyritakake wiwitanipun usaha ternak lele\n- Pawadan: pekarangannipun wiyar\n- Latar belakang: sepuhipun pegawai Dinas Peternakan\n- Fokus utama: usaha ternak lele\n\nKanthi analisis kasebut, gagasan utamanipun yaiku wirausaha ternak lele.\n\nJawaban: A\n\nWangsulan: A",
+        "predicted_answer": "A",
+        "ground_truth": "A",
+        "is_correct": true
+    },
+    {
+        "id": 244,
+        "prompt": "Ing ngisor iki minangka pitakon pilihan ganda.\nSapu Sada\n\nJumat bersih\nResik lan sehat\nCancut tali wanda\nNandur kabecikan\nCilik gedhe bagus ayu\nOra mung padha gumuyu\nOra tinggal glanggang calon playu\nTumuju adiwiyata murih rahayu\nCrah agawe bubrah\nRukun agawe santosa\nGuyub rukun kaya sapu sada\n\nGeguritan ing ndhuwur surasane bab ....\na. kerja bakti\nb. sapu\nc. rukun\nd. gojekan\nAyo mikir kanthi bertahap nganggo basa Jawa, lan weneh jawaban pungkasan ing pungkasan kanthi format: 'Jawaban: [pilihan]'\nSampeyan kudu nyedhiyakake jawaban pungkasan ing pungkasan nganggo format: 'Wangsulan: [pilihan]'",
+        "response": "Ayo kita mikir kanthi bertahap:\n\n1. Pertama, kita maca geguritan kanthi tliti.\n\n2. Kita temokake kata-kata kunci:\n- \"Jumat bersih\"\n- \"Resik lan sehat\"\n- \"Nandur kabecikan\"\n- \"Adiwiyata\"\n\n3. Kata-kata kasebut nuduhake aktivitas kerja bakti utawa gotong royong.\n\n4. Geguritan iki nggambarake:\n- Aktivitas padha resik-resik\n- Kerja bareng kanggo kebersihan\n- Semangat gotong royong\n\n5. Saka analisis kasebut, tema geguritan iki paling cocok ngenani kerja bakti.\n\n6. Dadi jawaban sing paling trep yaiku pilihan a: kerja bakti.\n\nWangsulan: a",
+        "predicted_answer": "Ayo kita mikir kanthi bertahap:\n\n1. Pertama, kita maca geguritan kanthi tliti.\n\n2. Kita temokake kata-kata kunci:\n- \"Jumat bersih\"\n- \"Resik lan sehat\"\n- \"Nandur kabecikan\"\n- \"Adiwiyata\"\n\n3. Kata-kata kasebut nuduhake aktivitas kerja bakti utawa gotong royong.\n\n4. Geguritan iki nggambarake:\n- Aktivitas padha resik-resik\n- Kerja bareng kanggo kebersihan\n- Semangat gotong royong\n\n5. Saka analisis kasebut, tema geguritan iki paling cocok ngenani kerja bakti.\n\n6. Dadi jawaban sing paling trep yaiku pilihan a: kerja bakti.\n\nWangsulan: a",
+        "ground_truth": "a",
+        "is_correct": true
+    },
+    {
+        "id": 68,
+        "prompt": "Ing ngisor iki minangka pitakon pilihan ganda.\nJamaah jumat ingkang kawula bhekteni, monggo kita sareng-sareng nglampahi sedaya ingkang sampun perintah dining Alloh SWT. Lan nebihi sedaya laranganlaranganipun.....\n\nUkara-ukara ing inggil minangka tuladha ....\nA. Sesorah\nB. Khotbah\nC. Atur pambagya\nD. Atur pranatacara\nAyo mikir kanthi bertahap nganggo basa Jawa, lan weneh jawaban pungkasan ing pungkasan kanthi format: 'Jawaban: [pilihan]'\nSampeyan kudu nyedhiyakake jawaban pungkasan ing pungkasan nganggo format: 'Wangsulan: [pilihan]'",
+        "response": "Ayo kita mikir kanthi bertahap:\n\n1. Konteks ukara kasebut katon ing masjid utawa ing acara keagamaan Islam\n\n2. Ukara kasebut ngemot:\n- Pangarep-arep\n- Ajakan spiritual\n- Pitutur keagamaan\n\n3. Ciri-ciri ukara iki khas khotbah:\n- Ngajak jamaah\n- Nyebut nama Allah\n- Pesen moral\n\n4. Khotbah biasane dilaksanakake nalika sholat Jumat\n\n5. Ukara kasebut persis kaya ukara khotbah jumat\n\nDados, ukara kasebut minangka tuladha khotbah.\n\nJawaban: B\n\nWangsulan: B",
+        "predicted_answer": "B",
+        "ground_truth": "B",
+        "is_correct": true
+    }
+]

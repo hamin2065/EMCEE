@@ -1,0 +1,124 @@
+[
+    {
+        "id": "81543553621132354",
+        "sys_prompt": "The following is a reasoning question. Given question and explanation, write answer with format of \"Answer: [one or a few words]\".",
+        "user_prompt": "Question: Wo wurde \"Hilfe, die Amis kommen\" gefilmt?\nExplanation: The film \"Hilfe, die Amis kommen\" (translated as \"Help, the Americans Are Coming\") was primarily filmed in Germany, specifically in the region of Bavaria. This comedy, released in 1965, reflects the cultural context of post-World War II Germany, where American soldiers were stationed and had a significant influence on local life. The film humorously explores the interactions between American GIs and the German locals, highlighting the cultural differences and misunderstandings that arise. Understanding the historical backdrop of American presence in Germany during this time can enhance appreciation for the film's themes and humor.",
+        "response": "Bayern (Bavaria)",
+        "explanation": "The film \"Hilfe, die Amis kommen\" (translated as \"Help, the Americans Are Coming\") was primarily filmed in Germany, specifically in the region of Bavaria. This comedy, released in 1965, reflects the cultural context of post-World War II Germany, where American soldiers were stationed and had a significant influence on local life. The film humorously explores the interactions between American GIs and the German locals, highlighting the cultural differences and misunderstandings that arise. Understanding the historical backdrop of American presence in Germany during this time can enhance appreciation for the film's themes and humor.",
+        "predicted_answer": "Bayern (Bavaria)",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q38",
+                "text": "Italien",
+                "aliases": [
+                    "Italienische Republik"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q142",
+                "text": "Frankreich",
+                "aliases": [
+                    "Franz\u00f6sische Republik",
+                    "Republik Frankreich",
+                    "fr"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q21",
+                "text": "England",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q713750",
+                "text": "Geschichte der Bundesrepublik Deutschland (bis 1990)",
+                "aliases": [
+                    "Alte Bundesrepublik",
+                    "Alte Bundesrepublik Deutschland",
+                    "Westdeutschland",
+                    "Bundesrepublik Deutschland (1949-1990)",
+                    "BR Dtld."
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "8627228541151141053",
+        "sys_prompt": "The following is a reasoning question. Given question and explanation, write answer with format of \"Answer: [one or a few words]\".",
+        "user_prompt": "Question: wer singt das lied love will keep us together\nExplanation: The song \"Love Will Keep Us Together\" is famously performed by the duo Captain & Tennille, consisting of husband-and-wife team Daryl Dragon (Captain) and Toni Tennille. Released in 1975, the song became a major hit and is often associated with the soft rock genre of the 1970s. Understanding the context of the song's release can enhance appreciation; it was a time when love songs dominated the charts, and Captain & Tennille's harmonious style resonated with many listeners. The song's themes of love and commitment continue to make it a classic, reflecting the era's romantic ideals.",
+        "response": "Captain & Tennille",
+        "explanation": "The song \"Love Will Keep Us Together\" is famously performed by the duo Captain & Tennille, consisting of husband-and-wife team Daryl Dragon (Captain) and Toni Tennille. Released in 1975, the song became a major hit and is often associated with the soft rock genre of the 1970s. Understanding the context of the song's release can enhance appreciation; it was a time when love songs dominated the charts, and Captain & Tennille's harmonious style resonated with many listeners. The song's themes of love and commitment continue to make it a classic, reflecting the era's romantic ideals.",
+        "predicted_answer": "Captain & Tennille",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q1035077",
+                "text": "Captain & Tennille",
+                "aliases": [
+                    "The Captain and Tennille",
+                    "Captain and Tennille",
+                    "The Captain & Tennille",
+                    "Darrly Dragon",
+                    "Toni Tenille",
+                    "Tony Tennille"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "-7634638252335162798",
+        "sys_prompt": "The following is a reasoning question. Given question and explanation, write answer with format of \"Answer: [one or a few words]\".",
+        "user_prompt": "Question: Wie viele Staaten gibt es in den Continental United States\nExplanation: The Continental United States consists of 48 states, excluding Alaska and Hawaii, which are not located on the North American mainland. This distinction is important because it highlights the geographical boundaries of the contiguous states, which are often referred to as the \"lower 48.\" Understanding this concept is essential for grasping the layout of the United States and its territories, as well as for discussions about geography, demographics, and regional characteristics within the country.",
+        "response": "48 Staaten",
+        "explanation": "The Continental United States consists of 48 states, excluding Alaska and Hawaii, which are not located on the North American mainland. This distinction is important because it highlights the geographical boundaries of the contiguous states, which are often referred to as the \"lower 48.\" Understanding this concept is essential for grasping the layout of the United States and its territories, as well as for discussions about geography, demographics, and regional characteristics within the country.",
+        "predicted_answer": "48 Staaten",
+        "ground_truth": [
+            {
+                "type": "number",
+                "text": "48.0",
+                "aliases": [
+                    "48"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "8643588946565257997",
+        "sys_prompt": "The following is a reasoning question. Given question and explanation, write answer with format of \"Answer: [one or a few words]\".",
+        "user_prompt": "Question: wer ist der mann im i dont always meme\nExplanation: The \"I don't always\" meme features a character known as the Most Interesting Man in the World, portrayed by actor Jonathan Goldsmith. This meme originated from a series of commercials for Dos Equis beer, where Goldsmith's character is depicted as a suave and sophisticated man who shares humorous and exaggerated statements about his life. The meme typically starts with \"I don't always...\" followed by a humorous twist, making it versatile for various contexts. Understanding the cultural background of this character can help students appreciate the humor and creativity behind the meme, as it plays on the idea of an extraordinary lifestyle contrasted with everyday situations.",
+        "response": "Jonathan Goldsmith",
+        "explanation": "The \"I don't always\" meme features a character known as the Most Interesting Man in the World, portrayed by actor Jonathan Goldsmith. This meme originated from a series of commercials for Dos Equis beer, where Goldsmith's character is depicted as a suave and sophisticated man who shares humorous and exaggerated statements about his life. The meme typically starts with \"I don't always...\" followed by a humorous twist, making it versatile for various contexts. Understanding the cultural background of this character can help students appreciate the humor and creativity behind the meme, as it plays on the idea of an extraordinary lifestyle contrasted with everyday situations.",
+        "predicted_answer": "Jonathan Goldsmith",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q1255362",
+                "text": "Jonathan Goldsmith",
+                "aliases": []
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "6747693054679197435",
+        "sys_prompt": "The following is a reasoning question. Given question and explanation, write answer with format of \"Answer: [one or a few words]\".",
+        "user_prompt": "Question: Wer ist das j\u00fcngste Mitglied von \"why don't we\"\nExplanation: The youngest member of the boy band \"Why Don't We\" is Jonah Marais. He was born on September 16, 1998. Understanding the dynamics of boy bands can enhance your appreciation of their music and group interactions. \"Why Don't We\" was formed in 2016 and quickly gained popularity for their catchy songs and strong social media presence. Each member brings unique talents to the group, and knowing their ages can help fans relate to their journeys and experiences in the music industry.",
+        "response": "Jonah Marais",
+        "explanation": "The youngest member of the boy band \"Why Don't We\" is Jonah Marais. He was born on September 16, 1998. Understanding the dynamics of boy bands can enhance your appreciation of their music and group interactions. \"Why Don't We\" was formed in 2016 and quickly gained popularity for their catchy songs and strong social media presence. Each member brings unique talents to the group, and knowing their ages can help fans relate to their journeys and experiences in the music industry.",
+        "predicted_answer": "Jonah Marais",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "text": "Zachary Dean Herron",
+                "entity": "Q50437010"
+            }
+        ],
+        "is_correct": null
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "id": "71",
+        "prompt": "Here is a premise: Kad\u0131n uyuyakald\u0131.. What is the effect? Help me pick the more plausible option: -choice1: Geceyi bir otelde ge\u00e7irdi., -choice2: [choice]\nLet's think step-by-step in English.\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "To determine the more plausible option based on the premise \"Kad\u0131n uyuyakald\u0131\" (The woman fell asleep), we need to consider the implications of her falling asleep.\n\n1. **Choice 1: Geceyi bir otelde ge\u00e7irdi.** (She spent the night in a hotel.)\n   - This option suggests that the woman fell asleep in a hotel, which is a plausible scenario. It implies that she might have been traveling or staying somewhere away from home, leading to her falling asleep there.\n\n2. **Choice 2: [choice]**\n   - Since there is no specific information provided for choice 2, we cannot evaluate its plausibility.\n\nGiven that choice 1 provides a coherent and plausible scenario related to the premise, while choice 2 lacks any context, we can conclude that choice 1 is the more plausible option.\n\nAnswer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 1,
+        "is_correct": false
+    },
+    {
+        "id": "12",
+        "prompt": "Here is a premise: Yazd\u0131\u011f\u0131m \u00e7ek kar\u015f\u0131l\u0131ks\u0131z \u00e7\u0131kt\u0131.. What is the effect? Help me pick the more plausible option: -choice1: Banka hesab\u0131mda para yoktu., -choice2: [choice]\nLet's think step-by-step in English.\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "To analyze the premise \"Yazd\u0131\u011f\u0131m \u00e7ek kar\u015f\u0131l\u0131ks\u0131z \u00e7\u0131kt\u0131,\" which translates to \"The check I wrote bounced,\" we need to consider the implications of a bounced check. A bounced check typically occurs when there are insufficient funds in the account to cover the amount of the check.\n\nNow, let's evaluate the options:\n\n- **Choice 1: \"Banka hesab\u0131mda para yoktu.\"** This translates to \"I had no money in my bank account.\" This directly explains why the check bounced, as a lack of funds would lead to a check being returned as unpaid.\n\n- **Choice 2: [choice]** This option is unspecified, so we cannot evaluate it.\n\nGiven that choice 1 provides a clear and logical explanation for the bounced check, it is the more plausible option.\n\nAnswer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "346",
+        "prompt": "Here is a premise: Tahta zemin \u00e7izilmeye ba\u015flad\u0131.. What is the cause? Help me pick the more plausible option: -choice1: Gen\u00e7, koltuktaki yast\u0131klar\u0131 kald\u0131rd\u0131., -choice2: [choice]\nLet's think step-by-step in English.\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "To determine the cause of the wooden floor starting to get scratched, we need to analyze the provided choices.\n\n- **Choice 1**: \"Gen\u00e7, koltuktaki yast\u0131klar\u0131 kald\u0131rd\u0131.\" translates to \"The young person lifted the cushions on the sofa.\" Lifting cushions does not directly imply any action that would cause scratches on the floor.\n\n- **Choice 2**: Since there is no specific option provided for choice 2, we cannot evaluate it.\n\nGiven that choice 1 does not seem to be a plausible cause for the scratches on the floor, and without a clear alternative in choice 2, we cannot definitively conclude that either option is the cause. However, since choice 1 is the only one we can analyze, we can say that it is unlikely to be the cause.\n\nThus, based on the information provided, I would choose:\n\nAnswer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 1,
+        "is_correct": false
+    },
+    {
+        "id": "172",
+        "prompt": "Here is a premise: Can\u0131m bir bardak s\u00fct \u00e7ekti.. What is the cause? Help me pick the more plausible option: -choice1: Kurabiye yiyordum., -choice2: [choice]\nLet's think step-by-step in English.\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "To determine the cause of the statement \"Can\u0131m bir bardak s\u00fct \u00e7ekti\" (which translates to \"I crave a glass of milk\"), we need to analyze the options provided.\n\n- **Choice 1: Kurabiye yiyordum.** (I was eating cookies.)\n- **Choice 2: [choice]** (This option is unspecified.)\n\nNow, let's consider the context. If someone is eating cookies, it is quite common to crave milk as a complementary drink. Cookies and milk are often paired together, so eating cookies could logically lead to a craving for milk.\n\nOn the other hand, choice 2 is unspecified, making it impossible to evaluate its relevance or plausibility as a cause for craving milk.\n\nGiven this reasoning, the more plausible option is:\n\nAnswer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "229",
+        "prompt": "Here is a premise: Oyuncu rakibi ile m\u00fccadele etti.. What is the effect? Help me pick the more plausible option: -choice1: Rakibi pas\u0131 yakalad\u0131., -choice2: [choice]\nLet's think step-by-step in English.\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "To determine the more plausible option based on the premise \"Oyuncu rakibi ile m\u00fccadele etti\" (The player fought with their opponent), we need to analyze the choices provided.\n\n- **Choice 1: Rakibi pas\u0131 yakalad\u0131.** (The opponent caught the pass.)\n- **Choice 2: [choice]** (This option is unspecified, so we cannot evaluate it.)\n\nGiven that the premise indicates a struggle or competition between the player and their opponent, it is reasonable to assume that during this struggle, the opponent might successfully catch a pass, which is a common occurrence in competitive sports.\n\nSince we have no information about what choice 2 is, we cannot evaluate it. Therefore, we will go with the only option we can analyze.\n\nAnswer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 1,
+        "is_correct": false
+    }
+]

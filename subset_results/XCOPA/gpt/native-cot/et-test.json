@@ -1,0 +1,42 @@
+[
+    {
+        "id": "279",
+        "prompt": "Siin on eeltingimus: T\u00fcdruk \u00fchines v\u00e4itlusmeeskonnaga.. Mis on tagaj\u00e4rg? Aita mul valida usutavam variant: -valik1: Ta \u00f5ppis arvutit kasutama., -valik2: Ta \u00f5ppis suhtlusoskusi.\nM\u00f5tleme samm-sammult eesti keeles.\nSa peaksid oma vastuseks valima ainult \u00fche variandi. Sa peaksid vastama k\u00fcsimusele vormis \"Vastus: [1 v\u00f5i 2]\"",
+        "response": "Vaatame eeltingimust: t\u00fcdruk \u00fchines v\u00e4itlusmeeskonnaga. V\u00e4itlusmeeskonnas osalemine eeldab, et inimene peab olema osav suhtlemises, argumenteerimises ja teistega suhtlemises. Seega on t\u00f5en\u00e4olisem, et ta arendab oma suhtlusoskusi.\n\nValik 1: \"Ta \u00f5ppis arvutit kasutama.\" - See ei ole otseselt seotud v\u00e4itlusmeeskonnaga, kuigi arvuti kasutamine v\u00f5ib olla kasulik, kuid see ei ole peamine tagaj\u00e4rg.\n\nValik 2: \"Ta \u00f5ppis suhtlusoskusi.\" - See on otseselt seotud v\u00e4itlusmeeskonnaga, kuna v\u00e4itlus n\u00f5uab head suhtlemisoskust.\n\nSeega, usutavam variant on:\n\nVastus: 2",
+        "predicted_answer": 2,
+        "ground_truth": 1,
+        "is_correct": true
+    },
+    {
+        "id": "112",
+        "prompt": "Siin on eeltingimus: Ma n\u00e4gin oma hinge\u00f5hku, kui ma v\u00e4lja hindasin.. Mis on p\u00f5hjus? Aita mul valida usutavam variant: -valik1: Ilm oli jahe., -valik2: Mul oli rinnus kitsas.\nM\u00f5tleme samm-sammult eesti keeles.\nSa peaksid oma vastuseks valima ainult \u00fche variandi. Sa peaksid vastama k\u00fcsimusele vormis \"Vastus: [1 v\u00f5i 2]\"",
+        "response": "M\u00f5tleme, mis v\u00f5iks olla seos sinu hinge\u00f5hu n\u00e4gemise ja valikute vahel. Kui ilm on jahe, v\u00f5ib see tekitada k\u00fclma tunde, kuid see ei pruugi otseselt m\u00f5jutada hinge\u00f5hku. Teisest k\u00fcljest, kui sul on rinnus kitsas, v\u00f5ib see viidata \u00e4revusele v\u00f5i pingele, mis v\u00f5ib t\u00f5epoolest m\u00f5jutada hingamist ja seega ka hinge\u00f5hu tajumist.\n\nSeega, arvestades, et kitsas tunne rinnus v\u00f5ib olla seotud emotsionaalse v\u00f5i f\u00fc\u00fcsilise pingega, mis m\u00f5jutab hingamist, on see usutavam p\u00f5hjus.\n\nVastus: 2",
+        "predicted_answer": 2,
+        "ground_truth": 0,
+        "is_correct": false
+    },
+    {
+        "id": "23",
+        "prompt": "Siin on eeltingimus: \u00d5pilane teadis k\u00fcsimusele vastust.. Mis on tagaj\u00e4rg? Aita mul valida usutavam variant: -valik1: Ta t\u00f5stis oma k\u00e4e., -valik2: Ta viilis.\nM\u00f5tleme samm-sammult eesti keeles.\nSa peaksid oma vastuseks valima ainult \u00fche variandi. Sa peaksid vastama k\u00fcsimusele vormis \"Vastus: [1 v\u00f5i 2]\"",
+        "response": "M\u00f5tleme, mis juhtub, kui \u00f5pilane teab k\u00fcsimusele vastust. T\u00f5en\u00e4oliselt tahab ta oma teadmisi jagada ja seet\u00f5ttu t\u00f5stab ta k\u00e4e, et \u00f5petaja teda m\u00e4rkaks. Teisest k\u00fcljest, viilimine viitab sellele, et \u00f5pilane ei soovi osaleda v\u00f5i ei ole huvitatud vastamisest.\n\nSeega, arvestades, et \u00f5pilane teadis vastust, on usutavam, et ta t\u00f5stis oma k\u00e4e.\n\nVastus: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "140",
+        "prompt": "Siin on eeltingimus: Poiss teritas pliiatsit.. Mis on p\u00f5hjus? Aita mul valida usutavam variant: -valik1: See oli odav., -valik2: See oli n\u00fcri.\nM\u00f5tleme samm-sammult eesti keeles.\nSa peaksid oma vastuseks valima ainult \u00fche variandi. Sa peaksid vastama k\u00fcsimusele vormis \"Vastus: [1 v\u00f5i 2]\"",
+        "response": "M\u00f5tleme, miks poiss teritas pliiatsit. Kui pliiats on n\u00fcri, siis on loogiline, et ta teritab seda, et see j\u00e4lle h\u00e4sti kirjutaks. Kui pliiats oli odav, ei pruugi see tingimata t\u00e4hendada, et ta peab seda teritama. Seega on usutavam p\u00f5hjus, et poiss teritas pliiatsit, kuna see oli n\u00fcri.\n\nVastus: 2",
+        "predicted_answer": 2,
+        "ground_truth": 1,
+        "is_correct": true
+    },
+    {
+        "id": "445",
+        "prompt": "Siin on eeltingimus: Naine haaras oma k\u00f5rist.. Mis on p\u00f5hjus? Aita mul valida usutavam variant: -valik1: Ta neelas oma toidu alla., -valik2: Ta l\u00e4mbus oma toidu k\u00e4es.\nM\u00f5tleme samm-sammult eesti keeles.\nSa peaksid oma vastuseks valima ainult \u00fche variandi. Sa peaksid vastama k\u00fcsimusele vormis \"Vastus: [1 v\u00f5i 2]\"",
+        "response": "M\u00f5tleme olukorrale. Kui naine haarab oma k\u00f5rist, siis see viitab sellele, et tal on mingi probleem, mis on seotud hingamise v\u00f5i toidu allaneelamisega. \n\n- Valik 1: \"Ta neelas oma toidu alla.\" - See ei pruugi tingimata viidata probleemile, kuna toidu allaneelamine on normaalne tegevus. \n- Valik 2: \"Ta l\u00e4mbus oma toidu k\u00e4es.\" - See viitab sellele, et tal on t\u00f5sine probleem, mis n\u00f5uab kiiret reageerimist, ja see sobib paremini olukorraga, kus naine haarab oma k\u00f5rist.\n\nSeega, usutavam variant on, et naine l\u00e4mbus oma toidu k\u00e4es.\n\nVastus: 2",
+        "predicted_answer": 2,
+        "ground_truth": 1,
+        "is_correct": true
+    }
+]

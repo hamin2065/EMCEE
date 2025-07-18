@@ -1,0 +1,99 @@
+[
+    {
+        "id": "3643218479176707788",
+        "sys_prompt": "The following is a reasoning question. Given question and explanation, write answer with format of \"Answer: [one or a few words]\".",
+        "user_prompt": "Question: stranger things'in (acayip \u015feyler) ka\u00e7 sezonu vard\u0131r\nExplanation: Stranger Things, the popular Netflix science fiction horror series, currently has 4 completed seasons as of 2022. The show premiered in 2016 and quickly became a global phenomenon, attracting millions of fans with its nostalgic 1980s setting and compelling storyline about a group of kids encountering supernatural events in a small town. The fifth and final season has been announced by the creators, the Duffer Brothers, and is highly anticipated by fans who have followed the adventures of characters like Eleven, Mike, and the rest of the Hawkins group. Understanding the show's cultural impact and its planned narrative arc helps appreciate why it has been such a significant series in modern television.",
+        "response": "4",
+        "explanation": "Stranger Things, the popular Netflix science fiction horror series, currently has 4 completed seasons as of 2022. The show premiered in 2016 and quickly became a global phenomenon, attracting millions of fans with its nostalgic 1980s setting and compelling storyline about a group of kids encountering supernatural events in a small town. The fifth and final season has been announced by the creators, the Duffer Brothers, and is highly anticipated by fans who have followed the adventures of characters like Eleven, Mike, and the rest of the Hawkins group. Understanding the show's cultural impact and its planned narrative arc helps appreciate why it has been such a significant series in modern television.",
+        "predicted_answer": "4",
+        "ground_truth": [
+            {
+                "type": "number",
+                "text": "3.0",
+                "aliases": [
+                    "3"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "3356010362039543701",
+        "sys_prompt": "The following is a reasoning question. Given question and explanation, write answer with format of \"Answer: [one or a few words]\".",
+        "user_prompt": "Question: i regret i have but one life to give for my country s\u00f6z\u00fcn\u00fc kim s\u00f6yledi\nExplanation: This famous quote is attributed to Nathan Hale, an American Revolutionary War hero who was a spy for the Continental Army during the American Revolution. Hale was captured by British forces in 1776 and was executed as a spy. According to historical accounts, he reportedly spoke these words just before his execution, demonstrating his profound patriotism and willingness to sacrifice himself for the cause of American independence. The quote has since become a powerful symbol of national devotion and heroism in American history, often cited as an example of ultimate patriotic commitment. Understanding the context of the American Revolution helps appreciate the significance of Hale's statement and its enduring impact on American cultural memory.",
+        "response": "Nathan Hale",
+        "explanation": "This famous quote is attributed to Nathan Hale, an American Revolutionary War hero who was a spy for the Continental Army during the American Revolution. Hale was captured by British forces in 1776 and was executed as a spy. According to historical accounts, he reportedly spoke these words just before his execution, demonstrating his profound patriotism and willingness to sacrifice himself for the cause of American independence. The quote has since become a powerful symbol of national devotion and heroism in American history, often cited as an example of ultimate patriotic commitment. Understanding the context of the American Revolution helps appreciate the significance of Hale's statement and its enduring impact on American cultural memory.",
+        "predicted_answer": "Nathan Hale",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "text": "Nathan Hale",
+                "entity": "Q16932034"
+            },
+            {
+                "type": "entity",
+                "text": "Nathan Hale",
+                "entity": "Q16932034"
+            },
+            {
+                "type": "entity",
+                "text": "Nathan Hale",
+                "entity": "Q16932034"
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "5965447391112455356",
+        "sys_prompt": "The following is a reasoning question. Given question and explanation, write answer with format of \"Answer: [one or a few words]\".",
+        "user_prompt": "Question: sansa stark'\u0131 oynayan aktris kimdir\nExplanation: Sansa Stark, a key character in the popular HBO series \"Game of Thrones,\" is portrayed by the British actress Sophie Turner. Turner began playing the role when she was just 15 years old and continued throughout the entire eight-season run of the show, which significantly launched her acting career. Her performance was widely praised for depicting Sansa's transformation from a naive young girl to a strong, politically savvy leader of the North. Beyond \"Game of Thrones,\" Sophie Turner is also known for playing Jean Grey/Phoenix in the X-Men film franchise. Her portrayal of Sansa Stark is considered one of the most compelling character developments in the series.",
+        "response": "Sophie Turner",
+        "explanation": "Sansa Stark, a key character in the popular HBO series \"Game of Thrones,\" is portrayed by the British actress Sophie Turner. Turner began playing the role when she was just 15 years old and continued throughout the entire eight-season run of the show, which significantly launched her acting career. Her performance was widely praised for depicting Sansa's transformation from a naive young girl to a strong, politically savvy leader of the North. Beyond \"Game of Thrones,\" Sophie Turner is also known for playing Jean Grey/Phoenix in the X-Men film franchise. Her portrayal of Sansa Stark is considered one of the most compelling character developments in the series.",
+        "predicted_answer": "Sophie Turner",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q240573",
+                "text": "Sophie Turner",
+                "aliases": []
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "476368974337766528",
+        "sys_prompt": "The following is a reasoning question. Given question and explanation, write answer with format of \"Answer: [one or a few words]\".",
+        "user_prompt": "Question: cumhuriyet\u00e7i parti se\u00e7imi en son ne zaman kazand\u0131\nExplanation: In the United States, the last time the Republican Party won a presidential election was in 2016 when Donald Trump defeated Hillary Clinton. Trump served as the 45th President of the United States from 2017 to 2021. In the 2020 election, Democratic candidate Joe Biden defeated Trump, ending the Republican Party's control of the White House. Understanding the context of U.S. presidential elections and the two-party system helps students grasp the significance of electoral shifts and political transitions in American democracy.",
+        "response": "2016",
+        "explanation": "In the United States, the last time the Republican Party won a presidential election was in 2016 when Donald Trump defeated Hillary Clinton. Trump served as the 45th President of the United States from 2017 to 2021. In the 2020 election, Democratic candidate Joe Biden defeated Trump, ending the Republican Party's control of the White House. Understanding the context of U.S. presidential elections and the two-party system helps students grasp the significance of electoral shifts and political transitions in American democracy.",
+        "predicted_answer": "2016",
+        "ground_truth": [
+            {
+                "type": "date",
+                "text": "2004",
+                "aliases": [
+                    "2004"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "6116319690634922724",
+        "sys_prompt": "The following is a reasoning question. Given question and explanation, write answer with format of \"Answer: [one or a few words]\".",
+        "user_prompt": "Question: new albany ohio nun n\u00fcfusu nedir\nExplanation: New Albany is a suburban city located in Franklin County, Ohio, near Columbus. As of the 2020 United States Census, the population of New Albany was approximately 10,929 residents. This city is known for being an affluent suburb with a planned community design, and it has experienced significant growth over the past few decades. The population figure reflects the city's development and attractiveness as a residential area near Columbus. Understanding the context of suburban growth in the Midwest United States helps appreciate the demographic changes in such communities.",
+        "response": "10,929",
+        "explanation": "New Albany is a suburban city located in Franklin County, Ohio, near Columbus. As of the 2020 United States Census, the population of New Albany was approximately 10,929 residents. This city is known for being an affluent suburb with a planned community design, and it has experienced significant growth over the past few decades. The population figure reflects the city's development and attractiveness as a residential area near Columbus. Understanding the context of suburban growth in the Midwest United States helps appreciate the demographic changes in such communities.",
+        "predicted_answer": "10,929",
+        "ground_truth": [
+            {
+                "type": "number",
+                "text": "10889.0",
+                "aliases": [
+                    "10889"
+                ]
+            }
+        ],
+        "is_correct": null
+    }
+]

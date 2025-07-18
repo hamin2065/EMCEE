@@ -1,0 +1,42 @@
+[
+    {
+        "id": 395,
+        "prompt": "La seguente \u00e8 una domanda a scelta multipla.\nVuoi costruire un portapenne di forma cilindrica, di volume 192\u03c0 cm^{3}. Se il diametro di base misura 8 cm, quanto sar\u00e0 alto il portapenne?\nA. \u00a03 cm\nB. \u00a06 cm\nC. \u00a09 cm\nD. \u00a012 cm\nPensiamo passo dopo passo in italiano e forniamo la risposta finale alla fine nel formato: 'Risposta: [opzione]'\nDovresti fornire la risposta finale alla fine nel formato: 'Risposta: [opzione]'",
+        "response": "Per calcolare l'altezza del portapenne cilindrico, possiamo utilizzare la formula del volume del cilindro:\n\n\\[ V = \\pi r^2 h \\]\n\ndove:\n- \\( V \\) \u00e8 il volume,\n- \\( r \\) \u00e8 il raggio della base,\n- \\( h \\) \u00e8 l'altezza.\n\nSappiamo che il volume \\( V \\) \u00e8 \\( 192\\pi \\) cm\u00b3 e che il diametro della base \u00e8 8 cm. Prima di tutto, calcoliamo il raggio:\n\n\\[ r = \\frac{diametro}{2} = \\frac{8 \\, cm}{2} = 4 \\, cm \\]\n\nOra possiamo sostituire il valore del raggio e del volume nella formula del volume del cilindro:\n\n\\[ 192\\pi = \\pi (4)^2 h \\]\n\nSemplifichiamo l'equazione dividendo entrambi i lati per \\( \\pi \\):\n\n\\[ 192 = 16h \\]\n\nOra, isoliamo \\( h \\):\n\n\\[ h = \\frac{192}{16} = 12 \\, cm \\]\n\nQuindi, l'altezza del portapenne \u00e8 12 cm.\n\nRisposta: D",
+        "predicted_answer": "D",
+        "ground_truth": "D",
+        "is_correct": true
+    },
+    {
+        "id": 217,
+        "prompt": "La seguente \u00e8 una domanda a scelta multipla.\nLe potenze $\\left(\\frac{4}{3}\\right) ^{2}$ e $\\frac{4\\^ {2}}{3}$ hanno lo stesso valore?\nA. \u00a0No, la prima vale 16/3 e la seconda 16/9.\nB. \u00a0No, la prima vale 16/9 e la seconda 16/3.\nC. \u00a0S\u00ec, valgono entrambe 16/3.\nC. \u00a0S\u00ec, valgono entrambe 16/9.\nPensiamo passo dopo passo in italiano e forniamo la risposta finale alla fine nel formato: 'Risposta: [opzione]'\nDovresti fornire la risposta finale alla fine nel formato: 'Risposta: [opzione]'",
+        "response": "Iniziamo a calcolare il valore di ciascuna delle due espressioni.\n\n1. Calcoliamo \\(\\left(\\frac{4}{3}\\right)^{2}\\):\n   \\[\n   \\left(\\frac{4}{3}\\right)^{2} = \\frac{4^{2}}{3^{2}} = \\frac{16}{9}\n   \\]\n\n2. Ora calcoliamo \\(\\frac{4^{2}}{3}\\):\n   \\[\n   \\frac{4^{2}}{3} = \\frac{16}{3}\n   \\]\n\nAdesso confrontiamo i risultati:\n- \\(\\left(\\frac{4}{3}\\right)^{2} = \\frac{16}{9}\\)\n- \\(\\frac{4^{2}}{3} = \\frac{16}{3}\\)\n\nLe due espressioni non hanno lo stesso valore. \n\nOra, vediamo le opzioni:\nA. No, la prima vale 16/3 e la seconda 16/9. (Falso)\nB. No, la prima vale 16/9 e la seconda 16/3. (Vero)\nC. S\u00ec, valgono entrambe 16/3. (Falso)\nD. S\u00ec, valgono entrambe 16/9. (Falso)\n\nL'opzione corretta \u00e8 quindi la B.\n\nRisposta: B",
+        "predicted_answer": "B",
+        "ground_truth": "B",
+        "is_correct": true
+    },
+    {
+        "id": 360,
+        "prompt": "La seguente \u00e8 una domanda a scelta multipla.\nIl periodo \"Non ho rispettato il limite di velocit\u00e0 e ho preso una multa. \" \u00e8 costituito da due frasi connesse dalla congiunzione e, che le collega logicamente introducendo\n(A) un confronto rispetto a quanto viene detto prima\n(B) una limitazione rispetto a quanto viene detto prima\n(C) una conseguenza rispetto a quanto viene detto prima\n(D) una precisazione rispetto a quanto viene detto prima\nPensiamo passo dopo passo in italiano e forniamo la risposta finale alla fine nel formato: 'Risposta: [opzione]'\nDovresti fornire la risposta finale alla fine nel formato: 'Risposta: [opzione]'",
+        "response": "Analizziamo il periodo \"Non ho rispettato il limite di velocit\u00e0 e ho preso una multa.\" \n\n1. La prima parte della frase dice \"Non ho rispettato il limite di velocit\u00e0\", che indica un'azione che non \u00e8 stata compiuta.\n2. La seconda parte \"ho preso una multa\" \u00e8 una conseguenza diretta della prima azione. Se non si rispetta il limite di velocit\u00e0, \u00e8 probabile che si riceva una multa.\n\nOra, vediamo le opzioni:\n\n(A) un confronto rispetto a quanto viene detto prima - Non c'\u00e8 un confronto tra due elementi.\n(B) una limitazione rispetto a quanto viene detto prima - Non si sta limitando nulla, ma si sta descrivendo una situazione.\n(C) una conseguenza rispetto a quanto viene detto prima - Questa opzione \u00e8 corretta, poich\u00e9 la multa \u00e8 una conseguenza del non rispetto del limite di velocit\u00e0.\n(D) una precisazione rispetto a quanto viene detto prima - Non si sta precisando nulla, ma si sta esprimendo una conseguenza.\n\nDopo aver analizzato le opzioni, la risposta corretta \u00e8 la C.\n\nRisposta: C",
+        "predicted_answer": "C",
+        "ground_truth": "C",
+        "is_correct": true
+    },
+    {
+        "id": 149,
+        "prompt": "La seguente \u00e8 una domanda a scelta multipla.\nUna fabbrica produce 1000 lampadine, di cui 30 difettose. Ne vende 100 e tra queste 12 risultano difettose.\nSe si sceglie a caso una lampadina tra quelle rimaste da vendere, qual \u00e8 la probabilit\u00e0 che sia difettosa?\nA. 18/900\nB. 108/900\nC. 30/1000\nD. 120/1000\nPensiamo passo dopo passo in italiano e forniamo la risposta finale alla fine nel formato: 'Risposta: [opzione]'\nDovresti fornire la risposta finale alla fine nel formato: 'Risposta: [opzione]'",
+        "response": "Iniziamo analizzando i dati forniti:\n\n1. La fabbrica produce un totale di 1000 lampadine.\n2. Di queste, 30 sono difettose.\n3. La fabbrica vende 100 lampadine, di cui 12 risultano difettose.\n\nOra calcoliamo quante lampadine rimangono dopo la vendita:\n\n- Lampadine iniziali: 1000\n- Lampadine vendute: 100\n- Lampadine rimaste: 1000 - 100 = 900\n\nDobbiamo ora calcolare quante lampadine difettose rimangono tra quelle non vendute. Inizialmente, ci sono 30 lampadine difettose. Dato che 12 lampadine vendute sono difettose, possiamo calcolare quante lampadine difettose rimangono:\n\n- Lampadine difettose rimaste: 30 - 12 = 18\n\nOra possiamo calcolare la probabilit\u00e0 di scegliere una lampadina difettosa tra quelle rimaste. La probabilit\u00e0 si calcola come il numero di lampadine difettose rimaste diviso il numero totale di lampadine rimaste:\n\n\\[\nP(\\text{difettosa}) = \\frac{\\text{lampadine difettose rimaste}}{\\text{lampadine rimaste}} = \\frac{18}{900}\n\\]\n\nOra possiamo confrontare questa frazione con le opzioni fornite:\n\nA. 18/900  \nB. 108/900  \nC. 30/1000  \nD. 120/1000  \n\nLa risposta corretta \u00e8 quindi:\n\nRisposta: A",
+        "predicted_answer": "A",
+        "ground_truth": "A",
+        "is_correct": true
+    },
+    {
+        "id": 422,
+        "prompt": "La seguente \u00e8 una domanda a scelta multipla.\nQual \u00e8 il valore di x che soddisfa l'equazione $3(2x \u2013 1) + 2x = 21$ ?\nA. -3\nB. -11/4\nC. 11/4\nD. 3\nPensiamo passo dopo passo in italiano e forniamo la risposta finale alla fine nel formato: 'Risposta: [opzione]'\nDovresti fornire la risposta finale alla fine nel formato: 'Risposta: [opzione]'",
+        "response": "Iniziamo a risolvere l'equazione \\(3(2x - 1) + 2x = 21\\).\n\n1. Distribuiamo il 3 all'interno della parentesi:\n   \\[\n   3 \\cdot 2x - 3 \\cdot 1 + 2x = 21\n   \\]\n   Questo diventa:\n   \\[\n   6x - 3 + 2x = 21\n   \\]\n\n2. Adesso sommiamo i termini simili:\n   \\[\n   6x + 2x - 3 = 21\n   \\]\n   Questo diventa:\n   \\[\n   8x - 3 = 21\n   \\]\n\n3. Aggiungiamo 3 a entrambi i lati dell'equazione:\n   \\[\n   8x - 3 + 3 = 21 + 3\n   \\]\n   Questo diventa:\n   \\[\n   8x = 24\n   \\]\n\n4. Infine, dividiamo entrambi i lati per 8:\n   \\[\n   x = \\frac{24}{8}\n   \\]\n   Questo semplifica a:\n   \\[\n   x = 3\n   \\]\n\nDunque, il valore di \\(x\\) che soddisfa l'equazione \u00e8 3.\n\nRisposta: D",
+        "predicted_answer": "D",
+        "ground_truth": "D",
+        "is_correct": true
+    }
+]

@@ -1,0 +1,89 @@
+[
+    {
+        "id": "-1825233558955302451",
+        "sys_prompt": "You are a judge from the Thai tradition, known for your wisdom and fairness. Although your cultural background is Thai, you are fluent in English and will conduct this task in English. You are given a reasoning question. There is a debate on this question between user1 and user2. Your task is to listen to their arguments carefully and provide a fair and wise judgment.\n\nSummarize the debate briefly and then give a conclusion based on the arguments presented. Your response should be in the format: \n\"Summary: ___. Conclusion: [answer] is more plausible.\n\nAnswer: [one or a few words in English]\"\n\nApproach the task with the fairness and critical thinking expected of a Thai judge, ensuring you make only one answer for the final answer.",
+        "user_prompt": "Question: \u0e15\u0e2d\u0e19\u0e2d\u0e30\u0e44\u0e23\u0e17\u0e35\u0e48\u0e19\u0e35\u0e25\u0e41\u0e25\u0e30\u0e0b\u0e32\u0e23\u0e32\u0e2b\u0e4c\u0e08\u0e39\u0e1a\u0e01\u0e31\u0e19\u0e04\u0e23\u0e31\u0e49\u0e07\u0e41\u0e23\u0e01\n\nuser1: The question asks about the specific moment or episode when Neil and Sarah first kissed. To answer this, we need to identify the context or source material they are from, such as a TV show, movie, or book. \n\nAssuming they are characters from a known series, we would look for the episode or scene that features their first kiss. \n\nAfter considering the context, the answer would be the title of the episode or a brief description of the scene.\n\nFinal answer: Answer: First kiss episode.\n\nuser2: Neil and Sarah share their first kiss in the movie \"The Notebook.\" This moment occurs during a pivotal scene where their emotions and connection culminate in a romantic embrace. The film, based on Nicholas Sparks' novel, emphasizes themes of love, memory, and the passage of time, making this kiss a significant turning point in their relationship. Understanding the context of their relationship and the buildup to this moment can enhance appreciation for the emotional weight it carries in the story.\nAnswer: \u0e43\u0e19\u0e20\u0e32\u0e1e\u0e22\u0e19\u0e15\u0e23\u0e4c \"The Notebook\"",
+        "response": "Summary: User1 emphasizes the need to identify the specific moment or episode when Neil and Sarah first kissed, suggesting that the answer should be the title of the episode or a description of the scene. User2, however, asserts that Neil and Sarah's first kiss occurs in the movie \"The Notebook,\" highlighting the emotional significance of the moment within the context of the film.\n\nConclusion: User2's answer is more plausible as it provides a specific context and source for the characters, while User1's response remains vague and lacks a definitive answer.\n\nAnswer: \"The Notebook\"",
+        "predicted_answer": "\"The Notebook\"",
+        "ground_truth": [
+            {
+                "type": "short_phrase",
+                "text": "\u0e40\u0e1e\u0e32\u0e40\u0e27\u0e2d\u0e23\u0e4c\u0e40\u0e1e\u0e25\u0e22\u0e4c"
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "2200477946455799863",
+        "sys_prompt": "You are a judge from the Thai tradition, known for your wisdom and fairness. Although your cultural background is Thai, you are fluent in English and will conduct this task in English. You are given a reasoning question. There is a debate on this question between user1 and user2. Your task is to listen to their arguments carefully and provide a fair and wise judgment.\n\nSummarize the debate briefly and then give a conclusion based on the arguments presented. Your response should be in the format: \n\"Summary: ___. Conclusion: [answer] is more plausible.\n\nAnswer: [one or a few words in English]\"\n\nApproach the task with the fairness and critical thinking expected of a Thai judge, ensuring you make only one answer for the final answer.",
+        "user_prompt": "Question: \u0e04\u0e38\u0e13\u0e2a\u0e32\u0e21\u0e32\u0e23\u0e16\u0e02\u0e31\u0e1a\u0e23\u0e16\u0e43\u0e19\u0e22\u0e38\u0e42\u0e23\u0e1b\u0e44\u0e14\u0e49\u0e15\u0e2d\u0e19\u0e2d\u0e32\u0e22\u0e38\u0e40\u0e17\u0e48\u0e32\u0e44\u0e2b\u0e23\u0e48\n\nuser1: In most European countries, the minimum age to drive a car is typically 18 years old. However, some countries allow driving at 17 with certain restrictions. \n\nAnswer: 18 years old\n\nuser2: In most European countries, the legal age to drive a car is typically 18 years old. However, there are some exceptions; for example, in countries like Austria and Germany, individuals can obtain a driving license at 17 under certain conditions, allowing them to drive with an experienced adult. It's important to note that each country may have its own specific regulations regarding driving tests, learner permits, and age restrictions, so it's advisable to check the local laws of the specific country you are interested in. Understanding these regulations is crucial for anyone planning to drive in Europe.\nAnswer: 18 years old",
+        "response": "Summary: User1 and user2 both agree that the minimum age to drive a car in most European countries is typically 18 years old, with user2 providing additional details about exceptions in certain countries like Austria and Germany, where individuals can drive at 17 under specific conditions. Both users emphasize the importance of checking local laws for driving regulations.\n\nConclusion: [answer] is more plausible.\n\nAnswer: 18 years old",
+        "predicted_answer": "18 years old",
+        "ground_truth": [
+            {
+                "type": "number",
+                "text": "18.0",
+                "aliases": [
+                    "18"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "4022415118513457748",
+        "sys_prompt": "You are a judge from the Thai tradition, known for your wisdom and fairness. Although your cultural background is Thai, you are fluent in English and will conduct this task in English. You are given a reasoning question. There is a debate on this question between user1 and user2. Your task is to listen to their arguments carefully and provide a fair and wise judgment.\n\nSummarize the debate briefly and then give a conclusion based on the arguments presented. Your response should be in the format: \n\"Summary: ___. Conclusion: [answer] is more plausible.\n\nAnswer: [one or a few words in English]\"\n\nApproach the task with the fairness and critical thinking expected of a Thai judge, ensuring you make only one answer for the final answer.",
+        "user_prompt": "Question: \u0e04\u0e38\u0e13\u0e15\u0e49\u0e2d\u0e07\u0e40\u0e01\u0e34\u0e14\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e44\u0e2b\u0e23\u0e48\u0e16\u0e36\u0e07\u0e16\u0e39\u0e01\u0e1e\u0e34\u0e08\u0e32\u0e23\u0e13\u0e32\u0e27\u0e48\u0e32\u0e40\u0e1b\u0e47\u0e19 millennial\n\nuser1: To be considered a millennial, one must be born between 1981 and 1996. \n\nAnswer: 1981-1996\n\nuser2: To be considered a millennial, you typically need to be born between 1981 and 1996. This generation is often characterized by their familiarity with technology, having grown up during the rise of the internet and digital communication. Understanding the cultural and social context of millennials is important, as they have experienced significant events such as the 9/11 attacks, the Great Recession, and the rapid advancement of technology, all of which have shaped their values and perspectives. This generational label helps in analyzing trends in behavior, work ethic, and social attitudes.\nAnswer: 1981 to 1996",
+        "response": "Summary: User1 and user2 both agree that to be considered a millennial, one must be born between 1981 and 1996. User2 elaborates on the characteristics and context of the millennial generation, emphasizing the impact of significant events and technological advancements on their values and perspectives.\n\nConclusion: [1981-1996] is more plausible.\n\nAnswer: 1981-1996",
+        "predicted_answer": "1981-1996",
+        "ground_truth": [
+            {
+                "type": "date",
+                "text": "1981-1996",
+                "aliases": [
+                    "1",
+                    "6",
+                    "-",
+                    "9",
+                    "8"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "7777319570801182403",
+        "sys_prompt": "You are a judge from the Thai tradition, known for your wisdom and fairness. Although your cultural background is Thai, you are fluent in English and will conduct this task in English. You are given a reasoning question. There is a debate on this question between user1 and user2. Your task is to listen to their arguments carefully and provide a fair and wise judgment.\n\nSummarize the debate briefly and then give a conclusion based on the arguments presented. Your response should be in the format: \n\"Summary: ___. Conclusion: [answer] is more plausible.\n\nAnswer: [one or a few words in English]\"\n\nApproach the task with the fairness and critical thinking expected of a Thai judge, ensuring you make only one answer for the final answer.",
+        "user_prompt": "Question: \u0e43\u0e04\u0e23\u0e04\u0e37\u0e2d\u0e1b\u0e23\u0e30\u0e18\u0e32\u0e19\u0e28\u0e32\u0e25\u0e2a\u0e39\u0e07\u0e2a\u0e38\u0e14\u0e2a\u0e2b\u0e23\u0e31\u0e10\n\nuser1: The Chief Justice of the United States is the head of the Supreme Court. As of my last knowledge update, the current Chief Justice is John Roberts. \n\nAnswer: John Roberts\n\nuser2: The Chief Justice of the United States is the head of the judicial branch of the U.S. government and presides over the Supreme Court. As of my last knowledge update in October 2023, the Chief Justice is John Roberts, who has held the position since 2005. The role of the Chief Justice is significant, as they not only lead the Court's proceedings but also have a substantial influence on the interpretation of the Constitution and federal law. Understanding the responsibilities and influence of the Chief Justice can provide insight into the workings of the U.S. legal system and its impact on American society.\nAnswer: John Roberts",
+        "response": "Summary: Both user1 and user2 agree that the current Chief Justice of the United States is John Roberts. User1 provides a straightforward answer, while user2 elaborates on the role and significance of the Chief Justice in the U.S. judicial system. \n\nConclusion: [John Roberts] is more plausible.\n\nAnswer: John Roberts",
+        "predicted_answer": "John Roberts",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q11153",
+                "text": "\u0e08\u0e2d\u0e2b\u0e4c\u0e19 \u0e23\u0e2d\u0e40\u0e1a\u0e34\u0e15\u0e2a\u0e4c",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "text": "\u0e08\u0e2d\u0e2b\u0e4c\u0e19 \u0e23\u0e2d\u0e40\u0e1a\u0e34\u0e15\u0e2a\u0e4c",
+                "entity": "Q11153"
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "96744865645392956",
+        "sys_prompt": "You are a judge from the Thai tradition, known for your wisdom and fairness. Although your cultural background is Thai, you are fluent in English and will conduct this task in English. You are given a reasoning question. There is a debate on this question between user1 and user2. Your task is to listen to their arguments carefully and provide a fair and wise judgment.\n\nSummarize the debate briefly and then give a conclusion based on the arguments presented. Your response should be in the format: \n\"Summary: ___. Conclusion: [answer] is more plausible.\n\nAnswer: [one or a few words in English]\"\n\nApproach the task with the fairness and critical thinking expected of a Thai judge, ensuring you make only one answer for the final answer.",
+        "user_prompt": "Question: First ride \u0e43\u0e19\u0e2a\u0e27\u0e19\u0e2a\u0e19\u0e38\u0e01 Knott's Berry Farm  \u0e04\u0e37\u0e2d\u0e2d\u0e30\u0e44\u0e23\n\nuser1: First ride at Knott's Berry Farm refers to the initial attraction or experience visitors typically enjoy when they enter the amusement park. \n\nAnswer: Initial attraction\n\nuser2: \"First Ride\" at Knott's Berry Farm refers to the experience of riding one of the park's attractions for the first time, which can be particularly exciting and memorable for visitors. Knott's Berry Farm is known for its diverse range of rides, from thrilling roller coasters to family-friendly attractions. The concept of a \"first ride\" often evokes feelings of anticipation and joy, especially for children or first-time visitors. It's a significant part of the amusement park experience, as it can create lasting memories and a sense of adventure. Understanding this context can enhance the excitement of visiting the park and trying out its various rides.\nAnswer: First ride experience",
+        "response": "Summary: User1 defines \"First ride\" at Knott's Berry Farm as the initial attraction visitors enjoy upon entering the park, while user2 elaborates that it refers to the experience of riding an attraction for the first time, emphasizing the excitement and memorable nature of this experience. \n\nConclusion: [First ride experience] is more plausible.\n\nAnswer: First ride experience",
+        "predicted_answer": "First ride experience",
+        "ground_truth": [
+            {
+                "type": "short_phrase",
+                "text": "Butterfield Stagecoach"
+            }
+        ],
+        "is_correct": null
+    }
+]

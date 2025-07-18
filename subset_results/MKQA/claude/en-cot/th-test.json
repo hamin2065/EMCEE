@@ -1,0 +1,84 @@
+[
+    {
+        "id": "-1825233558955302451",
+        "prompt": "Answer the question in one or a few words in English: \n\u0e15\u0e2d\u0e19\u0e2d\u0e30\u0e44\u0e23\u0e17\u0e35\u0e48\u0e19\u0e35\u0e25\u0e41\u0e25\u0e30\u0e0b\u0e32\u0e23\u0e32\u0e2b\u0e4c\u0e08\u0e39\u0e1a\u0e01\u0e31\u0e19\u0e04\u0e23\u0e31\u0e49\u0e07\u0e41\u0e23\u0e01\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "I apologize, but I cannot determine the specific moment of Neil and Sarah's first kiss without more context about who these individuals are or what story or media they are from. Without additional information, I cannot confidently provide a precise answer.\n\nAnswer: Unknown",
+        "predicted_answer": "Unknown",
+        "ground_truth": [
+            {
+                "type": "short_phrase",
+                "text": "\u0e40\u0e1e\u0e32\u0e40\u0e27\u0e2d\u0e23\u0e4c\u0e40\u0e1e\u0e25\u0e22\u0e4c"
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "2200477946455799863",
+        "prompt": "Answer the question in one or a few words in English: \n\u0e04\u0e38\u0e13\u0e2a\u0e32\u0e21\u0e32\u0e23\u0e16\u0e02\u0e31\u0e1a\u0e23\u0e16\u0e43\u0e19\u0e22\u0e38\u0e42\u0e23\u0e1b\u0e44\u0e14\u0e49\u0e15\u0e2d\u0e19\u0e2d\u0e32\u0e22\u0e38\u0e40\u0e17\u0e48\u0e32\u0e44\u0e2b\u0e23\u0e48\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "In most European countries, the standard minimum driving age is 18. Some countries allow driving at 17 with certain restrictions.\n\nAnswer: 18",
+        "predicted_answer": "18",
+        "ground_truth": [
+            {
+                "type": "number",
+                "text": "18.0",
+                "aliases": [
+                    "18"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "4022415118513457748",
+        "prompt": "Answer the question in one or a few words in English: \n\u0e04\u0e38\u0e13\u0e15\u0e49\u0e2d\u0e07\u0e40\u0e01\u0e34\u0e14\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e44\u0e2b\u0e23\u0e48\u0e16\u0e36\u0e07\u0e16\u0e39\u0e01\u0e1e\u0e34\u0e08\u0e32\u0e23\u0e13\u0e32\u0e27\u0e48\u0e32\u0e40\u0e1b\u0e47\u0e19 millennial\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "To be considered a millennial, you typically need to be born between the early 1980s and mid-1990s to early 2000s.\n\nAnswer: 1981-1996",
+        "predicted_answer": "1981-1996",
+        "ground_truth": [
+            {
+                "type": "date",
+                "text": "1981-1996",
+                "aliases": [
+                    "1",
+                    "6",
+                    "-",
+                    "9",
+                    "8"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "7777319570801182403",
+        "prompt": "Answer the question in one or a few words in English: \n\u0e43\u0e04\u0e23\u0e04\u0e37\u0e2d\u0e1b\u0e23\u0e30\u0e18\u0e32\u0e19\u0e28\u0e32\u0e25\u0e2a\u0e39\u0e07\u0e2a\u0e38\u0e14\u0e2a\u0e2b\u0e23\u0e31\u0e10\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "Answer: John Roberts",
+        "predicted_answer": "John Roberts",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q11153",
+                "text": "\u0e08\u0e2d\u0e2b\u0e4c\u0e19 \u0e23\u0e2d\u0e40\u0e1a\u0e34\u0e15\u0e2a\u0e4c",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "text": "\u0e08\u0e2d\u0e2b\u0e4c\u0e19 \u0e23\u0e2d\u0e40\u0e1a\u0e34\u0e15\u0e2a\u0e4c",
+                "entity": "Q11153"
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "96744865645392956",
+        "prompt": "Answer the question in one or a few words in English: \nFirst ride \u0e43\u0e19\u0e2a\u0e27\u0e19\u0e2a\u0e19\u0e38\u0e01 Knott's Berry Farm  \u0e04\u0e37\u0e2d\u0e2d\u0e30\u0e44\u0e23\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "Answer: Jaguar!",
+        "predicted_answer": "Jaguar!",
+        "ground_truth": [
+            {
+                "type": "short_phrase",
+                "text": "Butterfield Stagecoach"
+            }
+        ],
+        "is_correct": null
+    }
+]

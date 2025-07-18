@@ -1,0 +1,802 @@
+{
+    "327": {
+        "question": "cause",
+        "premise": "Qhariqa wañuy unquymanta hatarirqan.",
+        "choice1": "Testamentonta qillqarqan.",
+        "choice2": "Hukpa organonta chaskirurqan.",
+        "label": 1,
+        "changed": false
+    },
+    "57": {
+        "question": "effect",
+        "premise": "Bañopi maki maqchikunaqa ch'akasqa karqan.",
+        "choice1": "Piletata kicharqani.",
+        "choice2": "Ch'akasqa kichakunapaqmi quimico nisqata hicharqani.",
+        "label": 1,
+        "changed": false
+    },
+    "12": {
+        "question": "cause",
+        "premise": "Cheque qillasqayqa mana chaskikurqanchu.",
+        "choice1": "Bancopi cuenta nisqayqa ch'usaqmi karqan.",
+        "choice2": "Sueldo yapakuyta llalliparqani.",
+        "label": 0,
+        "changed": false
+    },
+    "379": {
+        "question": "cause",
+        "premise": "Ima pachachus kasqanmnataqa chinkasqa karqani.",
+        "choice1": "Rikchasqaña kaspapachas musphaspahina karqani.",
+        "choice2": "Aqtunaywanmi karqani.",
+        "label": 0,
+        "changed": false
+    },
+    "140": {
+        "question": "cause",
+        "premise": "Irqiqa lapizta ñawch'iyachirqan.",
+        "choice1": "Pisi chaniyuq karqan.",
+        "choice2": "Mana ñawch'iyasqa karqan.",
+        "label": 1,
+        "changed": false
+    },
+    "125": {
+        "question": "effect",
+        "premise": "Sinchitam parayarqan.",
+        "choice1": "Tuyuqa astawanmi sinchiyarqan.",
+        "choice2": "Utqaylla ukuman haykurqani.",
+        "label": 1,
+        "changed": false
+    },
+    "114": {
+        "question": "effect",
+        "premise": "Manzana pasteltam waykurqani.",
+        "choice1": "Ismusqamanmi wayk'una wasipi asnayta qhallarirqan.",
+        "choice2": "Hinantin wayk'una wasipi q'apayta qallariyqan.",
+        "label": 1,
+        "changed": false
+    },
+    "71": {
+        "question": "cause",
+        "premise": "Warmiqa nishuta puñururqan.",
+        "choice1": "Payqa qurpachana wasipi puñururqan.",
+        "choice2": "Payqa alarma churakuytam qunqarurqan.",
+        "label": 1,
+        "changed": false
+    },
+    "377": {
+        "question": "effect",
+        "premise": "Q'umalliqqa runatam armawan t'upsichirqan.",
+        "choice1": "Q'umalliqqa armata urayachirqan.",
+        "choice2": "Runaqa t'upsichisqaqa makinta huqarirqan.",
+        "label": 1,
+        "changed": false
+    },
+    "52": {
+        "question": "effect",
+        "premise": "Sach'amanta rhapikuna urmayarqanku.",
+        "choice1": "Raphikunaqa llimp'ikama tukurqanku.",
+        "choice2": "Raphikunaqa pampapi huñukurqanku.",
+        "label": 1,
+        "changed": false
+    },
+    "346": {
+        "question": "cause",
+        "premise": "Llaqllamanta pampaqa raskasqa karqan.",
+        "choice1": "Warmaqa cojinesta pampaman wikch'urqan.",
+        "choice2": "Warmaqa pampantintan tiyanata suchurirqan.",
+        "label": 1,
+        "changed": false
+    },
+    "496": {
+        "question": "effect",
+        "premise": "Sasakaymanta hamut'arqani.",
+        "choice1": "Hukkunapa yachayninkuta mañakurqani.",
+        "choice2": "Sasakayta wasapanapaq umaypi tarirqani.",
+        "label": 1,
+        "changed": false
+    },
+    "456": {
+        "question": "effect",
+        "premise": "Atibióticos nisqata millpurqani.",
+        "choice1": "Infección nisqayqa thaniyarqan.",
+        "choice2": "Infección nisqayqa aswanmi ch'iqirikurqan.",
+        "label": 0,
+        "changed": false
+    },
+    "279": {
+        "question": "effect",
+        "premise": "Rimanakuymanmi sipasqa huñurikurqan.",
+        "choice1": "Payqa computadora hap'iyta yacharirqan.",
+        "choice2": "Payqa allin rimaykachaytam yacharirqan.",
+        "label": 1,
+        "changed": false
+    },
+    "44": {
+        "question": "cause",
+        "premise": "Activistakuna huk rantinata boicot nisqaman tanqarqanku.",
+        "choice1": "Rantinakunaqa chaniyuq kasqanta mallipachikurqanku.",
+        "choice2": "Rantinakuqa wawakunap llamk'ayninkuwanmi yuririchikurqan.",
+        "label": 1,
+        "changed": false
+    },
+    "302": {
+        "question": "effect",
+        "premise": "Llimp'iwan wallpaqqa q'illutawan anqastawan chaqrurqan.",
+        "choice1": "Llimp'iqa lliwpi ch'allakurqan.",
+        "choice2": "Llimp'iqa q'umirmanmi tukurqan.",
+        "label": 1,
+        "changed": false
+    },
+    "216": {
+        "question": "cause",
+        "premise": "Irqiqa hap'ayarqan.",
+        "choice1": "Gaseosata upyarqan.",
+        "choice2": "Gaseosa latata kicharqan.",
+        "label": 0,
+        "changed": false
+    },
+    "16": {
+        "question": "effect",
+        "premise": "Vasoman yakuta hillpurqani.",
+        "choice1": "Ch'akiyniytam yakuqa thaniyachirqa.",
+        "choice2": "Vasoqa yakuwan hut'arqachikun.",
+        "label": 1,
+        "changed": false
+    },
+    "15": {
+        "question": "cause",
+        "premise": "Código nisqata warmaqa umanpi yuyanchakurqan.",
+        "choice1": "Hatun kunkapi rimaspa kikinman yachachikurqan.",
+        "choice2": "Payqa qillqayta qunqarurqan.",
+        "label": 0,
+        "changed": false
+    },
+    "47": {
+        "question": "effect",
+        "premise": "P'achaypi vinota hich'aykurqani.",
+        "choice1": "Patanmanmi mandil nisqata churakurqani.",
+        "choice2": "Huk p'achaywanmi churakurqani.",
+        "label": 1,
+        "changed": false
+    },
+    "111": {
+        "question": "cause",
+        "premise": "Wasimasi k'itipim aylluqa maskharqan.",
+        "choice1": "Allquqa wasimantam chinkarirqan.",
+        "choice2": "Ancha chaniyuq piñim wasinmanta chinkarirqan.",
+        "label": 0,
+        "changed": false
+    },
+    "119": {
+        "question": "effect",
+        "premise": "Yanantin sullullchakusqankumanta mana pipas allintachu chaskirqanchu.",
+        "choice1": "Wawayuq karqanku.",
+        "choice2": "Yanantinqa karuman ripurqanku.",
+        "label": 1,
+        "changed": false
+    },
+    "258": {
+        "question": "cause",
+        "premise": "Qharipa ch'ukunqa phawarparirqan.",
+        "choice1": "Payqa ch'ukunqa ch'utikurqan.",
+        "choice2": "Sinchitam wayrayarqan.",
+        "label": 1,
+        "changed": false
+    },
+    "308": {
+        "question": "cause",
+        "premise": "Taytamamaqa wawanpa cuartonmanmi p'itarqanku.",
+        "choice1": "Wawaqa llap'i musquywan rikch'arispa qaparichkarqan.",
+        "choice2": "Wawaqa kawitunpa uranta qhawariytam mancharikurqan.",
+        "label": 0,
+        "changed": false
+    },
+    "13": {
+        "question": "effect",
+        "premise": "Qharip e-correo nisqanqa spam nisqawanmi hunt'a karqan.",
+        "choice1": "Payqa spam nistaqa picharqan.",
+        "choice2": "Payqa achka e-correo nisqatam apachirqan.",
+        "label": 0,
+        "changed": false
+    },
+    "287": {
+        "question": "cause",
+        "premise": "Irqipa p'achanqa apirikurqan.",
+        "choice1": "Payqa piscinamantam lluqsirqan.",
+        "choice2": "Payqa piscinamanmi urmayarqan.",
+        "label": 1,
+        "changed": false
+    },
+    "101": {
+        "question": "effect",
+        "premise": "Rimaqqa mana yuyaytachu runakunapaqqa rimarqan.",
+        "choice1": "Payqa runakunata amichirqan.",
+        "choice2": "Payqa runakunata kamiyarqanhina.",
+        "label": 1,
+        "changed": false
+    },
+    "366": {
+        "question": "effect",
+        "premise": "Amisqa karqani.",
+        "choice1": "Ukhuta samarirqani.",
+        "choice2": "Hanllallirqani.",
+        "label": 1,
+        "changed": false
+    },
+    "332": {
+        "question": "cause",
+        "premise": "Raskarukurqani.",
+        "choice1": "Hump'iwachkarqan.",
+        "choice2": "Siqsiwachkarqan.",
+        "label": 1,
+        "changed": false
+    },
+    "359": {
+        "question": "effect",
+        "premise": "Masiyman pampachakuyta mañakurqani.",
+        "choice1": "Masiyta pampachawarqan.",
+        "choice2": "Masiyqa phiñarikurqan.",
+        "label": 0,
+        "changed": false
+    },
+    "486": {
+        "question": "cause",
+        "premise": "Duchamanta qhariqa lluqsirqan.",
+        "choice1": "Quñi yakuqa tukurukusqa.",
+        "choice2": "Toallata manam tariyta atisqachu.",
+        "label": 0,
+        "changed": false
+    },
+    "214": {
+        "question": "effect",
+        "premise": "Watachasqa runa yarqaymanta wañuchkarqan.",
+        "choice1": "Payqa wañurqan.",
+        "choice2": "Payqa ripurqan.",
+        "label": 0,
+        "changed": false
+    },
+    "112": {
+        "question": "cause",
+        "premise": "Hawaman samarisqayta rikurqani.",
+        "choice1": "Pachaqa as chirim karqan.",
+        "choice2": "Qhasquypi mat'ipawarqan.",
+        "label": 0,
+        "changed": false
+    },
+    "229": {
+        "question": "effect",
+        "premise": "Pukllaqqa pukllaqmasintam t'akarparispa harkayarqan.",
+        "choice1": "Pukllaqmasinqa rump'uta hap'irparirqan.",
+        "choice2": "Pukllaqmasinqa pampaman wikchuyukurqan.",
+        "label": 1,
+        "changed": false
+    },
+    "301": {
+        "question": "effect",
+        "premise": "Yachaqiqa hatun-yachaywasimanta graduasqa lluqsirqan.",
+        "choice1": "Payqa llamk'anatam maskharqan.",
+        "choice2": "Imapi qhuchukusqankutam maskharqan.",
+        "label": 0,
+        "changed": false
+    },
+    "142": {
+        "question": "effect",
+        "premise": "Qaraypi hallp'iqa ukhum karqan.",
+        "choice1": "Utqaylla hampikurqan.",
+        "choice2": "Q'illayuq tukuyurqan.",
+        "label": 1,
+        "changed": false
+    },
+    "414": {
+        "question": "cause",
+        "premise": "Laptopqa mana hap'ichikurqanchu.",
+        "choice1": "Urmarachirqani.",
+        "choice2": "Baterianta hunt'achirqani.",
+        "label": 0,
+        "changed": false
+    },
+    "445": {
+        "question": "cause",
+        "premise": "Warmiqa kunkantam hap'ikurqan.",
+        "choice1": "Payqa mikhunantam millpurqan.",
+        "choice2": "Payqa mikhunanwanmi chakachikurqan.",
+        "label": 1,
+        "changed": false
+    },
+    "3": {
+        "question": "effect",
+        "premise": "Ch'usaqkunaqa fronteramanmi chayarqanku.",
+        "choice1": "Pasaportenkunatam policiaqa qhawarqan.",
+        "choice2": "Contrabando apasqankumantam policiaqa tumparqan..",
+        "label": 0,
+        "changed": false
+    },
+    "388": {
+        "question": "effect",
+        "premise": "Qhari warma warmi warmaman kukuchunta p'itirqan.",
+        "choice1": "Warmi warmaqa qhari warmap qayllaypi rikranta q'intikurqan.",
+        "choice2": "Warmi warmaqa makanta hurqurparirqan.",
+        "label": 1,
+        "changed": false
+    },
+    "412": {
+        "question": "cause",
+        "premise": "Wamink'aqa wiqru chakintin purirqan.",
+        "choice1": "Awqa-tinkuypaqmi apachikurqan.",
+        "choice2": "Awqanakuypim k'irichikurqan.",
+        "label": 1,
+        "changed": false
+    },
+    "81": {
+        "question": "cause",
+        "premise": "Surfistakunaqa mama quchamanmi haykurqanku.",
+        "choice1": "Paykunaqa charayasqam karqanku.",
+        "choice2": "Paykunaqa tiburon nisqatam qhawarqanku.",
+        "label": 1,
+        "changed": true
+    },
+    "357": {
+        "question": "cause",
+        "premise": "Llamk'anaymanta temprano lluqsirqani.",
+        "choice1": "Umaymi nanawarqan.",
+        "choice2": "Umalliqniyqa huñunakuytam ruwarqan.",
+        "label": 0,
+        "changed": false
+    },
+    "483": {
+        "question": "cause",
+        "premise": "Aspiradorawan mast'ata picharqani.",
+        "choice1": "Tiyaqmasiymi ponche nisqata hich'ayasqa.",
+        "choice2": "Alluypa chukchanmi urmayusqa.",
+        "label": 1,
+        "changed": false
+    },
+    "174": {
+        "question": "effect",
+        "premise": "Edificiopa parqueo nisqanqa qasisqa karqan.",
+        "choice1": "Karrutaqa ñan patapi utichirqani.",
+        "choice2": "Karrutaqa haykunapa kinranllanpi utichirqani.",
+        "label": 1,
+        "changed": false
+    },
+    "464": {
+        "question": "effect",
+        "premise": "Aylluqa musuq wasimasinkunata riqsiyta munarqan.",
+        "choice1": "Aylluqa wasimasinkunawan mikhunankupaq mink'arikurqan.",
+        "choice2": "Aylluqa wasi qhipanmanta wasimasinkunataqa napayukurqan.",
+        "label": 0,
+        "changed": false
+    },
+    "79": {
+        "question": "effect",
+        "premise": "Bicicletapi warman purichkaspa tunkiyayqan.",
+        "choice1": "Payqa hap'inamantam kacharikurqan.",
+        "choice2": "Payqa k'aspi qinchamanmi bicicletanwan t'akarikurqan.",
+        "label": 1,
+        "changed": false
+    },
+    "110": {
+        "question": "effect",
+        "premise": "Yanaypa waqyawasqanta mana uyarirqanichu.",
+        "choice1": "Waqyakuyta kutichirqani.",
+        "choice2": "Mikhunaykupaqmi huñunakurqayku.",
+        "label": 0,
+        "changed": false
+    },
+    "390": {
+        "question": "effect",
+        "premise": "Maqt'aqa t'urupi sarururqan.",
+        "choice1": "Zapatonmi t'uruchakurqan.",
+        "choice2": "T'uruqa uyanmanmi laq'akurqan.",
+        "label": 0,
+        "changed": false
+    },
+    "172": {
+        "question": "cause",
+        "premise": "Ñuqñu upyayta munarqani.",
+        "choice1": "Misk'i galletasta michkarqani.",
+        "choice2": "T'antata ruwarqani.",
+        "label": 0,
+        "changed": false
+    },
+    "490": {
+        "question": "effect",
+        "premise": "Chaki muquy p'unkisqa kachkarqan.",
+        "choice1": "Chullunkuwan churakurqani.",
+        "choice2": "Loción nisqawan llusikurqani.",
+        "label": 0,
+        "changed": false
+    },
+    "480": {
+        "question": "cause",
+        "premise": "Qharimanqa manam qullqitaqa manurqankuchu.",
+        "choice1": "Payqa manukusqaraqmi karqan.",
+        "choice2": "Payqa kikin negocionta qallarirqan.",
+        "label": 0,
+        "changed": false
+    },
+    "194": {
+        "question": "cause",
+        "premise": "Ariqmanta nina lawa lluqsirqan.",
+        "choice1": "Ariqqa tuqyayta qallarirqan.",
+        "choice2": "Ariqqa puñuchkarqan.",
+        "label": 0,
+        "changed": false
+    },
+    "49": {
+        "question": "effect",
+        "premise": "K'ikllukunapi takiqmanqa runakuna asuyarqanku.",
+        "choice1": "Runakunaqa qullqiwan yanaparirqanku.",
+        "choice2": "Takiqqa runakunata qarqurirqan.",
+        "label": 0,
+        "changed": false
+    },
+    "183": {
+        "question": "effect",
+        "premise": "Fotofrafoqa camarapi flashtataqa hap'ichiyta qunqarqun.",
+        "choice1": "Fotokunaqa qhusñisqahina lluqsirqanku.",
+        "choice2": "Fotopi lluqsiqkunaqa manam asikuyta munarqakuchu.",
+        "label": 0,
+        "changed": false
+    },
+    "433": {
+        "question": "cause",
+        "premise": "Wawakunaqa wakcha wawakunap wasinman apachikurqanku.",
+        "choice1": "Taytamamanku wañukapurqanku.",
+        "choice2": "Taytamamankuqa chaqlliyarqanku.",
+        "label": 0,
+        "changed": false
+    },
+    "176": {
+        "question": "cause",
+        "premise": "Llamk'aqqa waqyasqayta tukurqachipun.",
+        "choice1": "Umalliqwan rimanaypaq mañakurqani.",
+        "choice2": "Pim kasqayta riqsichiwaq yupaynintam qhawachirqani.",
+        "label": 0,
+        "changed": false
+    },
+    "309": {
+        "question": "cause",
+        "premise": "Warmiqa maki-rimaywanmi rimarqan.",
+        "choice1": "Payqa llullu wawa paqarimurqan.",
+        "choice2": "Payqa ruqt'u wawa paqarimurqan.",
+        "label": 1,
+        "changed": false
+    },
+    "135": {
+        "question": "cause",
+        "premise": "Warmaqa manam historia yachanata wasaparqanchu.",
+        "choice1": "Payqa allintan clasesninta uyarikurqan.",
+        "choice2": "Payqa qunqarqanmi yachananta kallpanchayta.",
+        "label": 1,
+        "changed": false
+    },
+    "413": {
+        "question": "effect",
+        "premise": "Q'umalliqqa policíamanta phawarurqan.",
+        "choice1": "Policíaqa arpana runatam yanaparirqan.",
+        "choice2": "Policíaqa q'umalliqta qatikacharqan.",
+        "label": 1,
+        "changed": false
+    },
+    "22": {
+        "question": "effect",
+        "premise": "Illaq qhariqa chiri-mit'a hamunantam puruyninpi qhawayarqan.",
+        "choice1": "Q'ipinpi quñi pistukuq p'achakunatam churarqan.",
+        "choice2": "Payqa hatun q'ipiyuq chusarqan.",
+        "label": 0,
+        "changed": false
+    },
+    "373": {
+        "question": "effect",
+        "premise": "Karruyqa mana purirqanchu.",
+        "choice1": "Qhatunamanmi ririqani.",
+        "choice2": "Mecánico nisqamanmi waqyarqani.",
+        "label": 1,
+        "changed": false
+    },
+    "235": {
+        "question": "cause",
+        "premise": "Sumaqmi tarikurqani.",
+        "choice1": "Pampapi qunqurikurqani.",
+        "choice2": "Mantapi sumaqta mayturikurqani.",
+        "label": 1,
+        "changed": false
+    },
+    "274": {
+        "question": "effect",
+        "premise": "Empresapa umalliqninqa llamk'ananta  qulluchirqan.",
+        "choice1": "Kamariqkunataq empresata utirichirqanku.",
+        "choice2": "Kamariqkunataq huk umalliqta maskharqanku.",
+        "label": 1,
+        "changed": false
+    },
+    "63": {
+        "question": "cause",
+        "premise": "Makiymi utiyawarqan.",
+        "choice1": "Ensayo nisqata makillapi qillqarqani.",
+        "choice2": "Warmiywanmi maki hap'inakurqanku.",
+        "label": 0,
+        "changed": false
+    },
+    "193": {
+        "question": "cause",
+        "premise": "Warmiqa ñawin saykusqa rikurirqan.",
+        "choice1": "Tutantinpi rikch'alla karqan.",
+        "choice2": "Payqa wawantam puñuchirqan.",
+        "label": 0,
+        "changed": false
+    },
+    "40": {
+        "question": "effect",
+        "premise": "Illaqkunaqa qhurpachana wasipim qhipakurqanku.",
+        "choice1": "Paykunaqa q'ipinkuta paskarirqanku.",
+        "choice2": "Paykunaqa aeropuerto nisqamanmi rirqanku.",
+        "label": 0,
+        "changed": false
+    },
+    "282": {
+        "question": "effect",
+        "premise": "Montaña rusapi karruchaqa uraymanmi pasayurqan.",
+        "choice1": "Runakunaqa asiyukurqanku.",
+        "choice2": "Runakunaqa qaparirqanku.",
+        "label": 1,
+        "changed": false
+    },
+    "150": {
+        "question": "cause",
+        "premise": "Escenaman manaraq lluqsichkaptin actorpa sunqunqa katatatachkarqan.",
+        "choice1": "Payqa escenáman lluqsinanmantam mancharisqa kachkarqan.",
+        "choice2": "Sapan rimanantam ña umanmi t'akyachirqan.",
+        "label": 0,
+        "changed": false
+    },
+    "424": {
+        "question": "effect",
+        "premise": "Aylluqa Zoo nisqaman rirqanku.",
+        "choice1": "Wawakunaqa wichq'asqa uywakunamanta yacharqanku.",
+        "choice2": "Wawakunaqa uywakunata qatikacharqanku.",
+        "label": 0,
+        "changed": false
+    },
+    "321": {
+        "question": "effect",
+        "premise": "Hamp'ara mikhusqankupi warmaqa wakin masinkunallamanmi upallalla rimaykacharqan.",
+        "choice1": "Wakin yachaqikunataq hamp'araman mikhuq hamurqanku.",
+        "choice2": "Hamp'arapi wakin yachaqikunataq mana munasqahina karqanku.",
+        "label": 1,
+        "changed": false
+    },
+    "316": {
+        "question": "effect",
+        "premise": "Chawpi tutapi chisrisqa rikch'arqani.",
+        "choice1": "Quñi warata churakurqani.",
+        "choice2": "Unuta upyarqani.",
+        "label": 0,
+        "changed": false
+    },
+    "185": {
+        "question": "cause",
+        "premise": "Ejercicio nisqata ruwarqani.",
+        "choice1": "Kallpayuqhina karqani.",
+        "choice2": "Manchasqa karqani.",
+        "label": 0,
+        "changed": false
+    },
+    "295": {
+        "question": "effect",
+        "premise": "Takiyqa sinchi upallalla kaspa mana uyarikurqanchu.",
+        "choice1": "Uyarikunanpaq yapayarqani.",
+        "choice2": "Kikin takiyniyta ruwakurqani.",
+        "label": 0,
+        "changed": false
+    },
+    "98": {
+        "question": "cause",
+        "premise": "Montaña rusamanmi wicharqanchik.",
+        "choice1": "Manchaylla qhawakurqan.",
+        "choice2": "Asikunapaq hinam qhawakurqan.",
+        "label": 1,
+        "changed": false
+    },
+    "360": {
+        "question": "cause",
+        "premise": "Qhariqa runa chawpipi kaspapas rikurikurqan.",
+        "choice1": "Payqa q'ipinta q'ipirqan.",
+        "choice2": "Payqa neón nisqawan p'achakusqa karqan.",
+        "label": 1,
+        "changed": false
+    },
+    "35": {
+        "question": "cause",
+        "premise": "Phiñakurqani.",
+        "choice1": "Masiymi sinchita suyachiwarqan.",
+        "choice2": "Masiyqa pacha rimasqanchikpim chayarqan.",
+        "label": 0,
+        "changed": false
+    },
+    "23": {
+        "question": "effect",
+        "premise": "Yachaqiqa tapukuypa kutichiynintam yacharqan.",
+        "choice1": "Payqa makinta huqarirqan.",
+        "choice2": "Payqa sawkakurqan.",
+        "label": 0,
+        "changed": false
+    },
+    "338": {
+        "question": "effect",
+        "premise": "Waqmiqa maqaqnita saqmarqan.",
+        "choice1": "Maqaqninqa wañurapurqan.",
+        "choice2": "Maqaqninta yawarchakuyta qallarirqan.",
+        "label": 1,
+        "changed": false
+    },
+    "116": {
+        "question": "cause",
+        "premise": "Mankamantam wapsi lluqsichkarqan.",
+        "choice1": "Unu t'impucharqan.",
+        "choice2": "Mankata kipkarqani.",
+        "label": 0,
+        "changed": false
+    },
+    "395": {
+        "question": "cause",
+        "premise": "Aylluqa warmiqhariman samincharqanku.",
+        "choice1": "Warmiqhariqa t'aqanakurqanku.",
+        "choice2": "Warmiqhariqa wawachayuq tukusqankuta willakurqanku.",
+        "label": 1,
+        "changed": false
+    },
+    "148": {
+        "question": "effect",
+        "premise": "Warmiqa llamk'ayninman mana rispa wasinpi qhiparikurqan.",
+        "choice1": "Umalliqninmi yupaycharqan.",
+        "choice2": "Llamk'aqmasinninmi paymanta llamk'arqan.",
+        "label": 1,
+        "changed": false
+    },
+    "444": {
+        "question": "cause",
+        "premise": "Qhariqa terpapiamanmi rirqan.",
+        "choice1": "Ayllunpiqa umamanta unquywanmi karqanku.",
+        "choice2": "Llaki uyquywanmi payqa tarikurqan.",
+        "label": 1,
+        "changed": false
+    },
+    "478": {
+        "question": "effect",
+        "premise": "Warmapa uyanqa q'illuyachkarqan.",
+        "choice1": "Taytanqa willakuytam paymanqa ñawicharqan.",
+        "choice2": "Taytanqa warmap mat'inta llamiparqan.",
+        "label": 1,
+        "changed": false
+    },
+    "51": {
+        "question": "effect",
+        "premise": "Piloto runaqa radarpi tuyu hamusqanta rikurqan.",
+        "choice1": "Pilotoqa tuyumantam ayqikurqan.",
+        "choice2": "Pilotoqa tuyuntintam phalarqan.",
+        "label": 0,
+        "changed": false
+    },
+    "447": {
+        "question": "effect",
+        "premise": "Allquqa hamp'ara patapi aychatam qhawarqan.",
+        "choice1": "Llawsayachkarqan.",
+        "choice2": "Thallayukurqan.",
+        "label": 0,
+        "changed": false
+    },
+    "454": {
+        "question": "cause",
+        "premise": "Veredapim warmi mitk'arikurqan.",
+        "choice1": "Cementopi rakra t'uqu karqan.",
+        "choice2": "Pikunas sutinmanta waqyasqanta uyarirqan.",
+        "label": 0,
+        "changed": false
+    },
+    "232": {
+        "question": "cause",
+        "premise": "Termometropi mercurio kaqqa wichayarqan.",
+        "choice1": "Termometrota urmarachirqani.",
+        "choice2": "Pachaqa quñiyachkarqan.",
+        "label": 1,
+        "changed": false
+    },
+    "325": {
+        "question": "cause",
+        "premise": "Sach'a-sach'a kanakuyqa aswantam mast'arikurqan.",
+        "choice1": "Wayram aswan sinchita phukuyarqan.",
+        "choice2": "Kanaq runakunam hap'ichikurqanku.",
+        "label": 0,
+        "changed": false
+    },
+    "186": {
+        "question": "effect",
+        "premise": "Api esponjata q'apirqani.",
+        "choice1": "Unuta suq'urqan.",
+        "choice2": "Unu sut'uyta qallarirqan.",
+        "label": 1,
+        "changed": false
+    },
+    "83": {
+        "question": "effect",
+        "premise": "Qhariqa huk warmiwan kasqanmantam huchachakurqan.",
+        "choice1": "Payqa warmintam hukwan ripusqanmanta tumparqan.",
+        "choice2": "Payqa warmintam hukwan ripukusqanta willarqan.",
+        "label": 1,
+        "changed": false
+    },
+    "189": {
+        "question": "effect",
+        "premise": "Wasiypa punkunpi mana riqsisqa karru utiyarqan.",
+        "choice1": "Watupakuyta qallarirqani.",
+        "choice2": "Policiaman waqyarirqani.",
+        "label": 0,
+        "changed": false
+    },
+    "181": {
+        "question": "cause",
+        "premise": "Wawaqa puñurqan.",
+        "choice1": "Taytanmi musuq pañalta churarqan.",
+        "choice2": "Taytanmi chhukuyurqan.",
+        "label": 1,
+        "changed": false
+    },
+    "107": {
+        "question": "cause",
+        "premise": "Hisp'ana k'itiqa unu hut'a karqan.",
+        "choice1": "Inodoro nisqam puqchiyarqan.",
+        "choice2": "Unu quñichiq maquinam pakirukurqan.",
+        "label": 0,
+        "changed": false
+    },
+    "343": {
+        "question": "effect",
+        "premise": "Alquilerninpaq manam sinchi qullqiyuqña warmiqa kachrarqan.",
+        "choice1": "Payqa aswan horastam llamk'ayta qallarirqan.",
+        "choice2": "Payqa llamk'ananta saqirqan.",
+        "label": 0,
+        "changed": false
+    },
+    "136": {
+        "question": "cause",
+        "premise": "Chawpi llaqtapi edificio thuniyarqan.",
+        "choice1": "Pachakuyuy llaqtata chhapchirirqan.",
+        "choice2": "Llaqtapi runa sipiyqa sinchiyarqan.",
+        "label": 0,
+        "changed": false
+    },
+    "470": {
+        "question": "cause",
+        "premise": "Telvisiónpi programaqa qullucharqakun.",
+        "choice1": "Q'illi simikunawan rimaq karqanku.",
+        "choice2": "Sasa willayniyuq karqan.",
+        "label": 0,
+        "changed": false
+    },
+    "349": {
+        "question": "effect",
+        "premise": "Hamp'ara patapi añawita saqirqani.",
+        "choice1": "Añawiqa rururqan.",
+        "choice2": "Ch'uspikunam añawitaqa muyuparqanku.",
+        "label": 1,
+        "changed": false
+    },
+    "331": {
+        "question": "cause",
+        "premise": "Hampiqqa runatam qhawayarqan.",
+        "choice1": "Runap uquy rikurichiqkunatam tarirqan.",
+        "choice2": "Payqa pastillastam runamanqa qurqan.",
+        "label": 0,
+        "changed": false
+    },
+    "36": {
+        "question": "effect",
+        "premise": "Suyukunaqa aywanakuy guerra nisqamanta lluqsiyta munarirqanku.",
+        "choice1": "Paykunaqa armas nucleares nisqatam ruwayta qallarirqanku.",
+        "choice2": "Paykunaqa qhasilla kanankupaq rimanakuytam qallarirqanku.",
+        "label": 1,
+        "changed": false
+    }
+}

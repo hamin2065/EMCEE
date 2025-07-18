@@ -1,0 +1,52 @@
+[
+    {
+        "id": "sw-4600",
+        "sys_prompt": "You are an expert in natural language inference tasks. Given the premise, hypothesis, and explanation, your task is to judge whether the hypothesis is an entailment, contradiction, or neutral with respect to the premise. Provide your answer in the format: \"Relationship: [Entailment, Neutral, or Contradiction].",
+        "user_prompt": "Premise: Ikiwa nimeandika historia ya hadithi itakuwa katika majina ya kamusi ya maeneo na watu waliofafanuliwa kwa suala la umuhimu binafsi.\nHypothesis: Ni muhimu kwangu kwamba tawasifu yangu iwe na urahisi wa kupatikana iwezekanavyo.\nExplanation: The premise discusses the idea of writing a history of stories that would include names in a dictionary of places and people defined by personal significance. This suggests a focus on the importance of accessibility and relevance in the narrative being created. The hypothesis states that it is important for the author that their biography is as accessible as possible. While the premise emphasizes the significance of personal relevance in the historical narrative, it does not explicitly mention the accessibility of the biography. Therefore, the relationship is neutral; the hypothesis could be true, but it is not directly supported by the premise. The importance of accessibility is a common concern in writing, but it is not clearly stated in the premise.",
+        "response": "Relationship: Neutral",
+        "explanation": "The premise discusses the idea of writing a history of stories that would include names in a dictionary of places and people defined by personal significance. This suggests a focus on the importance of accessibility and relevance in the narrative being created. The hypothesis states that it is important for the author that their biography is as accessible as possible. While the premise emphasizes the significance of personal relevance in the historical narrative, it does not explicitly mention the accessibility of the biography. Therefore, the relationship is neutral; the hypothesis could be true, but it is not directly supported by the premise. The importance of accessibility is a common concern in writing, but it is not clearly stated in the premise.",
+        "predicted_answer": 1,
+        "ground_truth": 2,
+        "is_correct": false
+    },
+    {
+        "id": "sw-2559",
+        "sys_prompt": "You are an expert in natural language inference tasks. Given the premise, hypothesis, and explanation, your task is to judge whether the hypothesis is an entailment, contradiction, or neutral with respect to the premise. Provide your answer in the format: \"Relationship: [Entailment, Neutral, or Contradiction].",
+        "user_prompt": "Premise: Kwa mfano rahisi ,tuseme gharama ka lazi ya kugagwa ni 10a na gharama ya msingi ni 16a.\nHypothesis: Gharama ya barua pepe inahitaji kuwa mingi kuliko kushiriki.\nExplanation: The premise provides a simple example involving costs, specifically stating that the cost of a certain item (referred to as \"lazi ya kugagwa\") is 10a, while the basic cost is 16a. However, the hypothesis introduces a new concept about the cost of email needing to be greater than sharing, which is not mentioned or implied in the premise. The premise focuses on specific numerical values related to costs, while the hypothesis discusses a different topic altogether. Therefore, the relationship is contradiction, as the information in the hypothesis does not logically follow from or relate to the premise.",
+        "response": "Contradiction",
+        "explanation": "The premise provides a simple example involving costs, specifically stating that the cost of a certain item (referred to as \"lazi ya kugagwa\") is 10a, while the basic cost is 16a. However, the hypothesis introduces a new concept about the cost of email needing to be greater than sharing, which is not mentioned or implied in the premise. The premise focuses on specific numerical values related to costs, while the hypothesis discusses a different topic altogether. Therefore, the relationship is contradiction, as the information in the hypothesis does not logically follow from or relate to the premise.",
+        "predicted_answer": 2,
+        "ground_truth": 1,
+        "is_correct": false
+    },
+    {
+        "id": "sw-2875",
+        "sys_prompt": "You are an expert in natural language inference tasks. Given the premise, hypothesis, and explanation, your task is to judge whether the hypothesis is an entailment, contradiction, or neutral with respect to the premise. Provide your answer in the format: \"Relationship: [Entailment, Neutral, or Contradiction].",
+        "user_prompt": "Premise: 27 Ugumu unaongezeka kadiri marekebisho ya bwela yanayohitajika kupatanisha SCR na kituo yanapoongezeka.\nHypothesis: Ugumu wa ishirini na saba unategemea marekebisho.\nExplanation: The premise states that the difficulty (ugumu) increases as the necessary adjustments (marekebisho) to reconcile SCR with the station increase. This indicates a direct relationship between the level of difficulty and the need for adjustments. The hypothesis claims that the difficulty of twenty-seven depends on the adjustments. This is consistent with the premise, as it suggests that the level of difficulty is indeed influenced by the adjustments being made. Therefore, the relationship is entailment, as the hypothesis logically follows from the premise's assertion about the connection between difficulty and adjustments.",
+        "response": "entailment",
+        "explanation": "The premise states that the difficulty (ugumu) increases as the necessary adjustments (marekebisho) to reconcile SCR with the station increase. This indicates a direct relationship between the level of difficulty and the need for adjustments. The hypothesis claims that the difficulty of twenty-seven depends on the adjustments. This is consistent with the premise, as it suggests that the level of difficulty is indeed influenced by the adjustments being made. Therefore, the relationship is entailment, as the hypothesis logically follows from the premise's assertion about the connection between difficulty and adjustments.",
+        "predicted_answer": 0,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "sw-695",
+        "sys_prompt": "You are an expert in natural language inference tasks. Given the premise, hypothesis, and explanation, your task is to judge whether the hypothesis is an entailment, contradiction, or neutral with respect to the premise. Provide your answer in the format: \"Relationship: [Entailment, Neutral, or Contradiction].",
+        "user_prompt": "Premise: Kwa ukweli mimi sijui kwa sababu sijawahi kuvaa marinda mengi. Wanielewa kweli?\nHypothesis: Ninavaa mavazi ya dresi kila wakati.\nExplanation: The premise states that the speaker does not know something because they have never worn many dresses, suggesting a lack of experience with that type of clothing. The hypothesis claims that the speaker wears dresses all the time. These two statements are contradictory; if the speaker has never worn many dresses, they cannot be wearing them all the time. Therefore, the relationship between the premise and the hypothesis is contradiction, as the hypothesis directly opposes the information provided in the premise. Understanding this relationship is crucial in natural language inference tasks, where recognizing contradictions helps in determining the truth value of statements.",
+        "response": "Relationship: Contradiction",
+        "explanation": "The premise states that the speaker does not know something because they have never worn many dresses, suggesting a lack of experience with that type of clothing. The hypothesis claims that the speaker wears dresses all the time. These two statements are contradictory; if the speaker has never worn many dresses, they cannot be wearing them all the time. Therefore, the relationship between the premise and the hypothesis is contradiction, as the hypothesis directly opposes the information provided in the premise. Understanding this relationship is crucial in natural language inference tasks, where recognizing contradictions helps in determining the truth value of statements.",
+        "predicted_answer": 2,
+        "ground_truth": 2,
+        "is_correct": true
+    },
+    {
+        "id": "sw-4884",
+        "sys_prompt": "You are an expert in natural language inference tasks. Given the premise, hypothesis, and explanation, your task is to judge whether the hypothesis is an entailment, contradiction, or neutral with respect to the premise. Provide your answer in the format: \"Relationship: [Entailment, Neutral, or Contradiction].",
+        "user_prompt": "Premise: Kwa kweli kuna zaidi ya marekebisho 100 ya syllothetic.\nHypothesis: Kuna vivumishi syllothetic 200.\nExplanation: The premise states that there are more than 100 syllothetic modifications, which indicates a quantity greater than 100 but does not specify an exact number. The hypothesis claims that there are 200 syllothetic adjectives. Since the premise only confirms that the number exceeds 100, it does not provide enough information to definitively support the claim of exactly 200 adjectives. Therefore, the relationship is undetermined because while the hypothesis could be true, it is not necessarily supported by the premise. The key concept here is the difference between \"more than 100\" and a specific number like \"200,\" which cannot be confirmed based on the information given.",
+        "response": "Relationship: Neutral",
+        "explanation": "The premise states that there are more than 100 syllothetic modifications, which indicates a quantity greater than 100 but does not specify an exact number. The hypothesis claims that there are 200 syllothetic adjectives. Since the premise only confirms that the number exceeds 100, it does not provide enough information to definitively support the claim of exactly 200 adjectives. Therefore, the relationship is undetermined because while the hypothesis could be true, it is not necessarily supported by the premise. The key concept here is the difference between \"more than 100\" and a specific number like \"200,\" which cannot be confirmed based on the information given.",
+        "predicted_answer": 1,
+        "ground_truth": 1,
+        "is_correct": true
+    }
+]

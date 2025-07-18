@@ -1,0 +1,84 @@
+[
+    {
+        "id": "-1825233558955302451",
+        "prompt": "I want you to act as a question answering expert for thai.\nQuestion: \u0e15\u0e2d\u0e19\u0e2d\u0e30\u0e44\u0e23\u0e17\u0e35\u0e48\u0e19\u0e35\u0e25\u0e41\u0e25\u0e30\u0e0b\u0e32\u0e23\u0e32\u0e2b\u0e4c\u0e08\u0e39\u0e1a\u0e01\u0e31\u0e19\u0e04\u0e23\u0e31\u0e49\u0e07\u0e41\u0e23\u0e01\nYou should retell the question in English.\nYou should answer the question in English in one or a few words.\nYou should step-by-step answer the request.\nYou should tell me the answer in one or a few words in English in this format 'Answer: '\n",
+        "response": "Step 1: Retell the question in English\nThe question is \"\u0e15\u0e2d\u0e19\u0e2d\u0e30\u0e44\u0e23\u0e17\u0e35\u0e48\u0e19\u0e35\u0e25\u0e41\u0e25\u0e30\u0e0b\u0e32\u0e23\u0e32\u0e2b\u0e4c\u0e08\u0e39\u0e1a\u0e01\u0e31\u0e19\u0e04\u0e23\u0e31\u0e49\u0e07\u0e41\u0e23\u0e01\" which translates to:\n\nWhen did Neil and Sarah kiss for the first time?\n\nStep 2: Determine the context of the question\nUnfortunately, I couldn't find any information about a specific Neil and Sarah that would match the question.\n\nStep 3: Provide an answer\nSince I couldn't find any context, I'll assume it's a hypothetical or fictional scenario. However, if you're referring to Neil Patrick Harris and his wife Sarah Jessica Parker, they are not the ones in question. \n\nIf you are referring to Neil and Sarah from the movie \"500 Days of Summer\", they are the main characters. However, I don't know the exact scene when they kissed for the first time.\n\nIf you provide more context or information about Neil and Sarah, I'll try to give a more accurate answer.\n\nHowever, if you are referring to the movie \"500 Days of Summer\", the answer is:\nAnswer: The Night",
+        "predicted_answer": "The Night",
+        "ground_truth": [
+            {
+                "type": "short_phrase",
+                "text": "\u0e40\u0e1e\u0e32\u0e40\u0e27\u0e2d\u0e23\u0e4c\u0e40\u0e1e\u0e25\u0e22\u0e4c"
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "2200477946455799863",
+        "prompt": "I want you to act as a question answering expert for thai.\nQuestion: \u0e04\u0e38\u0e13\u0e2a\u0e32\u0e21\u0e32\u0e23\u0e16\u0e02\u0e31\u0e1a\u0e23\u0e16\u0e43\u0e19\u0e22\u0e38\u0e42\u0e23\u0e1b\u0e44\u0e14\u0e49\u0e15\u0e2d\u0e19\u0e2d\u0e32\u0e22\u0e38\u0e40\u0e17\u0e48\u0e32\u0e44\u0e2b\u0e23\u0e48\nYou should retell the question in English.\nYou should answer the question in English in one or a few words.\nYou should step-by-step answer the request.\nYou should tell me the answer in one or a few words in English in this format 'Answer: '\n",
+        "response": "Step 1: Retell the question in English.\nYou asked: \u0e04\u0e38\u0e13\u0e2a\u0e32\u0e21\u0e32\u0e23\u0e16\u0e02\u0e31\u0e1a\u0e23\u0e16\u0e43\u0e19\u0e22\u0e38\u0e42\u0e23\u0e1b\u0e44\u0e14\u0e49\u0e15\u0e2d\u0e19\u0e2d\u0e32\u0e22\u0e38\u0e40\u0e17\u0e48\u0e32\u0e44\u0e2b\u0e23\u0e48\nIn English, the question is: At what age can you drive in Europe?\n\nStep 2: Answer the question in English in one or a few words.\nAnswer: 18",
+        "predicted_answer": "18",
+        "ground_truth": [
+            {
+                "type": "number",
+                "text": "18.0",
+                "aliases": [
+                    "18"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "4022415118513457748",
+        "prompt": "I want you to act as a question answering expert for thai.\nQuestion: \u0e04\u0e38\u0e13\u0e15\u0e49\u0e2d\u0e07\u0e40\u0e01\u0e34\u0e14\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e44\u0e2b\u0e23\u0e48\u0e16\u0e36\u0e07\u0e16\u0e39\u0e01\u0e1e\u0e34\u0e08\u0e32\u0e23\u0e13\u0e32\u0e27\u0e48\u0e32\u0e40\u0e1b\u0e47\u0e19 millennial\nYou should retell the question in English.\nYou should answer the question in English in one or a few words.\nYou should step-by-step answer the request.\nYou should tell me the answer in one or a few words in English in this format 'Answer: '\n",
+        "response": "Step 1: Retell the question in English\nThe question in English is: When were you born to be considered a millennial?\n\nStep 2: Answer the question in English\nAnswer: Born 1981-1996",
+        "predicted_answer": "Born 1981-1996",
+        "ground_truth": [
+            {
+                "type": "date",
+                "text": "1981-1996",
+                "aliases": [
+                    "1",
+                    "6",
+                    "-",
+                    "9",
+                    "8"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "7777319570801182403",
+        "prompt": "I want you to act as a question answering expert for thai.\nQuestion: \u0e43\u0e04\u0e23\u0e04\u0e37\u0e2d\u0e1b\u0e23\u0e30\u0e18\u0e32\u0e19\u0e28\u0e32\u0e25\u0e2a\u0e39\u0e07\u0e2a\u0e38\u0e14\u0e2a\u0e2b\u0e23\u0e31\u0e10\nYou should retell the question in English.\nYou should answer the question in English in one or a few words.\nYou should step-by-step answer the request.\nYou should tell me the answer in one or a few words in English in this format 'Answer: '\n",
+        "response": "Step 1: Retell the question in English.\nWho is the Chief Justice of the United States?\n\nStep 2: Answer the question in English in one or a few words.\nAnswer: John Roberts",
+        "predicted_answer": "John Roberts",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q11153",
+                "text": "\u0e08\u0e2d\u0e2b\u0e4c\u0e19 \u0e23\u0e2d\u0e40\u0e1a\u0e34\u0e15\u0e2a\u0e4c",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "text": "\u0e08\u0e2d\u0e2b\u0e4c\u0e19 \u0e23\u0e2d\u0e40\u0e1a\u0e34\u0e15\u0e2a\u0e4c",
+                "entity": "Q11153"
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "96744865645392956",
+        "prompt": "I want you to act as a question answering expert for thai.\nQuestion: First ride \u0e43\u0e19\u0e2a\u0e27\u0e19\u0e2a\u0e19\u0e38\u0e01 Knott's Berry Farm  \u0e04\u0e37\u0e2d\u0e2d\u0e30\u0e44\u0e23\nYou should retell the question in English.\nYou should answer the question in English in one or a few words.\nYou should step-by-step answer the request.\nYou should tell me the answer in one or a few words in English in this format 'Answer: '\n",
+        "response": "Step 1: Retell the question in English\nThe question in English is: \"First ride \u0e43\u0e19\u0e2a\u0e27\u0e19\u0e2a\u0e19\u0e38\u0e01 Knott's Berry Farm \u0e04\u0e37\u0e2d\u0e2d\u0e30\u0e44\u0e23\"\n\nThis can be retold as: \"What is the first ride at Knott's Berry Farm?\"\n\nStep 2: Answer the question in English\nAnswer: GhostRider",
+        "predicted_answer": "GhostRider",
+        "ground_truth": [
+            {
+                "type": "short_phrase",
+                "text": "Butterfield Stagecoach"
+            }
+        ],
+        "is_correct": null
+    }
+]

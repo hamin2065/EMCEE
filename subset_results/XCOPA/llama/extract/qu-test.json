@@ -1,0 +1,52 @@
+[
+    {
+        "id": "302",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: Llimp'iwan wallpaqqa q'illutawan anqastawan chaqrurqan.\nWhat is the effect?\nChoice1: Llimp'iqa lliwpi ch'allakurqan.\nChoice2: Llimp'iqa q'umirmanmi tukurqan.\nExplanation: In the given Quechua sentence, \"llimp'iwan wallpaqqa q'illutawan anqastawan chaqrurqan\" can be translated to \"The sun is shining brightly on the wall.\" \n\nTo determine the effect, let's analyze the situation. When the sun shines brightly on a wall, it is likely to cause the wall to become hot, not change its color. \n\nSo, the correct choice is the one that indicates the wall becomes hot.",
+        "response": "Answer: 1",
+        "explanation": "In the given Quechua sentence, \"llimp'iwan wallpaqqa q'illutawan anqastawan chaqrurqan\" can be translated to \"The sun is shining brightly on the wall.\" \n\nTo determine the effect, let's analyze the situation. When the sun shines brightly on a wall, it is likely to cause the wall to become hot, not change its color. \n\nSo, the correct choice is the one that indicates the wall becomes hot.",
+        "predicted_answer": 1,
+        "ground_truth": 1,
+        "is_correct": false
+    },
+    {
+        "id": "301",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: Yachaqiqa hatun-yachaywasimanta graduasqa lluqsirqan.\nWhat is the effect?\nChoice1: Payqa llamk'anatam maskharqan.\nChoice2: Imapi qhuchukusqankutam maskharqan.\nExplanation: In this scenario, the premise states that the students (lluqsirqan) have graduated from a high school (hatun-yachaywasimanta). To determine the effect, let's analyze the choices. \n\nChoice 1 mentions that the students have left the school (payqa llamk'anatam maskharqan), which implies that they are no longer attending classes. However, this doesn't necessarily mean they have graduated. It's possible they simply dropped out or moved away.\n\nChoice 2, on the other hand, suggests that the students have received their diplomas (imapi qhuchukusqankutam maskharqan), which is a direct result of graduating from high school. This choice logically follows the premise that the students have completed their high school education.",
+        "response": "Answer: 2",
+        "explanation": "In this scenario, the premise states that the students (lluqsirqan) have graduated from a high school (hatun-yachaywasimanta). To determine the effect, let's analyze the choices. \n\nChoice 1 mentions that the students have left the school (payqa llamk'anatam maskharqan), which implies that they are no longer attending classes. However, this doesn't necessarily mean they have graduated. It's possible they simply dropped out or moved away.\n\nChoice 2, on the other hand, suggests that the students have received their diplomas (imapi qhuchukusqankutam maskharqan), which is a direct result of graduating from high school. This choice logically follows the premise that the students have completed their high school education.",
+        "predicted_answer": 2,
+        "ground_truth": 0,
+        "is_correct": false
+    },
+    {
+        "id": "15",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: C\u00f3digo nisqata warmaqa umanpi yuyanchakurqan.\nWhat is the cause?\nChoice1: Hatun kunkapi rimaspa kikinman yachachikurqan.\nChoice2: Payqa qillqayta qunqarurqan.\nExplanation: To solve this, let's break down the premise and the choices. The premise says that someone is writing (yuyanchakurqan) with warm ink (warmaqa umanpi). \n\nChoice 1 suggests that the cause is that the ink was heated (rimaspa) in a large container (hatun kunkapi). This would make sense, as heating ink is a common method to make it flow smoothly and evenly.\n\nChoice 2 suggests that the cause is that the ink was mixed (qunqarurqan) with something (payqa qillqayta). While mixing ink is also a common practice, it's less likely to be the cause of the ink being warm.\n\nConsidering these options, the most likely cause of the warm ink is that it was heated in a large container.",
+        "response": "Answer: 1",
+        "explanation": "To solve this, let's break down the premise and the choices. The premise says that someone is writing (yuyanchakurqan) with warm ink (warmaqa umanpi). \n\nChoice 1 suggests that the cause is that the ink was heated (rimaspa) in a large container (hatun kunkapi). This would make sense, as heating ink is a common method to make it flow smoothly and evenly.\n\nChoice 2 suggests that the cause is that the ink was mixed (qunqarurqan) with something (payqa qillqayta). While mixing ink is also a common practice, it's less likely to be the cause of the ink being warm.\n\nConsidering these options, the most likely cause of the warm ink is that it was heated in a large container.",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "112",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: Hawaman samarisqayta rikurqani.\nWhat is the cause?\nChoice1: Pachaqa as chirim karqan.\nChoice2: Qhasquypi mat'ipawarqan.\nExplanation: To determine the cause, let's analyze the situation. The premise states that \"Hawaman samarisqayta rikurqani,\" which means \"The river Hawaman has overflowed.\" This situation is likely due to excessive water, which could be caused by heavy rainfall or melting snow. \n\nNow, let's examine the two choices. Choice1, \"Pachaqa as chirim karqan,\" translates to \"The rainy season has started.\" This is a plausible reason for the river overflowing, as increased rainfall during the rainy season can cause water levels to rise. Choice2, \"Qhasquypi mat'ipawarqan,\" means \"The glaciers have melted.\" While this is also a potential cause of flooding, it's less directly related to the immediate cause of the river overflowing. \n\nConsidering these options, the most likely cause of the river overflowing is the start of the rainy season, which would bring more water to the river.",
+        "response": "Answer: 1",
+        "explanation": "To determine the cause, let's analyze the situation. The premise states that \"Hawaman samarisqayta rikurqani,\" which means \"The river Hawaman has overflowed.\" This situation is likely due to excessive water, which could be caused by heavy rainfall or melting snow. \n\nNow, let's examine the two choices. Choice1, \"Pachaqa as chirim karqan,\" translates to \"The rainy season has started.\" This is a plausible reason for the river overflowing, as increased rainfall during the rainy season can cause water levels to rise. Choice2, \"Qhasquypi mat'ipawarqan,\" means \"The glaciers have melted.\" While this is also a potential cause of flooding, it's less directly related to the immediate cause of the river overflowing. \n\nConsidering these options, the most likely cause of the river overflowing is the start of the rainy season, which would bring more water to the river.",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "36",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: Suyukunaqa aywanakuy guerra nisqamanta lluqsiyta munarirqanku.\nWhat is the effect?\nChoice1: Paykunaqa armas nucleares nisqatam ruwayta qallarirqanku.\nChoice2: Paykunaqa qhasilla kanankupaq rimanakuytam qallarirqanku.\nExplanation: To answer this question, we need to understand the context of the premise. The word \"lluqsiyta\" means \"to calm down\" or \"to reduce\", and it is being used to describe the effect of a war. \n\nIn this case, the premise is saying that the war (guerra) was calmed down or reduced by the aywanakuy (a ritual or ceremony). The question is asking what happened as a result of this ceremony. \n\nChoice 1 is talking about nuclear arms, which doesn't make sense in the context of the premise. The war was calmed down, not escalated. \n\nChoice 2 is talking about people stopping fighting or reducing their conflict, which aligns with the idea of calming down or reducing the war. This is the correct choice because it shows an understanding of the effect of the ceremony on the conflict.",
+        "response": "Answer: 2",
+        "explanation": "To answer this question, we need to understand the context of the premise. The word \"lluqsiyta\" means \"to calm down\" or \"to reduce\", and it is being used to describe the effect of a war. \n\nIn this case, the premise is saying that the war (guerra) was calmed down or reduced by the aywanakuy (a ritual or ceremony). The question is asking what happened as a result of this ceremony. \n\nChoice 1 is talking about nuclear arms, which doesn't make sense in the context of the premise. The war was calmed down, not escalated. \n\nChoice 2 is talking about people stopping fighting or reducing their conflict, which aligns with the idea of calming down or reducing the war. This is the correct choice because it shows an understanding of the effect of the ceremony on the conflict.",
+        "predicted_answer": 2,
+        "ground_truth": 1,
+        "is_correct": true
+    }
+]

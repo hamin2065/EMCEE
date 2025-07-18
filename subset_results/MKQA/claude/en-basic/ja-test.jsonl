@@ -1,0 +1,5 @@
+{"example_id": "-8785178576893271242", "response": "Melissa Gilbert\n\nAnswer: Melissa Gilbert", "prediction": "Melissa Gilbert", "binary_answer": null, "no_answer_prob": 0}
+{"example_id": "2479806972542856767", "response": "Answer: Witch", "prediction": "Witch", "binary_answer": null, "no_answer_prob": 0}
+{"example_id": "-3578394134252581", "response": "No, the Himalayas are not the single highest mountain, though they contain the world's highest peak (Mount Everest).\n\nAnswer: No", "prediction": null, "binary_answer": "no", "no_answer_prob": 0}
+{"example_id": "8245563213341141772", "response": "To determine the year the first Exorcist movie was released, I'll recall its original release date.\n\nThe first Exorcist film was released in 1973.\n\nAnswer: 1973", "prediction": "1973", "binary_answer": null, "no_answer_prob": 0}
+{"example_id": "2485054536940137946", "response": "The Battle of the Alamo took place in San Antonio, Texas, during the Texas Revolution.\n\nAnswer: San Antonio", "prediction": "San Antonio", "binary_answer": null, "no_answer_prob": 0}

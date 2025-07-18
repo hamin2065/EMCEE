@@ -1,0 +1,42 @@
+[
+    {
+        "id": 395,
+        "prompt": "La seguente \u00e8 una domanda a scelta multipla.\nVuoi costruire un portapenne di forma cilindrica, di volume 192\u03c0 cm^{3}. Se il diametro di base misura 8 cm, quanto sar\u00e0 alto il portapenne?\nA. \u00a03 cm\nB. \u00a06 cm\nC. \u00a09 cm\nD. \u00a012 cm\nDovresti fornire la risposta finale alla fine nel formato: 'Risposta: [opzione]'",
+        "response": "Per risolvere questo problema, utilizziamo la formula del volume di un cilindro:\n\nV = \u03c0r^2h\n\nDove V \u00e8 il volume, \u03c0 \u00e8 la costante di Archimede, r \u00e8 il raggio della base e h \u00e8 l'altezza.\n\nSappiamo che il volume \u00e8 192\u03c0 cm^3 e il diametro della base \u00e8 8 cm, quindi il raggio \u00e8 4 cm (poich\u00e9 il diametro \u00e8 due volte il raggio).\n\nSostituendo i valori noti, otteniamo:\n\n192\u03c0 = \u03c0(4)^2h\n\nSemplicando l'espressione, otteniamo:\n\n192 = 16h\n\nPer risolvere per h, dividiamo entrambi i lati per 16:\n\nh = 12\n\nQuindi, l'altezza del portapenne sar\u00e0 di 12 cm.\n\nRisposta: D",
+        "predicted_answer": "D",
+        "ground_truth": "D",
+        "is_correct": true
+    },
+    {
+        "id": 217,
+        "prompt": "La seguente \u00e8 una domanda a scelta multipla.\nLe potenze $\\left(\\frac{4}{3}\\right) ^{2}$ e $\\frac{4\\^ {2}}{3}$ hanno lo stesso valore?\nA. \u00a0No, la prima vale 16/3 e la seconda 16/9.\nB. \u00a0No, la prima vale 16/9 e la seconda 16/3.\nC. \u00a0S\u00ec, valgono entrambe 16/3.\nC. \u00a0S\u00ec, valgono entrambe 16/9.\nDovresti fornire la risposta finale alla fine nel formato: 'Risposta: [opzione]'",
+        "response": "Per risolvere il problema, dobbiamo calcolare il valore di entrambe le espressioni.\n\nLa prima espressione \u00e8 $\\left(\\frac{4}{3}\\right)^2$. Utilizzando le regole delle potenze, possiamo calcolarla come segue:\n\n$\\left(\\frac{4}{3}\\right)^2 = \\frac{4^2}{3^2} = \\frac{16}{9}$\n\nLa seconda espressione \u00e8 $\\frac{4^2}{3}$. Possiamo calcolarla come segue:\n\n$\\frac{4^2}{3} = \\frac{16}{3}$\n\nDalle due calcolazioni, possiamo vedere che le due espressioni non hanno lo stesso valore. La prima espressione vale $\\frac{16}{9}$ e la seconda espressione vale $\\frac{16}{3}$.\n\nQuindi, la risposta corretta \u00e8:\n\nRisposta: A",
+        "predicted_answer": "A",
+        "ground_truth": "B",
+        "is_correct": false
+    },
+    {
+        "id": 360,
+        "prompt": "La seguente \u00e8 una domanda a scelta multipla.\nIl periodo \"Non ho rispettato il limite di velocit\u00e0 e ho preso una multa. \" \u00e8 costituito da due frasi connesse dalla congiunzione e, che le collega logicamente introducendo\n(A) un confronto rispetto a quanto viene detto prima\n(B) una limitazione rispetto a quanto viene detto prima\n(C) una conseguenza rispetto a quanto viene detto prima\n(D) una precisazione rispetto a quanto viene detto prima\nDovresti fornire la risposta finale alla fine nel formato: 'Risposta: [opzione]'",
+        "response": "La risposta corretta \u00e8 (C) una conseguenza rispetto a quanto viene detto prima.\n\nLa congiunzione \"e\" introduce una conseguenza logica rispetto alla prima frase \"Non ho rispettato il limite di velocit\u00e0\", indicando che la multa \u00e8 una conseguenza del fatto di non aver rispettato il limite di velocit\u00e0.",
+        "predicted_answer": "La risposta corretta \u00e8 (C) una conseguenza rispetto a quanto viene detto prima.\n\nLa congiunzione \"e\" introduce una conseguenza logica rispetto alla prima frase \"Non ho rispettato il limite di velocit\u00e0\", indicando che la multa \u00e8 una conseguenza del fatto di non aver rispettato il limite di velocit\u00e0.",
+        "ground_truth": "C",
+        "is_correct": true
+    },
+    {
+        "id": 149,
+        "prompt": "La seguente \u00e8 una domanda a scelta multipla.\nUna fabbrica produce 1000 lampadine, di cui 30 difettose. Ne vende 100 e tra queste 12 risultano difettose.\nSe si sceglie a caso una lampadina tra quelle rimaste da vendere, qual \u00e8 la probabilit\u00e0 che sia difettosa?\nA. 18/900\nB. 108/900\nC. 30/1000\nD. 120/1000\nDovresti fornire la risposta finale alla fine nel formato: 'Risposta: [opzione]'",
+        "response": "Per rispondere a questa domanda, dobbiamo calcolare la probabilit\u00e0 che una lampadina scelta a caso sia difettosa tra quelle rimaste da vendere.\n\nIniziamo con il numero totale di lampadine prodotte: 1000. Ne vengono prodotte 30 difettose, quindi il numero di lampadine perfette \u00e8 1000 - 30 = 970.\n\nLa fabbrica vende 100 lampadine, tra cui 12 difettose. Il numero di lampadine perfette vendute \u00e8 quindi 100 - 12 = 88.\n\nIl numero totale di lampadine rimaste da vendere \u00e8 1000 - 100 = 900. Tra queste, il numero di lampadine difettose \u00e8 30 - 12 = 18 (le 12 difettose vendute non sono pi\u00f9 presenti tra le lampadine rimaste da vendere), ma ci sono anche le 12 difettose vendute che sono state restituite alla fabbrica e quindi sono ancora tra le lampadine rimaste da vendere, quindi in totale sono 18 + 12 = 30.\n\nQuindi",
+        "predicted_answer": "Per rispondere a questa domanda, dobbiamo calcolare la probabilit\u00e0 che una lampadina scelta a caso sia difettosa tra quelle rimaste da vendere.\n\nIniziamo con il numero totale di lampadine prodotte: 1000. Ne vengono prodotte 30 difettose, quindi il numero di lampadine perfette \u00e8 1000 - 30 = 970.\n\nLa fabbrica vende 100 lampadine, tra cui 12 difettose. Il numero di lampadine perfette vendute \u00e8 quindi 100 - 12 = 88.\n\nIl numero totale di lampadine rimaste da vendere \u00e8 1000 - 100 = 900. Tra queste, il numero di lampadine difettose \u00e8 30 - 12 = 18 (le 12 difettose vendute non sono pi\u00f9 presenti tra le lampadine rimaste da vendere), ma ci sono anche le 12 difettose vendute che sono state restituite alla fabbrica e quindi sono ancora tra le lampadine rimaste da vendere, quindi in totale sono 18 + 12 = 30.\n\nQuindi",
+        "ground_truth": "A",
+        "is_correct": true
+    },
+    {
+        "id": 422,
+        "prompt": "La seguente \u00e8 una domanda a scelta multipla.\nQual \u00e8 il valore di x che soddisfa l'equazione $3(2x \u2013 1) + 2x = 21$ ?\nA. -3\nB. -11/4\nC. 11/4\nD. 3\nDovresti fornire la risposta finale alla fine nel formato: 'Risposta: [opzione]'",
+        "response": "Per risolvere l'equazione, dobbiamo seguire i seguenti passaggi:\n\n1. Espandere il termine tra parentesi:\n   $3(2x \u2013 1) + 2x = 21$\n   $6x - 3 + 2x = 21$\n\n2. Combinare i termini simili:\n   $8x - 3 = 21$\n\n3. Aggiungere 3 a entrambi i lati:\n   $8x = 24$\n\n4. Dividere entrambi i lati per 8:\n   $x = 24/8$\n   $x = 3$\n\nQuindi, la risposta corretta \u00e8:\n\nRisposta: D",
+        "predicted_answer": "D",
+        "ground_truth": "D",
+        "is_correct": true
+    }
+]

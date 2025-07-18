@@ -1,0 +1,42 @@
+[
+    {
+        "id": 395,
+        "prompt": "La seguente \u00e8 una domanda a scelta multipla.\nVuoi costruire un portapenne di forma cilindrica, di volume 192\u03c0 cm^{3}. Se il diametro di base misura 8 cm, quanto sar\u00e0 alto il portapenne?\nA. \u00a03 cm\nB. \u00a06 cm\nC. \u00a09 cm\nD. \u00a012 cm\nDovresti fornire la risposta finale alla fine nel formato: 'Risposta: [opzione]'",
+        "response": "Per calcolare l'altezza del portapenne cilindrico, possiamo utilizzare la formula del volume di un cilindro:\n\n\\[ V = \\pi r^2 h \\]\n\ndove \\( V \\) \u00e8 il volume, \\( r \\) \u00e8 il raggio della base e \\( h \\) \u00e8 l'altezza.\n\nDato che il diametro della base \u00e8 8 cm, il raggio \\( r \\) sar\u00e0:\n\n\\[ r = \\frac{diametro}{2} = \\frac{8}{2} = 4 \\, cm \\]\n\nSappiamo che il volume \\( V \\) \u00e8 \\( 192\\pi \\, cm^3 \\). Possiamo sostituire i valori nella formula del volume:\n\n\\[ 192\\pi = \\pi (4)^2 h \\]\n\nSemplificando \\( \\pi \\) da entrambi i lati:\n\n\\[ 192 = 16h \\]\n\nOra, isoliamo \\( h \\):\n\n\\[ h = \\frac{192}{16} = 12 \\, cm \\]\n\nQuindi, l'altezza del portapenne \u00e8 12 cm.\n\nRisposta: D",
+        "predicted_answer": "D",
+        "ground_truth": "D",
+        "is_correct": true
+    },
+    {
+        "id": 217,
+        "prompt": "La seguente \u00e8 una domanda a scelta multipla.\nLe potenze $\\left(\\frac{4}{3}\\right) ^{2}$ e $\\frac{4\\^ {2}}{3}$ hanno lo stesso valore?\nA. \u00a0No, la prima vale 16/3 e la seconda 16/9.\nB. \u00a0No, la prima vale 16/9 e la seconda 16/3.\nC. \u00a0S\u00ec, valgono entrambe 16/3.\nC. \u00a0S\u00ec, valgono entrambe 16/9.\nDovresti fornire la risposta finale alla fine nel formato: 'Risposta: [opzione]'",
+        "response": "Calcoliamo i valori delle due espressioni.\n\n1. Calcoliamo \\(\\left(\\frac{4}{3}\\right)^{2}\\):\n\\[\n\\left(\\frac{4}{3}\\right)^{2} = \\frac{4^{2}}{3^{2}} = \\frac{16}{9}\n\\]\n\n2. Calcoliamo \\(\\frac{4^{2}}{3}\\):\n\\[\n\\frac{4^{2}}{3} = \\frac{16}{3}\n\\]\n\nOra confrontiamo i risultati:\n- \\(\\left(\\frac{4}{3}\\right)^{2} = \\frac{16}{9}\\)\n- \\(\\frac{4^{2}}{3} = \\frac{16}{3}\\)\n\nLe due espressioni non hanno lo stesso valore. \n\nPertanto, la risposta corretta \u00e8:\nRisposta: A",
+        "predicted_answer": "A",
+        "ground_truth": "B",
+        "is_correct": false
+    },
+    {
+        "id": 360,
+        "prompt": "La seguente \u00e8 una domanda a scelta multipla.\nIl periodo \"Non ho rispettato il limite di velocit\u00e0 e ho preso una multa. \" \u00e8 costituito da due frasi connesse dalla congiunzione e, che le collega logicamente introducendo\n(A) un confronto rispetto a quanto viene detto prima\n(B) una limitazione rispetto a quanto viene detto prima\n(C) una conseguenza rispetto a quanto viene detto prima\n(D) una precisazione rispetto a quanto viene detto prima\nDovresti fornire la risposta finale alla fine nel formato: 'Risposta: [opzione]'",
+        "response": "La congiunzione \"e\" in questo caso collega due frasi che esprimono un'azione e una conseguenza diretta di quell'azione. La prima parte del periodo indica che non \u00e8 stato rispettato il limite di velocit\u00e0, mentre la seconda parte indica la conseguenza di tale azione, ovvero aver preso una multa. Pertanto, la congiunzione introduce una conseguenza.\n\nRisposta: (C)",
+        "predicted_answer": "(C)",
+        "ground_truth": "C",
+        "is_correct": true
+    },
+    {
+        "id": 149,
+        "prompt": "La seguente \u00e8 una domanda a scelta multipla.\nUna fabbrica produce 1000 lampadine, di cui 30 difettose. Ne vende 100 e tra queste 12 risultano difettose.\nSe si sceglie a caso una lampadina tra quelle rimaste da vendere, qual \u00e8 la probabilit\u00e0 che sia difettosa?\nA. 18/900\nB. 108/900\nC. 30/1000\nD. 120/1000\nDovresti fornire la risposta finale alla fine nel formato: 'Risposta: [opzione]'",
+        "response": "Per calcolare la probabilit\u00e0 che una lampadina scelta a caso tra quelle rimaste da vendere sia difettosa, dobbiamo prima determinare quante lampadine rimangono e quante di queste sono difettose.\n\n1. **Lampadine iniziali**: 1000\n2. **Lampadine difettose**: 30\n3. **Lampadine vendute**: 100\n4. **Lampadine difettose vendute**: 12\n\nDopo aver venduto 100 lampadine, le lampadine rimaste sono:\n\n\\[ 1000 - 100 = 900 \\]\n\nOra, calcoliamo quante lampadine difettose rimangono. Inizialmente ci sono 30 lampadine difettose e ne sono state vendute 12, quindi le lampadine difettose rimaste sono:\n\n\\[ 30 - 12 = 18 \\]\n\nOra possiamo calcolare la probabilit\u00e0 che una lampadina scelta a caso tra quelle rimaste sia difettosa:\n\n\\[ P(\\text{difettosa}) = \\frac{\\text{lampadine difettose rimaste}}{\\text{lampadine totali rimaste}} = \\frac{18}{900} \\]\n\nQuindi, la risposta corretta \u00e8:\n\nRisposta: A",
+        "predicted_answer": "A",
+        "ground_truth": "A",
+        "is_correct": true
+    },
+    {
+        "id": 422,
+        "prompt": "La seguente \u00e8 una domanda a scelta multipla.\nQual \u00e8 il valore di x che soddisfa l'equazione $3(2x \u2013 1) + 2x = 21$ ?\nA. -3\nB. -11/4\nC. 11/4\nD. 3\nDovresti fornire la risposta finale alla fine nel formato: 'Risposta: [opzione]'",
+        "response": "Iniziamo a risolvere l'equazione \\(3(2x - 1) + 2x = 21\\).\n\n1. Distribuiamo il 3 all'interno della parentesi:\n   \\[\n   3 \\cdot 2x - 3 \\cdot 1 + 2x = 21\n   \\]\n   che diventa:\n   \\[\n   6x - 3 + 2x = 21\n   \\]\n\n2. Combiniamo i termini simili:\n   \\[\n   6x + 2x - 3 = 21\n   \\]\n   che diventa:\n   \\[\n   8x - 3 = 21\n   \\]\n\n3. Aggiungiamo 3 a entrambi i lati dell'equazione:\n   \\[\n   8x - 3 + 3 = 21 + 3\n   \\]\n   che diventa:\n   \\[\n   8x = 24\n   \\]\n\n4. Dividiamo entrambi i lati per 8:\n   \\[\n   x = \\frac{24}{8}\n   \\]\n   che semplificando otteniamo:\n   \\[\n   x = 3\n   \\]\n\nQuindi, il valore di \\(x\\) che soddisfa l'equazione \u00e8 \\(3\\).\n\nRisposta: D",
+        "predicted_answer": "D",
+        "ground_truth": "D",
+        "is_correct": true
+    }
+]

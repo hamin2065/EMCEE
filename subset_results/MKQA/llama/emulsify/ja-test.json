@@ -1,0 +1,97 @@
+[
+    {
+        "id": "-8785178576893271242",
+        "sys_prompt": "You are a judge from the Japanese tradition, known for your wisdom and fairness. Although your cultural background is Japanese, you are fluent in English and will conduct this task in English. You are given a reasoning question. There is a debate on this question between user1 and user2. Your task is to listen to their arguments carefully and provide a fair and wise judgment.\nYour response should be in English.\nSummarize the debate briefly and then give a conclusion based on the arguments presented. Your response should be in the format: \n\"Summary: ___. Conclusion: [answer] is more plausible.\n\nAnswer: [one or a few words in English]\"\n\nApproach the task with the fairness and critical thinking expected of a Japanese judge, ensuring you make only one answer for the final answer.",
+        "user_prompt": "Question: \u5927\u8349\u539f\u306e\u5c0f\u3055\u306a\u5bb6\u3067\u30cd\u30ea\u30fc\u3092\u6f14\u3058\u305f\u306e\u306f\u8ab0\u3067\u3059\u304b\uff1f\n\nuser1: Let's break it down step by step:\n\n1. \u5927\u8349\u539f\u306e\u5c0f\u3055\u306a\u5bb6 (Little House on the Prairie) \u306f\u5c0f\u8aac\u3001\u30c6\u30ec\u30d3\u30b7\u30ea\u30fc\u30ba\u306a\u3069\u304c\u3042\u308b\u3002\n2. \u30cd\u30ea\u30fc (Nellie) \u306f\u30c6\u30ec\u30d3\u30b7\u30ea\u30fc\u30ba\u306e\u767b\u5834\u4eba\u7269\u306e\u4e00\u4eba\u3002\n3. \u30c6\u30ec\u30d3\u30b7\u30ea\u30fc\u30ba\u306e\u4e3b\u306a\u767b\u5834\u4eba\u7269\u306f\u30e1\u30a2\u30ea\u30fc\u30fb\u30a8\u30a4\u30f3\u30ba\u30ef\u30fc\u30b9 (Mary Ingalls) \u304c\u6f14\u3058\u305f\u3002\n4. \u30cd\u30ea\u30fc\u3092\u6f14\u3058\u305f\u306e\u306f\u30e1\u30a2\u30ea\u30fc\u30fb\u30a8\u30a4\u30f3\u30ba\u30ef\u30fc\u30b9 (Mary Ingalls) \u3067\u306f\u306a\u3044\u304c\u3001\u30e1\u30a2\u30ea\u30fc\u3068\u5171\u6f14\u3057\u305f\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u306e\u30cd\u30ea\u30fc\u306f\u30e1\u30a2\u30ea\u30fc\u306e\u30e9\u30a4\u30d0\u30eb\u3060\u3063\u305f\u3002\n5. \u30e1\u30a2\u30ea\u30fc\u3068\u5171\u6f14\u3057\u305f\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u306e\u30cd\u30ea\u30fc\u3092\u6f14\u3058\u305f\u306e\u306f\u30b7\u30e3\u30ed\u30f3\u30fb\u30ce\u30fc\u30e9\u30f3 (Sharon Nolan) \u3067\u306f\u306a\u3044\u304c\u3001\u30b7\u30e3\u30ed\u30f3\u3068\u5171\u6f14\u3057\u305f\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u306e\u30cd\u30ea\u30fc\u306f\u30e1\u30a2\u30ea\u30fc\u306e\u30e9\u30a4\u30d0\u30eb\u3060\u3063\u305f\u3002\n\n\u7b54\u3048\u306f\u30e1\u30a2\u30ea\u30fc\u3068\u5171\u6f14\u3057\u305f\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u306e\u30cd\u30ea\u30fc\u3092\u6f14\u3058\u305f\u30b7\u30e3\u30ed\u30f3\u3067\u306f\u306a\u3044\u304c\u3001\u30b7\u30e3\u30ed\u30f3\u3068\u5171\u6f14\u3057\u305f\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u306e\u30cd\u30ea\u30fc\u306f\u30e1\u30a2\u30ea\u30fc\u306e\u30e9\u30a4\u30d0\u30eb\u3060\u3063\u305f\u3002\u30b7\u30e3\u30ed\u30f3\u3068\u5171\u6f14\u3057\u305f\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u306e\u30cd\u30ea\u30fc\u306f\u30e1\u30a2\u30ea\u30fc\u306e\u30e9\u30a4\u30d0\n\nuser2: \u3053\u306e\u8cea\u554f\u306f\u3001\u6620\u753b\u300c\u30cd\u30ea\u30fc\u306e\u5c0f\u3055\u306a\u5bb6\u300d\uff08Little House on the Prairie\uff09\u306b\u95a2\u9023\u3057\u3066\u3044\u307e\u3059\u3002\u3053\u306e\u6620\u753b\u306f\u3001\u30e1\u30a2\u30ea\u30fc\u30fb\u30a8\u30a4\u30f3\u30ba\u30ef\u30fc\u30b9\u306e\u540c\u540d\u306e\u5c0f\u8aac\u30b7\u30ea\u30fc\u30ba\u306b\u57fa\u3065\u3044\u3066\u3044\u307e\u3059\u3002\u3053\u306e\u6620\u753b\u3067\u306f\u3001\u30e1\u30a2\u30ea\u30fc\u306e\u5b9f\u969b\u306e\u751f\u6d3b\u3092\u3082\u3068\u306b\u3057\u305f\u30b9\u30c8\u30fc\u30ea\u30fc\u304c\u63cf\u304b\u308c\u3066\u3044\u307e\u3059\u3002\n\n\u3053\u306e\u8cea\u554f\u306e\u7b54\u3048\u306f\u3001\u30e1\u30a2\u30ea\u30fc\u30fb\u30a8\u30a4\u30f3\u30ba\u30ef\u30fc\u30b9\u306e\u5b9f\u969b\u306e\u5bb6\u65cf\u306e\u30e1\u30f3\u30d0\u30fc\u3067\u3042\u308b\u30e1\u30a2\u30ea\u30fc\u30fb\u30a8\u30a4\u30f3\u30ba\u30ef\u30fc\u30b9\u306e\u59c9\u59b9\u306e\u30e1\u30a2\u30ea\u30fc\u306e\u5f79\u3092\u6f14\u3058\u305f\u30e1\u30a2\u30ea\u30fc\u30fb\u30a8\u30a4\u30f3\u30ba\u30ef\u30fc\u30b9\u306e\u59c9\u59b9\u306e\u30e1\u30a2\u30ea\u30fc\u306f\u3001\u30e1\u30a2\u30ea\u30fc\u306e\u59c9\u59b9\u306e\u30e1\u30a2\u30ea\u30fc\u304c\u6f14\u3058\u305f\u30cd\u30ea\u30fc\u3067\u3059\u3002\nAnswer: \u30e1\u30a2\u30ea\u30fc\u30fb\u30a8\u30a4\u30f3\u30ba\u30ef\u30fc\u30b9",
+        "response": "Summary: user1 \u306f\u3001\u30b7\u30e3\u30ed\u30f3\u30fb\u30ce\u30fc\u30e9\u30f3\u304c\u30e1\u30a2\u30ea\u30fc\u306e\u30e9\u30a4\u30d0\u30eb\u306e\u30cd\u30ea\u30fc\u3092\u6f14\u3058\u305f\u3053\u3068\u3092\u793a\u5506\u3059\u308b\u8ad6\u7406\u7684\u306a\u63a8\u8ad6\u3092\u63d0\u793a\u3057\u307e\u3057\u305f\u3002user2 \u306f\u3001\u30e1\u30a2\u30ea\u30fc\u30fb\u30a8\u30a4\u30f3\u30ba\u30ef\u30fc\u30b9\u304c\u5f7c\u5973\u306e\u5b9f\u969b\u306e\u751f\u6d3b\u3092\u3082\u3068\u306b\u3057\u305f\u6620\u753b\u300cLittle House on the Prairie\u300d\u3067\u30cd\u30ea\u30fc\u3092\u6f14\u3058\u305f\u3053\u3068\u3092\u4e3b\u5f35\u3057\u307e\u3057\u305f\u3002\n\nConclusion: \u30e1\u30a2\u30ea\u30fc\u30fb\u30a8\u30a4\u30f3\u30ba\u30ef\u30fc\u30b9\u306f\u3088\u308a plausibility \u306e\u9ad8\u3044\u56de\u7b54\u3067\u3059\u3002\n\nAnswer: \u30e1\u30a2\u30ea\u30fc\u30fb\u30a8\u30a4\u30f3\u30ba\u30ef\u30fc\u30b9",
+        "predicted_answer": "\u30e1\u30a2\u30ea\u30fc\u30fb\u30a8\u30a4\u30f3\u30ba\u30ef\u30fc\u30b9",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q265540",
+                "text": "\u30a2\u30ea\u30bd\u30f3\u30fb\u30a2\u30fc\u30f3\u30b0\u30ea\u30f3",
+                "aliases": []
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "2479806972542856767",
+        "sys_prompt": "You are a judge from the Japanese tradition, known for your wisdom and fairness. Although your cultural background is Japanese, you are fluent in English and will conduct this task in English. You are given a reasoning question. There is a debate on this question between user1 and user2. Your task is to listen to their arguments carefully and provide a fair and wise judgment.\nYour response should be in English.\nSummarize the debate briefly and then give a conclusion based on the arguments presented. Your response should be in the format: \n\"Summary: ___. Conclusion: [answer] is more plausible.\n\nAnswer: [one or a few words in English]\"\n\nApproach the task with the fairness and critical thinking expected of a Japanese judge, ensuring you make only one answer for the final answer.",
+        "user_prompt": "Question: \u300c\u30d8\u30f3\u30bc\u30eb\u3068\u30b0\u30ec\u30fc\u30c6\u30eb\u300d\u306e\u9b54\u5973\u5f79\u306f\u8ab0\uff1f\n\nuser1: To solve this question, let's break it down step-by-step:\n\n1. Identify the question: The question is asking about the role of the witch in the fairy tale \"Hansel and Gretel.\"\n2. Consider the options: In the fairy tale \"Hansel and Gretel,\" the witch is a main antagonist who tries to eat the two siblings.\n3. Recall the story: The witch in the story is known for being cruel and trying to trick the children.\n4. Identify the character: The character of the witch in the fairy tale \"Hansel and Gretel\" is often portrayed as an evil woman.\n\nAnswer: The witch.\n\nuser2: In the classic German fairy tale \"\u30d8\u30f3\u30bc\u30eb\u3068\u30b0\u30ec\u30fc\u30c6\u30eb\" (Hansel and Gretel), the witch is a central character who kidnaps the two main protagonists. The witch is often portrayed as a cruel and cunning figure who tries to eat the children. In the original story, the witch is depicted as a stereotypical representation of a wicked old woman, with a distinctive appearance and a sinister personality. \n\nTo answer this question, you can simply say that the witch in \"\u30d8\u30f3\u30bc\u30eb\u3068\u30b0\u30ec\u30fc\u30c6\u30eb\" is a fictional character who is often depicted as a wicked old woman.\nAnswer: Answer: \u9b54\u5973",
+        "response": "Summary: User1 and user2 both agree that the witch in the fairy tale \"Hansel and Gretel\" is a central character who is cruel, cunning, and tries to eat the children. They both describe the witch as a stereotypical representation of a wicked old woman. However, user1 identifies the witch as \"The witch,\" while user2 simply states the character's role as \"\u9b54\u5973\" (witch).\n\nConclusion: \u9b54\u5973 is more plausible.\n\nAnswer: \u9b54\u5973",
+        "predicted_answer": "\u9b54\u5973",
+        "ground_truth": [
+            {
+                "type": "short_phrase",
+                "text": "\u30ed\u30b8\u30fc\u30ca \u30ec\u30c3\u30ab\u30fc\u30de\u30a6\u30eb"
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "-3578394134252581",
+        "sys_prompt": "You are a judge from the Japanese tradition, known for your wisdom and fairness. Although your cultural background is Japanese, you are fluent in English and will conduct this task in English. You are given a reasoning question. There is a debate on this question between user1 and user2. Your task is to listen to their arguments carefully and provide a fair and wise judgment.\nYour response should be in English.\nSummarize the debate briefly and then give a conclusion based on the arguments presented. Your response should be in the format: \n\"Summary: ___. Conclusion: [answer] is more plausible.\n\nAnswer: [one or a few words in English]\"\n\nApproach the task with the fairness and critical thinking expected of a Japanese judge, ensuring you make only one answer for the final answer.",
+        "user_prompt": "Question: \u30d2\u30de\u30e9\u30e4\u5c71\u8108\u306f\u4e16\u754c\u3067\u6700\u3082\u9ad8\u3044\u5c71\u306a\u306e\u304b\n\nuser1: To answer the question, we need to consider the definition of \"\u30d2\u30de\u30e9\u30e4\u5c71\u8108\" (Himalayan mountain range) and the concept of \"\u4e16\u754c\u3067\u6700\u3082\u9ad8\u3044\u5c71\" (the highest mountain in the world).\n\n1. What is the Himalayan mountain range?\n   The Himalayan mountain range is a mountain range in Asia, known for its high peaks.\n\n2. Which mountain is the highest in the Himalayan mountain range?\n   Mount Everest is the highest peak in the Himalayan mountain range.\n\n3. Is Mount Everest the highest mountain in the world?\n   Yes, Mount Everest is widely considered the highest mountain in the world.\n\nTherefore, the Himalayan mountain range contains the highest mountain in the world, which is Mount Everest.\n\nAnswer: yes\n\nuser2: The question seems to be asking if the Himalayan mountain range is the highest mountain in the world. To answer this question, we need to clarify that the Himalayas are not a single mountain, but rather a range of mountains. While the Himalayas do contain the highest peaks in the world, including Mount Everest, the highest mountain itself is not the Himalayan mountain range as a whole, but rather a specific peak within the range.\n\nIn fact, Mount Everest, located in the Himalayas, is widely considered the highest mountain in the world, with an elevation of over 8,800 meters above sea level.\nAnswer: Answer: no",
+        "response": "Summary: User1 argues that the Himalayan mountain range contains the highest mountain in the world, which is Mount Everest, and therefore, the Himalayan mountain range is the highest mountain in the world. User2 counters that the Himalayas are a range of mountains, not a single mountain, and therefore, it cannot be considered the highest mountain in the world.\n\nConclusion: no\n\nAnswer: no",
+        "predicted_answer": "no",
+        "ground_truth": [
+            {
+                "type": "binary",
+                "text": "no"
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "8245563213341141772",
+        "sys_prompt": "You are a judge from the Japanese tradition, known for your wisdom and fairness. Although your cultural background is Japanese, you are fluent in English and will conduct this task in English. You are given a reasoning question. There is a debate on this question between user1 and user2. Your task is to listen to their arguments carefully and provide a fair and wise judgment.\nYour response should be in English.\nSummarize the debate briefly and then give a conclusion based on the arguments presented. Your response should be in the format: \n\"Summary: ___. Conclusion: [answer] is more plausible.\n\nAnswer: [one or a few words in English]\"\n\nApproach the task with the fairness and critical thinking expected of a Japanese judge, ensuring you make only one answer for the final answer.",
+        "user_prompt": "Question: \u6700\u521d\u306e\u30a8\u30af\u30bd\u30b7\u30b9\u30c8\u306e\u6620\u753b\u304c\u516c\u958b\u3055\u308c\u305f\u306e\u306f\u3044\u3064\u304b\n\nuser1: To find the answer, let's break it down step-by-step.\n\n1. The question is about the release date of the first Exorcist film.\n2. The film is titled \"The Exorcist\".\n3. The Exorcist was directed by William Friedkin and released in 1973.\n\nAnswer: 1973.\n\nuser2: The first Exorcist movie, \"The Exorcist,\" was released in 1973. This film, directed by William Friedkin, was based on a bestselling novel of the same name written by William Peter Blatty. The movie tells the story of a young girl possessed by a demon and the two priests who try to perform an exorcism to free her from the demon's grasp. The Exorcist was a groundbreaking horror film that shocked audiences with its graphic and intense portrayal of demonic possession.\nAnswer: Answer: 1973\u5e74",
+        "response": "Summary: User1 and user2 both agree that the first Exorcist film, \"The Exorcist,\" was directed by William Friedkin and released in 1973. They provide a brief description of the film's plot and its impact on audiences, but their main focus is on confirming the release year of the movie.\n\nConclusion: 1973 is more plausible.\n\nAnswer: 1973",
+        "predicted_answer": "1973",
+        "ground_truth": [
+            {
+                "type": "date",
+                "text": "1973-12-26",
+                "aliases": [
+                    "1973 12 26",
+                    "12/26/1973",
+                    "12-26-1973",
+                    "26-12-1973",
+                    "1973 \u5341\u4e8c\u6708 26",
+                    "26/12/1973",
+                    "1973 december, 26",
+                    "1973-12-26",
+                    "12 26 1973",
+                    "26 12 1973",
+                    "26 \u5341\u4e8c\u6708 1973"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "2485054536940137946",
+        "sys_prompt": "You are a judge from the Japanese tradition, known for your wisdom and fairness. Although your cultural background is Japanese, you are fluent in English and will conduct this task in English. You are given a reasoning question. There is a debate on this question between user1 and user2. Your task is to listen to their arguments carefully and provide a fair and wise judgment.\nYour response should be in English.\nSummarize the debate briefly and then give a conclusion based on the arguments presented. Your response should be in the format: \n\"Summary: ___. Conclusion: [answer] is more plausible.\n\nAnswer: [one or a few words in English]\"\n\nApproach the task with the fairness and critical thinking expected of a Japanese judge, ensuring you make only one answer for the final answer.",
+        "user_prompt": "Question: \u30a2\u30e9\u30e2\u306e\u6226\u3044\u306f\u3069\u3053\u3067\u884c\u306a\u308f\u308c\u307e\u3057\u305f\u304b\n\nuser1: To answer the question, let's break it down step by step.\n\n1. We need to know what \"\u30a2\u30e9\u30e2\u306e\u6226\u3044\" means in English. \n   It refers to the Battle of the Alamo.\n\n2. Now we need to know where the Battle of the Alamo took place.\n   The Battle of the Alamo was a famous battle in the Texas Revolution.\n\n3. The Texas Revolution was a fight for independence from Mexico.\n   The battle occurred in the city of San Antonio de Bexar, which is now known as San Antonio, Texas.\n\n4. So, the final answer is the location of the Battle of the Alamo.\n   San Antonio, Texas, is a city located in the United States.\n\nAnswer: San Antonio.\n\nuser2: The Alamo was a pivotal battle in the Texas Revolution, and it took place in San Antonio, Texas, specifically within the Alamo complex, which is a former Spanish mission. The battle occurred in 1836, when a small group of Texan rebels, including famous figures such as Davy Crockett and Jim Bowie, defended the Alamo against a much larger Mexican army led by General Santa Anna. The battle was a significant defeat for the Texan rebels, but it ultimately became a rallying cry for the Texans, who went on to win the Battle of San Jacinto and gain independence from Mexico. Understanding the historical context and the significance of the Alamo in the Texas Revolution is crucial to answering this question correctly.\nAnswer: \u30b5\u30f3\u30a2\u30f3\u30c8\u30cb\u30aa",
+        "response": "Summary: User1 and User2 both agree that the Battle of the Alamo took place in San Antonio, Texas. However, User2 provides more historical context and background information about the battle, its significance, and the Texas Revolution, which adds depth to their argument.\n\nConclusion: San Antonio is more plausible.\n\nAnswer: San Antonio",
+        "predicted_answer": "San Antonio",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q1439",
+                "text": "\u30c6\u30ad\u30b5\u30b9\u5dde",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q975",
+                "text": "\u30b5\u30f3\u30a2\u30f3\u30c8\u30cb\u30aa",
+                "aliases": [
+                    "\u30a2\u30f3\u30c8\u30cb\u30a6\u30b9"
+                ]
+            }
+        ],
+        "is_correct": null
+    }
+]

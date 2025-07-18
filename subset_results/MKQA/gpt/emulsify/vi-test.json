@@ -1,0 +1,104 @@
+[
+    {
+        "id": "-6331825608100129065",
+        "sys_prompt": "You are a judge from the Vietnamese tradition, known for your wisdom and fairness. Although your cultural background is Vietnamese, you are fluent in English and will conduct this task in English. You are given a reasoning question. There is a debate on this question between user1 and user2. Your task is to listen to their arguments carefully and provide a fair and wise judgment.\n\nSummarize the debate briefly and then give a conclusion based on the arguments presented. Your response should be in the format: \n\"Summary: ___. Conclusion: [answer] is more plausible.\n\nAnswer: [one or a few words in English]\"\n\nApproach the task with the fairness and critical thinking expected of a Vietnamese judge, ensuring you make only one answer for the final answer.",
+        "user_prompt": "Question: H\u1ecd ch\u1ea1y v\u1edbi nh\u1eefng con b\u00f2 \u1edf \u0111\u00e2u trong T\u00e2y Ba Nha?\n\nuser1: They run with the bulls in Pamplona, Spain. \n\nAnswer: Pamplona\n\nuser2: In Spain, the famous event where people run with bulls is known as \"El Encierro,\" and it takes place in the city of Pamplona during the San Ferm\u00edn festival. This event typically occurs in July and involves participants running in front of a group of bulls that are released onto the streets. The tradition is deeply rooted in Spanish culture and attracts many tourists each year. Understanding the cultural significance of this event can help students appreciate the blend of tradition, excitement, and the risks involved in such activities.\nAnswer: Pamplona",
+        "response": "Summary: User1 states that the running with the bulls occurs in Pamplona, Spain, while user2 elaborates on the event, providing details about its cultural significance and the context of the San Ferm\u00edn festival, but ultimately agrees that it takes place in Pamplona. Both users arrive at the same conclusion regarding the location.\n\nConclusion: [Pamplona] is more plausible.\n\nAnswer: Pamplona",
+        "predicted_answer": "Pamplona",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q10282",
+                "text": "Pamplona",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q29",
+                "text": "T\u00e2y Ban Nha",
+                "aliases": []
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "-2636623161713410044",
+        "sys_prompt": "You are a judge from the Vietnamese tradition, known for your wisdom and fairness. Although your cultural background is Vietnamese, you are fluent in English and will conduct this task in English. You are given a reasoning question. There is a debate on this question between user1 and user2. Your task is to listen to their arguments carefully and provide a fair and wise judgment.\n\nSummarize the debate briefly and then give a conclusion based on the arguments presented. Your response should be in the format: \n\"Summary: ___. Conclusion: [answer] is more plausible.\n\nAnswer: [one or a few words in English]\"\n\nApproach the task with the fairness and critical thinking expected of a Vietnamese judge, ensuring you make only one answer for the final answer.",
+        "user_prompt": "Question: new york mets th\u00e0nh l\u1eadp khi n\u00e0o\n\nuser1: The New York Mets were established in 1962. \n\nAnswer: 1962\n\nuser2: The New York Mets were established in 1962 as part of Major League Baseball's expansion. They were created to fill the void left by the departure of the Brooklyn Dodgers and New York Giants, who moved to California in the late 1950s. The Mets' founding was significant as it marked the return of National League baseball to New York City, and they quickly became a beloved team with a passionate fan base. Understanding the historical context of the Mets' formation helps highlight the evolution of baseball in New York and the city's rich sports culture.\nAnswer: 1962",
+        "response": "Summary: User1 states that the New York Mets were established in 1962, while user2 provides additional context about their formation, emphasizing the significance of their establishment in relation to the departure of other teams and the return of National League baseball to New York City. Both users agree on the year of establishment. \n\nConclusion: [1962] is more plausible.\n\nAnswer: 1962",
+        "predicted_answer": "1962",
+        "ground_truth": [
+            {
+                "type": "date",
+                "text": "1962",
+                "aliases": [
+                    "1962"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "-7124524575011905701",
+        "sys_prompt": "You are a judge from the Vietnamese tradition, known for your wisdom and fairness. Although your cultural background is Vietnamese, you are fluent in English and will conduct this task in English. You are given a reasoning question. There is a debate on this question between user1 and user2. Your task is to listen to their arguments carefully and provide a fair and wise judgment.\n\nSummarize the debate briefly and then give a conclusion based on the arguments presented. Your response should be in the format: \n\"Summary: ___. Conclusion: [answer] is more plausible.\n\nAnswer: [one or a few words in English]\"\n\nApproach the task with the fairness and critical thinking expected of a Vietnamese judge, ensuring you make only one answer for the final answer.",
+        "user_prompt": "Question: ng\u00e0y c\u1ee7a cha l\u00e0 ng\u00e0y n\u00e0o\n\nuser1: Father's Day is celebrated on the third Sunday of June in many countries. \n\nAnswer: Third Sunday of June\n\nuser2: Father's Day is celebrated on the third Sunday of June in many countries, including the United States. This day is dedicated to honoring fathers and father figures, recognizing their contributions and influence in families and society. The celebration often includes giving gifts, spending time together, and expressing gratitude. Understanding the cultural significance of Father's Day can help students appreciate the importance of family relationships and the various ways people show love and appreciation for their parents.\nAnswer: Ch\u1ee7 nh\u1eadt th\u1ee9 ba c\u1ee7a th\u00e1ng 6",
+        "response": "Summary: User1 states that Father's Day is celebrated on the third Sunday of June in many countries, while User2 agrees and elaborates on the significance of the day, emphasizing the importance of honoring fathers and the cultural practices associated with the celebration. Both users provide the same date for Father's Day.\n\nConclusion: [answer] is more plausible.\n\nAnswer: Third Sunday of June",
+        "predicted_answer": "Third Sunday of June",
+        "ground_truth": [
+            {
+                "type": "date",
+                "text": "2020-06-21",
+                "aliases": [
+                    "21-06-2020",
+                    "21 06 2020",
+                    "06 21 2020",
+                    "2020 june, 21",
+                    "2020-06-21",
+                    "06-21-2020",
+                    "21 th\u00e1ng S\u00e1u 2020",
+                    "21/06/2020",
+                    "2020 th\u00e1ng S\u00e1u 21",
+                    "2020 06 21",
+                    "06/21/2020"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "5118505966272271760",
+        "sys_prompt": "You are a judge from the Vietnamese tradition, known for your wisdom and fairness. Although your cultural background is Vietnamese, you are fluent in English and will conduct this task in English. You are given a reasoning question. There is a debate on this question between user1 and user2. Your task is to listen to their arguments carefully and provide a fair and wise judgment.\n\nSummarize the debate briefly and then give a conclusion based on the arguments presented. Your response should be in the format: \n\"Summary: ___. Conclusion: [answer] is more plausible.\n\nAnswer: [one or a few words in English]\"\n\nApproach the task with the fairness and critical thinking expected of a Vietnamese judge, ensuring you make only one answer for the final answer.",
+        "user_prompt": "Question: Ai l\u00e0 nh\u00f3m tr\u01b0\u1edfng nh\u00f3m nh\u1ea1c The Beautiful South\n\nuser1: The Beautiful South's lead singer and frontman was Paul Heaton. \n\nAnswer: Paul Heaton\n\nuser2: The Beautiful South was a British band formed in 1988, and the lead vocalist and frontman of the group was Paul Heaton. He is known for his distinctive voice and songwriting skills, which contributed significantly to the band's success. The Beautiful South is recognized for their blend of pop and rock music, often incorporating elements of folk and soul. Understanding the role of a lead vocalist in a band can help students appreciate how individual talents contribute to the overall sound and identity of a musical group.\nAnswer: Paul Heaton",
+        "response": "Summary: User1 and user2 both agree that Paul Heaton was the lead singer and frontman of the band The Beautiful South. User2 provides additional context about the band's formation, musical style, and the significance of Heaton's role in the group. \n\nConclusion: [Paul Heaton] is more plausible.\n\nAnswer: Paul Heaton",
+        "predicted_answer": "Paul Heaton",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "text": "Paul Heaton",
+                "entity": "Q1938749"
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "6039981987742679389",
+        "sys_prompt": "You are a judge from the Vietnamese tradition, known for your wisdom and fairness. Although your cultural background is Vietnamese, you are fluent in English and will conduct this task in English. You are given a reasoning question. There is a debate on this question between user1 and user2. Your task is to listen to their arguments carefully and provide a fair and wise judgment.\n\nSummarize the debate briefly and then give a conclusion based on the arguments presented. Your response should be in the format: \n\"Summary: ___. Conclusion: [answer] is more plausible.\n\nAnswer: [one or a few words in English]\"\n\nApproach the task with the fairness and critical thinking expected of a Vietnamese judge, ensuring you make only one answer for the final answer.",
+        "user_prompt": "Question: ng\u01b0\u1eddi \u0111\u00e3 li\u00ean minh v\u1edbi ng\u01b0\u1eddi Anh trong cu\u1ed9c c\u00e1ch m\u1ea1ng M\u1ef9\n\nuser1: The individuals who allied with the British during the American Revolution were primarily Loyalists, also known as Tories. They supported British rule and opposed the revolutionaries. \n\nAnswer: Loyalists\n\nuser2: During the American Revolution, the French were the primary allies of the American colonists against the British. The alliance was formalized in 1778, following the American victory at the Battle of Saratoga, which convinced France that the Americans had a chance of winning the war. This partnership was crucial, as France provided military support, supplies, and naval power, significantly aiding the American cause. Understanding this alliance highlights the importance of international relations in historical conflicts and how cooperation can influence the outcome of wars.\nAnswer: Ph\u00e1p",
+        "response": "Summary: User1 argues that the individuals who allied with the British during the American Revolution were the Loyalists, who supported British rule. User2, however, discusses the French alliance with the American colonists against the British, emphasizing the significance of this partnership in the revolution.\n\nConclusion: User1's answer regarding the Loyalists is more plausible in the context of the question about who allied with the British.\n\nAnswer: Loyalists",
+        "predicted_answer": "Loyalists",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q183",
+                "text": "\u0110\u1ee9c",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "text": "\u0110\u1ee9c",
+                "entity": "Q183"
+            }
+        ],
+        "is_correct": null
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "id": "-1768532999191146026",
+        "prompt": "I want you to act as a question answering expert for russian.\nQuestion: \u043a\u0430\u043a\u0438\u0435 \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0438\u0435 \u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u043d\u044b\u0435 \u0428\u0442\u0430\u0442\u044b \u0432 \u0418\u043d\u0434\u0438\u0438\nYou should retell the question in English.\nYou should answer the question in English in one or a few words.\nYou should step-by-step answer the request.\nYou should tell me the answer in one or a few words in English in this format 'Answer: '",
+        "response": "Let me help you step by step:\n\n1. Translate the question to English:\n\"What are the latest formed States in India?\"\n\n2. Research the most recently created states in India:\n\nThe most recently formed states in India are:\n- Telangana (created in 2014, separated from Andhra Pradesh)\n- Jharkhand (created in 2000)\n- Uttarakhand (created in 2000)\n- Chhattisgarh (created in 2000)\n\n3. Determine the absolute latest state:\n\nAnswer: Telangana",
+        "predicted_answer": "Telangana",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q1168",
+                "text": "\u0427\u0445\u0430\u0442\u0442\u0438\u0441\u0433\u0430\u0440\u0445",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q1184",
+                "text": "\u0414\u0436\u0430\u0440\u043a\u0445\u0430\u043d\u0434",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q1499",
+                "text": "\u0423\u0442\u0442\u0430\u0440\u0430\u043a\u0445\u0430\u043d\u0434",
+                "aliases": [
+                    "\u0423\u0442\u0442\u0430\u0440\u0430\u043d\u0447\u0430\u043b"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q677037",
+                "text": "\u0422\u0435\u043b\u0430\u043d\u0433\u0430\u043d\u0430",
+                "aliases": [
+                    "\u0422\u0435\u043b\u0438\u043d\u0433\u0430\u043d\u0430"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "7232773031032315501",
+        "prompt": "I want you to act as a question answering expert for russian.\nQuestion: \u043a\u0442\u043e \u043d\u0430\u043f\u0438\u0441\u0430\u043b \u043c\u0443\u0437\u044b\u043a\u0443 \u0434\u043b\u044f \u043d\u0435\u043c\u0435\u0446\u043a\u043e\u0433\u043e \u043d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0433\u0438\u043c\u043d\u0430\nYou should retell the question in English.\nYou should answer the question in English in one or a few words.\nYou should step-by-step answer the request.\nYou should tell me the answer in one or a few words in English in this format 'Answer: '",
+        "response": "Let me help you with this Russian language question:\n\nStep 1: Translate the question to English\n\"Who wrote the music for the German national anthem?\"\n\nStep 2: Research the answer\n\nStep 3: Provide the answer in the requested format\nAnswer: Joseph Haydn\n\nExplanation: Joseph Haydn composed the melody for what is now the German national anthem, originally written as the \"Hymn to the Emperor\" in 1797. The melody was later adapted to become the national anthem of Germany.",
+        "predicted_answer": "Let me help you with this Russian language question:\n\nStep 1: Translate the question to English\n\"Who wrote the music for the German national anthem?\"\n\nStep 2: Research the answer\n\nStep 3: Provide the answer in the requested format\nAnswer: Joseph Haydn\n\nExplanation: Joseph Haydn composed the melody for what is now the German national anthem, originally written as the \"Hymn to the Emperor\" in 1797. The melody was later adapted to become the national anthem of Germany.",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q7349",
+                "text": "\u0419\u043e\u0437\u0435\u0444 \u0413\u0430\u0439\u0434\u043d",
+                "aliases": [
+                    "\u0413\u0430\u0439\u0434\u043d",
+                    "\u0424\u0440\u0430\u043d\u0446 \u0419\u043e\u0437\u0435\u0444 \u0413\u0430\u0439\u0434\u043d"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "-3792991085056399823",
+        "prompt": "I want you to act as a question answering expert for russian.\nQuestion: \u043a\u0442\u043e \u0445\u043e\u0434\u0438\u0442 \u043f\u0435\u0440\u0432\u044b\u043c \u0432 \u0448\u0430\u0445\u043c\u0430\u0442\u0430\u0445 \u0447\u0435\u0440\u043d\u044b\u0435 \u0438\u043b\u0438 \u0431\u0435\u043b\u044b\u0435\nYou should retell the question in English.\nYou should answer the question in English in one or a few words.\nYou should step-by-step answer the request.\nYou should tell me the answer in one or a few words in English in this format 'Answer: '",
+        "response": "Let me help you with this step-by-step:\n\n1. Translate the question to English:\n\"Who moves first in chess, black or white?\"\n\n2. Analyze the chess rules:\nIn standard chess rules, white always moves first.\n\n3. Answer in the requested format:\nAnswer: White",
+        "predicted_answer": "White",
+        "ground_truth": [
+            {
+                "type": "short_phrase",
+                "text": "\u0411\u0435\u043b\u044b\u0435"
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "-8817675850857402488",
+        "prompt": "I want you to act as a question answering expert for russian.\nQuestion: \u043c\u0438\u043d\u0438\u043c\u0430\u043b\u044c\u043d\u044b\u0439 \u0432\u043e\u0437\u0440\u0430\u0441\u0442, \u0447\u0442\u043e\u0431\u044b \u043c\u043e\u0436\u043d\u043e \u0431\u044b\u043b\u043e \u0441\u0442\u0430\u0442\u044c \u0447\u043b\u0435\u043d\u043e\u043c \u0437\u0430\u043a\u043e\u043d\u043e\u0434\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u0441\u043e\u0432\u0435\u0442\u0430\nYou should retell the question in English.\nYou should answer the question in English in one or a few words.\nYou should step-by-step answer the request.\nYou should tell me the answer in one or a few words in English in this format 'Answer: '",
+        "response": "Let me help you with this Russian question:\n\nStep 1: Translate the question to English\n\"What is the minimum age to become a member of the legislative council?\"\n\nStep 2: Analyze the specific context\nIn Russia, the minimum age to become a member of a legislative council varies depending on the specific legislative body.\n\nStep 3: Provide a general answer\nFor most legislative councils in Russia, the minimum age is typically:\n\nAnswer: 21 years old\n\nNote: This can slightly vary depending on the specific legislative body (federal, regional, or local), but 21 is the most common minimum age requirement for legislative council membership in Russia.",
+        "predicted_answer": "Let me help you with this Russian question:\n\nStep 1: Translate the question to English\n\"What is the minimum age to become a member of the legislative council?\"\n\nStep 2: Analyze the specific context\nIn Russia, the minimum age to become a member of a legislative council varies depending on the specific legislative body.\n\nStep 3: Provide a general answer\nFor most legislative councils in Russia, the minimum age is typically:\n\nAnswer: 21 years old\n\nNote: This can slightly vary depending on the specific legislative body (federal, regional, or local), but 21 is the most common minimum age requirement for legislative council membership in Russia.",
+        "ground_truth": [
+            {
+                "type": "number_with_unit",
+                "text": "30.0 \u043b\u0435\u0442",
+                "aliases": [
+                    "30 \u043b\u0435\u0442"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "6630622010535273304",
+        "prompt": "I want you to act as a question answering expert for russian.\nQuestion: \u0441\u043a\u043e\u043b\u044c\u043a\u043e \u0432\u0438\u043d\u043e\u0434\u0435\u043b\u0435\u043d \u0432 \u0448\u0442\u0430\u0442\u0435 \u0412\u0430\u0448\u0438\u043d\u0433\u0442\u043e\u043d\nYou should retell the question in English.\nYou should answer the question in English in one or a few words.\nYou should step-by-step answer the request.\nYou should tell me the answer in one or a few words in English in this format 'Answer: '",
+        "response": "Let me help you with this Russian language question:\n\nStep 1: Translate the question\nEnglish translation: \"How many wineries are in Washington state?\"\n\nStep 2: Research the answer\nWashington state is known for its wine production, particularly in the Columbia Valley region.\n\nStep 3: Provide the precise answer\nAnswer: Over 1,000\n\nExplanation: As of recent data, Washington state has approximately 1,000-1,300 wineries, making it the second-largest wine-producing state in the United States after California.",
+        "predicted_answer": "Let me help you with this Russian language question:\n\nStep 1: Translate the question\nEnglish translation: \"How many wineries are in Washington state?\"\n\nStep 2: Research the answer\nWashington state is known for its wine production, particularly in the Columbia Valley region.\n\nStep 3: Provide the precise answer\nAnswer: Over 1,000\n\nExplanation: As of recent data, Washington state has approximately 1,000-1,300 wineries, making it the second-largest wine-producing state in the United States after California.",
+        "ground_truth": [
+            {
+                "type": "number",
+                "text": "900.0",
+                "aliases": [
+                    "900"
+                ]
+            }
+        ],
+        "is_correct": null
+    }
+]

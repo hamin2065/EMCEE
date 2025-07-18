@@ -1,0 +1,52 @@
+[
+    {
+        "id": "136",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: Il palazzo in centro citt\u00e0 \u00e8 crollato.\nWhat is the cause?\nChoice1: Un terremoto ha colpito la citt\u00e0.\nChoice2: La criminalit\u00e0 nella citt\u00e0 \u00e8 aumentata.\nExplanation: Il palazzo in centro citt\u00e0 \u00e8 crollato \u00e8 una notizia allarmante. Per capire la causa del crollo, dobbiamo considerare le possibilit\u00e0. Un terremoto \u00e8 un evento naturale che pu\u00f2 causare danni gravi ai edifici, quindi \u00e8 una possibilit\u00e0 plausibile. La criminalit\u00e0, invece, \u00e8 un problema sociale che non \u00e8 direttamente collegato al crollo di un edificio. Pertanto, la scelta pi\u00f9 logica \u00e8 che il crollo del palazzo sia stato causato da un terremoto.",
+        "response": "Answer: 1",
+        "explanation": "Il palazzo in centro citt\u00e0 \u00e8 crollato \u00e8 una notizia allarmante. Per capire la causa del crollo, dobbiamo considerare le possibilit\u00e0. Un terremoto \u00e8 un evento naturale che pu\u00f2 causare danni gravi ai edifici, quindi \u00e8 una possibilit\u00e0 plausibile. La criminalit\u00e0, invece, \u00e8 un problema sociale che non \u00e8 direttamente collegato al crollo di un edificio. Pertanto, la scelta pi\u00f9 logica \u00e8 che il crollo del palazzo sia stato causato da un terremoto.",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "316",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: Mi svegliai nel mezzo della notte per il freddo.\nWhat is the effect?\nChoice1: Indossai i pantaloni della tuta.\nChoice2: Bevvi un bicchier d'acqua.\nExplanation: Considering the premise, the person woke up in the middle of the night because of the cold. In this situation, the most likely effect would be to try to warm up. Wearing a pair of pants (pantaloni della tuta) would provide warmth and comfort, which is a more direct and effective solution to the problem. Drinking a glass of water (bevvi un bicchier d'acqua) would not address the issue of the cold.",
+        "response": "Answer: 1",
+        "explanation": "Considering the premise, the person woke up in the middle of the night because of the cold. In this situation, the most likely effect would be to try to warm up. Wearing a pair of pants (pantaloni della tuta) would provide warmth and comfort, which is a more direct and effective solution to the problem. Drinking a glass of water (bevvi un bicchier d'acqua) would not address the issue of the cold.",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "107",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: Il bagno si \u00e8 allagato.\nWhat is the cause?\nChoice1: Il gabinetto si \u00e8 intasato.\nChoice2: Lo scaldabagno si \u00e8 rotto.\nExplanation: To determine the cause of the allagamento (flooding) in the bagno (bathroom), let's consider the possible effects of each choice. \n\nIf the gabinetto (toilet) si \u00e8 intasato (became clogged), it might cause water to overflow, but it's likely to be contained within the toilet bowl itself. This might not be enough to cause a full-scale allagamento in the entire bathroom.\n\nOn the other hand, if lo scaldabagno (the water heater) si \u00e8 rotto (broke), it could lead to a significant leak of hot water, causing the bathroom to flood. This is a more plausible explanation for the allagamento, as a broken water heater could release a large amount of water suddenly.\n\nConsidering these possibilities, the most likely cause of the allagamento is a broken water heater.",
+        "response": "Answer: 2",
+        "explanation": "To determine the cause of the allagamento (flooding) in the bagno (bathroom), let's consider the possible effects of each choice. \n\nIf the gabinetto (toilet) si \u00e8 intasato (became clogged), it might cause water to overflow, but it's likely to be contained within the toilet bowl itself. This might not be enough to cause a full-scale allagamento in the entire bathroom.\n\nOn the other hand, if lo scaldabagno (the water heater) si \u00e8 rotto (broke), it could lead to a significant leak of hot water, causing the bathroom to flood. This is a more plausible explanation for the allagamento, as a broken water heater could release a large amount of water suddenly.\n\nConsidering these possibilities, the most likely cause of the allagamento is a broken water heater.",
+        "predicted_answer": 2,
+        "ground_truth": 0,
+        "is_correct": false
+    },
+    {
+        "id": "116",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: Del vapore si \u00e8 sollevato dalla pentola piena d'acqua.\nWhat is the cause?\nChoice1: L'acqua bolliva.\nChoice2: Ho coperto la pentola.\nExplanation: When the steam rose from the full pot of water, it was likely due to the water reaching its boiling point, causing the steam to form and escape. This is a common phenomenon when water is heated to its boiling temperature. Therefore, the most logical cause of the steam rising from the pot is that the water was boiling.",
+        "response": "Answer: 1",
+        "explanation": "When the steam rose from the full pot of water, it was likely due to the water reaching its boiling point, causing the steam to form and escape. This is a common phenomenon when water is heated to its boiling temperature. Therefore, the most logical cause of the steam rising from the pot is that the water was boiling.",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "414",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: Il laptop non si accendeva.\nWhat is the cause?\nChoice1: L'avevo fatto cadere.\nChoice2: L'avevo caricato.\nExplanation: To determine the correct cause, let's analyze the situation. If the laptop won't turn on, it's likely due to a problem with the power source. Choice 1, \"L'avevo fatto cadere,\" suggests that the laptop may have been damaged physically, but this wouldn't necessarily prevent it from turning on. On the other hand, Choice 2, \"L'avevo caricato,\" implies that the laptop was charged, which is a crucial step in making it turn on.",
+        "response": "Answer: 2",
+        "explanation": "To determine the correct cause, let's analyze the situation. If the laptop won't turn on, it's likely due to a problem with the power source. Choice 1, \"L'avevo fatto cadere,\" suggests that the laptop may have been damaged physically, but this wouldn't necessarily prevent it from turning on. On the other hand, Choice 2, \"L'avevo caricato,\" implies that the laptop was charged, which is a crucial step in making it turn on.",
+        "predicted_answer": 2,
+        "ground_truth": 0,
+        "is_correct": false
+    }
+]

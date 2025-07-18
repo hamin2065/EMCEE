@@ -1,0 +1,89 @@
+[
+    {
+        "id": "5170765158681567047",
+        "prompt": "Answer the question in one or a few words in English: \nquand a \u00e9t\u00e9 publi\u00e9e pour la premi\u00e8re fois Sourde, muette, aveugle : histoire de ma vie\nLet's think step-by-step in English.\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "To find the answer, we need to know more about the book \"Sourde, muette, aveugle : histoire de ma vie\". \n\nFirst, let's try to find the author of the book. Unfortunately, I don't have that information. If you provide the author's name, I can proceed further.\n\nHowever, without knowing the author, I can try to find the publication date of the book. \n\nCan you please provide the author's name or any other relevant information about the book?",
+        "predicted_answer": "To find the answer, we need to know more about the book \"Sourde, muette, aveugle : histoire de ma vie\". \n\nFirst, let's try to find the author of the book. Unfortunately, I don't have that information. If you provide the author's name, I can proceed further.\n\nHowever, without knowing the author, I can try to find the publication date of the book. \n\nCan you please provide the author's name or any other relevant information about the book?",
+        "ground_truth": [
+            {
+                "type": "date",
+                "text": "1903",
+                "aliases": [
+                    "1903"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "4189590166138253194",
+        "prompt": "Answer the question in one or a few words in English: \nqui a le plus d'argent dans la nba\nLet's think step-by-step in English.\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "To find out who has the most money in the NBA, we need to consider the top earners from various sources such as salaries, endorsements, and business ventures.\n\n1. **Salaries**: The NBA has a salary cap, and the top players earn tens of millions of dollars per year. However, the salary cap is not the only source of income.\n\n2. **Endorsements**: Top NBA players earn millions from endorsement deals with major brands. These deals can be worth tens of millions of dollars per year.\n\n3. **Business Ventures**: Some NBA players have successful business ventures, such as restaurants, clothing lines, and investment companies. These ventures can generate significant income.\n\nConsidering these factors, the top earners in the NBA are likely to be the players who have a combination of high salaries, lucrative endorsement deals, and successful business ventures.\n\nSome of the top earners in the NBA include:\n\n- LeBron James\n- Kevin Durant\n- Stephen Curry\n- Giannis Antetokounmpo\n- Luka Doncic\n\nHowever, to determine who has the most money, we need to look at their total net worth.\n\nAccording to Forbes, LeBron James has the highest net worth among NBA players, with an estimated net worth of over $1.2 billion.\n\nAnswer",
+        "predicted_answer": "To find out who has the most money in the NBA, we need to consider the top earners from various sources such as salaries, endorsements, and business ventures.\n\n1. **Salaries**: The NBA has a salary cap, and the top players earn tens of millions of dollars per year. However, the salary cap is not the only source of income.\n\n2. **Endorsements**: Top NBA players earn millions from endorsement deals with major brands. These deals can be worth tens of millions of dollars per year.\n\n3. **Business Ventures**: Some NBA players have successful business ventures, such as restaurants, clothing lines, and investment companies. These ventures can generate significant income.\n\nConsidering these factors, the top earners in the NBA are likely to be the players who have a combination of high salaries, lucrative endorsement deals, and successful business ventures.\n\nSome of the top earners in the NBA include:\n\n- LeBron James\n- Kevin Durant\n- Stephen Curry\n- Giannis Antetokounmpo\n- Luka Doncic\n\nHowever, to determine who has the most money, we need to look at their total net worth.\n\nAccording to Forbes, LeBron James has the highest net worth among NBA players, with an estimated net worth of over $1.2 billion.\n\nAnswer",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q189240",
+                "text": "Kevin Garnett",
+                "aliases": []
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "-851149197598120689",
+        "prompt": "Answer the question in one or a few words in English: \nqui joue le p\u00e8re de cole dans f the prom\nLet's think step-by-step in English.\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "To answer the question, I need to identify the character \"Cole\" from \"F the Prom\" and the actor who plays the father of that character. \n\nHowever, I'm not aware of any information about a movie or TV show called \"F the Prom.\" It's possible that it's a lesser-known or older production, or it might be a title that is not well-known internationally.\n\nIf you can provide more context or information about the movie or TV show, I can try to help you find the answer.",
+        "predicted_answer": "To answer the question, I need to identify the character \"Cole\" from \"F the Prom\" and the actor who plays the father of that character. \n\nHowever, I'm not aware of any information about a movie or TV show called \"F the Prom.\" It's possible that it's a lesser-known or older production, or it might be a title that is not well-known internationally.\n\nIf you can provide more context or information about the movie or TV show, I can try to help you find the answer.",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q352233",
+                "text": "Ian Ziering",
+                "aliases": []
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "5862856443680173655",
+        "prompt": "Answer the question in one or a few words in English: \nquand ont ils chang\u00e9 la boxe en 12 rounds\nLet's think step-by-step in English.\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "To answer your question, let's break it down step by step:\n\n1. The sport you're referring to is \"boxe,\" which is French for \"boxing.\"\n2. The change you're asking about is the shift from a certain number of rounds to 12 rounds.\n3. Historically, professional boxing matches were initially fought over 4-6 rounds, but this number varied over time.\n4. In the late 19th and early 20th centuries, boxing matches began to be fought over 6-8 rounds.\n5. The shift to 12 rounds was a gradual process that occurred over several decades.\n6. One key event that contributed to the widespread adoption of 12 rounds was the introduction of the Marquess of Queensberry Rules in 1867, which specified 6 rounds of 3 minutes each.\n7. However, it was not until the mid-20th century that 12 rounds became the standard for professional boxing matches.\n\nGiven this information, the answer to your question is not a specific date but rather a period of time.\n\nHowever, I can tell you that the first 12-round professional boxing match took place in 1912.\n\nAnswer: 1912.",
+        "predicted_answer": "1912.",
+        "ground_truth": [
+            {
+                "type": "date",
+                "text": "1987-10-19",
+                "aliases": [
+                    "1987-10-19",
+                    "10/19/1987",
+                    "10-19-1987",
+                    "1987 octobre 19",
+                    "10 19 1987",
+                    "19-10-1987",
+                    "1987 10 19",
+                    "19/10/1987",
+                    "19 10 1987",
+                    "1987 october, 19",
+                    "19 octobre 1987"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "6873585089990668750",
+        "prompt": "Answer the question in one or a few words in English: \nqui est l\u2019entra\u00eeneur principal des browns de cleveland\nLet's think step-by-step in English.\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "To answer the question, we need to know the current head coach of the Cleveland Browns. \n\nStep 1: Identify the current team and sport - The Cleveland Browns are an American football team.\n\nStep 2: Find the current head coach of the Browns. As of my cut-off knowledge in 2023, the head coach is Kevin Stefanski.\n\nAnswer: Kevin Stefanski",
+        "predicted_answer": "Kevin Stefanski",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q5496752",
+                "text": "Freddie Kitchens",
+                "aliases": []
+            }
+        ],
+        "is_correct": null
+    }
+]

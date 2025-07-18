@@ -1,0 +1,42 @@
+[
+    {
+        "id": "tr-2584",
+        "prompt": "You are an expert at natural language inference. Given the premise and hypothesis, your task is to judge whether the hypothesis is true, false, or undetermined given the premise. The relationship can be chosen from entailment, contradiction, and neutral.\nPremise: CIO ve karar al\u0131c\u0131 merciler d\u0131\u015f kaynak almak i\u00e7in ne t\u00fcr bir \u00e7al\u0131\u015fman\u0131n uygun oldu\u011funa ve i\u00e7eride ne t\u00fcr bir \u00e7al\u0131\u015fman\u0131n en iyi \u015fekilde ger\u00e7ekle\u015ftirildi\u011fine karar verir.\nHypothesis: CIO hangi i\u015fin tamam oldu\u011funu s\u00f6yledi.\nYou should provide the final answer at the end in the format: 'Relationship: [entailment, neutral or contradiction]'.",
+        "response": "The premise states that the CIO and decision-making bodies decide on the type of work suitable for outsourcing and what type of work can be best performed internally. The hypothesis claims that the CIO stated which job is complete. \n\nThe premise does not provide any information about the completion of any job; it only discusses decision-making regarding outsourcing and internal work. Therefore, the hypothesis does not logically follow from the premise.\n\nThus, the relationship is a contradiction.\n\nFinal answer: Relationship: contradiction",
+        "predicted_answer": 2,
+        "ground_truth": 0,
+        "is_correct": false
+    },
+    {
+        "id": "tr-235",
+        "prompt": "You are an expert at natural language inference. Given the premise and hypothesis, your task is to judge whether the hypothesis is true, false, or undetermined given the premise. The relationship can be chosen from entailment, contradiction, and neutral.\nPremise: B\u00f6ylece, ben Washington D.C.'ye gittim ve do\u011frudan gitmedim, emirlerimde \u00f6yle yapmam\u0131 s\u00f6ylediler.\nHypothesis: Amirimi g\u00f6rmek i\u00e7in DC'ye gittim.\nYou should provide the final answer at the end in the format: 'Relationship: [entailment, neutral or contradiction]'.",
+        "response": "The premise states that the speaker went to Washington D.C. but did not go directly, as they were instructed otherwise. The hypothesis claims that the speaker went to D.C. to see their superior. The premise does not provide any information about the purpose of the trip, only that they were given orders regarding how to travel. Therefore, we cannot definitively conclude that the speaker went to D.C. specifically to see their superior; it is possible but not certain.\n\nThus, the relationship is neutral.\n\nFinal answer: Relationship: neutral",
+        "predicted_answer": 1,
+        "ground_truth": 1,
+        "is_correct": true
+    },
+    {
+        "id": "tr-3023",
+        "prompt": "You are an expert at natural language inference. Given the premise and hypothesis, your task is to judge whether the hypothesis is true, false, or undetermined given the premise. The relationship can be chosen from entailment, contradiction, and neutral.\nPremise: Khallad, \u00fc\u00e7\u00fcn\u00fcn hep birlikte Karachi'ye gitti\u011fini belirten ikinci bir hikaye sundu.\nHypothesis: Khallad, \u00fc\u00e7\u00fcn\u00fcn Ekim ay\u0131nda birlikte Kara\u00e7i'ye gitme \u015fans\u0131n\u0131n %50 oldu\u011funu s\u00f6yledi.\nYou should provide the final answer at the end in the format: 'Relationship: [entailment, neutral or contradiction]'.",
+        "response": "The premise states that Khallad presented a second story indicating that the three of them went to Karachi together. The hypothesis suggests that Khallad said there was a 50% chance that the three would go to Karachi together in October. \n\nThe premise confirms that they did go together, while the hypothesis introduces uncertainty about whether they will go together in the future, specifically in October. Therefore, the hypothesis does not logically follow from the premise, as it introduces a possibility rather than confirming an event that has already occurred.\n\nThus, the relationship is one of contradiction.\n\nFinal answer: Relationship: contradiction",
+        "predicted_answer": 2,
+        "ground_truth": 1,
+        "is_correct": false
+    },
+    {
+        "id": "tr-2410",
+        "prompt": "You are an expert at natural language inference. Given the premise and hypothesis, your task is to judge whether the hypothesis is true, false, or undetermined given the premise. The relationship can be chosen from entailment, contradiction, and neutral.\nPremise: \u0130ki y\u00fcz y\u0131l s\u00fcren dinsel sapk\u0131nl\u0131ktan sonra, Kilise, ruhsal bir yenili\u011fe ihtiya\u00e7 duyuyordu ve Francis of Assisi'de (1182-1226) m\u00fckemmel m\u00fcttefiki bulmaya \u00e7al\u0131\u015f\u0131yordu.\nHypothesis: Kilise Assisi Francis'den nefret ediyordu.\nYou should provide the final answer at the end in the format: 'Relationship: [entailment, neutral or contradiction]'.",
+        "response": "Relationship: contradiction",
+        "predicted_answer": 2,
+        "ground_truth": 2,
+        "is_correct": true
+    },
+    {
+        "id": "tr-535",
+        "prompt": "You are an expert at natural language inference. Given the premise and hypothesis, your task is to judge whether the hypothesis is true, false, or undetermined given the premise. The relationship can be chosen from entailment, contradiction, and neutral.\nPremise: yani bu iyi bunu d\u00fc\u015f\u00fcnmemi\u015ftim evet\nHypothesis: \u0130yi bir noktaya de\u011findin.\nYou should provide the final answer at the end in the format: 'Relationship: [entailment, neutral or contradiction]'.",
+        "response": "Relationship: entailment",
+        "predicted_answer": 0,
+        "ground_truth": 0,
+        "is_correct": true
+    }
+]

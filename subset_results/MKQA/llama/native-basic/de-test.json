@@ -1,0 +1,114 @@
+[
+    {
+        "id": "81543553621132354",
+        "prompt": "Beantworte die Frage mit einem oder wenigen Worten auf Deutsch: \nWo wurde \"Hilfe, die Amis kommen\" gefilmt?\nSie sollten die endg\u00fcltige Antwort am Ende im folgenden Format angeben: 'Antwort: [ein oder wenige W\u00f6rter]'.",
+        "response": "Antwort: West-Berlin.",
+        "predicted_answer": "West-Berlin.",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q38",
+                "text": "Italien",
+                "aliases": [
+                    "Italienische Republik"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q142",
+                "text": "Frankreich",
+                "aliases": [
+                    "Franz\u00f6sische Republik",
+                    "Republik Frankreich",
+                    "fr"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q21",
+                "text": "England",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q713750",
+                "text": "Geschichte der Bundesrepublik Deutschland (bis 1990)",
+                "aliases": [
+                    "Alte Bundesrepublik",
+                    "Alte Bundesrepublik Deutschland",
+                    "Westdeutschland",
+                    "Bundesrepublik Deutschland (1949-1990)",
+                    "BR Dtld."
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "8627228541151141053",
+        "prompt": "Beantworte die Frage mit einem oder wenigen Worten auf Deutsch: \nwer singt das lied love will keep us together\nSie sollten die endg\u00fcltige Antwort am Ende im folgenden Format angeben: 'Antwort: [ein oder wenige W\u00f6rter]'.",
+        "response": "Hollies\n\nAntwort: Hollies",
+        "predicted_answer": "Hollies",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q1035077",
+                "text": "Captain & Tennille",
+                "aliases": [
+                    "The Captain and Tennille",
+                    "Captain and Tennille",
+                    "The Captain & Tennille",
+                    "Darrly Dragon",
+                    "Toni Tenille",
+                    "Tony Tennille"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "-7634638252335162798",
+        "prompt": "Beantworte die Frage mit einem oder wenigen Worten auf Deutsch: \nWie viele Staaten gibt es in den Continental United States\nSie sollten die endg\u00fcltige Antwort am Ende im folgenden Format angeben: 'Antwort: [ein oder wenige W\u00f6rter]'.",
+        "response": "Antwort: 48",
+        "predicted_answer": "48",
+        "ground_truth": [
+            {
+                "type": "number",
+                "text": "48.0",
+                "aliases": [
+                    "48"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "8643588946565257997",
+        "prompt": "Beantworte die Frage mit einem oder wenigen Worten auf Deutsch: \nwer ist der mann im i dont always meme\nSie sollten die endg\u00fcltige Antwort am Ende im folgenden Format angeben: 'Antwort: [ein oder wenige W\u00f6rter]'.",
+        "response": "Antwort: Danny DeVito",
+        "predicted_answer": "Danny DeVito",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q1255362",
+                "text": "Jonathan Goldsmith",
+                "aliases": []
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "6747693054679197435",
+        "prompt": "Beantworte die Frage mit einem oder wenigen Worten auf Deutsch: \nWer ist das j\u00fcngste Mitglied von \"why don't we\"\nSie sollten die endg\u00fcltige Antwort am Ende im folgenden Format angeben: 'Antwort: [ein oder wenige W\u00f6rter]'.",
+        "response": "Antwort: Jonah Marais",
+        "predicted_answer": "Jonah Marais",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "text": "Zachary Dean Herron",
+                "entity": "Q50437010"
+            }
+        ],
+        "is_correct": null
+    }
+]

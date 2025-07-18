@@ -1,0 +1,802 @@
+{
+    "327": {
+        "question": "cause",
+        "premise": "Người đàn ông sống sót sau căn bệnh hiểm nghèo.",
+        "choice1": "Ông ấy đã ký di chúc.",
+        "choice2": "Ông được ghép tạng.",
+        "label": 1,
+        "changed": false
+    },
+    "57": {
+        "question": "effect",
+        "premise": "Bồn rửa trong phòng tắm bị tắc.",
+        "choice1": "Tôi bật vòi nước.",
+        "choice2": "Tôi đổ nước xả vào đó.",
+        "label": 1,
+        "changed": false
+    },
+    "12": {
+        "question": "cause",
+        "premise": "Check tôi viết bị trả lại.",
+        "choice1": "Tài khoản ngân hàng của tôi trống rỗng.",
+        "choice2": "Tôi đã được tăng lương.",
+        "label": 0,
+        "changed": false
+    },
+    "379": {
+        "question": "cause",
+        "premise": "Tôi quên cả thời gian.",
+        "choice1": "Tôi đã mơ mộng.",
+        "choice2": "Tôi buồn nôn.",
+        "label": 0,
+        "changed": false
+    },
+    "140": {
+        "question": "cause",
+        "premise": "Cậu bé gọt bút chì.",
+        "choice1": "Nó rẻ tiền.",
+        "choice2": "Thật là buồn tẻ.",
+        "label": 1,
+        "changed": true
+    },
+    "125": {
+        "question": "effect",
+        "premise": "Mưa đã trút xuống.",
+        "choice1": "Cơn bão trở nên tồi tệ hơn.",
+        "choice2": "Tôi lao vào trong.",
+        "label": 1,
+        "changed": false
+    },
+    "114": {
+        "question": "effect",
+        "premise": "Tôi nướng một chiếc bánh táo.",
+        "choice1": "Một mùi thối rữa tràn ngập bếp.",
+        "choice2": "Một mùi thơm ấm áp tràn ngập nhà bếp.",
+        "label": 1,
+        "changed": false
+    },
+    "71": {
+        "question": "cause",
+        "premise": "Người phụ nữ ngủ quên.",
+        "choice1": "Cô ở lại đêm trong một khách sạn.",
+        "choice2": "Cô quên cài đồng hồ báo thức.",
+        "label": 1,
+        "changed": false
+    },
+    "377": {
+        "question": "effect",
+        "premise": "Tên tội phạm nhắm súng vào nạn nhân của mình.",
+        "choice1": "Tên tội phạm đặt súng xuống.",
+        "choice2": "Nạn nhân đưa tay lên.",
+        "label": 1,
+        "changed": false
+    },
+    "52": {
+        "question": "effect",
+        "premise": "Cây rụng lá.",
+        "choice1": "Lá chuyển màu.",
+        "choice2": "Lá dồn trên mặt đường.",
+        "label": 1,
+        "changed": false
+    },
+    "346": {
+        "question": "cause",
+        "premise": "Sàn gỗ bị trầy xước.",
+        "choice1": "Cậu bé ném đệm ra khỏi đi văng.",
+        "choice2": "Cậu bé kéo một chiếc ghế trên sàn nhà.",
+        "label": 1,
+        "changed": false
+    },
+    "496": {
+        "question": "effect",
+        "premise": "Tôi đã suy nghĩ cẩn thận về vấn đề này.",
+        "choice1": "Tôi xin lời khuyên.",
+        "choice2": "Tôi đã đưa ra một giải pháp.",
+        "label": 1,
+        "changed": false
+    },
+    "456": {
+        "question": "effect",
+        "premise": "Tôi đã uống thuốc kháng sinh.",
+        "choice1": "Nhiễm trùng hết hẳn.",
+        "choice2": "Nhiễm trùng lây lan.",
+        "label": 0,
+        "changed": false
+    },
+    "279": {
+        "question": "effect",
+        "premise": "Cô gái tham gia nhóm tranh luận.",
+        "choice1": "Cô học cách sử dụng máy tính.",
+        "choice2": "Cô học được kỹ năng giao tiếp.",
+        "label": 1,
+        "changed": false
+    },
+    "44": {
+        "question": "cause",
+        "premise": "Các nhà hoạt động tẩy chay các sản phẩm.",
+        "choice1": "Các sản phẩm đã được kiểm tra để đảm bảo chất lượng.",
+        "choice2": "Các sản phẩm được sản xuất thông qua lao động trẻ em.",
+        "label": 1,
+        "changed": false
+    },
+    "302": {
+        "question": "effect",
+        "premise": "Người họa sĩ trộn sơn vàng và sơn xanh.",
+        "choice1": "Sơn văng khắp nơi.",
+        "choice2": "Sơn chuyển sang màu xanh lá cây.",
+        "label": 1,
+        "changed": false
+    },
+    "216": {
+        "question": "cause",
+        "premise": "Đứa trẻ ợ.",
+        "choice1": "Nó uống một ngụm soda.",
+        "choice2": "Nó mở lon soda.",
+        "label": 0,
+        "changed": false
+    },
+    "16": {
+        "question": "effect",
+        "premise": "Tôi rót nước vào ly.",
+        "choice1": "Nước làm dịu cơn khát của tôi.",
+        "choice2": "Chiếc ly trở nên đầy.",
+        "label": 1,
+        "changed": false
+    },
+    "15": {
+        "question": "cause",
+        "premise": "Cô gái ghi nhớ mã.",
+        "choice1": "Cô tự đọc nhẩm lại.",
+        "choice2": "Cô quên viết nó xuống.",
+        "label": 0,
+        "changed": false
+    },
+    "47": {
+        "question": "effect",
+        "premise": "Tôi làm đổ rượu lên áo.",
+        "choice1": "Tôi đeo tạp dề.",
+        "choice2": "Tôi đã thay áo.",
+        "label": 1,
+        "changed": false
+    },
+    "111": {
+        "question": "cause",
+        "premise": "Gia đình tìm kiếm khắp khu phố.",
+        "choice1": "Con chó của họ bỏ nhà ra đi.",
+        "choice2": "Đồ trang sức đắt tiền đã bị mất khỏi nhà.",
+        "label": 0,
+        "changed": false
+    },
+    "119": {
+        "question": "effect",
+        "premise": "Mọi người đều không ủng hộ cặp đôi đính hôn.",
+        "choice1": "Hai vợ chồng có thai.",
+        "choice2": "Hai vợ chồng chạy trốn.",
+        "label": 1,
+        "changed": false
+    },
+    "258": {
+        "question": "cause",
+        "premise": "Chiếc mũ của người đàn ông bị thổi bay.",
+        "choice1": "Anh cởi mũ.",
+        "choice2": "Bên ngoài trời có gió.",
+        "label": 1,
+        "changed": false
+    },
+    "308": {
+        "question": "cause",
+        "premise": "Bố mẹ vội chạy vào phòng ngủ của con.",
+        "choice1": "Đứa trẻ tỉnh dậy gào thét từ một cơn ác mộng.",
+        "choice2": "Đứa trẻ sợ hãi nhìn xuống gầm giường.",
+        "label": 0,
+        "changed": false
+    },
+    "13": {
+        "question": "effect",
+        "premise": "Hộp thư đến của ông ấy đầy thư rác.",
+        "choice1": "Ông ấy xóa thư rác.",
+        "choice2": "Ông đã gửi một email hàng loạt.",
+        "label": 0,
+        "changed": false
+    },
+    "287": {
+        "question": "cause",
+        "premise": "Quần áo của cậu bé đã ướt sũng.",
+        "choice1": "Cậu trèo ra khỏi bể bơi.",
+        "choice2": "Cậu ngã xuống bể.",
+        "label": 1,
+        "changed": false
+    },
+    "101": {
+        "question": "effect",
+        "premise": "Diễn giả đã bình luận không chính xác.",
+        "choice1": "Anh làm khán giả chán.",
+        "choice2": "Anh xúc phạm khán giả.",
+        "label": 1,
+        "changed": false
+    },
+    "366": {
+        "question": "effect",
+        "premise": "Tôi cảm thấy buồn chán.",
+        "choice1": "Tôi khịt mũi.",
+        "choice2": "Tôi ngáp.",
+        "label": 1,
+        "changed": false
+    },
+    "332": {
+        "question": "cause",
+        "premise": "Tôi gãi da.",
+        "choice1": "Nó ướt mồ hôi.",
+        "choice2": "Nó ngứa.",
+        "label": 1,
+        "changed": false
+    },
+    "359": {
+        "question": "effect",
+        "premise": "Tôi đã xin lỗi bạn tôi.",
+        "choice1": "Bạn tôi đã tha thứ cho tôi.",
+        "choice2": "Bạn tôi trở nên tức giận.",
+        "label": 0,
+        "changed": false
+    },
+    "486": {
+        "question": "cause",
+        "premise": "Người đàn ông ra khỏi phòng tắm.",
+        "choice1": "Nước nóng đã hết.",
+        "choice2": "Anh ta không tm thấy khăn tắm.",
+        "label": 0,
+        "changed": false
+    },
+    "214": {
+        "question": "effect",
+        "premise": "Người tù chết đói.",
+        "choice1": "Anh ấy đã chết.",
+        "choice2": "Anh chạy trốn.",
+        "label": 0,
+        "changed": false
+    },
+    "112": {
+        "question": "cause",
+        "premise": "Tôi thấy hơi thở của mình khi tôi thở ra.",
+        "choice1": "Thời tiết se lạnh.",
+        "choice2": "Ngực tôi cảm thấy căng cứng.",
+        "label": 0,
+        "changed": false
+    },
+    "229": {
+        "question": "effect",
+        "premise": "Người chơi tấn công đối thủ của mình.",
+        "choice1": "Đối thủ của anh bắt được đường chuyền.",
+        "choice2": "Đối thủ của anh ta ngã xuống đất.",
+        "label": 1,
+        "changed": false
+    },
+    "301": {
+        "question": "effect",
+        "premise": "Sinh viên tốt nghiệp đại học.",
+        "choice1": "Anh tìm việc.",
+        "choice2": "Anh theo đuổi một sở thích.",
+        "label": 0,
+        "changed": false
+    },
+    "142": {
+        "question": "effect",
+        "premise": "Vết xước trên da tôi thật sâu.",
+        "choice1": "Nó lành nhanh chóng.",
+        "choice2": "Nó để lại một vết sẹo.",
+        "label": 1,
+        "changed": false
+    },
+    "414": {
+        "question": "cause",
+        "premise": "Máy tính xách tay không bật lên được.",
+        "choice1": "Tôi đã đánh rơi nó.",
+        "choice2": "Tôi đã sạc pin nó.",
+        "label": 0,
+        "changed": false
+    },
+    "445": {
+        "question": "cause",
+        "premise": "Người phụ nữ nắm chặt cổ họng.",
+        "choice1": "Cô nuốt thức ăn.",
+        "choice2": "Cô nghẹn thức ăn.",
+        "label": 1,
+        "changed": false
+    },
+    "3": {
+        "question": "effect",
+        "premise": "Các du khách đã đến biên giới.",
+        "choice1": "Các nhân viên tuần tra kiểm tra hộ chiếu của họ.",
+        "choice2": "Các nhân viên tuần tra buộc tội họ buôn lậu.",
+        "label": 0,
+        "changed": false
+    },
+    "388": {
+        "question": "effect",
+        "premise": "Cậu bé véo khuỷu tay cô bé.",
+        "choice1": "Cô nhún vai nhìn anh.",
+        "choice2": "Cô hất tay ra khỏi anh.",
+        "label": 1,
+        "changed": false
+    },
+    "412": {
+        "question": "cause",
+        "premise": "Người cựu binh bước đi khập khiễng.",
+        "choice1": "Ông ấy chuẩn bị nhập ngũ.",
+        "choice2": "Ông ấy bị thương trong trận chiến.",
+        "label": 1,
+        "changed": false
+    },
+    "81": {
+        "question": "cause",
+        "premise": "Những người lướt sóng trở lại bãi biển.",
+        "choice1": "Họ ướt đẫm.",
+        "choice2": "Họ đã nhìn thấy một con cá mập.",
+        "label": 1,
+        "changed": false
+    },
+    "357": {
+        "question": "cause",
+        "premise": "Tôi về nhà sớm.",
+        "choice1": "Tôi bị nhức đầu.",
+        "choice2": "Ông chủ của tôi đã tổ chức một cuộc họp.",
+        "label": 0,
+        "changed": false
+    },
+    "483": {
+        "question": "cause",
+        "premise": "Tôi hút bụi thảm.",
+        "choice1": "Bạn cùng phòng của tôi làm đổ đồ uống.",
+        "choice2": "Con chó của tôi rụng lông.",
+        "label": 1,
+        "changed": false
+    },
+    "174": {
+        "question": "effect",
+        "premise": "Bãi đậu xe của tòa nhà trống rỗng.",
+        "choice1": "Tôi đậu xe bên kia đường.",
+        "choice2": "Tôi đậu gần lối vào.",
+        "label": 1,
+        "changed": false
+    },
+    "464": {
+        "question": "effect",
+        "premise": "Gia đình muốn làm quen với hàng xóm mới của họ.",
+        "choice1": "Gia đình mời hàng xóm qua ăn tối.",
+        "choice2": "Gia đình vẫy tay chào hàng xóm từ sân của họ.",
+        "label": 0,
+        "changed": false
+    },
+    "79": {
+        "question": "effect",
+        "premise": "Cô gái mất kiểm soát chiếc xe đạp của mình.",
+        "choice1": "Cô buông tay lái.",
+        "choice2": "Cô đâm vào một hàng rào.",
+        "label": 1,
+        "changed": false
+    },
+    "110": {
+        "question": "effect",
+        "premise": "Tôi nhỡ cuộc gọi của bạn gái tôi.",
+        "choice1": "Tôi gọi lại cho cô ấy.",
+        "choice2": "Tôi gặp cô ấy đi ăn tối.",
+        "label": 0,
+        "changed": false
+    },
+    "390": {
+        "question": "effect",
+        "premise": "Cậu bé bước xuống bùn.",
+        "choice1": "Bùn dính vào giày cậu.",
+        "choice2": "Bùn đập vào mặt cậu.",
+        "label": 0,
+        "changed": false
+    },
+    "172": {
+        "question": "cause",
+        "premise": "Tôi thèm một ly sữa.",
+        "choice1": "Tôi đang ăn bánh quy.",
+        "choice2": "Tôi đang nướng bánh mì.",
+        "label": 0,
+        "changed": false
+    },
+    "490": {
+        "question": "effect",
+        "premise": "Mắt cá chân của tôi bị sưng.",
+        "choice1": "Tôi chườm đá.",
+        "choice2": "Tôi xoa kem dưỡng.",
+        "label": 0,
+        "changed": false
+    },
+    "480": {
+        "question": "cause",
+        "premise": "Người đàn ông bị từ chối cho vay.",
+        "choice1": "Anh ta đang mắc nợ.",
+        "choice2": "Anh ta bắt đầu kinh doanh.",
+        "label": 0,
+        "changed": false
+    },
+    "194": {
+        "question": "cause",
+        "premise": "Dung nham chảy từ núi lửa.",
+        "choice1": "Núi lửa phun trào.",
+        "choice2": "Núi lửa không hoạt động.",
+        "label": 0,
+        "changed": false
+    },
+    "49": {
+        "question": "effect",
+        "premise": "Nhạc sĩ đường phố thu hút một đám đông.",
+        "choice1": "Mọi người cho anh tiền lẻ.",
+        "choice2": "Anh tiễn đám đông đi.",
+        "label": 0,
+        "changed": false
+    },
+    "183": {
+        "question": "effect",
+        "premise": "Nhiếp ảnh gia quên sử dụng đèn flash trên máy ảnh.",
+        "choice1": "Những bức ảnh trở nên mờ ảo.",
+        "choice2": "Mọi người trong ảnh đều từ chối mỉm cười.",
+        "label": 0,
+        "changed": false
+    },
+    "433": {
+        "question": "cause",
+        "premise": "Những đứa trẻ được gửi đến một trại trẻ mồ côi.",
+        "choice1": "Cha mẹ của chúng đã chết.",
+        "choice2": "Cha mẹ chúng chiều chuộng chúng.",
+        "label": 0,
+        "changed": false
+    },
+    "176": {
+        "question": "cause",
+        "premise": "Người cộng sự cúp máy.",
+        "choice1": "Tôi yêu cầu nói chuyện với quản lí.",
+        "choice2": "Tôi đã cung cấp số nhận dạng của tôi.",
+        "label": 0,
+        "changed": false
+    },
+    "309": {
+        "question": "cause",
+        "premise": "Người phụ nữ giao tiếp bằng ngôn ngữ ký hiệu.",
+        "choice1": "Cô ấy bị sinh non.",
+        "choice2": "Cô ấy bị điếc bẩm sinh.",
+        "label": 1,
+        "changed": false
+    },
+    "135": {
+        "question": "cause",
+        "premise": "Cậu bé thất bại trong kỳ thi lịch sử.",
+        "choice1": "Cậu rất tập trung trong lớp.",
+        "choice2": "Cậu quên học bài.",
+        "label": 1,
+        "changed": false
+    },
+    "413": {
+        "question": "effect",
+        "premise": "Tên tội phạm bỏ chạy khỏi cảnh sát.",
+        "choice1": "Cảnh sát chăm sóc nạn nhân.",
+        "choice2": "Cảnh sát đuổi theo tên tội phạm.",
+        "label": 1,
+        "changed": false
+    },
+    "22": {
+        "question": "effect",
+        "premise": "Người đàn ông dự đoán thời tiết lạnh trong chuyến đi của mình.",
+        "choice1": "Anh xếp quần áo ấm vào vali.",
+        "choice2": "Anh đi du lịch với một chiếc vali lớn.",
+        "label": 0,
+        "changed": false
+    },
+    "373": {
+        "question": "effect",
+        "premise": "Xe tôi bị hỏng.",
+        "choice1": "Tôi đã đi đến trung tâm mua sắm.",
+        "choice2": "Tôi gọi thợ sửa máy.",
+        "label": 1,
+        "changed": false
+    },
+    "235": {
+        "question": "cause",
+        "premise": "Tôi cảm thấy thoải mái.",
+        "choice1": "Tôi quỳ xuống đất.",
+        "choice2": "Tôi quấn mình trong chăn.",
+        "label": 1,
+        "changed": false
+    },
+    "274": {
+        "question": "effect",
+        "premise": "CEO của công ty đã từ chức.",
+        "choice1": "Hội đồng quản trị đã giải thể công ty.",
+        "choice2": "Hội đồng quản trị tìm thấy người thay thế ông.",
+        "label": 1,
+        "changed": false
+    },
+    "63": {
+        "question": "cause",
+        "premise": "Tay tôi bị chuột rút.",
+        "choice1": "Tôi đã viết bài luận bằng tay.",
+        "choice2": "Vợ chồng tôi nắm tay nhau.",
+        "label": 0,
+        "changed": false
+    },
+    "193": {
+        "question": "cause",
+        "premise": "Người phụ nữ có quầng thâm dưới mắt.",
+        "choice1": "Cô thức cả đêm.",
+        "choice2": "Cô đặt con trai lên giường.",
+        "label": 0,
+        "changed": false
+    },
+    "40": {
+        "question": "effect",
+        "premise": "Du khách đã nhận phòng khách sạn.",
+        "choice1": "Họ tháo vali ra.",
+        "choice2": "Họ đã đến sân bay.",
+        "label": 0,
+        "changed": false
+    },
+    "282": {
+        "question": "effect",
+        "premise": "Tàu lượn siêu tốc lao xuống dốc cao.",
+        "choice1": "Các hành khách cười khúc khích.",
+        "choice2": "Các hành khách hét lên.",
+        "label": 1,
+        "changed": false
+    },
+    "150": {
+        "question": "cause",
+        "premise": "Tim của nam diễn viên đập mạnh trước màn biểu diễn.",
+        "choice1": "Anh ấy sợ sân khấu.",
+        "choice2": "Anh ghi nhớ lời thoại của mình.",
+        "label": 0,
+        "changed": false
+    },
+    "424": {
+        "question": "effect",
+        "premise": "Gia đình đã đi đến sở thú.",
+        "choice1": "Bọn trẻ ngưỡng mộ những con vật.",
+        "choice2": "Bọn trẻ đuổi theo những con vật.",
+        "label": 0,
+        "changed": false
+    },
+    "321": {
+        "question": "effect",
+        "premise": "Các cô gái thì thầm qua lại với nhau ở bàn ăn trưa.",
+        "choice1": "Những học sinh khác ngồi xuống bàn ăn trưa.",
+        "choice2": "Các sinh viên khác ở bàn ăn trưa cảm thấy bị bỏ rơi.",
+        "label": 1,
+        "changed": false
+    },
+    "316": {
+        "question": "effect",
+        "premise": "Tôi thức dậy giữa đêm vì cảm thấy lạnh.",
+        "choice1": "Tôi mặc thêm quần bó sát.",
+        "choice2": "Tôi uống một ly nước.",
+        "label": 0,
+        "changed": false
+    },
+    "185": {
+        "question": "cause",
+        "premise": "Tôi tập thể dục.",
+        "choice1": "Tôi cảm thấy tràn đầy năng lượng.",
+        "choice2": "Tôi đã hoảng sợ.",
+        "label": 0,
+        "changed": false
+    },
+    "295": {
+        "question": "effect",
+        "premise": "Tiếng nhạc quá nhỏ để nghe thấy.",
+        "choice1": "Tôi tăng âm lượng.",
+        "choice2": "Tôi sáng tác bài hát của riêng tôi.",
+        "label": 0,
+        "changed": false
+    },
+    "98": {
+        "question": "cause",
+        "premise": "Chúng tôi đi tàu lượn siêu tốc.",
+        "choice1": "Trông nó thật đáng sợ.",
+        "choice2": "Trông nó rất vui.",
+        "label": 1,
+        "changed": false
+    },
+    "360": {
+        "question": "cause",
+        "premise": "Người đàn ông nổi bật trong đám đông.",
+        "choice1": "Anh mang ba lô.",
+        "choice2": "Anh mặc vest neon.",
+        "label": 1,
+        "changed": false
+    },
+    "35": {
+        "question": "cause",
+        "premise": "Tôi mất kiên nhẫn.",
+        "choice1": "Bạn tôi làm tôi chờ.",
+        "choice2": "Bạn tôi đến đúng giờ.",
+        "label": 0,
+        "changed": false
+    },
+    "23": {
+        "question": "effect",
+        "premise": "Học sinh biết câu trả lời cho câu hỏi.",
+        "choice1": "Cậu ấy giơ tay.",
+        "choice2": "Cậy ấy làm biếng.",
+        "label": 0,
+        "changed": false
+    },
+    "338": {
+        "question": "effect",
+        "premise": "Người phụ nữ đấm vào mũi kẻ tấn công.",
+        "choice1": "Cơ thể của kẻ tấn công trở nên vô hồn.",
+        "choice2": "Kẻ tấn công bắt đầu chảy máu.",
+        "label": 1,
+        "changed": false
+    },
+    "116": {
+        "question": "cause",
+        "premise": "Hơi nước bốc lên từ nồi nước.",
+        "choice1": "Nước sôi.",
+        "choice2": "Tôi đậy nắp nồi.",
+        "label": 0,
+        "changed": false
+    },
+    "395": {
+        "question": "cause",
+        "premise": "Gia đình chúc mừng cặp đôi.",
+        "choice1": "Cặp đôi tuyên bố họ đang ly thân.",
+        "choice2": "Cặp đôi tuyên bố họ sắp có con.",
+        "label": 1,
+        "changed": false
+    },
+    "148": {
+        "question": "effect",
+        "premise": "Người phụ nữ ở nhà.",
+        "choice1": "Ông chủ của cô khen ngợi cô.",
+        "choice2": "Đồng nghiệp của cô làm thay cho cô.",
+        "label": 1,
+        "changed": false
+    },
+    "444": {
+        "question": "cause",
+        "premise": "Người đàn ông đã trải qua trị liệu.",
+        "choice1": "Bệnh tâm thần di truyền trong gia đình anh.",
+        "choice2": "Anh bị chẩn đoán mắc bệnh trầm cảm.",
+        "label": 1,
+        "changed": false
+    },
+    "478": {
+        "question": "effect",
+        "premise": "Cô gái trông tái nhợt.",
+        "choice1": "Cha cô đọc cho cô nghe một câu chuyện.",
+        "choice2": "Cha cô sờ trán cô.",
+        "label": 1,
+        "changed": false
+    },
+    "51": {
+        "question": "effect",
+        "premise": "Radar của phi công đã phát hiện ra một cơn bão.",
+        "choice1": "Phi công điều hướng khỏi cơn bão.",
+        "choice2": "Phi công đã bay qua cơn bão.",
+        "label": 0,
+        "changed": false
+    },
+    "447": {
+        "question": "effect",
+        "premise": "Con chó nhìn miếng bít tết ngon ngọt trên bàn.",
+        "choice1": "Nó chảy nước dãi.",
+        "choice2": "Nó nằm xuống.",
+        "label": 0,
+        "changed": false
+    },
+    "454": {
+        "question": "cause",
+        "premise": "Người phụ nữ vấp ngã trên vỉa hè.",
+        "choice1": "Có một vết nứt trong xi măng.",
+        "choice2": "Cô nghe thấy ai gọi tên mình.",
+        "label": 0,
+        "changed": false
+    },
+    "232": {
+        "question": "cause",
+        "premise": "Thủy ngân trong nhiệt kế tăng.",
+        "choice1": "Tôi đánh rơi nhiệt kế.",
+        "choice2": "Thời tiết trở nên ấm hơn.",
+        "label": 1,
+        "changed": false
+    },
+    "325": {
+        "question": "cause",
+        "premise": "Lửa rừng lan rộng.",
+        "choice1": "Những cơn gió trở nên mạnh hơn.",
+        "choice2": "Những kẻ chủ mưu đã bị bắt giữ.",
+        "label": 0,
+        "changed": false
+    },
+    "186": {
+        "question": "effect",
+        "premise": "Tôi bóp miếng bọt biển ẩm ướt.",
+        "choice1": "Nó ngấm nước.",
+        "choice2": "Nước thấm chảy ra.",
+        "label": 1,
+        "changed": false
+    },
+    "83": {
+        "question": "effect",
+        "premise": "Người chồng cảm thấy có lỗi khi lừa dối vợ.",
+        "choice1": "Anh buộc tội cô ngoại tình.",
+        "choice2": "Anh thú nhận ngoại tình với cô.",
+        "label": 1,
+        "changed": false
+    },
+    "189": {
+        "question": "effect",
+        "premise": "Một chiếc ô tô lạ đỗ bên ngoài nhà tôi.",
+        "choice1": "Tôi trở nên nghi ngờ.",
+        "choice2": "Tôi gọi cho cảnh sát.",
+        "label": 0,
+        "changed": false
+    },
+    "181": {
+        "question": "cause",
+        "premise": "Đứa bé ngủ thiếp đi.",
+        "choice1": "Người cha đã thay tã cho em bé.",
+        "choice2": "Người cha nhẹ nhàng đá đứa bé.",
+        "label": 1,
+        "changed": false
+    },
+    "107": {
+        "question": "cause",
+        "premise": "Phòng tắm ngập nước.",
+        "choice1": "Nước nhà vệ sinh tràn ra.",
+        "choice2": "Máy nước nóng bị hỏng.",
+        "label": 0,
+        "changed": false
+    },
+    "343": {
+        "question": "effect",
+        "premise": "Người phụ nữ thiếu tiền thuê nhà.",
+        "choice1": "Cô làm thêm giờ.",
+        "choice2": "Cô nghỉ việc.",
+        "label": 0,
+        "changed": false
+    },
+    "136": {
+        "question": "cause",
+        "premise": "Tòa nhà trung tâm bị sập.",
+        "choice1": "Một trận động đất ập đến thành phố.",
+        "choice2": "Tỷ lệ tội phạm trong thành phố tăng.",
+        "label": 0,
+        "changed": false
+    },
+    "470": {
+        "question": "cause",
+        "premise": "Chương trình truyền hình bị kiểm duyệt.",
+        "choice1": "Nó chứa ngôn ngữ thô tục.",
+        "choice2": "Nó có một cốt truyện phức tạp.",
+        "label": 0,
+        "changed": false
+    },
+    "349": {
+        "question": "effect",
+        "premise": "Tôi để trái cây trên bàn.",
+        "choice1": "Quả rụng hạt.",
+        "choice2": "Ruồi tràn ngập trái cây.",
+        "label": 1,
+        "changed": false
+    },
+    "331": {
+        "question": "cause",
+        "premise": "Bác sĩ chẩn đoán bệnh nhân.",
+        "choice1": "Cô đã xác định các triệu chứng của bệnh nhân.",
+        "choice2": "Cô kê thuốc cho bệnh nhân.",
+        "label": 0,
+        "changed": false
+    },
+    "36": {
+        "question": "effect",
+        "premise": "Các nước tham chiến muốn hòa bình.",
+        "choice1": "Họ đã phát triển vũ khí hạt nhân.",
+        "choice2": "Họ đã thương lượng một hiệp ước.",
+        "label": 1,
+        "changed": false
+    }
+}

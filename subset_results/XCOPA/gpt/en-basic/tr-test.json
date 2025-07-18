@@ -1,0 +1,42 @@
+[
+    {
+        "id": "71",
+        "prompt": "Here is a premise: Kad\u0131n uyuyakald\u0131.. What is the effect? Help me pick the more plausible option: -choice1: Geceyi bir otelde ge\u00e7irdi., -choice2: [choice]\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "Answer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 1,
+        "is_correct": false
+    },
+    {
+        "id": "12",
+        "prompt": "Here is a premise: Yazd\u0131\u011f\u0131m \u00e7ek kar\u015f\u0131l\u0131ks\u0131z \u00e7\u0131kt\u0131.. What is the effect? Help me pick the more plausible option: -choice1: Banka hesab\u0131mda para yoktu., -choice2: [choice]\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "Answer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "346",
+        "prompt": "Here is a premise: Tahta zemin \u00e7izilmeye ba\u015flad\u0131.. What is the cause? Help me pick the more plausible option: -choice1: Gen\u00e7, koltuktaki yast\u0131klar\u0131 kald\u0131rd\u0131., -choice2: [choice]\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "Answer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 1,
+        "is_correct": false
+    },
+    {
+        "id": "172",
+        "prompt": "Here is a premise: Can\u0131m bir bardak s\u00fct \u00e7ekti.. What is the cause? Help me pick the more plausible option: -choice1: Kurabiye yiyordum., -choice2: [choice]\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "Answer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "229",
+        "prompt": "Here is a premise: Oyuncu rakibi ile m\u00fccadele etti.. What is the effect? Help me pick the more plausible option: -choice1: Rakibi pas\u0131 yakalad\u0131., -choice2: [choice]\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "Answer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 1,
+        "is_correct": false
+    }
+]

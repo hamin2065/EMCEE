@@ -1,0 +1,42 @@
+[
+    {
+        "id": 220,
+        "prompt": "The following is a multiple-choice question.\nBonga het 'n kartondoosskyf wat hy in stukke wil sny om 'n reghoekige piramide te maak. Hy gaan die volgende stukke sny:\n(A) Vier reghoeke en twee vierkante\n(B) Twee reghoeke en vier vierkante\n(C) Drie reghoeke en een driehoek\n(D) Een reghoek en vier driehoeke\nLet's think step-by-step in English, and provide the final answer at the end in the format: 'Answer: [option]'\nYou should provide the final answer at the end in the format: 'Answer: [option]'",
+        "response": "Let's solve this step by step:\n\n1. First, let's understand what a rectangular pyramid looks like:\n- A rectangular pyramid has a rectangular base\n- It has triangular sides that meet at a point (apex)\n\n2. Let's count the pieces needed to construct a rectangular pyramid:\n- Base: This will be a rectangle\n- Sides: These will be triangular faces that connect the base to the apex\n\n3. Analyzing the number of pieces:\n- Base: 1 rectangle\n- Sides: 4 triangular faces (one for each side of the rectangular base)\n\n4. Checking the given options:\n- Option A: Four rectangles and two squares (does not match a pyramid)\n- Option B: Two rectangles and four squares (does not match a pyramid)\n- Option C: Three rectangles and one triangle (does not match a pyramid)\n- Option D: One rectangle and four triangles (matches a rectangular pyramid)\n\n5. Option D perfectly describes the pieces needed to construct a rectangular pyramid:\n- 1 rectangular base\n- 4 triangular side faces\n\nTherefore:\n\nAnswer: D",
+        "predicted_answer": "D",
+        "ground_truth": "D",
+        "is_correct": true
+    },
+    {
+        "id": 59,
+        "prompt": "The following is a multiple-choice question.\nGeleiers is gewoonlik van ... gemaak.\n(A) metale\n(B) skakelaars\n(C) wol\n(D) nie-metale\nLet's think step-by-step in English, and provide the final answer at the end in the format: 'Answer: [option]'\nYou should provide the final answer at the end in the format: 'Answer: [option]'",
+        "response": "Let's solve this step by step:\n\n1. First, let's translate the question to English:\n   \"Geleiers (Conductors) are usually made of ...\"\n\n2. Let's break down the key terms:\n   - \"Geleiers\" means \"conductors\" in Afrikaans\n   - Conductors are materials that allow electricity or heat to flow through them easily\n\n3. Let's analyze each option:\n   (A) metale (metals)\n   - Metals are known for their excellent conductivity\n   - Most electrical wires and conductors are made of metals like copper, aluminum\n   \n   (B) skakelaars (switches)\n   - Switches are devices, not materials\n   - This option doesn't make sense\n\n   (C) wol (wool)\n   - Wool is an insulator, not a conductor\n   - It does not allow electricity to flow easily\n\n   (D) nie-metale (non-metals)\n   - Non-metals are typically insulators\n   - They do not conduct electricity well\n\n4. Based on the scientific understanding of conductivity, metals are the best conductors.\n\nAnswer: A",
+        "predicted_answer": "A",
+        "ground_truth": "A",
+        "is_correct": true
+    },
+    {
+        "id": 2,
+        "prompt": "The following is a multiple-choice question.\nIn 'n sak met albasters is daar 7 blou, 5 rooi en 8 geel albasters. Wat is die waarskynlikheid dat 'n rooi albaster uitgehaal sal word?\n(A) 1/5\n(B) 1/2\n(C) 1/3\n(D) 1/4\nLet's think step-by-step in English, and provide the final answer at the end in the format: 'Answer: [option]'\nYou should provide the final answer at the end in the format: 'Answer: [option]'",
+        "response": "Let's solve this step by step:\n\n1. First, let's count the total number of marbles in the bag:\n   \u2022 Blue marbles: 7\n   \u2022 Red marbles: 5\n   \u2022 Yellow marbles: 8\n   \u2022 Total marbles: 7 + 5 + 8 = 20\n\n2. The probability of drawing a red marble is calculated by:\n   Number of red marbles \u00f7 Total number of marbles\n\n3. Number of red marbles = 5\n   Total number of marbles = 20\n\n4. Probability = 5/20 = 1/4\n\n5. Looking at the given options:\n   (A) 1/5\n   (B) 1/2\n   (C) 1/3\n   (D) 1/4\n\n6. The probability of drawing a red marble is 1/4, which corresponds to option D.\n\nAnswer: (D)",
+        "predicted_answer": "(D)",
+        "ground_truth": "D",
+        "is_correct": true
+    },
+    {
+        "id": 235,
+        "prompt": "The following is a multiple-choice question.\nWat is die verskil tussen \u0149 serie stroombaan en \u0149 parallelle stroombaan?\n(A) \u0149 Serie stroombaan volg een baan (pad) en \u0149 parallelle stroombaan verdeel in verskillende bane (takke).\n(B) \u0149 Serie stroombaan moet \u0149 smeltdraad h\u00ea.\n(C) \u0149 Parallelle stroombaan moet \u0149 stroombreker h\u00ea.\n(D) \u0149 Parallelle stroombaan volg een baan (pad) en \u0149 serie stroombaan verdeel in verskillende bane (takke).\nLet's think step-by-step in English, and provide the final answer at the end in the format: 'Answer: [option]'\nYou should provide the final answer at the end in the format: 'Answer: [option]'",
+        "response": "Let's solve this step by step:\n\n1. Understanding series circuits:\n- In a series circuit, components are connected end-to-end\n- Current flows through one path\n- All components receive the same current\n- If one component fails, the entire circuit breaks\n\n2. Understanding parallel circuits:\n- In a parallel circuit, components are connected across each other\n- Current can flow through multiple branches simultaneously\n- Each component receives the full voltage\n- If one component fails, other components continue to function\n\n3. Analyzing the options:\n- Option A suggests that a series circuit follows one path, while a parallel circuit divides into different branches. This matches the correct understanding of these circuits.\n- Option B talks about a fuse in a series circuit, which is not the defining characteristic\n- Option C talks about a circuit breaker in a parallel circuit, which is also not the defining characteristic\n- Option D is the opposite of option A, which is incorrect\n\n4. Conclusion:\nOption A correctly describes the fundamental difference between series and parallel circuits.\n\nAnswer: A",
+        "predicted_answer": "A",
+        "ground_truth": "A",
+        "is_correct": true
+    },
+    {
+        "id": 193,
+        "prompt": "The following is a multiple-choice question.\nWatter EEN van die volgende is 'n gevolg van die vernietiging van vleilande?\n(A) Verhoogde biodiversiteit\n(B) Afname in die beskikbaarheid van water\n(C) Afname in aardverwarming\n(D) Verhoogde watergehalte\nLet's think step-by-step in English, and provide the final answer at the end in the format: 'Answer: [option]'\nYou should provide the final answer at the end in the format: 'Answer: [option]'",
+        "response": "Let's solve this step by step:\n\n1. First, let's understand what vleilande (wetlands) are:\n- Wetlands are areas where water covers the soil or is present at or near the surface\n- They play a crucial role in the ecosystem\n\n2. Consider the consequences of destroying wetlands:\n- Wetlands act as natural water filters\n- They help regulate water flow and prevent flooding\n- They provide habitat for many species\n- They store carbon and help mitigate climate change\n\n3. Analyze each option:\n(A) Verhoogde biodiversiteit (Increased biodiversity)\n- Destroying wetlands would actually DECREASE biodiversity, not increase it\n- So this is incorrect\n\n(B) Afname in die beskikbaarheid van water (Decrease in water availability)\n- Wetlands help store and filter water\n- Destroying them would indeed reduce water availability\n- This seems like a logical consequence\n\n(C) Afname in aardverwarming (Decrease in global warming)\n- Wetlands actually help reduce global warming by storing carbon\n- Destroying them would increase, not decrease, global warming\n- So this is incorrect\n\n(D) Verhoogde watergehalte (Increased water quality)\n- Wetlands naturally filter water\n- Destroying them would reduce water quality\n- So this is incorrect\n\nAnswer: B",
+        "predicted_answer": "B",
+        "ground_truth": "B",
+        "is_correct": true
+    }
+]

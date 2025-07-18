@@ -1,0 +1,42 @@
+[
+    {
+        "id": "sw-4600",
+        "prompt": "You are an expert at natural language inference. Given the premise and hypothesis, your task is to judge whether the hypothesis is true, false, or undetermined given the premise. The relationship can be chosen from entailment, contradiction, and neutral.\nPremise: Ikiwa nimeandika historia ya hadithi itakuwa katika majina ya kamusi ya maeneo na watu waliofafanuliwa kwa suala la umuhimu binafsi.\nHypothesis: Ni muhimu kwangu kwamba tawasifu yangu iwe na urahisi wa kupatikana iwezekanavyo.\nYou should provide the final answer at the end in the format: 'Relationship: [entailment, neutral or contradiction]'.",
+        "response": "The premise discusses the importance of writing a history of a story in relation to names of places and people, emphasizing personal significance. The hypothesis states that it is important for the speaker that their biography is as accessible as possible. \n\nThe relationship between the premise and the hypothesis is not directly supportive or contradictory. The premise does not explicitly mention accessibility or the importance of a biography being easy to find, but it does imply a personal significance which could relate to the desire for accessibility. Therefore, the relationship is best described as neutral.\n\nFinal answer: Relationship: neutral",
+        "predicted_answer": 1,
+        "ground_truth": 2,
+        "is_correct": false
+    },
+    {
+        "id": "sw-2559",
+        "prompt": "You are an expert at natural language inference. Given the premise and hypothesis, your task is to judge whether the hypothesis is true, false, or undetermined given the premise. The relationship can be chosen from entailment, contradiction, and neutral.\nPremise: Kwa mfano rahisi ,tuseme gharama ka lazi ya kugagwa ni 10a na gharama ya msingi ni 16a.\nHypothesis: Gharama ya barua pepe inahitaji kuwa mingi kuliko kushiriki.\nYou should provide the final answer at the end in the format: 'Relationship: [entailment, neutral or contradiction]'.",
+        "response": "The premise discusses costs related to certain items (kugagwa and msingi) but does not provide any information about the cost of email or its comparison to sharing. The hypothesis introduces a new concept (the cost of email) that is not addressed in the premise, making it impossible to determine a direct relationship between the two statements.\n\nTherefore, the relationship is undetermined.\n\nFinal answer: Relationship: neutral",
+        "predicted_answer": 1,
+        "ground_truth": 1,
+        "is_correct": true
+    },
+    {
+        "id": "sw-2875",
+        "prompt": "You are an expert at natural language inference. Given the premise and hypothesis, your task is to judge whether the hypothesis is true, false, or undetermined given the premise. The relationship can be chosen from entailment, contradiction, and neutral.\nPremise: 27 Ugumu unaongezeka kadiri marekebisho ya bwela yanayohitajika kupatanisha SCR na kituo yanapoongezeka.\nHypothesis: Ugumu wa ishirini na saba unategemea marekebisho.\nYou should provide the final answer at the end in the format: 'Relationship: [entailment, neutral or contradiction]'.",
+        "response": "To analyze the relationship between the premise and the hypothesis, we need to understand the meanings of both statements.\n\n**Premise:** \"27 Ugumu unaongezeka kadiri marekebisho ya bwela yanayohitajika kupatanisha SCR na kituo yanapoongezeka.\"  \nThis translates to: \"The difficulty of 27 increases as the necessary adjustments to reconcile SCR and the station increase.\"\n\n**Hypothesis:** \"Ugumu wa ishirini na saba unategemea marekebisho.\"  \nThis translates to: \"The difficulty of twenty-seven depends on adjustments.\"\n\nNow, let's break down the relationship:\n\n1. The premise states that the difficulty (ugumu) of 27 increases with the necessary adjustments. This implies a direct relationship where the difficulty is influenced by the adjustments.\n2. The hypothesis states that the difficulty of 27 depends on adjustments, which aligns with the idea presented in the premise.\n\nSince the hypothesis is a restatement of the premise's implication regarding the relationship between difficulty and adjustments, we can conclude that the hypothesis is true based on the premise.\n\nFinal answer: Relationship: entailment",
+        "predicted_answer": 0,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "sw-695",
+        "prompt": "You are an expert at natural language inference. Given the premise and hypothesis, your task is to judge whether the hypothesis is true, false, or undetermined given the premise. The relationship can be chosen from entailment, contradiction, and neutral.\nPremise: Kwa ukweli mimi sijui kwa sababu sijawahi kuvaa marinda mengi. Wanielewa kweli?\nHypothesis: Ninavaa mavazi ya dresi kila wakati.\nYou should provide the final answer at the end in the format: 'Relationship: [entailment, neutral or contradiction]'.",
+        "response": "The premise states that the speaker does not know much about wearing many dresses because they have never worn them. The hypothesis claims that the speaker wears formal attire all the time. Since the premise indicates a lack of experience with dresses, it does not support the idea that the speaker wears formal attire regularly. Therefore, the hypothesis contradicts the premise.\n\nFinal answer: Relationship: contradiction",
+        "predicted_answer": 2,
+        "ground_truth": 2,
+        "is_correct": true
+    },
+    {
+        "id": "sw-4884",
+        "prompt": "You are an expert at natural language inference. Given the premise and hypothesis, your task is to judge whether the hypothesis is true, false, or undetermined given the premise. The relationship can be chosen from entailment, contradiction, and neutral.\nPremise: Kwa kweli kuna zaidi ya marekebisho 100 ya syllothetic.\nHypothesis: Kuna vivumishi syllothetic 200.\nYou should provide the final answer at the end in the format: 'Relationship: [entailment, neutral or contradiction]'.",
+        "response": "The premise states that there are more than 100 syllothetic modifications, while the hypothesis claims that there are 200 syllothetic adjectives. The premise does not provide specific information about the number of syllothetic adjectives, only that there are more than 100 modifications. Therefore, we cannot definitively conclude that there are exactly 200 syllothetic adjectives based on the premise.\n\nThus, the relationship is undetermined.\n\nFinal answer: Relationship: neutral",
+        "predicted_answer": 1,
+        "ground_truth": 1,
+        "is_correct": true
+    }
+]

@@ -1,0 +1,802 @@
+{
+    "327": {
+        "question": "cause",
+        "premise": "那人幸免于这种致命的疾病。",
+        "choice1": "他签了个要人。",
+        "choice2": "他接受了器官移植。",
+        "label": 1,
+        "changed": true
+    },
+    "57": {
+        "question": "effect",
+        "premise": "浴室的水槽堵塞了。",
+        "choice1": "我打开水龙头。",
+        "choice2": "我向水槽倒入了下水道清洁剂。",
+        "label": 1,
+        "changed": false
+    },
+    "12": {
+        "question": "cause",
+        "premise": "我的支票被拒付了。",
+        "choice1": "我的银行帐户是空的。",
+        "choice2": "我加薪了。",
+        "label": 0,
+        "changed": false
+    },
+    "379": {
+        "question": "cause",
+        "premise": "我忘记了时间。",
+        "choice1": "我在做白日梦。",
+        "choice2": "我恶心。",
+        "label": 0,
+        "changed": false
+    },
+    "140": {
+        "question": "cause",
+        "premise": "男孩把铅笔磨光了。",
+        "choice1": "它很便宜。",
+        "choice2": "它很钝。",
+        "label": 1,
+        "changed": false
+    },
+    "125": {
+        "question": "effect",
+        "premise": "大雨倾盆而下。",
+        "choice1": "暴风雨更猛烈了。",
+        "choice2": "我冲了进去。",
+        "label": 1,
+        "changed": true
+    },
+    "114": {
+        "question": "effect",
+        "premise": "我烤了一个苹果派。",
+        "choice1": "厨房弥漫着腐烂的气味。",
+        "choice2": "厨房里弥漫着温暖的香气。",
+        "label": 1,
+        "changed": false
+    },
+    "71": {
+        "question": "cause",
+        "premise": "女人睡过头了。",
+        "choice1": "她在旅馆住了一晚。",
+        "choice2": "她忘了设置闹钟。",
+        "label": 1,
+        "changed": false
+    },
+    "377": {
+        "question": "effect",
+        "premise": "罪犯用枪瞄准他的受害者。",
+        "choice1": "罪犯放下了枪。",
+        "choice2": "受害者举起双手。",
+        "label": 1,
+        "changed": false
+    },
+    "52": {
+        "question": "effect",
+        "premise": "这棵树落叶了。",
+        "choice1": "叶子变色了。",
+        "choice2": "叶子堆积在地面上。",
+        "label": 1,
+        "changed": false
+    },
+    "346": {
+        "question": "cause",
+        "premise": "木地板被划伤。",
+        "choice1": "男孩把垫子从沙发上扔了出去。",
+        "choice2": "男孩把椅子拖过地板。",
+        "label": 1,
+        "changed": false
+    },
+    "496": {
+        "question": "effect",
+        "premise": "我仔细考虑了这个问题。",
+        "choice1": "我征求了意见。",
+        "choice2": "我想出了一个解决办法。",
+        "label": 1,
+        "changed": false
+    },
+    "456": {
+        "question": "effect",
+        "premise": "我服用了抗生素。",
+        "choice1": "我的感染已经清除了。",
+        "choice2": "我的感染蔓延了。",
+        "label": 0,
+        "changed": false
+    },
+    "279": {
+        "question": "effect",
+        "premise": "这个女孩加入了辩论队。",
+        "choice1": "她学会了使用电脑。",
+        "choice2": "她学会了沟通技巧。",
+        "label": 1,
+        "changed": false
+    },
+    "44": {
+        "question": "cause",
+        "premise": "激进分子抵制了这些产品。",
+        "choice1": "产品通过了质量保证测试。",
+        "choice2": "产品是由童工制造出来的。",
+        "label": 1,
+        "changed": false
+    },
+    "302": {
+        "question": "effect",
+        "premise": "艺术家把黄色的油漆混合进蓝色的油漆。",
+        "choice1": "油漆到处飞溅。",
+        "choice2": "油漆变绿了。",
+        "label": 1,
+        "changed": false
+    },
+    "216": {
+        "question": "cause",
+        "premise": "孩子打嗝了。",
+        "choice1": "他大喝了一口苏打水。",
+        "choice2": "他打开汽水罐。",
+        "label": 0,
+        "changed": false
+    },
+    "16": {
+        "question": "effect",
+        "premise": "我把水倒进了玻璃杯中。",
+        "choice1": "这水解了我的渴。",
+        "choice2": "玻璃杯变满了。",
+        "label": 1,
+        "changed": false
+    },
+    "15": {
+        "question": "cause",
+        "premise": "这个女孩记住了密码。",
+        "choice1": "她背下来给自己听了。",
+        "choice2": "她忘了写下来。",
+        "label": 0,
+        "changed": false
+    },
+    "47": {
+        "question": "effect",
+        "premise": "我把酒洒在衬衫上了。",
+        "choice1": "我穿上了围裙。",
+        "choice2": "我换了衬衫。",
+        "label": 1,
+        "changed": false
+    },
+    "111": {
+        "question": "cause",
+        "premise": "这家人搜查了附近。",
+        "choice1": "他们的狗离家出走了。",
+        "choice2": "他们家丢失了昂贵的珠宝。",
+        "label": 0,
+        "changed": true
+    },
+    "119": {
+        "question": "effect",
+        "premise": "每个人都不赞成这对夫妇的订婚。",
+        "choice1": "这对夫妇怀孕了。",
+        "choice2": "这对夫妇私奔了。",
+        "label": 1,
+        "changed": false
+    },
+    "258": {
+        "question": "cause",
+        "premise": "那人的帽子被吹掉了。",
+        "choice1": "他摘下帽子。",
+        "choice2": "外面刮风。",
+        "label": 1,
+        "changed": false
+    },
+    "308": {
+        "question": "cause",
+        "premise": "父母们冲到孩子的卧室。",
+        "choice1": "孩子从噩梦中惊醒尖叫。",
+        "choice2": "那孩子害怕看床底下。",
+        "label": 0,
+        "changed": false
+    },
+    "13": {
+        "question": "effect",
+        "premise": "该男子的电子邮件收件箱中充斥着垃圾邮件。",
+        "choice1": "他删除了垃圾邮件。",
+        "choice2": "他群发了电子邮件。",
+        "label": 0,
+        "changed": false
+    },
+    "287": {
+        "question": "cause",
+        "premise": "那男孩的衣服湿透了。",
+        "choice1": "他爬出了游泳池。",
+        "choice2": "他掉进了游泳池。",
+        "label": 1,
+        "changed": false
+    },
+    "101": {
+        "question": "effect",
+        "premise": "演讲者发表了政治上不正确的评论。",
+        "choice1": "他使听众感到厌烦。",
+        "choice2": "他冒犯了听众。",
+        "label": 1,
+        "changed": false
+    },
+    "366": {
+        "question": "effect",
+        "premise": "我觉得很无聊。",
+        "choice1": "我哼了一声。",
+        "choice2": "我打哈欠了。",
+        "label": 1,
+        "changed": false
+    },
+    "332": {
+        "question": "cause",
+        "premise": "我抓伤了皮肤。",
+        "choice1": "这是汗水。",
+        "choice2": "感觉很痒。",
+        "label": 1,
+        "changed": false
+    },
+    "359": {
+        "question": "effect",
+        "premise": "我向我的朋友道歉了。",
+        "choice1": "我的朋友原谅了我。",
+        "choice2": "我的朋友很生气。",
+        "label": 0,
+        "changed": false
+    },
+    "486": {
+        "question": "cause",
+        "premise": "那人从淋浴里出来。",
+        "choice1": "热水没了。",
+        "choice2": "他找不到毛巾。",
+        "label": 0,
+        "changed": false
+    },
+    "214": {
+        "question": "effect",
+        "premise": "囚犯饿死了。",
+        "choice1": "他死了。",
+        "choice2": "他逃走了。",
+        "label": 0,
+        "changed": false
+    },
+    "112": {
+        "question": "cause",
+        "premise": "当我呼出时，我看到了我的呼吸。",
+        "choice1": "天气很冷。",
+        "choice2": "我的胸部感觉很紧。",
+        "label": 0,
+        "changed": false
+    },
+    "229": {
+        "question": "effect",
+        "premise": "那个选手扭倒了对手。",
+        "choice1": "他的对手抓住了传球。",
+        "choice2": "他的对手击倒了地面。",
+        "label": 1,
+        "changed": false
+    },
+    "301": {
+        "question": "effect",
+        "premise": "这个学生从大学毕业了。",
+        "choice1": "他找工作了。",
+        "choice2": "他开始一种爱好。",
+        "label": 0,
+        "changed": false
+    },
+    "142": {
+        "question": "effect",
+        "premise": "我皮肤上的划痕很深。",
+        "choice1": "它很快愈合了。",
+        "choice2": "它留下了一个疤痕。",
+        "label": 1,
+        "changed": false
+    },
+    "414": {
+        "question": "cause",
+        "premise": "笔记本电脑无法打开。",
+        "choice1": "我掉了。",
+        "choice2": "我给它充了电。",
+        "label": 0,
+        "changed": false
+    },
+    "445": {
+        "question": "cause",
+        "premise": "那女人抓住她的喉咙。",
+        "choice1": "她吞下了她的食物。",
+        "choice2": "她被食物呛住了。",
+        "label": 1,
+        "changed": false
+    },
+    "3": {
+        "question": "effect",
+        "premise": "旅客到达边境。",
+        "choice1": "巡逻员检查了他们的护照。",
+        "choice2": "巡逻人员指控他们走私。",
+        "label": 0,
+        "changed": false
+    },
+    "388": {
+        "question": "effect",
+        "premise": "男孩捏了女孩的肘部。",
+        "choice1": "她耸了耸肩膀朝他。",
+        "choice2": "她猛地把手臂从他身上拉开。",
+        "label": 1,
+        "changed": false
+    },
+    "412": {
+        "question": "cause",
+        "premise": "老兵走路一跛一拐。",
+        "choice1": "他被征召参战。",
+        "choice2": "他在战斗中受伤了。",
+        "label": 1,
+        "changed": false
+    },
+    "81": {
+        "question": "cause",
+        "premise": "冲浪者回到海滩。",
+        "choice1": "他们浑身湿透了。",
+        "choice2": "他们看到了一条鲨鱼。",
+        "label": 1,
+        "changed": false
+    },
+    "357": {
+        "question": "cause",
+        "premise": "我很早就下班了。",
+        "choice1": "我头疼。",
+        "choice2": "我老板召开了一个会议。",
+        "label": 0,
+        "changed": false
+    },
+    "483": {
+        "question": "cause",
+        "premise": "我把地毯吸了个尘。",
+        "choice1": "我的室友大打出手。",
+        "choice2": "我的狗掉毛了。",
+        "label": 1,
+        "changed": false
+    },
+    "174": {
+        "question": "effect",
+        "premise": "大楼的停车场是空的。",
+        "choice1": "我把车停在街对面。",
+        "choice2": "我把车停在入口附近。",
+        "label": 1,
+        "changed": false
+    },
+    "464": {
+        "question": "effect",
+        "premise": "这个家庭想了解他们的新邻居。",
+        "choice1": "一家人邀请邻居过来吃饭。",
+        "choice2": "一家人从院子里向邻居们挥手致意。",
+        "label": 0,
+        "changed": false
+    },
+    "79": {
+        "question": "effect",
+        "premise": "那女孩的自行车失控了。",
+        "choice1": "她松开了车把。",
+        "choice2": "她撞上了篱笆。",
+        "label": 1,
+        "changed": false
+    },
+    "110": {
+        "question": "effect",
+        "premise": "我错过了我女朋友的电话。",
+        "choice1": "我给她回了电话。",
+        "choice2": "我与她共进晚餐。",
+        "label": 0,
+        "changed": false
+    },
+    "390": {
+        "question": "effect",
+        "premise": "男孩踩在泥里。",
+        "choice1": "泥粘在他的鞋子上。",
+        "choice2": "泥浆溅到了他的脸。",
+        "label": 0,
+        "changed": false
+    },
+    "172": {
+        "question": "cause",
+        "premise": "我想喝一杯牛奶。",
+        "choice1": "我在吃饼干。",
+        "choice2": "我在烤面包。",
+        "label": 0,
+        "changed": false
+    },
+    "490": {
+        "question": "effect",
+        "premise": "我的脚踝肿了。",
+        "choice1": "我冰上放了冰。",
+        "choice2": "我擦了洗液。",
+        "label": 0,
+        "changed": false
+    },
+    "480": {
+        "question": "cause",
+        "premise": "那人被拒绝贷款。",
+        "choice1": "他负债累累。",
+        "choice2": "他开始做生意。",
+        "label": 0,
+        "changed": false
+    },
+    "194": {
+        "question": "cause",
+        "premise": "熔岩从火山中流出。",
+        "choice1": "火山爆发了。",
+        "choice2": "火山处于休眠状态。",
+        "label": 0,
+        "changed": false
+    },
+    "49": {
+        "question": "effect",
+        "premise": "街头音乐家吸引了一群人。",
+        "choice1": "人们给了他零钱。",
+        "choice2": "他把人群赶走了。",
+        "label": 0,
+        "changed": false
+    },
+    "183": {
+        "question": "effect",
+        "premise": "摄影师忘了用相机上的闪光灯。",
+        "choice1": "照片模糊不清。",
+        "choice2": "照片上的每个人都拒绝微笑。",
+        "label": 0,
+        "changed": false
+    },
+    "433": {
+        "question": "cause",
+        "premise": "孩子们被送到孤儿院。",
+        "choice1": "他们的父母死了。",
+        "choice2": "他们的父母宠坏了他们。",
+        "label": 0,
+        "changed": false
+    },
+    "176": {
+        "question": "cause",
+        "premise": "同事挂断了我的电话。",
+        "choice1": "我要求与主管谈话。",
+        "choice2": "我提供了我的身份证号码。",
+        "label": 0,
+        "changed": false
+    },
+    "309": {
+        "question": "cause",
+        "premise": "那位妇女用手语交流。",
+        "choice1": "她是早产儿。",
+        "choice2": "她生来就是聋子。",
+        "label": 1,
+        "changed": false
+    },
+    "135": {
+        "question": "cause",
+        "premise": "这个男孩没有通过历史考试。",
+        "choice1": "他在课堂上认真听讲了。",
+        "choice2": "他忘了学习。",
+        "label": 1,
+        "changed": false
+    },
+    "413": {
+        "question": "effect",
+        "premise": "罪犯从警察身边逃走了。",
+        "choice1": "警察照顾了受害者。",
+        "choice2": "警察追赶罪犯。",
+        "label": 1,
+        "changed": false
+    },
+    "22": {
+        "question": "effect",
+        "premise": "该名男子预计他的旅途中的天气会很冷。",
+        "choice1": "他把保暖的衣服装进行李箱里。",
+        "choice2": "他带着一个大行李箱旅行。",
+        "label": 0,
+        "changed": false
+    },
+    "373": {
+        "question": "effect",
+        "premise": "我的车抛锚了。",
+        "choice1": "我去了购物中心。",
+        "choice2": "我给一个机械师打了电话。",
+        "label": 1,
+        "changed": false
+    },
+    "235": {
+        "question": "cause",
+        "premise": "我感觉很舒服。",
+        "choice1": "我跪在地上。",
+        "choice2": "我把自己裹在毯子里。",
+        "label": 1,
+        "changed": false
+    },
+    "274": {
+        "question": "effect",
+        "premise": "公司的首席执行官辞职了。",
+        "choice1": "董事会解散了公司。",
+        "choice2": "董事会找到了他的继任者。",
+        "label": 1,
+        "changed": false
+    },
+    "63": {
+        "question": "cause",
+        "premise": "我的手紧缩起来。",
+        "choice1": "我手写了论文。",
+        "choice2": "我和妻子牵了手。",
+        "label": 0,
+        "changed": false
+    },
+    "193": {
+        "question": "cause",
+        "premise": "那女人眼睛下面有眼袋。",
+        "choice1": "她熬夜了。",
+        "choice2": "她把儿子安顿睡觉了。",
+        "label": 0,
+        "changed": false
+    },
+    "40": {
+        "question": "effect",
+        "premise": "旅客入住了他们的旅馆房间。",
+        "choice1": "他们打开了行李箱。",
+        "choice2": "他们去了机场。",
+        "label": 0,
+        "changed": false
+    },
+    "282": {
+        "question": "effect",
+        "premise": "过山车从陡坡上速降下来。",
+        "choice1": "乘客们咯咯地笑。",
+        "choice2": "乘客们尖叫着。",
+        "label": 1,
+        "changed": false
+    },
+    "150": {
+        "question": "cause",
+        "premise": "演员在演出前心慌。",
+        "choice1": "他有上台紧张症。",
+        "choice2": "他记住了他的台词。",
+        "label": 0,
+        "changed": false
+    },
+    "424": {
+        "question": "effect",
+        "premise": "一家人去了动物园。",
+        "choice1": "孩子们赞叹动物。",
+        "choice2": "孩子们追逐动物。",
+        "label": 0,
+        "changed": false
+    },
+    "321": {
+        "question": "effect",
+        "premise": "女孩在餐桌上互相耳语。",
+        "choice1": "其他学生坐在午餐桌旁。",
+        "choice2": "在餐桌上的其他学生感到被冷落了。",
+        "label": 1,
+        "changed": false
+    },
+    "316": {
+        "question": "effect",
+        "premise": "我半夜醒来，感觉很冷。",
+        "choice1": "我穿上运动裤。",
+        "choice2": "我喝了一杯水。",
+        "label": 0,
+        "changed": false
+    },
+    "185": {
+        "question": "cause",
+        "premise": "我锻炼了。",
+        "choice1": "我感到精力充沛。",
+        "choice2": "我很害怕。",
+        "label": 0,
+        "changed": false
+    },
+    "295": {
+        "question": "effect",
+        "premise": "音乐太微弱了，听不见。",
+        "choice1": "我把音量调大了。",
+        "choice2": "我创作了自己的歌曲。",
+        "label": 0,
+        "changed": false
+    },
+    "98": {
+        "question": "cause",
+        "premise": "我们坐了过山车。",
+        "choice1": "它看起来很吓人。",
+        "choice2": "它看起来很有趣。",
+        "label": 1,
+        "changed": false
+    },
+    "360": {
+        "question": "cause",
+        "premise": "那人在人群中脱颖而出。",
+        "choice1": "他背着一个背包。",
+        "choice2": "他穿着一件霓虹灯背心。",
+        "label": 1,
+        "changed": false
+    },
+    "35": {
+        "question": "cause",
+        "premise": "我失去了耐心。",
+        "choice1": "我的朋友一直让我等着。",
+        "choice2": "我的朋友准时到达。",
+        "label": 0,
+        "changed": false
+    },
+    "23": {
+        "question": "effect",
+        "premise": "学生知道这道问题的答案。",
+        "choice1": "他举起了手。",
+        "choice2": "它偷懒了。",
+        "label": 0,
+        "changed": false
+    },
+    "338": {
+        "question": "effect",
+        "premise": "那女人用拳头打袭击者的鼻子。",
+        "choice1": "袭击者的身体没有了生命迹象。",
+        "choice2": "攻击者开始流血。",
+        "label": 1,
+        "changed": false
+    },
+    "116": {
+        "question": "cause",
+        "premise": "蒸汽从锅上升出。",
+        "choice1": "水煮沸了。",
+        "choice2": "我盖上了锅盖。",
+        "label": 0,
+        "changed": false
+    },
+    "395": {
+        "question": "cause",
+        "premise": "家人向这对夫妇表示祝贺。",
+        "choice1": "这对夫妇宣布他们要分居了。",
+        "choice2": "这对夫妇宣布他们要生孩子了。",
+        "label": 1,
+        "changed": false
+    },
+    "148": {
+        "question": "effect",
+        "premise": "那女人呆在家里没去上班。",
+        "choice1": "她的老板表扬了她。",
+        "choice2": "她的同事帮她掩护。",
+        "label": 1,
+        "changed": false
+    },
+    "444": {
+        "question": "cause",
+        "premise": "那人接受了治疗。",
+        "choice1": "他的家族有精神病史。",
+        "choice2": "他被诊断患有抑郁症。",
+        "label": 1,
+        "changed": false
+    },
+    "478": {
+        "question": "effect",
+        "premise": "女孩脸色苍白。",
+        "choice1": "她父亲给她读了一个故事。",
+        "choice2": "她的父亲感觉了下她的额头。",
+        "label": 1,
+        "changed": false
+    },
+    "51": {
+        "question": "effect",
+        "premise": "飞行员的雷达发现了一场风暴。",
+        "choice1": "飞行员避开了风暴。",
+        "choice2": "飞行员飞过了风暴。",
+        "label": 0,
+        "changed": false
+    },
+    "447": {
+        "question": "effect",
+        "premise": "狗看着桌上多汁的牛排。",
+        "choice1": "它流口水。",
+        "choice2": "它躺下了。",
+        "label": 0,
+        "changed": false
+    },
+    "454": {
+        "question": "cause",
+        "premise": "那女人在人行道上绊倒了。",
+        "choice1": "水泥有裂缝。",
+        "choice2": "她听到她的名字被叫了。",
+        "label": 0,
+        "changed": false
+    },
+    "232": {
+        "question": "cause",
+        "premise": "温度计中的汞上升。",
+        "choice1": "我把温度计掉了。",
+        "choice2": "天气变暖和了。",
+        "label": 1,
+        "changed": false
+    },
+    "325": {
+        "question": "cause",
+        "premise": "森林大火蔓延开来。",
+        "choice1": "风变得更强了。",
+        "choice2": "纵火者被捕了。",
+        "label": 0,
+        "changed": false
+    },
+    "186": {
+        "question": "effect",
+        "premise": "我挤压了这个湿海绵。",
+        "choice1": "它浸湿了水。",
+        "choice2": "水从中渗出。",
+        "label": 1,
+        "changed": false
+    },
+    "83": {
+        "question": "effect",
+        "premise": "丈夫因欺骗妻子而感到内疚。",
+        "choice1": "他指责她不忠。",
+        "choice2": "他向她坦白了他的不忠。",
+        "label": 1,
+        "changed": false
+    },
+    "189": {
+        "question": "effect",
+        "premise": "一辆陌生的车停在我家外面。",
+        "choice1": "我开始起疑了。",
+        "choice2": "我给警察打了电话。",
+        "label": 0,
+        "changed": false
+    },
+    "181": {
+        "question": "cause",
+        "premise": "婴儿睡着了。",
+        "choice1": "父亲换了婴儿的尿布。",
+        "choice2": "父亲轻轻地摇动着婴儿。",
+        "label": 1,
+        "changed": false
+    },
+    "107": {
+        "question": "cause",
+        "premise": "浴室被淹了。",
+        "choice1": "马桶溢出了。",
+        "choice2": "热水器坏了。",
+        "label": 0,
+        "changed": false
+    },
+    "343": {
+        "question": "effect",
+        "premise": "那个女人缺钱付房租。",
+        "choice1": "她加班加点。",
+        "choice2": "她辞职了。",
+        "label": 0,
+        "changed": false
+    },
+    "136": {
+        "question": "cause",
+        "premise": "市中心的大楼倒塌了。",
+        "choice1": "一场地震袭击了这个城市。",
+        "choice2": "这个城市的犯罪率上升了。",
+        "label": 0,
+        "changed": false
+    },
+    "470": {
+        "question": "cause",
+        "premise": "这个电视节目受到审查。",
+        "choice1": "它包含粗俗的语言。",
+        "choice2": "它有一个复杂的情节。",
+        "label": 0,
+        "changed": false
+    },
+    "349": {
+        "question": "effect",
+        "premise": "我把水果忘在桌子上了。",
+        "choice1": "水果脱落种子。",
+        "choice2": "苍蝇挤满了那水果。",
+        "label": 1,
+        "changed": false
+    },
+    "331": {
+        "question": "cause",
+        "premise": "医生诊断病人。",
+        "choice1": "她确定了病人的症状。",
+        "choice2": "她给病人开了药。",
+        "label": 0,
+        "changed": false
+    },
+    "36": {
+        "question": "effect",
+        "premise": "交战国家要求和平。",
+        "choice1": "他们研发了核武器。",
+        "choice2": "他们商定了一项条约。",
+        "label": 1,
+        "changed": false
+    }
+}

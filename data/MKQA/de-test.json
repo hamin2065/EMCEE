@@ -1,0 +1,1755 @@
+{
+    "5759193192460133072": {
+        "query": "Wann wurde \"While My Guitar Gently Weeps\" geschrieben?",
+        "answer": [
+            {
+                "type": "date",
+                "text": "1968",
+                "aliases": [
+                    "1968"
+                ]
+            }
+        ]
+    },
+    "6536227200403555989": {
+        "query": "die die Justiz davon überzeugen, auf ihrer Straße wieder in das Fahrzeug zu steigen",
+        "answer": [
+            {
+                "type": "short_phrase",
+                "text": "iesha"
+            }
+        ]
+    },
+    "9049376010685277599": {
+        "query": "wer sing das lied how long has this been going on",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q339889",
+                "text": "Ace",
+                "aliases": []
+            }
+        ]
+    },
+    "-4681068648745366238": {
+        "query": "wer ist die Gottheit der Hexerei in Macbeth",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q131575",
+                "text": "Hekate",
+                "aliases": [
+                    "Hecate"
+                ]
+            }
+        ]
+    },
+    "-1428033021489352270": {
+        "query": "Wie lange lief Sex und die Stadt?",
+        "answer": [
+            {
+                "type": "number_with_unit",
+                "text": "6.0 Jahr",
+                "aliases": [
+                    "6 Jahr"
+                ]
+            }
+        ]
+    },
+    "-4194574527800227004": {
+        "query": "sind mitglieder der bee gees noch am leben",
+        "answer": [
+            {
+                "type": "binary",
+                "text": "yes"
+            }
+        ]
+    },
+    "-7920362459767518847": {
+        "query": "Beim letzten Mal gewann eine kanadische Mannschaft den Pokal",
+        "answer": [
+            {
+                "type": "date",
+                "text": "1993",
+                "aliases": [
+                    "1993"
+                ]
+            }
+        ]
+    },
+    "-6685625269833848476": {
+        "query": "Wieviel kostet eine Briefmarke der Vereinigten Staaten von Amerika",
+        "answer": [
+            {
+                "type": "number_with_unit",
+                "text": "0.55 US-Dollar",
+                "aliases": []
+            }
+        ]
+    },
+    "2746938096293088320": {
+        "query": "Wer spielte Momma in 'Throw Momma from the Train'",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q234083",
+                "text": "Anne Ramsey",
+                "aliases": [
+                    "Anne Mobley"
+                ]
+            }
+        ]
+    },
+    "-5994662623630406407": {
+        "query": "wann endete der zweite weltkrieg in europa",
+        "answer": [
+            {
+                "type": "date",
+                "text": "1945-09-02",
+                "aliases": [
+                    "02/09/1945",
+                    "09/02/1945",
+                    "02 09 1945",
+                    "09 02 1945",
+                    "02 September 1945",
+                    "09-02-1945",
+                    "1945 September 02",
+                    "02-09-1945",
+                    "1945 09 02",
+                    "1945-09-02",
+                    "1945 september, 02"
+                ]
+            }
+        ]
+    },
+    "7858543357224972126": {
+        "query": "wann kam we built this city raus",
+        "answer": [
+            {
+                "type": "date",
+                "text": "1985-08-01",
+                "aliases": [
+                    "1985-08-01",
+                    "01 08 1985",
+                    "1985 08 01",
+                    "01-08-1985",
+                    "01 August 1985",
+                    "01/08/1985",
+                    "08-01-1985",
+                    "08/01/1985",
+                    "08 01 1985",
+                    "1985 August 01",
+                    "1985 august, 01"
+                ]
+            }
+        ]
+    },
+    "-7666791234901846924": {
+        "query": "Wer war der cm für die längste zeit",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q2475703",
+                "text": "Pawan Kumar Chamling",
+                "aliases": []
+            }
+        ]
+    },
+    "7665099664495518065": {
+        "query": "wer singt das lied somewhere over the rainbow",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q42180",
+                "text": "Israel Kamakawiwoʻole",
+                "aliases": [
+                    "Kamakawiwoʻole",
+                    "Bruddah Iz",
+                    "Iz Kamakawiwoʻole",
+                    "Kamakawiwo'ole",
+                    "Israel Kamakawiwo'ole",
+                    "Israel Kamakawiwoole",
+                    "Israel Bruddah",
+                    "Kamakawiwoole"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q11637",
+                "text": "Judy Garland",
+                "aliases": [
+                    "Frances Ethel Gumm"
+                ]
+            }
+        ]
+    },
+    "3511042621024751743": {
+        "query": "Wer bestieg den Mount Everest zuerst in Sri Lanka",
+        "answer": [
+            {
+                "type": "entity",
+                "text": "Jayanthi Kuru-Utumpala",
+                "entity": "Q24572415"
+            }
+        ]
+    },
+    "8627228541151141053": {
+        "query": "wer singt das lied love will keep us together",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q1035077",
+                "text": "Captain & Tennille",
+                "aliases": [
+                    "The Captain and Tennille",
+                    "Captain and Tennille",
+                    "The Captain & Tennille",
+                    "Darrly Dragon",
+                    "Toni Tenille",
+                    "Tony Tennille"
+                ]
+            }
+        ]
+    },
+    "-793358314194637499": {
+        "query": "Wer singt das Lied i was made for you",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q164060",
+                "text": "Brandi Carlile",
+                "aliases": []
+            }
+        ]
+    },
+    "2401386287648762208": {
+        "query": "Wer ist noch übrig bei den Bee Gees?",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q296872",
+                "text": "Barry Gibb",
+                "aliases": [
+                    "Barry Alan Crompton Gibb"
+                ]
+            }
+        ]
+    },
+    "6459121110060318955": {
+        "query": "Wann erschienen die Herr der Ringe Filme",
+        "answer": [
+            {
+                "type": "date",
+                "text": "2001-12-19",
+                "aliases": [
+                    "2001 12 19",
+                    "12/19/2001",
+                    "12 19 2001",
+                    "19 12 2001",
+                    "19 Dezember 2001",
+                    "2001 Dezember 19",
+                    "2001 december, 19",
+                    "19-12-2001",
+                    "12-19-2001",
+                    "2001-12-19",
+                    "19/12/2001"
+                ]
+            }
+        ]
+    },
+    "-2897294436492264617": {
+        "query": "Welches ist der ärmste Staat in den Vereinigten Staaten",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q1494",
+                "text": "Mississippi",
+                "aliases": []
+            }
+        ]
+    },
+    "-57906692035479450": {
+        "query": "Wie heißt der Schauspieler der Black Panther spielte",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q5066520",
+                "text": "Chadwick Boseman",
+                "aliases": [
+                    "Chadwick Aaron Boseman"
+                ]
+            }
+        ]
+    },
+    "-4274425064083032411": {
+        "query": "weibliche durchschnittsgrösse in den vereinigten staaten",
+        "answer": [
+            {
+                "type": "number_with_unit",
+                "text": "64.0 Inch",
+                "aliases": [
+                    "64 Inch"
+                ]
+            },
+            {
+                "type": "number_with_unit",
+                "text": "63.7 Inch",
+                "aliases": []
+            }
+        ]
+    },
+    "-3104735705429441907": {
+        "query": "was ist die amtssprache in den vereinigten staaten",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q1860",
+                "text": "Englisch",
+                "aliases": [
+                    "englische Sprache",
+                    "engl.",
+                    "en"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q7976",
+                "text": "amerikanisches Englisch",
+                "aliases": [
+                    "American English",
+                    "AmE",
+                    "US-amerikanisches Englisch",
+                    "en-US"
+                ]
+            }
+        ]
+    },
+    "-2674399045265674923": {
+        "query": "Wer ist der am längsten laufende Schauspieler der Jungen und der Unruhigen?",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q960375",
+                "text": "Doug Davidson",
+                "aliases": [
+                    "Douglas Donald Davidson"
+                ]
+            }
+        ]
+    },
+    "1435767707210013159": {
+        "query": "Wer singt den Song \"In the Arms of an Angel\"?",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q224650",
+                "text": "Sarah McLachlan",
+                "aliases": [
+                    "Sarah Ann McLachlan"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q715859",
+                "text": "Phil Coulter",
+                "aliases": []
+            }
+        ]
+    },
+    "-5155851190521267156": {
+        "query": "Wer spielt Griffin in The Secret Life of the American Teenager?",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q898100",
+                "text": "Brando Eaton",
+                "aliases": []
+            }
+        ]
+    },
+    "6826535275271704887": {
+        "query": "wann wurde die erste englische fabrik in indien gegründet",
+        "answer": [
+            {
+                "type": "date",
+                "text": "1613-01",
+                "aliases": [
+                    "1613 01",
+                    "Januar 1613",
+                    "1613-01",
+                    "1613 Januar",
+                    "january, 1613"
+                ]
+            }
+        ]
+    },
+    "6873587814797504351": {
+        "query": "Wer war der Anführer der indischen Armee während des Bangladesch-Kriegs 1971",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q558194",
+                "text": "Sam Manekshaw",
+                "aliases": [
+                    "Manekshaw"
+                ]
+            }
+        ]
+    },
+    "2874474964302550796": {
+        "query": "was ist der unbeliebteste song auf youtube",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q1647391",
+                "text": "Baby",
+                "aliases": []
+            }
+        ]
+    },
+    "-1302412739132738295": {
+        "query": "wann wurde the loss of the creature publiziert",
+        "answer": [
+            {
+                "type": "date",
+                "text": "1954",
+                "aliases": [
+                    "1954"
+                ]
+            }
+        ]
+    },
+    "2487088749041530171": {
+        "query": "Wer hat die erste Staffel von Total Drama Island gewonnen",
+        "answer": [
+            {
+                "type": "short_phrase",
+                "text": "Owen"
+            }
+        ]
+    },
+    "-9117361054787888183": {
+        "query": "Gibt es eine Raucherzone am Flughafen von Bodrum?",
+        "answer": [
+            {
+                "type": "binary",
+                "text": "yes"
+            }
+        ]
+    },
+    "8643588946565257997": {
+        "query": "wer ist der mann im i dont always meme",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q1255362",
+                "text": "Jonathan Goldsmith",
+                "aliases": []
+            }
+        ]
+    },
+    "4864957712058502557": {
+        "query": "wo findet die show animal kingdom statt",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q30",
+                "text": "Vereinigte Staaten",
+                "aliases": [
+                    "USA",
+                    "Amerika",
+                    "U.S.A.",
+                    "US",
+                    "U.S.",
+                    "America",
+                    "United States of America",
+                    "United States",
+                    "die Staaten",
+                    "Vereinigte Staaten von Amerika",
+                    "U. S. A.",
+                    "U. S.",
+                    "VS",
+                    "V.S.",
+                    "V. S.",
+                    "VSA",
+                    "V.S.A.",
+                    "V. S. A.",
+                    "die Staaten von Amerika"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q488924",
+                "text": "Oceanside",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q99",
+                "text": "Kalifornien",
+                "aliases": [
+                    "CA",
+                    "State of California",
+                    "The Golden State",
+                    "California"
+                ]
+            }
+        ]
+    },
+    "-4137477048170178241": {
+        "query": "wer hat die letzte fifa fußball wm gewonnen",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q142",
+                "text": "Frankreich",
+                "aliases": [
+                    "Französische Republik",
+                    "Republik Frankreich",
+                    "fr"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q47774",
+                "text": "Französische Fußballnationalmannschaft",
+                "aliases": [
+                    "Equipe tricolore",
+                    "Französische Fußball-Nationalmannschaft",
+                    "Équipe Tricolore",
+                    "Les Bleus",
+                    "Französische Fussballnationalmannschaft"
+                ]
+            }
+        ]
+    },
+    "2933996829438163080": {
+        "query": "wie heisst das känguru in Pu der Bär",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q249081",
+                "text": "Roo",
+                "aliases": []
+            }
+        ]
+    },
+    "-4916685744907496760": {
+        "query": "wer sang play that funky music white boy",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q1951576",
+                "text": "Wild Cherry",
+                "aliases": []
+            }
+        ]
+    },
+    "6680118026967498095": {
+        "query": "Wer erfand das Sandwich mit Erdnussbutter und Marmelade?",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q678539",
+                "text": "Earl of Sandwich",
+                "aliases": []
+            }
+        ]
+    },
+    "-6679273029372950602": {
+        "query": "Was ist der Schutzalter in Japan ?",
+        "answer": [
+            {
+                "type": "number_with_unit",
+                "text": "13.0 Jahr",
+                "aliases": [
+                    "13 Jahr"
+                ]
+            }
+        ]
+    },
+    "5757115904620559049": {
+        "query": "der den König von Jerusalem im Himmelreich spielte",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q125904",
+                "text": "Edward Norton",
+                "aliases": []
+            },
+            {
+                "type": "short_phrase",
+                "text": " erectile dysfunction Norton (ed Norton)"
+            }
+        ]
+    },
+    "-8472452013531944779": {
+        "query": "wer spielte seven of nine in star trek",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q236809",
+                "text": "Jeri Ryan",
+                "aliases": [
+                    "Lynn Ryan",
+                    "Jeri Lynn Ryan",
+                    "Jeri Lynn Zimmermann"
+                ]
+            }
+        ]
+    },
+    "-6962070395491830819": {
+        "query": "Wie viele Zylinder hat ein Toyota Camry",
+        "answer": [
+            {
+                "type": "number",
+                "text": "4.0",
+                "aliases": [
+                    "4"
+                ]
+            }
+        ]
+    },
+    "-6972999114619312559": {
+        "query": "Wie viel Alkohol enthält dr mcgillicuddy?",
+        "answer": [
+            {
+                "type": "number_with_unit",
+                "text": "30.0 Prozent",
+                "aliases": [
+                    "30 Prozent"
+                ]
+            }
+        ]
+    },
+    "-2600507426779263377": {
+        "query": "wo befindet sich der Eiffelturm in Frankreich",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q142",
+                "text": "Frankreich",
+                "aliases": [
+                    "Französische Republik",
+                    "Republik Frankreich",
+                    "fr"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q90",
+                "text": "Paris",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "text": "paris",
+                "entity": "Q90"
+            }
+        ]
+    },
+    "-1906671009426132130": {
+        "query": "Wer hat einen Grammy Emmy Oscar und Tony gewonnen",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q3809962",
+                "text": "Jonathan Tunick",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q42786",
+                "text": "Audrey Hepburn",
+                "aliases": [
+                    "Edda van Heemstra Hepburn-Ruston",
+                    "Audrey Kathleen Hepburn-Ruston"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q204685",
+                "text": "John Gielgud",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q104266",
+                "text": "Mel Brooks",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q337206",
+                "text": "Marvin Hamlisch",
+                "aliases": [
+                    "Marvin Frederick Hamlisch",
+                    "Hamlisch"
+                ]
+            }
+        ]
+    },
+    "-404888176477199185": {
+        "query": "Wer singt das Lied i am the god of hellfire",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q708782",
+                "text": "Arthur Brown",
+                "aliases": []
+            }
+        ]
+    },
+    "2280478600069738953": {
+        "query": "Ist es möglich, dass Zwillinge verschiedene Väter haben",
+        "answer": [
+            {
+                "type": "binary",
+                "text": "yes"
+            }
+        ]
+    },
+    "-9183044269893269650": {
+        "query": "Wann wurde die Verfassungsversammling adoptiert und in Kraft gesetzt als Verfassung Indiens",
+        "answer": [
+            {
+                "type": "date",
+                "text": "1949-11-26",
+                "aliases": [
+                    "26 November 1949",
+                    "11-26-1949",
+                    "1949-11-26",
+                    "1949 November 26",
+                    "26/11/1949",
+                    "1949 11 26",
+                    "26 11 1949",
+                    "11 26 1949",
+                    "11/26/1949",
+                    "26-11-1949",
+                    "1949 november, 26"
+                ]
+            }
+        ]
+    },
+    "-1067733361741448875": {
+        "query": "Wer kämpfte in der Schlacht am Boyne",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q126188",
+                "text": "Jakob II.",
+                "aliases": [
+                    "Jakob II. von England",
+                    "James II.",
+                    "Jakob VII."
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q129987",
+                "text": "Wilhelm III.",
+                "aliases": [
+                    "Wilhelm III. von Oranien-Nassau",
+                    "Wilhelm III. von Oranien",
+                    "King William of Orange"
+                ]
+            }
+        ]
+    },
+    "-3960469152801907619": {
+        "query": "wann war der anfang und das ende vom 1. weltkrieg",
+        "answer": [
+            {
+                "type": "date",
+                "text": "1918-11-11",
+                "aliases": [
+                    "11/11/1918",
+                    "1918 november, 11",
+                    "11 11 1918",
+                    "11-11-1918",
+                    "1918 November 11",
+                    "11 November 1918",
+                    "1918-11-11",
+                    "1918 11 11"
+                ]
+            },
+            {
+                "type": "date",
+                "text": "1914-07-28",
+                "aliases": [
+                    "28 07 1914",
+                    "1914-07-28",
+                    "28-07-1914",
+                    "07 28 1914",
+                    "07/28/1914",
+                    "1914 Juli 28",
+                    "1914 07 28",
+                    "1914 july, 28",
+                    "07-28-1914",
+                    "28 Juli 1914",
+                    "28/07/1914"
+                ]
+            }
+        ]
+    },
+    "516837182992389871": {
+        "query": "Wer spielt Phyllis auf die young and the restless ?",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q7416719",
+                "text": "Sandra Nelson",
+                "aliases": [
+                    "Sandra Nelson Winkler"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q433091",
+                "text": "Michelle Stafford",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q529670",
+                "text": "Gina Tognoni",
+                "aliases": []
+            }
+        ]
+    },
+    "7246717706463436524": {
+        "query": "Wer spielte Q in Raumschiff Enterprise – Das nächste Jahrhundert",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q550778",
+                "text": "John de Lancie",
+                "aliases": [
+                    "John DeLancie"
+                ]
+            }
+        ]
+    },
+    "1637178209596250976": {
+        "query": "wer spielt brady black in \"days of our lives\"",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q2082260",
+                "text": "Kyle Lowder",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q600183",
+                "text": "Eric Martsolf",
+                "aliases": []
+            }
+        ]
+    },
+    "6694113471852335389": {
+        "query": "wer zahlt die meisten Einkommenssteuern in Europa",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q215",
+                "text": "Slowenien",
+                "aliases": [
+                    "Republik Slowenien"
+                ]
+            }
+        ]
+    },
+    "1681263313889159963": {
+        "query": "Nennen Sie ein Element der Gruppe 18, das Verbindungen bilden kann",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q654",
+                "text": "Neon",
+                "aliases": [
+                    "Ne"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q888",
+                "text": "Krypton",
+                "aliases": [
+                    "Kr"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q560",
+                "text": "Helium",
+                "aliases": [
+                    "He"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q1106",
+                "text": "Xenon",
+                "aliases": [
+                    "Xe"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q696",
+                "text": "Argon",
+                "aliases": [
+                    "Ar"
+                ]
+            }
+        ]
+    },
+    "2951900109165683565": {
+        "query": "Wann wurder der Film Stand by Me – Das Geheimnis eines Sommers gedreht",
+        "answer": [
+            {
+                "type": "date",
+                "text": "1986-08-08",
+                "aliases": [
+                    "08-08-1986",
+                    "08/08/1986",
+                    "1986-08-08",
+                    "1986 08 08",
+                    "08 08 1986",
+                    "1986 August 08",
+                    "1986 august, 08",
+                    "08 August 1986"
+                ]
+            },
+            {
+                "type": "date",
+                "text": "1986-08-06",
+                "aliases": [
+                    "1986-08-06",
+                    "06/08/1986",
+                    "1986 august, 06",
+                    "1986 08 06",
+                    "06 August 1986",
+                    "06-08-1986",
+                    "08 06 1986",
+                    "1986 August 06",
+                    "08/06/1986",
+                    "08-06-1986",
+                    "06 08 1986"
+                ]
+            }
+        ]
+    },
+    "-1550646020963618458": {
+        "query": "Wer sang the house of the rising sun",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q131422",
+                "text": "The Animals",
+                "aliases": [
+                    "Eric Burdon & The Animals",
+                    "Eric Burdon and the Animals",
+                    "Animals"
+                ]
+            }
+        ]
+    },
+    "-4863208068075161739": {
+        "query": "Wann haben die Beatles ihr erstes Album veröffentlicht",
+        "answer": [
+            {
+                "type": "date",
+                "text": "1963",
+                "aliases": [
+                    "1963"
+                ]
+            }
+        ]
+    },
+    "6747693054679197435": {
+        "query": "Wer ist das jüngste Mitglied von \"why don't we\"",
+        "answer": [
+            {
+                "type": "entity",
+                "text": "Zachary Dean Herron",
+                "entity": "Q50437010"
+            }
+        ]
+    },
+    "223889013848482079": {
+        "query": "Wer sang das Lied hit me with your best shot",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q235252",
+                "text": "Pat Benatar",
+                "aliases": [
+                    "Patricia Mae Andrzejewski"
+                ]
+            }
+        ]
+    },
+    "-4844601362711867725": {
+        "query": "Wann wurde der Film Die Schöne und das Biest gedreht",
+        "answer": [
+            {
+                "type": "date",
+                "text": "2017",
+                "aliases": [
+                    "2017"
+                ]
+            }
+        ]
+    },
+    "-4601648929269405008": {
+        "query": "Wann ist die letzte Show der Stimme 2018?",
+        "answer": [
+            {
+                "type": "date",
+                "text": "2018-05-21",
+                "aliases": [
+                    "21-05-2018",
+                    "21 Mai 2018",
+                    "2018 05 21",
+                    "05-21-2018",
+                    "05 21 2018",
+                    "21/05/2018",
+                    "2018-05-21",
+                    "05/21/2018",
+                    "21 05 2018",
+                    "2018 Mai 21",
+                    "2018 may, 21"
+                ]
+            },
+            {
+                "type": "date",
+                "text": "2018-05-22",
+                "aliases": [
+                    "05-22-2018",
+                    "2018 05 22",
+                    "22-05-2018",
+                    "2018-05-22",
+                    "22 Mai 2018",
+                    "2018 Mai 22",
+                    "22/05/2018",
+                    "2018 may, 22",
+                    "05 22 2018",
+                    "22 05 2018",
+                    "05/22/2018"
+                ]
+            }
+        ]
+    },
+    "-4104867054905085801": {
+        "query": "Wie viele Stockwerke gibt es in der höchsten Gebäude der Welt ?",
+        "answer": [
+            {
+                "type": "number",
+                "text": "160.0",
+                "aliases": [
+                    "160"
+                ]
+            }
+        ]
+    },
+    "-7634638252335162798": {
+        "query": "Wie viele Staaten gibt es in den Continental United States",
+        "answer": [
+            {
+                "type": "number",
+                "text": "48.0",
+                "aliases": [
+                    "48"
+                ]
+            }
+        ]
+    },
+    "-707552382835249129": {
+        "query": "wo findet die weltmeisterschaft dieses jahr statt",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q142",
+                "text": "Frankreich",
+                "aliases": [
+                    "Französische Republik",
+                    "Republik Frankreich",
+                    "fr"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q46",
+                "text": "Europa",
+                "aliases": []
+            }
+        ]
+    },
+    "460521160640975940": {
+        "query": "Wann gewannen die Ravens die Super Bowl",
+        "answer": [
+            {
+                "type": "date",
+                "text": "2001",
+                "aliases": [
+                    "2001"
+                ]
+            },
+            {
+                "type": "date",
+                "text": "2013",
+                "aliases": [
+                    "2013"
+                ]
+            }
+        ]
+    },
+    "7713466607969510938": {
+        "query": "Nach wem ist die Stadt San Francisco benannt",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q676555",
+                "text": "Franz von Assisi",
+                "aliases": [
+                    "St. Franziskus",
+                    "Franziskus"
+                ]
+            }
+        ]
+    },
+    "5600540028087582763": {
+        "query": "Wo haben sie Mission: Impossible – Rogue Nation gefilmt?",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q1028",
+                "text": "Marokko",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q1741",
+                "text": "Wien",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q84",
+                "text": "London",
+                "aliases": []
+            }
+        ]
+    },
+    "117991427760231330": {
+        "query": "was ist die durchschnittliche wintertemperatur in schottland",
+        "answer": [
+            {
+                "type": "number_with_unit",
+                "text": "32.0 Fahrenheit-Skala",
+                "aliases": [
+                    "32 Fahrenheit-Skala"
+                ]
+            }
+        ]
+    },
+    "3047269637901402987": {
+        "query": "Wer hat das Lied hooked on a feeling im Original gesungen",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q706518",
+                "text": "B. J. Thomas",
+                "aliases": [
+                    "Billy Joe Thomas",
+                    "B.J. Thomas"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q714167",
+                "text": "Björn Skifs",
+                "aliases": [
+                    "Skifs"
+                ]
+            }
+        ]
+    },
+    "-8818926928078564757": {
+        "query": "Wer spielte Ed Hall bei one life to live?",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q2118140",
+                "text": "Al Freeman",
+                "aliases": [
+                    "Al Freeman, Jr.",
+                    "Al Freeman jr."
+                ]
+            }
+        ]
+    },
+    "-6331415636013979125": {
+        "query": "In welcher Höhe endet die Erdatmosphäre?",
+        "answer": [
+            {
+                "type": "short_phrase",
+                "text": "700 km über dem Meeresspiegel"
+            }
+        ]
+    },
+    "-3948328585646236058": {
+        "query": "Wer hält den Rekord für die Belmont Stakes",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q1151926",
+                "text": "Secretariat",
+                "aliases": []
+            }
+        ]
+    },
+    "-2694405149899998133": {
+        "query": "Wie heisst der südlichste Staat von Australien.",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q34366",
+                "text": "Tasmanien",
+                "aliases": [
+                    "AU-TAS",
+                    "Vandiemensland",
+                    "AU-TS",
+                    "Van-Diemens-Land"
+                ]
+            }
+        ]
+    },
+    "-6718964413666712767": {
+        "query": "Wie viele Meilen von Atlanta Georgia nach New York?",
+        "answer": [
+            {
+                "type": "number_with_unit",
+                "text": "862.9 Meile",
+                "aliases": []
+            }
+        ]
+    },
+    "8665130013651566808": {
+        "query": "Wann wurde das Lied stand by me veröffentlicht",
+        "answer": [
+            {
+                "type": "date",
+                "text": "1962",
+                "aliases": [
+                    "1962"
+                ]
+            }
+        ]
+    },
+    "-2721587192415524965": {
+        "query": "Wann wurde der erste Spiderman-Comic herausgegeben",
+        "answer": [
+            {
+                "type": "date",
+                "text": "1962-08",
+                "aliases": [
+                    "1962 August",
+                    "August 1962",
+                    "august, 1962",
+                    "1962 08",
+                    "1962-08"
+                ]
+            }
+        ]
+    },
+    "8591121950961053247": {
+        "query": "Wann erreichte die Weltbevölkerung 1 Milliarde",
+        "answer": [
+            {
+                "type": "date",
+                "text": "1804",
+                "aliases": [
+                    "1804"
+                ]
+            }
+        ]
+    },
+    "-3391156047974585757": {
+        "query": "wer sagte i'll gladly pay you tuesday for a hamburger today",
+        "answer": [
+            {
+                "type": "entity",
+                "text": "J. Wellington Wimpy",
+                "entity": "Q1857616"
+            }
+        ]
+    },
+    "-8034158299768324013": {
+        "query": "wo haben die arizona diamondbacks frühjahrstraining",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q30",
+                "text": "Vereinigte Staaten",
+                "aliases": [
+                    "USA",
+                    "Amerika",
+                    "U.S.A.",
+                    "US",
+                    "U.S.",
+                    "America",
+                    "United States of America",
+                    "United States",
+                    "die Staaten",
+                    "Vereinigte Staaten von Amerika",
+                    "U. S. A.",
+                    "U. S.",
+                    "VS",
+                    "V.S.",
+                    "V. S.",
+                    "VSA",
+                    "V.S.A.",
+                    "V. S. A.",
+                    "die Staaten von Amerika"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q49221",
+                "text": "Scottsdale",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "text": "Salt River Fields at Talking Stick",
+                "entity": "Q6619833"
+            }
+        ]
+    },
+    "6397716912831572021": {
+        "query": "wann können babies zwischen unterschiedlichen  sprachtönen unterscheiden",
+        "answer": [
+            {
+                "type": "number_with_unit",
+                "text": "1.0 Jahr",
+                "aliases": [
+                    "1 Jahr"
+                ]
+            }
+        ]
+    },
+    "8845240041418834720": {
+        "query": "welcher schauspieler spielt ned stark in game of thrones",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q21155102",
+                "text": "Robert Aramayo",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q24004789",
+                "text": "Sebastian Croft",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q191104",
+                "text": "Sean Bean",
+                "aliases": [
+                    "Shaun Mark Bean"
+                ]
+            }
+        ]
+    },
+    "7232773031032315501": {
+        "query": "Wer schrieb die Musik der deutschen Nationalhymne",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q7349",
+                "text": "Joseph Haydn",
+                "aliases": [
+                    "Franz Joseph Haydn"
+                ]
+            }
+        ]
+    },
+    "-4356711200244286691": {
+        "query": "wer sang Where Have All The Flowers Gone",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q59965",
+                "text": "The Kingston Trio",
+                "aliases": [
+                    "Kingston Trio"
+                ]
+            }
+        ]
+    },
+    "-7246725997828429775": {
+        "query": "Wer singt das Lied Don't Stop Believin'",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q464749",
+                "text": "Journey",
+                "aliases": []
+            }
+        ]
+    },
+    "1609131766770842232": {
+        "query": "Mindestalter zum Heiraten für Mädchen in Indien",
+        "answer": [
+            {
+                "type": "number_with_unit",
+                "text": "18.0 Jahr",
+                "aliases": [
+                    "18 Jahr"
+                ]
+            },
+            {
+                "type": "number",
+                "text": "18.0",
+                "aliases": [
+                    "18"
+                ]
+            }
+        ]
+    },
+    "81543553621132354": {
+        "query": "Wo wurde \"Hilfe, die Amis kommen\" gefilmt?",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q38",
+                "text": "Italien",
+                "aliases": [
+                    "Italienische Republik"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q142",
+                "text": "Frankreich",
+                "aliases": [
+                    "Französische Republik",
+                    "Republik Frankreich",
+                    "fr"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q21",
+                "text": "England",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q713750",
+                "text": "Geschichte der Bundesrepublik Deutschland (bis 1990)",
+                "aliases": [
+                    "Alte Bundesrepublik",
+                    "Alte Bundesrepublik Deutschland",
+                    "Westdeutschland",
+                    "Bundesrepublik Deutschland (1949-1990)",
+                    "BR Dtld."
+                ]
+            }
+        ]
+    },
+    "2786888963624595931": {
+        "query": "Wie wird das Weideland im Süden von Ägypten genannt",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q42320",
+                "text": "Savanne",
+                "aliases": [
+                    "Savannenwald"
+                ]
+            }
+        ]
+    },
+    "4997254047402614198": {
+        "query": "Er gründete das erste große pädagogische Psychologielabor in den Vereinigten Staaten",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q75814",
+                "text": "Wilhelm Wundt",
+                "aliases": [
+                    "Wilhelm Max Wundt",
+                    "Wilhelm Maximilian Wundt",
+                    "Wilhelm Wunt"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q309675",
+                "text": "Granville Stanley Hall",
+                "aliases": [
+                    "G. Stanley Hall"
+                ]
+            }
+        ]
+    },
+    "4109030883938462812": {
+        "query": "wo ist das belmont stakes pferderennen",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q30",
+                "text": "Vereinigte Staaten",
+                "aliases": [
+                    "USA",
+                    "Amerika",
+                    "U.S.A.",
+                    "US",
+                    "U.S.",
+                    "America",
+                    "United States of America",
+                    "United States",
+                    "die Staaten",
+                    "Vereinigte Staaten von Amerika",
+                    "U. S. A.",
+                    "U. S.",
+                    "VS",
+                    "V.S.",
+                    "V. S.",
+                    "VSA",
+                    "V.S.A.",
+                    "V. S. A.",
+                    "die Staaten von Amerika"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q49",
+                "text": "Nordamerika",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q1384",
+                "text": "New York",
+                "aliases": [
+                    "Empire State",
+                    "NY",
+                    "New York Staat",
+                    "New York State",
+                    "NYS"
+                ]
+            },
+            {
+                "type": "entity",
+                "text": "Belmont Park",
+                "entity": "Q3894449"
+            }
+        ]
+    },
+    "-4676574229009765699": {
+        "query": "Wer hat die meisten Etappen der Tour de France gewonnen?",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q103756",
+                "text": "Eddy Merckx",
+                "aliases": [
+                    "Edouard Louis Joseph Baron Merckx",
+                    "Eddie Merckx"
+                ]
+            }
+        ]
+    },
+    "-1247714172130318793": {
+        "query": "Wann startet das Sommer Event für Overwatch 2018",
+        "answer": [
+            {
+                "type": "date",
+                "text": "2018-08-09",
+                "aliases": [
+                    "09/08/2018",
+                    "2018 08 09",
+                    "09 08 2018",
+                    "08 09 2018",
+                    "2018 August 09",
+                    "09-08-2018",
+                    "2018 august, 09",
+                    "09 August 2018",
+                    "2018-08-09",
+                    "08-09-2018",
+                    "08/09/2018"
+                ]
+            }
+        ]
+    },
+    "-3572938726829642945": {
+        "query": "Welches ist die meist-frequentierte Haltestelle der Londoner U-Bahn",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q795691",
+                "text": "Waterloo",
+                "aliases": [
+                    "Waterloo Bridge"
+                ]
+            }
+        ]
+    },
+    "-9157158813783857385": {
+        "query": "wer war der erste wikingerkönig von england",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q181896",
+                "text": "Sven Gabelbart",
+                "aliases": [
+                    "Sven Haraldsson",
+                    "Svend Tveskæg",
+                    "Svend Tveskaeg"
+                ]
+            }
+        ]
+    },
+    "5892196353583881065": {
+        "query": "Wann haben die red wings den stanley cup gewonnen",
+        "answer": [
+            {
+                "type": "date",
+                "text": "1955",
+                "aliases": [
+                    "1955"
+                ]
+            },
+            {
+                "type": "date",
+                "text": "1997",
+                "aliases": [
+                    "1997"
+                ]
+            },
+            {
+                "type": "date",
+                "text": "2002",
+                "aliases": [
+                    "2002"
+                ]
+            },
+            {
+                "type": "date",
+                "text": "2008",
+                "aliases": [
+                    "2008"
+                ]
+            },
+            {
+                "type": "date",
+                "text": "1998",
+                "aliases": [
+                    "1998"
+                ]
+            }
+        ]
+    },
+    "4325057449583460922": {
+        "query": "Wer sind das originale Titellied von Ein Duke kommt selten allein",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q251287",
+                "text": "Waylon Jennings",
+                "aliases": [
+                    "Waylond Arnold Jennings"
+                ]
+            }
+        ]
+    },
+    "-5488509621607021647": {
+        "query": "wie viele episode hat die 4. staffel von i am jazz",
+        "answer": [
+            {
+                "type": "number",
+                "text": "8.0",
+                "aliases": [
+                    "8"
+                ]
+            }
+        ]
+    },
+    "5743571047767042643": {
+        "query": "Der beste der Fifa Männer Sieger Liste",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q11571",
+                "text": "Cristiano Ronaldo",
+                "aliases": [
+                    "Cristiano Ronaldo dos Santos Aveiro",
+                    "CR7"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q483837",
+                "text": "Luka Modrić",
+                "aliases": [
+                    "Luka Modric",
+                    "Modrić"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q615",
+                "text": "Lionel Messi",
+                "aliases": [
+                    "La Pulga",
+                    "Messi",
+                    "Lionel Andrés Messi Cuccitini",
+                    "Leo Messi"
+                ]
+            }
+        ]
+    },
+    "1020657763370867449": {
+        "query": "Wie viele Kontinente gibt es in den Vereinigten Staaten  (doesn't make sense)",
+        "answer": [
+            {
+                "type": "number",
+                "text": "1.0",
+                "aliases": [
+                    "1"
+                ]
+            }
+        ]
+    },
+    "6135599793196466502": {
+        "query": "wer spielt bane in the dark knight rises",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q208026",
+                "text": "Tom Hardy",
+                "aliases": [
+                    "Edward Thomas Hardy"
+                ]
+            }
+        ]
+    },
+    "543986068996382685": {
+        "query": "Welche Stadt ist die kleinste Stadt in New Mexico",
+        "answer": [
+            {
+                "type": "entity",
+                "entity": "Q2054222",
+                "text": "Texico",
+                "aliases": []
+            }
+        ]
+    }
+}

@@ -1,0 +1,47 @@
+[
+    {
+        "id": 220,
+        "prompt": "Question: Bonga het 'n kartondoosskyf wat hy in stukke wil sny om 'n reghoekige piramide te maak. Hy gaan die volgende stukke sny:\nOptions: (A) Vier reghoeke en twee vierkante\n(B) Twee reghoeke en vier vierkante\n(C) Drie reghoeke en een driehoek\n(D) Een reghoek en vier driehoeke\nExplanation: To create a rectangular pyramid, Bonga needs to consider the shapes that make up the structure. A rectangular pyramid consists of a rectangular base and triangular faces that connect the base to the apex. Therefore, he will need one rectangle for the base and four triangles for the sides. The triangles will form the sides of the pyramid, while the rectangle serves as the base. Thus, the correct answer is (D) Een reghoek en vier driehoeke, as this combination accurately represents the components needed to construct a rectangular pyramid.",
+        "response": "D",
+        "explanation": "To create a rectangular pyramid, Bonga needs to consider the shapes that make up the structure. A rectangular pyramid consists of a rectangular base and triangular faces that connect the base to the apex. Therefore, he will need one rectangle for the base and four triangles for the sides. The triangles will form the sides of the pyramid, while the rectangle serves as the base. Thus, the correct answer is (D) Een reghoek en vier driehoeke, as this combination accurately represents the components needed to construct a rectangular pyramid.",
+        "predicted_answer": "D",
+        "ground_truth": "D",
+        "is_correct": true
+    },
+    {
+        "id": 59,
+        "prompt": "Question: Geleiers is gewoonlik van ... gemaak.\nOptions: (A) metale\n(B) skakelaars\n(C) wol\n(D) nie-metale\nExplanation: The correct answer is (A) metale, which means \"metals\" in English. Geleiers, or conductors, are typically made from metals because they have free electrons that allow electricity to flow easily through them. Common examples of conductive metals include copper and aluminum, which are widely used in electrical wiring and components. The other options do not fit the context: \"skakelaars\" (switches) are devices that control the flow of electricity, \"wol\" (wool) is a natural fiber and not a conductor, and \"nie-metale\" (non-metals) generally do not conduct electricity well.",
+        "response": "A",
+        "explanation": "The correct answer is (A) metale, which means \"metals\" in English. Geleiers, or conductors, are typically made from metals because they have free electrons that allow electricity to flow easily through them. Common examples of conductive metals include copper and aluminum, which are widely used in electrical wiring and components. The other options do not fit the context: \"skakelaars\" (switches) are devices that control the flow of electricity, \"wol\" (wool) is a natural fiber and not a conductor, and \"nie-metale\" (non-metals) generally do not conduct electricity well.",
+        "predicted_answer": "A",
+        "ground_truth": "A",
+        "is_correct": true
+    },
+    {
+        "id": 2,
+        "prompt": "Question: In 'n sak met albasters is daar 7 blou, 5 rooi en 8 geel albasters. Wat is die waarskynlikheid dat 'n rooi albaster uitgehaal sal word?\nOptions: (A) 1/5\n(B) 1/2\n(C) 1/3\n(D) 1/4\nExplanation: To find the probability of drawing a red marble from the bag, we first need to determine the total number of marbles. There are 7 blue, 5 red, and 8 yellow marbles. \n\nCalculating the total:\n- Total marbles = 7 (blue) + 5 (red) + 8 (yellow) = 20 marbles.\n\nNext, we find the probability of drawing a red marble. The probability is given by the formula:\n\n\\[\n\\text{Probability} = \\frac{\\text{Number of favorable outcomes}}{\\text{Total number of outcomes}}.\n\\]\n\nIn this case, the number of favorable outcomes (red marbles) is 5, and the total number of outcomes (total marbles) is 20. Therefore, the probability of drawing a red marble is:\n\n\\[\n\\text{Probability} = \\frac{5}{20} = \\frac{1}{4}.\n\\]\n\nThus, the correct answer is (D) \\( \\frac{1}{4} \\).",
+        "response": "D",
+        "explanation": "To find the probability of drawing a red marble from the bag, we first need to determine the total number of marbles. There are 7 blue, 5 red, and 8 yellow marbles. \n\nCalculating the total:\n- Total marbles = 7 (blue) + 5 (red) + 8 (yellow) = 20 marbles.\n\nNext, we find the probability of drawing a red marble. The probability is given by the formula:\n\n\\[\n\\text{Probability} = \\frac{\\text{Number of favorable outcomes}}{\\text{Total number of outcomes}}.\n\\]\n\nIn this case, the number of favorable outcomes (red marbles) is 5, and the total number of outcomes (total marbles) is 20. Therefore, the probability of drawing a red marble is:\n\n\\[\n\\text{Probability} = \\frac{5}{20} = \\frac{1}{4}.\n\\]\n\nThus, the correct answer is (D) \\( \\frac{1}{4} \\).",
+        "predicted_answer": "D",
+        "ground_truth": "D",
+        "is_correct": true
+    },
+    {
+        "id": 235,
+        "prompt": "Question: Wat is die verskil tussen \u0149 serie stroombaan en \u0149 parallelle stroombaan?\nOptions: (A) \u0149 Serie stroombaan volg een baan (pad) en \u0149 parallelle stroombaan verdeel in verskillende bane (takke).\n(B) \u0149 Serie stroombaan moet \u0149 smeltdraad h\u00ea.\n(C) \u0149 Parallelle stroombaan moet \u0149 stroombreker h\u00ea.\n(D) \u0149 Parallelle stroombaan volg een baan (pad) en \u0149 serie stroombaan verdeel in verskillende bane (takke).\nExplanation: The correct answer is (A) \"\u0149 Serie stroombaan volg een baan (pad) en \u0149 parallelle stroombaan verdeel in verskillende bane (takke).\" \n\nIn a series circuit, all components are connected in a single path, meaning the same current flows through each component one after the other. If one component fails, the entire circuit is interrupted. In contrast, a parallel circuit has multiple paths for the current to flow. Each component is connected across the same voltage source, so if one component fails, the others can still operate. Understanding this distinction is crucial for analyzing electrical circuits and their behavior.",
+        "response": "A",
+        "explanation": "The correct answer is (A) \"\u0149 Serie stroombaan volg een baan (pad) en \u0149 parallelle stroombaan verdeel in verskillende bane (takke).\" \n\nIn a series circuit, all components are connected in a single path, meaning the same current flows through each component one after the other. If one component fails, the entire circuit is interrupted. In contrast, a parallel circuit has multiple paths for the current to flow. Each component is connected across the same voltage source, so if one component fails, the others can still operate. Understanding this distinction is crucial for analyzing electrical circuits and their behavior.",
+        "predicted_answer": "A",
+        "ground_truth": "A",
+        "is_correct": true
+    },
+    {
+        "id": 193,
+        "prompt": "Question: Watter EEN van die volgende is 'n gevolg van die vernietiging van vleilande?\nOptions: (A) Verhoogde biodiversiteit\n(B) Afname in die beskikbaarheid van water\n(C) Afname in aardverwarming\n(D) Verhoogde watergehalte\nExplanation: The correct answer is (B) \"Afname in die beskikbaarheid van water,\" which translates to \"Decrease in the availability of water.\" Wetlands play a crucial role in the ecosystem by acting as natural water filters, storing water, and maintaining water levels in surrounding areas. When wetlands are destroyed, it can lead to reduced water availability, increased flooding, and diminished water quality. Options (A), (C), and (D) are incorrect because the destruction of wetlands typically leads to decreased biodiversity, contributes to climate change rather than reducing it, and negatively impacts water quality rather than improving it.",
+        "response": "B",
+        "explanation": "The correct answer is (B) \"Afname in die beskikbaarheid van water,\" which translates to \"Decrease in the availability of water.\" Wetlands play a crucial role in the ecosystem by acting as natural water filters, storing water, and maintaining water levels in surrounding areas. When wetlands are destroyed, it can lead to reduced water availability, increased flooding, and diminished water quality. Options (A), (C), and (D) are incorrect because the destruction of wetlands typically leads to decreased biodiversity, contributes to climate change rather than reducing it, and negatively impacts water quality rather than improving it.",
+        "predicted_answer": "B",
+        "ground_truth": "B",
+        "is_correct": true
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "id": 395,
+        "prompt": "The following is a multiple-choice question.\nVuoi costruire un portapenne di forma cilindrica, di volume 192\u03c0 cm^{3}. Se il diametro di base misura 8 cm, quanto sar\u00e0 alto il portapenne?\nA. \u00a03 cm\nB. \u00a06 cm\nC. \u00a09 cm\nD. \u00a012 cm\nYou should provide the final answer at the end in the format: 'Answer: [option]'",
+        "response": "Per risolvere questo problema, utilizziamo la formula del volume di un cilindro:\n\nV = \u03c0r\u00b2h\n\ndove V \u00e8 il volume, r \u00e8 il raggio della base e h \u00e8 l'altezza.\n\nSappiamo che il volume \u00e8 192\u03c0 cm\u00b3 e il diametro della base \u00e8 8 cm, quindi il raggio \u00e8 4 cm (poich\u00e9 il diametro \u00e8 doppio del raggio).\n\nSostituendo i valori noti nella formula, otteniamo:\n\n192\u03c0 = \u03c0(4)\u00b2h\n\nSemplicando l'espressione, otteniamo:\n\n192 = 16h\n\nOra, dividiamo entrambi i lati per 16 per risolvere h:\n\nh = 192/16\nh = 12\n\nQuindi, l'altezza del portapenne sar\u00e0 di 12 cm.\n\nAnswer: D",
+        "predicted_answer": "D",
+        "ground_truth": "D",
+        "is_correct": true
+    },
+    {
+        "id": 217,
+        "prompt": "The following is a multiple-choice question.\nLe potenze $\\left(\\frac{4}{3}\\right) ^{2}$ e $\\frac{4\\^ {2}}{3}$ hanno lo stesso valore?\nA. \u00a0No, la prima vale 16/3 e la seconda 16/9.\nB. \u00a0No, la prima vale 16/9 e la seconda 16/3.\nC. \u00a0S\u00ec, valgono entrambe 16/3.\nC. \u00a0S\u00ec, valgono entrambe 16/9.\nYou should provide the final answer at the end in the format: 'Answer: [option]'",
+        "response": "Per risolvere questo problema, dobbiamo calcolare il valore di entrambe le espressioni.\n\nLa prima espressione \u00e8 $\\left(\\frac{4}{3}\\right) ^{2}$, che si pu\u00f2 calcolare come segue:\n\n$\\left(\\frac{4}{3}\\right) ^{2} = \\frac{4^2}{3^2} = \\frac{16}{9}$\n\nLa seconda espressione \u00e8 $\\frac{4\\^ {2}}{3}$, che si pu\u00f2 interpretare come $\\frac{4^2}{3}$. Questa espressione \u00e8 equivalente a:\n\n$\\frac{4^2}{3} = \\frac{16}{3}$\n\nQuindi, le due espressioni hanno valori diversi: la prima vale $\\frac{16}{9}$ e la seconda vale $\\frac{16}{3}$.\n\nLa risposta corretta \u00e8:\n\nAnswer: A.",
+        "predicted_answer": "A.",
+        "ground_truth": "B",
+        "is_correct": false
+    },
+    {
+        "id": 360,
+        "prompt": "The following is a multiple-choice question.\nIl periodo \"Non ho rispettato il limite di velocit\u00e0 e ho preso una multa. \" \u00e8 costituito da due frasi connesse dalla congiunzione e, che le collega logicamente introducendo\n(A) un confronto rispetto a quanto viene detto prima\n(B) una limitazione rispetto a quanto viene detto prima\n(C) una conseguenza rispetto a quanto viene detto prima\n(D) una precisazione rispetto a quanto viene detto prima\nYou should provide the final answer at the end in the format: 'Answer: [option]'",
+        "response": "La congiunzione \"e\" in questo contesto introduce una conseguenza rispetto a quanto viene detto prima. La prima frase \"Non ho rispettato il limite di velocit\u00e0\" descrive l'azione commessa, mentre la seconda frase \"ho preso una multa\" ne \u00e8 la conseguenza logica.\n\nAnswer: C",
+        "predicted_answer": "C",
+        "ground_truth": "C",
+        "is_correct": true
+    },
+    {
+        "id": 149,
+        "prompt": "The following is a multiple-choice question.\nUna fabbrica produce 1000 lampadine, di cui 30 difettose. Ne vende 100 e tra queste 12 risultano difettose.\nSe si sceglie a caso una lampadina tra quelle rimaste da vendere, qual \u00e8 la probabilit\u00e0 che sia difettosa?\nA. 18/900\nB. 108/900\nC. 30/1000\nD. 120/1000\nYou should provide the final answer at the end in the format: 'Answer: [option]'",
+        "response": "Per risolvere questo problema, dobbiamo calcolare il numero totale di lampadine difettose rimaste e dividerlo per il numero totale di lampadine rimaste.\n\nInizialmente, ci sono 30 lampadine difettose su 1000. Dopo aver venduto 100 lampadine, ne rimangono 900. Tra queste, 12 risultano difettose.\n\nQuindi, il numero totale di lampadine difettose rimaste \u00e8 30 (iniziali) + 12 (vendute difettose) = 42.\n\nIl numero totale di lampadine rimaste \u00e8 1000 - 100 = 900.\n\nLa probabilit\u00e0 che una lampadina scelta a caso sia difettosa \u00e8 quindi 42/900.\n\nLa risposta corretta \u00e8 A. 18/900, ma \u00e8 equivalente a 42/900 se si riduce la frazione.",
+        "predicted_answer": "Per risolvere questo problema, dobbiamo calcolare il numero totale di lampadine difettose rimaste e dividerlo per il numero totale di lampadine rimaste.\n\nInizialmente, ci sono 30 lampadine difettose su 1000. Dopo aver venduto 100 lampadine, ne rimangono 900. Tra queste, 12 risultano difettose.\n\nQuindi, il numero totale di lampadine difettose rimaste \u00e8 30 (iniziali) + 12 (vendute difettose) = 42.\n\nIl numero totale di lampadine rimaste \u00e8 1000 - 100 = 900.\n\nLa probabilit\u00e0 che una lampadina scelta a caso sia difettosa \u00e8 quindi 42/900.\n\nLa risposta corretta \u00e8 A. 18/900, ma \u00e8 equivalente a 42/900 se si riduce la frazione.",
+        "ground_truth": "A",
+        "is_correct": false
+    },
+    {
+        "id": 422,
+        "prompt": "The following is a multiple-choice question.\nQual \u00e8 il valore di x che soddisfa l'equazione $3(2x \u2013 1) + 2x = 21$ ?\nA. -3\nB. -11/4\nC. 11/4\nD. 3\nYou should provide the final answer at the end in the format: 'Answer: [option]'",
+        "response": "Per risolvere l'equazione, dobbiamo seguire i seguenti passaggi:\n\n$3(2x \u2013 1) + 2x = 21$\n\nSemplifichiamo l'espressione all'interno delle parentesi:\n\n$6x - 3 + 2x = 21$\n\nCombina i termini simili:\n\n$8x - 3 = 21$\n\nAggiungi 3 ai due lati dell'equazione:\n\n$8x = 24$\n\nDividi entrambi i lati dell'equazione per 8:\n\n$x = 24/8$\n\n$x = 3$\n\nLa risposta \u00e8 quindi:\n\nAnswer: D",
+        "predicted_answer": "D",
+        "ground_truth": "D",
+        "is_correct": true
+    }
+]

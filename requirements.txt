@@ -1,0 +1,6 @@
+rouge_score==0.1.2
+openai==1.50.2
+anthropic==0.40.0
+transformers==4.48.0
+torch==2.4.0
+tqdm==4.66.5

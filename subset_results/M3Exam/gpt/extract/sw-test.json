@@ -1,0 +1,47 @@
+[
+    {
+        "id": 349,
+        "prompt": "Question: Sentensi inayounganisha sentensi: \"Juma ni mzee. Juma anasoma kitabu bila miwani\", kisahihi ni:\nOptions: A. Juma ni mzee maadamu anasoma kitabu bila miwani.\nB. Juma anasoma kitabu bila miwani licha ya kuwa yeye ni mzee.\nC. Juma ni mzee madhali anasoma kitabu bila miwani.\nD. Juma anasoma kitabu bila miwani minghairi ya yeye ni mzee.\nExplanation: To connect the two sentences effectively, we need to find a conjunction that maintains the relationship between Juma being old and his ability to read without glasses. The best choice is B: \"Juma anasoma kitabu bila miwani licha ya kuwa yeye ni mzee.\" This option clearly indicates that despite Juma's old age, he is still able to read without glasses, which captures the contrast between the two statements. The other options either do not convey this contrast effectively or use incorrect conjunctions that do not fit the context.",
+        "response": "B",
+        "explanation": "To connect the two sentences effectively, we need to find a conjunction that maintains the relationship between Juma being old and his ability to read without glasses. The best choice is B: \"Juma anasoma kitabu bila miwani licha ya kuwa yeye ni mzee.\" This option clearly indicates that despite Juma's old age, he is still able to read without glasses, which captures the contrast between the two statements. The other options either do not convey this contrast effectively or use incorrect conjunctions that do not fit the context.",
+        "predicted_answer": "B",
+        "ground_truth": "B",
+        "is_correct": true
+    },
+    {
+        "id": 408,
+        "prompt": "Question: Tashbihi\nPopo amekonda kama _________\nOptions: A. sindano\nB. ng'onda\nC. kijiti\nD. kasuku\nExplanation: In Swahili, \"tashbihi\" refers to a simile, which is a figure of speech that compares two different things using \"kama\" (like/as). In this case, the sentence \"Popo amekonda kama _________\" is looking for a comparison that makes sense in describing the shape or appearance of a bat. The correct answer is C: \"kijiti,\" which means \"stick.\" This comparison effectively conveys the idea of something thin and elongated, similar to how a bat might appear when it is emaciated. The other options do not provide a fitting comparison: \"sindano\" (needle) is too narrow, \"ng'onda\" (a type of fish) does not relate well, and \"kasuku\" (parrot) does not convey the same imagery.",
+        "response": "C",
+        "explanation": "In Swahili, \"tashbihi\" refers to a simile, which is a figure of speech that compares two different things using \"kama\" (like/as). In this case, the sentence \"Popo amekonda kama _________\" is looking for a comparison that makes sense in describing the shape or appearance of a bat. The correct answer is C: \"kijiti,\" which means \"stick.\" This comparison effectively conveys the idea of something thin and elongated, similar to how a bat might appear when it is emaciated. The other options do not provide a fitting comparison: \"sindano\" (needle) is too narrow, \"ng'onda\" (a type of fish) does not relate well, and \"kasuku\" (parrot) does not convey the same imagery.",
+        "predicted_answer": "C",
+        "ground_truth": "B",
+        "is_correct": false
+    },
+    {
+        "id": 72,
+        "prompt": "Question: Methali zifuatazo zinahusu bidii. Ipi haifai kuwepo?\nOptions: A. Mgaagaa na upwa hali wali mkavu.\nB. Umoja ni nguvu utengano ni udhaifu.\nC. Ukiona vyaelea jua vimeundwa.\nD. Mtaka cha mvunguni sharti ainame.\nExplanation: To determine which proverb does not relate to the theme of diligence or hard work, we need to analyze the meanings of each option. \n\n- A. \"Mgaagaa na upwa hali wali mkavu\" suggests that one should be cautious and not take things for granted, which can relate to diligence in being careful.\n- B. \"Umoja ni nguvu utengano ni udhaifu\" emphasizes the strength found in unity, which is more about collaboration than individual effort.\n- C. \"Ukiona vyaelea jua vimeundwa\" means that what appears effortless is the result of hard work, directly relating to diligence.\n- D. \"Mtaka cha mvunguni sharti ainame\" translates to \"He who wants what is under the bed must bend down,\" which emphasizes the need for effort to achieve goals.\n\nGiven this analysis, option B (\"Umoja ni nguvu utengano ni udhaifu\") is the least related to the concept of diligence, as it focuses more on the importance of unity rather than individual effort or hard work.",
+        "response": "B",
+        "explanation": "To determine which proverb does not relate to the theme of diligence or hard work, we need to analyze the meanings of each option. \n\n- A. \"Mgaagaa na upwa hali wali mkavu\" suggests that one should be cautious and not take things for granted, which can relate to diligence in being careful.\n- B. \"Umoja ni nguvu utengano ni udhaifu\" emphasizes the strength found in unity, which is more about collaboration than individual effort.\n- C. \"Ukiona vyaelea jua vimeundwa\" means that what appears effortless is the result of hard work, directly relating to diligence.\n- D. \"Mtaka cha mvunguni sharti ainame\" translates to \"He who wants what is under the bed must bend down,\" which emphasizes the need for effort to achieve goals.\n\nGiven this analysis, option B (\"Umoja ni nguvu utengano ni udhaifu\") is the least related to the concept of diligence, as it focuses more on the importance of unity rather than individual effort or hard work.",
+        "predicted_answer": "B",
+        "ground_truth": "C",
+        "is_correct": false
+    },
+    {
+        "id": 381,
+        "prompt": "Question: Chagua neno ambalo limetumia silabi changamano:\nOptions: A. Mbuga.\nB. Kituta.\nC. Ziwa.\nD. Utulivu.\nExplanation: To identify the word that contains a \"silabi changamano\" (a complex syllable), we need to understand what a complex syllable is. A complex syllable typically includes a consonant cluster or a combination of consonants and vowels that create a more intricate sound structure. \n\nIn this case, the correct answer is D: \"Utulivu.\" This word contains the syllable \"tu,\" which is a combination of a consonant followed by a vowel, and the overall structure of \"utulivu\" includes multiple syllables that create a more complex sound. The other options, such as \"mbuga,\" \"kituta,\" and \"ziwa,\" consist of simpler syllable structures. Thus, \"utulivu\" is the best choice for a word with a complex syllable.",
+        "response": "D",
+        "explanation": "To identify the word that contains a \"silabi changamano\" (a complex syllable), we need to understand what a complex syllable is. A complex syllable typically includes a consonant cluster or a combination of consonants and vowels that create a more intricate sound structure. \n\nIn this case, the correct answer is D: \"Utulivu.\" This word contains the syllable \"tu,\" which is a combination of a consonant followed by a vowel, and the overall structure of \"utulivu\" includes multiple syllables that create a more complex sound. The other options, such as \"mbuga,\" \"kituta,\" and \"ziwa,\" consist of simpler syllable structures. Thus, \"utulivu\" is the best choice for a word with a complex syllable.",
+        "predicted_answer": "D",
+        "ground_truth": "A",
+        "is_correct": false
+    },
+    {
+        "id": 237,
+        "prompt": "Question: Tegua kitendawili hiki: \nMava hapo mava pale\nOptions: A. kifo\nB. kioo\nC. kumetameta\nD. kivuli\nExplanation: The riddle \"Mava hapo mava pale\" plays with the concept of reflection and visibility. The correct answer is \"B. kioo,\" which means \"mirror\" in Swahili. The phrase suggests something that reflects or shows an image, which aligns with the function of a mirror. The other options do not fit the context of reflection: \"kifo\" means death, \"kumetameta\" refers to shimmering or glimmering, and \"kivuli\" means shadow, which does not directly relate to the idea of reflection as a mirror does. Understanding the nature of a mirror helps clarify why it is the correct answer to this riddle.",
+        "response": "B",
+        "explanation": "The riddle \"Mava hapo mava pale\" plays with the concept of reflection and visibility. The correct answer is \"B. kioo,\" which means \"mirror\" in Swahili. The phrase suggests something that reflects or shows an image, which aligns with the function of a mirror. The other options do not fit the context of reflection: \"kifo\" means death, \"kumetameta\" refers to shimmering or glimmering, and \"kivuli\" means shadow, which does not directly relate to the idea of reflection as a mirror does. Understanding the nature of a mirror helps clarify why it is the correct answer to this riddle.",
+        "predicted_answer": "B",
+        "ground_truth": "D",
+        "is_correct": false
+    }
+]

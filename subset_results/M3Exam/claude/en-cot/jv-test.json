@@ -1,0 +1,42 @@
+[
+    {
+        "id": 64,
+        "prompt": "The following is a multiple-choice question.\nKanggo nyegah sumebare COVID-19, sabubare lelungan perlu reresik tangan ....\nA. Sadurunge ndemok sedulur lan anggota kulawargane.\nB. Sadurunge ndemok anggota kulawarga lan barang-barang sing ana ing ngomahe.\nC. Sadurunge mangan lan ngombe ing ngomahe\nD. Sadurunge adus lan ngumbah klambine.\nLet's think step-by-step in English, and provide the final answer at the end in the format: 'Answer: [option]'\nYou should provide the final answer at the end in the format: 'Answer: [option]'",
+        "response": "Let's solve this step by step:\n\n1. The question is in Javanese and asks about hand washing to prevent the spread of COVID-19.\n\n2. Let's translate the options:\n   A. Before touching family members and relatives\n   B. Before touching family members and items in the house\n   C. Before eating and drinking at home\n   D. Before bathing and washing clothes\n\n3. COVID-19 is primarily spread through respiratory droplets and contact with contaminated surfaces.\n\n4. To prevent transmission, it's crucial to wash hands:\n   - Before eating or drinking\n   - Before touching your face or family members\n   - After touching surfaces or objects\n\n5. Looking at the options, option C specifically mentions washing hands before eating and drinking at home.\n\n6. This is a key moment when hand washing is critical to prevent the spread of germs and viruses.\n\n7. Option C directly addresses a critical point in preventing COVID-19 transmission.\n\nTherefore:\n\nAnswer: C",
+        "predicted_answer": "C",
+        "ground_truth": "B",
+        "is_correct": false
+    },
+    {
+        "id": 46,
+        "prompt": "The following is a multiple-choice question.\nWaluh, Semangka, Lan Timun Kuwi Klebu Tanduran ....\nA. Palakirna\nB. Palakependhem\nC. Palawija\nD. Palakesimpar\nLet's think step-by-step in English, and provide the final answer at the end in the format: 'Answer: [option]'\nYou should provide the final answer at the end in the format: 'Answer: [option]'",
+        "response": "Let's solve this step by step:\n\n1. First, let's understand the language:\n   - This is a question in Indonesian (or more specifically, Javanese)\n   - The question translates to: \"Waluh, Semangka, and Timun are classified as crops of....\"\n\n2. Let's break down the crops mentioned:\n   - Waluh = Pumpkin\n   - Semangka = Watermelon\n   - Timun = Cucumber\n\n3. These are all types of vine crops or fruits that grow on vines\n\n4. Let's look at the options:\n   - Palakirna (Option A): Not a familiar term\n   - Palakependhem (Option B): Not a familiar term\n   - Palawija (Option C): This term refers to secondary crops, often including crops like vegetables and fruits\n   - Palakesimpar (Option D): Not a familiar term\n\n5. Palawija typically includes crops that are not staple grains like rice, such as vegetables, fruits, and secondary crops\n\n6. The crops mentioned (pumpkin, watermelon, cucumber) fit perfectly into the Palawija category\n\nTherefore:\n\nAnswer: C",
+        "predicted_answer": "C",
+        "ground_truth": "D",
+        "is_correct": false
+    },
+    {
+        "id": 196,
+        "prompt": "The following is a multiple-choice question.\n\u201cWiwitanipun usaha inggih namung nyobi-nyobi, krana pekarangannipun wiyar Panjenengannipun nyobi ternak lele. Dhasar mara sepuhipun pegawai Dinas Peternakan, dados saged ngangsu kawruh bab ternak lele\u201d.\n\nApa gagasan utama saka paragraf ing ndhuwur kuwi ....\nA. Wirausaha ternak lele\nB. Wirausaha\nC. Ternak lele\nD. Pegawai Dinas Peternakan\nLet's think step-by-step in English, and provide the final answer at the end in the format: 'Answer: [option]'\nYou should provide the final answer at the end in the format: 'Answer: [option]'",
+        "response": "Let's solve this step by step:\n\n1. First, let's understand the paragraph's content:\n- The paragraph talks about someone trying a business venture\n- Specifically, the person is trying to raise catfish (ternak lele)\n- The person's parent works at the Animal Husbandry Office, which helps them gain knowledge about catfish farming\n\n2. Analyzing the key elements:\n- The main focus is on the business venture of raising catfish\n- The person is trying out a business (wirausaha)\n- The specific business is catfish farming (ternak lele)\n\n3. Identifying the main idea:\n- The paragraph emphasizes the person's attempt to start a catfish farming business\n- The background of the parent working at the Animal Husbandry Office is supportive information, not the main point\n\n4. Matching the main idea with the given options:\n- Option A \"Wirausaha ternak lele\" (Catfish farming business) most closely matches the paragraph's main idea\n- It captures both the business aspect and the specific type of business\n\n5. Eliminating other options:\n- Option B is too broad\n- Option C is too specific\n- Option D is just background information\n\nAnswer: A",
+        "predicted_answer": "A",
+        "ground_truth": "A",
+        "is_correct": true
+    },
+    {
+        "id": 244,
+        "prompt": "The following is a multiple-choice question.\nSapu Sada\n\nJumat bersih\nResik lan sehat\nCancut tali wanda\nNandur kabecikan\nCilik gedhe bagus ayu\nOra mung padha gumuyu\nOra tinggal glanggang calon playu\nTumuju adiwiyata murih rahayu\nCrah agawe bubrah\nRukun agawe santosa\nGuyub rukun kaya sapu sada\n\nGeguritan ing ndhuwur surasane bab ....\na. kerja bakti\nb. sapu\nc. rukun\nd. gojekan\nLet's think step-by-step in English, and provide the final answer at the end in the format: 'Answer: [option]'\nYou should provide the final answer at the end in the format: 'Answer: [option]'",
+        "response": "Let's analyze this Javanese poem step by step:\n\n1. First, let's look at the key themes in the poem:\n- \"Jumat bersih\" (Clean Friday) suggests a communal cleaning activity\n- \"Resik lan sehat\" (Clean and healthy)\n- \"Nandur kabecikan\" (Planting goodness)\n- \"Crah agawe bubrah\" (Conflict causes destruction)\n- \"Rukun agawe santosa\" (Harmony creates strength)\n\n2. The poem seems to emphasize:\n- Community cooperation\n- Cleanliness\n- Harmony\n- Working together\n\n3. The phrases about \"rukun\" (harmony) and working together are particularly strong:\n- \"Guyub rukun kaya sapu sada\" (Harmonious like a broom)\n- This suggests unity and collective effort\n\n4. The overall message appears to be about:\n- Community service\n- Collective cleaning\n- Working together harmoniously\n\n5. Among the given options, the theme most closely matches \"kerja bakti\" (community service).\n\nAnswer: a",
+        "predicted_answer": "a",
+        "ground_truth": "a",
+        "is_correct": true
+    },
+    {
+        "id": 68,
+        "prompt": "The following is a multiple-choice question.\nJamaah jumat ingkang kawula bhekteni, monggo kita sareng-sareng nglampahi sedaya ingkang sampun perintah dining Alloh SWT. Lan nebihi sedaya laranganlaranganipun.....\n\nUkara-ukara ing inggil minangka tuladha ....\nA. Sesorah\nB. Khotbah\nC. Atur pambagya\nD. Atur pranatacara\nLet's think step-by-step in English, and provide the final answer at the end in the format: 'Answer: [option]'\nYou should provide the final answer at the end in the format: 'Answer: [option]'",
+        "response": "Let's solve this step by step:\n\n1. First, let's understand the text:\n- The text is in Javanese (Bahasa Jawa)\n- It appears to be an address or speech to a congregation\n- The content seems religious, mentioning \"Alloh SWT\" (Allah SWT)\n- The speaker is encouraging the congregation to follow Allah's commands and avoid prohibitions\n\n2. Let's analyze the characteristics of the text:\n- It starts with a greeting (\"Jamaah jumat\")\n- It has a motivational and religious tone\n- It seems to be spoken in a formal setting\n\n3. Let's consider the options:\nA. Sesorah - A general speech or address\nB. Khotbah - A religious sermon, typically given during Friday prayers\nC. Atur pambagya - A congratulatory speech\nD. Atur pranatacara - A ceremonial speech or introduction\n\n4. Analyzing the context:\n- The text mentions \"Jamaah jumat\" (Friday congregation)\n- It talks about following Allah's commands\n- These are clear indicators of a religious sermon\n\n5. Conclusion:\nThe text is most characteristic of a Khotbah (religious sermon)\n\nAnswer: B",
+        "predicted_answer": "B",
+        "ground_truth": "B",
+        "is_correct": true
+    }
+]

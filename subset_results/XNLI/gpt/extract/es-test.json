@@ -1,0 +1,52 @@
+[
+    {
+        "id": "es-4211",
+        "sys_prompt": "You are an expert in natural language inference tasks. Given the premise, hypothesis, and explanation, your task is to judge whether the hypothesis is an entailment, contradiction, or neutral with respect to the premise. Provide your answer in the format: \"Relationship: [Entailment, Neutral, or Contradiction].",
+        "user_prompt": "Premise: Disparan a los estudiantes, \u00bfno?\nHypothesis: Hacen magdalenas para los estudiantes, \u00bfno?\nExplanation: The relationship between the premise and the hypothesis is one of contradiction. The premise states \"Disparan a los estudiantes, \u00bfno?\" which implies a violent and harmful action towards students. In contrast, the hypothesis \"Hacen magdalenas para los estudiantes, \u00bfno?\" suggests a nurturing and positive action, specifically making muffins for students. These two statements are fundamentally opposed in nature; one involves harm while the other involves care and support. Therefore, the hypothesis cannot be true if the premise is true, leading to the conclusion that the hypothesis contradicts the premise.",
+        "response": "Relationship: Contradiction",
+        "explanation": "The relationship between the premise and the hypothesis is one of contradiction. The premise states \"Disparan a los estudiantes, \u00bfno?\" which implies a violent and harmful action towards students. In contrast, the hypothesis \"Hacen magdalenas para los estudiantes, \u00bfno?\" suggests a nurturing and positive action, specifically making muffins for students. These two statements are fundamentally opposed in nature; one involves harm while the other involves care and support. Therefore, the hypothesis cannot be true if the premise is true, leading to the conclusion that the hypothesis contradicts the premise.",
+        "predicted_answer": 2,
+        "ground_truth": 2,
+        "is_correct": true
+    },
+    {
+        "id": "es-3872",
+        "sys_prompt": "You are an expert in natural language inference tasks. Given the premise, hypothesis, and explanation, your task is to judge whether the hypothesis is an entailment, contradiction, or neutral with respect to the premise. Provide your answer in the format: \"Relationship: [Entailment, Neutral, or Contradiction].",
+        "user_prompt": "Premise: FOREVER PLAID, un nombre que connota la continuaci\u00f3n de los valores tradicionales, de la familia, el hogar y la armon\u00eda.\nHypothesis: Nuestro CEO ide\u00f3 el nombre POR SIEMPRE A CUADROS.\nExplanation: The relationship between the premise and the hypothesis is one of contradiction. The premise states that \"FOREVER PLAID\" connotes traditional values such as family, home, and harmony, but it does not provide any information about who created or ideated the name. The hypothesis claims that \"our CEO came up with the name FOREVER PLAID,\" which implies a specific attribution of the name to an individual. Since the premise does not support this claim and does not mention the CEO at all, we cannot conclude that the CEO is responsible for the name. Therefore, the hypothesis contradicts the information provided in the premise.",
+        "response": "Contradiction",
+        "explanation": "The relationship between the premise and the hypothesis is one of contradiction. The premise states that \"FOREVER PLAID\" connotes traditional values such as family, home, and harmony, but it does not provide any information about who created or ideated the name. The hypothesis claims that \"our CEO came up with the name FOREVER PLAID,\" which implies a specific attribution of the name to an individual. Since the premise does not support this claim and does not mention the CEO at all, we cannot conclude that the CEO is responsible for the name. Therefore, the hypothesis contradicts the information provided in the premise.",
+        "predicted_answer": 2,
+        "ground_truth": 1,
+        "is_correct": false
+    },
+    {
+        "id": "es-580",
+        "sys_prompt": "You are an expert in natural language inference tasks. Given the premise, hypothesis, and explanation, your task is to judge whether the hypothesis is an entailment, contradiction, or neutral with respect to the premise. Provide your answer in the format: \"Relationship: [Entailment, Neutral, or Contradiction].",
+        "user_prompt": "Premise: sabes, todos mis hijos son geniales, muy buenos, y creo que no, aprende de los ni\u00f1os mayores tambi\u00e9n, pero\nHypothesis: Estoy muy orgulloso de lo mucho que mis hijos saben.\nExplanation: The relationship between the premise and the hypothesis is neutral. The premise expresses a positive sentiment about the speaker's children, stating that they are \"geniales\" (great) and \"muy buenos\" (very good), and suggests that there is a learning dynamic among the children. However, it does not explicitly state that the speaker is proud of how much their children know. While the speaker's admiration could imply pride, the premise does not provide enough information to definitively conclude that the speaker is proud of their children's knowledge. Therefore, the hypothesis cannot be confirmed as true or false based solely on the premise.",
+        "response": "Relationship: Neutral",
+        "explanation": "The relationship between the premise and the hypothesis is neutral. The premise expresses a positive sentiment about the speaker's children, stating that they are \"geniales\" (great) and \"muy buenos\" (very good), and suggests that there is a learning dynamic among the children. However, it does not explicitly state that the speaker is proud of how much their children know. While the speaker's admiration could imply pride, the premise does not provide enough information to definitively conclude that the speaker is proud of their children's knowledge. Therefore, the hypothesis cannot be confirmed as true or false based solely on the premise.",
+        "predicted_answer": 1,
+        "ground_truth": 1,
+        "is_correct": true
+    },
+    {
+        "id": "es-1362",
+        "sys_prompt": "You are an expert in natural language inference tasks. Given the premise, hypothesis, and explanation, your task is to judge whether the hypothesis is an entailment, contradiction, or neutral with respect to the premise. Provide your answer in the format: \"Relationship: [Entailment, Neutral, or Contradiction].",
+        "user_prompt": "Premise: Dios solo es mencionado como el Dios de la naturaleza, en virtud del cual cualquier persona tiene el derecho a un parte igual y separada en la comunidad de las naciones.\nHypothesis: Las personas nunca son iguales.\nExplanation: The relationship between the premise and the hypothesis is one of contradiction. The premise states that God is referred to as the God of nature, implying that everyone has an equal and separate part in the community of nations. This suggests a belief in equality among people. In contrast, the hypothesis claims that people are never equal, which directly opposes the idea presented in the premise. The key concept here is the notion of equality; the premise supports the idea that individuals have equal rights, while the hypothesis denies this fundamental principle. Therefore, the hypothesis contradicts the premise.",
+        "response": "Relationship: Contradiction",
+        "explanation": "The relationship between the premise and the hypothesis is one of contradiction. The premise states that God is referred to as the God of nature, implying that everyone has an equal and separate part in the community of nations. This suggests a belief in equality among people. In contrast, the hypothesis claims that people are never equal, which directly opposes the idea presented in the premise. The key concept here is the notion of equality; the premise supports the idea that individuals have equal rights, while the hypothesis denies this fundamental principle. Therefore, the hypothesis contradicts the premise.",
+        "predicted_answer": 2,
+        "ground_truth": 2,
+        "is_correct": true
+    },
+    {
+        "id": "es-17",
+        "sys_prompt": "You are an expert in natural language inference tasks. Given the premise, hypothesis, and explanation, your task is to judge whether the hypothesis is an entailment, contradiction, or neutral with respect to the premise. Provide your answer in the format: \"Relationship: [Entailment, Neutral, or Contradiction].",
+        "user_prompt": "Premise: As\u00ed que no tengo muy claro por qu\u00e9.\nHypothesis: No s\u00e9 por qu\u00e9 sucedi\u00f3 eso.\nExplanation: The relationship between the premise and the hypothesis is one of entailment. The premise states, \"As\u00ed que no tengo muy claro por qu\u00e9,\" which translates to \"So I am not very clear about why.\" This indicates a lack of understanding or clarity regarding a reason or explanation. The hypothesis, \"No s\u00e9 por qu\u00e9 sucedi\u00f3 eso,\" translates to \"I don't know why that happened,\" which expresses a similar sentiment of uncertainty about a specific event. Both statements convey confusion or a lack of knowledge about a reason, making the hypothesis a logical conclusion derived from the premise.",
+        "response": "entailment",
+        "explanation": "The relationship between the premise and the hypothesis is one of entailment. The premise states, \"As\u00ed que no tengo muy claro por qu\u00e9,\" which translates to \"So I am not very clear about why.\" This indicates a lack of understanding or clarity regarding a reason or explanation. The hypothesis, \"No s\u00e9 por qu\u00e9 sucedi\u00f3 eso,\" translates to \"I don't know why that happened,\" which expresses a similar sentiment of uncertainty about a specific event. Both statements convey confusion or a lack of knowledge about a reason, making the hypothesis a logical conclusion derived from the premise.",
+        "predicted_answer": 0,
+        "ground_truth": 0,
+        "is_correct": true
+    }
+]

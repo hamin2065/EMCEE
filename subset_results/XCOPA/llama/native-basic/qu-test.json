@@ -1,0 +1,42 @@
+[
+    {
+        "id": "302",
+        "prompt": "Kaymi huk \u00f1awpaq rimaymi: Llimp'iwan wallpaqqa q'illutawan anqastawan chaqrurqan.. Ima rikchay? Yanapaway ima kichkanku akllayta: -akllay1: Llimp'iqa lliwpi ch'allakurqan., -akllay2: Llimp'iqa q'umirmanmi tukurqan.\nRiqsiykipaqa \u00f1aqa akllay huklla\u00f1a hukninaypaq. Kaymi riqsiykita kutichiy nisqapi \"Kutichiy: [1 utaq 2]\"",
+        "response": "Kay rikchakuna riqsiykita kutichiy nisqapi \"Kutichiy: [1 utaq 2]\":\n\n1. Llimp'iwan wallpaqqa q'illutawan anqastawan chaqrurqan.\n2. Llimp'iqa lliwpi ch'allakurqan.\n3. Llimp'iqa q'umirmanmi tukurqan.\n\nKaymi riqsiykita kutichiy nisqapi:\n\n- Akllay 1: Kutichiy: [1]\n- Akllay 2: Kutichiy: [2]\n- Akllay 3: Kutichiy: [1]\n- Akllay 4: Kutichiy: [2]\n\nKay rikchakuna riqsiykita kutichiy nisqapi \"Kutichiy: [1 utaq 2]\".\n\n- Akllay 1: Kutichiy: [1]\n- Akllay 2: Kutichiy: [2]\n- Akllay 3: Kutichiy: [1]\n- Akllay 4: Kutichiy: [2]\n\nKaymi",
+        "predicted_answer": 1,
+        "ground_truth": 1,
+        "is_correct": false
+    },
+    {
+        "id": "301",
+        "prompt": "Kaymi huk \u00f1awpaq rimaymi: Yachaqiqa hatun-yachaywasimanta graduasqa lluqsirqan.. Ima rikchay? Yanapaway ima kichkanku akllayta: -akllay1: Payqa llamk'anatam maskharqan., -akllay2: Imapi qhuchukusqankutam maskharqan.\nRiqsiykipaqa \u00f1aqa akllay huklla\u00f1a hukninaypaq. Kaymi riqsiykita kutichiy nisqapi \"Kutichiy: [1 utaq 2]\"",
+        "response": "Yachaqiqa hatun-yachaywasimanta graduasqa lluqsirqan, kutichiy: 1\n\nPayqa llamk'anatam maskharqan, \u00f1aqa akllay huklla\u00f1a hukninaypaq.",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "15",
+        "prompt": "Kaymi huk \u00f1awpaq rimaymi: C\u00f3digo nisqata warmaqa umanpi yuyanchakurqan.. Ima paqarin? Yanapaway ima kichkanku akllayta: -akllay1: Hatun kunkapi rimaspa kikinman yachachikurqan., -akllay2: Payqa qillqayta qunqarurqan.\nRiqsiykipaqa \u00f1aqa akllay huklla\u00f1a hukninaypaq. Kaymi riqsiykita kutichiy nisqapi \"Kutichiy: [1 utaq 2]\"",
+        "response": "Akllay huklla\u00f1a hukninaypaqmi riqsiykita kutichiy nisqapi \"Kutichiy: [1 utaq 2]\".\n\n1. Akllay 1: Hatun kunkapi rimaspa kikinman yachachikurqan.\nKutichiy: 1\n\n2. Akllay 2: Payqa qillqayta qunqarurqan.\nKutichiy: 2\n\n3. Akllay huklla\u00f1a hukninaypaqmi riqsiykita kutichiy nisqapi \"Kutichiy: [1 utaq 2]\".\nKutichiy: 1 u 2",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "112",
+        "prompt": "Kaymi huk \u00f1awpaq rimaymi: Hawaman samarisqayta rikurqani.. Ima paqarin? Yanapaway ima kichkanku akllayta: -akllay1: Pachaqa as chirim karqan., -akllay2: Qhasquypi mat'ipawarqan.\nRiqsiykipaqa \u00f1aqa akllay huklla\u00f1a hukninaypaq. Kaymi riqsiykita kutichiy nisqapi \"Kutichiy: [1 utaq 2]\"",
+        "response": "Kutichiy: 1\n\nHuk \u00f1awpaq rimaymi: Hawaman samarisqayta rikurqani, ima paqarin? Yanapaway ima kichkanku akllayta: \n-akllay1: Pachaqa as chirim karqan.\n-akllay2: Qhasquypi mat'ipawarqan.\n\nRiqsiykipaqa \u00f1aqa akllay huklla\u00f1a hukninaypaq. Kaymi riqsiykita kutichiy nisqapi \"Kutichiy: [1 utaq 2]\"\n\nRiqsiykita kutichiy nisqapi: Kutichiy: 1\n\nKay riqsiykita qaraqaykunataqa, akllay 1 (\"Pachaqa as chirim karqan\") nisqapi huklla\u00f1a hukninaypaq.",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "36",
+        "prompt": "Kaymi huk \u00f1awpaq rimaymi: Suyukunaqa aywanakuy guerra nisqamanta lluqsiyta munarirqanku.. Ima rikchay? Yanapaway ima kichkanku akllayta: -akllay1: Paykunaqa armas nucleares nisqatam ruwayta qallarirqanku., -akllay2: Paykunaqa qhasilla kanankupaq rimanakuytam qallarirqanku.\nRiqsiykipaqa \u00f1aqa akllay huklla\u00f1a hukninaypaq. Kaymi riqsiykita kutichiy nisqapi \"Kutichiy: [1 utaq 2]\"",
+        "response": "Kaymi riqsiykita kutichiy nisqapi:\n\nKutichiy: 2\n\nRiqsiykita: Suyukunaqa qhasilla kanankupaq rimanakuytam qallarirqanku.",
+        "predicted_answer": 2,
+        "ground_truth": 1,
+        "is_correct": true
+    }
+]

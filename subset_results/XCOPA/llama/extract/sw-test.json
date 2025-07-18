@@ -1,0 +1,52 @@
+[
+    {
+        "id": "349",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: Niliondoa tunda juu ya meza.\nWhat is the effect?\nChoice1: Tunda lilitoa mbegu.\nChoice2: Nzi walilizunguka tunda.\nExplanation: Let's analyze the situation. When you leave a fruit on a table, it's likely to attract insects or pests, especially if it's ripe or overripe. This is because fruits give off a sweet smell that attracts insects like flies or bees. \n\nIn this case, the correct choice is: Nzi walilizunguka tunda. This is because the sweet smell of the fruit will attract insects, which will then gather around it.",
+        "response": "Answer: 2",
+        "explanation": "Let's analyze the situation. When you leave a fruit on a table, it's likely to attract insects or pests, especially if it's ripe or overripe. This is because fruits give off a sweet smell that attracts insects like flies or bees. \n\nIn this case, the correct choice is: Nzi walilizunguka tunda. This is because the sweet smell of the fruit will attract insects, which will then gather around it.",
+        "predicted_answer": 2,
+        "ground_truth": 1,
+        "is_correct": true
+    },
+    {
+        "id": "216",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: Alipiga mbweu.\nWhat is the cause?\nChoice1: Alibugia soda.\nChoice2: Alifungua kopo la soda.\nExplanation: Let's analyze the situation. When someone says \"Alipiga mbweu\" (He/She burst a bottle), it implies that there was pressure inside the bottle that was released suddenly, likely causing a loud noise. This is often due to the bottle being opened or something inside it being released. Considering these facts, we can infer that the cause of the bottle bursting is related to the release of pressure or opening the bottle.\n\nTherefore, the correct choice is: Choice2: Alifungua kopo la soda (He/She opened the soda bottle).",
+        "response": "Answer: 2",
+        "explanation": "Let's analyze the situation. When someone says \"Alipiga mbweu\" (He/She burst a bottle), it implies that there was pressure inside the bottle that was released suddenly, likely causing a loud noise. This is often due to the bottle being opened or something inside it being released. Considering these facts, we can infer that the cause of the bottle bursting is related to the release of pressure or opening the bottle.\n\nTherefore, the correct choice is: Choice2: Alifungua kopo la soda (He/She opened the soda bottle).",
+        "predicted_answer": 2,
+        "ground_truth": 0,
+        "is_correct": false
+    },
+    {
+        "id": "193",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: Mwanamke  ana mviringo chini ya jicho lake.\nWhat is the cause?\nChoice1: Alibakia macho  usiku kucha.\nChoice2: Alimpeleka mtoto wake wa kiume kulala.\nExplanation: Let's analyze the situation. The premise says \"Mwanamke ana mviringo chini ya jicho lake,\" which means the woman has dark circles under her eyes. This is often a sign of lack of sleep or fatigue. \n\nConsidering the two choices, we need to think about what could cause this condition. Choice 1 says \"Alibakia macho usiku kucha,\" which means she stayed up late. This is a common reason for dark circles under the eyes because the body needs rest to recover from the day's activities. \n\nChoice 2, on the other hand, says \"Alimpeleka mtoto wake wa kiume kulala,\" which means she took her son to sleep. While this might be a tiring task, it's not as likely to cause dark circles under the eyes as staying up late. \n\nTherefore, the most logical choice is Choice 1, \"Alibakia macho usiku kucha,\" because it directly relates to the cause of dark circles under the eyes.",
+        "response": "Answer: 1",
+        "explanation": "Let's analyze the situation. The premise says \"Mwanamke ana mviringo chini ya jicho lake,\" which means the woman has dark circles under her eyes. This is often a sign of lack of sleep or fatigue. \n\nConsidering the two choices, we need to think about what could cause this condition. Choice 1 says \"Alibakia macho usiku kucha,\" which means she stayed up late. This is a common reason for dark circles under the eyes because the body needs rest to recover from the day's activities. \n\nChoice 2, on the other hand, says \"Alimpeleka mtoto wake wa kiume kulala,\" which means she took her son to sleep. While this might be a tiring task, it's not as likely to cause dark circles under the eyes as staying up late. \n\nTherefore, the most logical choice is Choice 1, \"Alibakia macho usiku kucha,\" because it directly relates to the cause of dark circles under the eyes.",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "309",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: Wmwanamke aliwasiliana kwa lugha ya alama.\nWhat is the cause?\nChoice1: Alizaliwa kabla ya wakati.\nChoice2: Alizaliwa kiziwi.\nExplanation: The premise \"Wmwanamke aliwasiliana kwa lugha ya alama\" means that the woman is deaf or has difficulty hearing. To determine the cause, let's consider the options.\n\nBeing born before time (Choice1) is not a relevant factor in this context, as it doesn't directly relate to the woman's ability to hear or communicate.\n\nBeing born deaf (Choice2) is a more plausible explanation, as it is a common cause of difficulty with spoken language and communication through spoken words. People who are born deaf may rely on sign language as their primary means of communication.",
+        "response": "Answer: 2",
+        "explanation": "The premise \"Wmwanamke aliwasiliana kwa lugha ya alama\" means that the woman is deaf or has difficulty hearing. To determine the cause, let's consider the options.\n\nBeing born before time (Choice1) is not a relevant factor in this context, as it doesn't directly relate to the woman's ability to hear or communicate.\n\nBeing born deaf (Choice2) is a more plausible explanation, as it is a common cause of difficulty with spoken language and communication through spoken words. People who are born deaf may rely on sign language as their primary means of communication.",
+        "predicted_answer": 2,
+        "ground_truth": 1,
+        "is_correct": true
+    },
+    {
+        "id": "379",
+        "sys_prompt": "You are an expert in commonsense reasoning tasks. Given the premise, question, two options and explanation, your task is to pick the more plausible option. You should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "user_prompt": "Premise: Nilipoteza muda mwingi.\nWhat is the cause?\nChoice1: Nilikuwa na msururu wa mawazo mazuri.\nChoice2: Nilikuwa na kichefuchefu.\nExplanation: Let's break down the situation. If someone says \"Nilipoteza muda mwingi,\" it means they lost a lot of time. This could be due to various reasons, but in this case, we need to choose between two options. \n\nChoice1, \"Nilikuwa na msururu wa mawazo mazuri,\" means they were having good thoughts or ideas. This usually doesn't cause someone to lose time, but rather makes them more focused or creative. \n\nChoice2, \"Nilikuwa na kichefuchefu,\" means they were distracted or easily sidetracked. This is a common reason for losing time, as distractions can cause someone to forget what they were doing or get sidetracked from their goals. \n\nConsidering these explanations, the correct choice is Choice2: \"Nilikuwa na kichefuchefu.\"",
+        "response": "Answer: 2",
+        "explanation": "Let's break down the situation. If someone says \"Nilipoteza muda mwingi,\" it means they lost a lot of time. This could be due to various reasons, but in this case, we need to choose between two options. \n\nChoice1, \"Nilikuwa na msururu wa mawazo mazuri,\" means they were having good thoughts or ideas. This usually doesn't cause someone to lose time, but rather makes them more focused or creative. \n\nChoice2, \"Nilikuwa na kichefuchefu,\" means they were distracted or easily sidetracked. This is a common reason for losing time, as distractions can cause someone to forget what they were doing or get sidetracked from their goals. \n\nConsidering these explanations, the correct choice is Choice2: \"Nilikuwa na kichefuchefu.\"",
+        "predicted_answer": 2,
+        "ground_truth": 0,
+        "is_correct": false
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "id": "349",
+        "prompt": "Hii hapa ni dhana: Niliondoa tunda juu ya meza.. Je, ni nini athari? Nisaidie kuchagua chaguo linaloonekana linawezekana zaidi: -chaguo1: Tunda lilitoa mbegu., -chaguo2: Nzi walilizunguka tunda.\nUnapaswa kuchagua chaguo moja tu kwa jibu lako. Unapaswa kujibu swali kwa muundo wa \"Jibu: [1 au 2]\"",
+        "response": "Jibu: 1",
+        "predicted_answer": 1,
+        "ground_truth": 1,
+        "is_correct": false
+    },
+    {
+        "id": "216",
+        "prompt": "Hii hapa ni dhana: Alipiga mbweu.. Je, ni nini sababu? Nisaidie kuchagua chaguo linaloonekana linawezekana zaidi: -chaguo1: Alibugia soda., -chaguo2: Alifungua kopo la soda.\nUnapaswa kuchagua chaguo moja tu kwa jibu lako. Unapaswa kujibu swali kwa muundo wa \"Jibu: [1 au 2]\"",
+        "response": "Jibu: 2",
+        "predicted_answer": 2,
+        "ground_truth": 0,
+        "is_correct": false
+    },
+    {
+        "id": "193",
+        "prompt": "Hii hapa ni dhana: Mwanamke  ana mviringo chini ya jicho lake.. Je, ni nini sababu? Nisaidie kuchagua chaguo linaloonekana linawezekana zaidi: -chaguo1: Alibakia macho  usiku kucha., -chaguo2: Alimpeleka mtoto wake wa kiume kulala.\nUnapaswa kuchagua chaguo moja tu kwa jibu lako. Unapaswa kujibu swali kwa muundo wa \"Jibu: [1 au 2]\"",
+        "response": "Jibu: 2",
+        "predicted_answer": 2,
+        "ground_truth": 0,
+        "is_correct": false
+    },
+    {
+        "id": "309",
+        "prompt": "Hii hapa ni dhana: Wmwanamke aliwasiliana kwa lugha ya alama.. Je, ni nini sababu? Nisaidie kuchagua chaguo linaloonekana linawezekana zaidi: -chaguo1: Alizaliwa kabla ya wakati., -chaguo2: Alizaliwa kiziwi.\nUnapaswa kuchagua chaguo moja tu kwa jibu lako. Unapaswa kujibu swali kwa muundo wa \"Jibu: [1 au 2]\"",
+        "response": "Jibu: 2",
+        "predicted_answer": 2,
+        "ground_truth": 1,
+        "is_correct": true
+    },
+    {
+        "id": "379",
+        "prompt": "Hii hapa ni dhana: Nilipoteza muda mwingi.. Je, ni nini sababu? Nisaidie kuchagua chaguo linaloonekana linawezekana zaidi: -chaguo1: Nilikuwa na msururu wa mawazo mazuri., -chaguo2: Nilikuwa na kichefuchefu.\nUnapaswa kuchagua chaguo moja tu kwa jibu lako. Unapaswa kujibu swali kwa muundo wa \"Jibu: [1 au 2]\"",
+        "response": "Jibu: 2",
+        "predicted_answer": 2,
+        "ground_truth": 0,
+        "is_correct": false
+    }
+]

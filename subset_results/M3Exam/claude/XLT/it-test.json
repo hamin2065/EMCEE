@@ -1,0 +1,42 @@
+[
+    {
+        "id": 395,
+        "prompt": "I want you to act as a question answering expert for italian.\nRequest: Vuoi costruire un portapenne di forma cilindrica, di volume 192\u03c0 cm^{3}. Se il diametro di base misura 8 cm, quanto sar\u00e0 alto il portapenne?\nA. \u00a03 cm\nB. \u00a06 cm\nC. \u00a09 cm\nD. \u00a012 cm\nYou should retell the request in English.\nYou should step-by-step answer to obtain an option.\nYou should tell me the answer in this format: 'Answer: [option]'.",
+        "response": "English Translation:\nYou want to build a cylindrical pen holder with a volume of 192\u03c0 cm\u00b3. If the base diameter measures 8 cm, how tall will the pen holder be?\nA. 3 cm\nB. 6 cm\nC. 9 cm\nD. 12 cm\n\nStep-by-step solution:\n1. Recall the volume formula for a cylinder: V = \u03c0r\u00b2h\n   - V = volume\n   - r = radius\n   - h = height\n\n2. Given information:\n   - Volume = 192\u03c0 cm\u00b3\n   - Diameter = 8 cm, so radius = 4 cm\n\n3. Substitute known values into the volume formula:\n   192\u03c0 = \u03c0(4)\u00b2h\n   192\u03c0 = 16\u03c0h\n\n4. Solve for height:\n   h = 192\u03c0 \u00f7 (16\u03c0)\n   h = 192 \u00f7 16\n   h = 12\n\n5. Check the given options and match the calculated height.\n\nAnswer: D. 12 cm",
+        "predicted_answer": "D. 12 cm",
+        "ground_truth": "D",
+        "is_correct": true
+    },
+    {
+        "id": 217,
+        "prompt": "I want you to act as a question answering expert for italian.\nRequest: Le potenze $\\left(\\frac{4}{3}\\right) ^{2}$ e $\\frac{4\\^ {2}}{3}$ hanno lo stesso valore?\nA. \u00a0No, la prima vale 16/3 e la seconda 16/9.\nB. \u00a0No, la prima vale 16/9 e la seconda 16/3.\nC. \u00a0S\u00ec, valgono entrambe 16/3.\nC. \u00a0S\u00ec, valgono entrambe 16/9.\nYou should retell the request in English.\nYou should step-by-step answer to obtain an option.\nYou should tell me the answer in this format: 'Answer: [option]'.",
+        "response": "English Translation:\nDo the powers $\\left(\\frac{4}{3}\\right) ^{2}$ and $\\frac{4\\^ {2}}{3}$ have the same value?\n\nStep-by-step solution:\n\n1) First, let's calculate $\\left(\\frac{4}{3}\\right) ^{2}$:\n   \u2022 This means $\\frac{4}{3} \\times \\frac{4}{3}$\n   \u2022 $= \\frac{16}{9}$\n\n2) Now, let's calculate $\\frac{4\\^ {2}}{3}$:\n   \u2022 This means $\\frac{16}{3}$\n\n3) Comparing the two values:\n   \u2022 $\\left(\\frac{4}{3}\\right) ^{2} = \\frac{16}{9}$\n   \u2022 $\\frac{4\\^ {2}}{3} = \\frac{16}{3}$\n\n4) These are clearly different values.\n\n5) Looking at the options, this matches option A: \n   \u2022 No, the first is worth 16/9 and the second 16/3.\n\nAnswer: A",
+        "predicted_answer": "A",
+        "ground_truth": "B",
+        "is_correct": false
+    },
+    {
+        "id": 360,
+        "prompt": "I want you to act as a question answering expert for italian.\nRequest: Il periodo \"Non ho rispettato il limite di velocit\u00e0 e ho preso una multa. \" \u00e8 costituito da due frasi connesse dalla congiunzione e, che le collega logicamente introducendo\n(A) un confronto rispetto a quanto viene detto prima\n(B) una limitazione rispetto a quanto viene detto prima\n(C) una conseguenza rispetto a quanto viene detto prima\n(D) una precisazione rispetto a quanto viene detto prima\nYou should retell the request in English.\nYou should step-by-step answer to obtain an option.\nYou should tell me the answer in this format: 'Answer: [option]'.",
+        "response": "English Translation of the Request:\nThe sentence \"I did not respect the speed limit and I got a fine.\" is composed of two phrases connected by the conjunction \"e\" (and), which logically connects them by introducing:\n(A) a comparison with what was said before\n(B) a limitation with respect to what was said before\n(C) a consequence with respect to what was said before\n(D) a specification with respect to what was said before\n\nStep-by-Step Solution:\n1. Analyze the sentence structure: \"Non ho rispettato il limite di velocit\u00e0\" (I did not respect the speed limit) + \"ho preso una multa\" (I got a fine)\n\n2. Examine the logical connection between the two parts:\n- Not respecting the speed limit directly leads to receiving a fine\n- The conjunction \"e\" (and) suggests a cause-effect relationship\n\n3. Evaluate the options:\n- Option A (comparison): No clear comparison is present\n- Option B (limitation): No limitation is implied\n- Option C (consequence): The fine is a direct consequence of not respecting the speed limit\n- Option D (specification): No additional specification is provided\n\n4. Conclusion: The conjunction introduces a consequence of the first action.\n\nAnswer: (C)",
+        "predicted_answer": "(C)",
+        "ground_truth": "C",
+        "is_correct": true
+    },
+    {
+        "id": 149,
+        "prompt": "I want you to act as a question answering expert for italian.\nRequest: Una fabbrica produce 1000 lampadine, di cui 30 difettose. Ne vende 100 e tra queste 12 risultano difettose.\nSe si sceglie a caso una lampadina tra quelle rimaste da vendere, qual \u00e8 la probabilit\u00e0 che sia difettosa?\nA. 18/900\nB. 108/900\nC. 30/1000\nD. 120/1000\nYou should retell the request in English.\nYou should step-by-step answer to obtain an option.\nYou should tell me the answer in this format: 'Answer: [option]'.",
+        "response": "English Translation:\nA factory produces 1000 light bulbs, of which 30 are defective. It sells 100 of them, and among these, 12 are defective. If a light bulb is randomly chosen from the remaining unsold bulbs, what is the probability that it is defective?\n\nStep-by-step solution:\n1. Total light bulbs produced: 1000\n2. Initially defective light bulbs: 30\n3. Light bulbs sold: 100\n   - Defective light bulbs sold: 12\n4. Remaining light bulbs: 1000 - 100 = 900\n5. Remaining defective light bulbs: 30 - 12 = 18\n6. Probability of choosing a defective light bulb = Remaining defective light bulbs / Remaining total light bulbs\n   = 18 / 900\n   = 1 / 50\n\nChecking the options:\nA. 18/900 \u2713\nB. 108/900 \u2717\nC. 30/1000 \u2717\nD. 120/1000 \u2717\n\nAnswer: A",
+        "predicted_answer": "A",
+        "ground_truth": "A",
+        "is_correct": true
+    },
+    {
+        "id": 422,
+        "prompt": "I want you to act as a question answering expert for italian.\nRequest: Qual \u00e8 il valore di x che soddisfa l'equazione $3(2x \u2013 1) + 2x = 21$ ?\nA. -3\nB. -11/4\nC. 11/4\nD. 3\nYou should retell the request in English.\nYou should step-by-step answer to obtain an option.\nYou should tell me the answer in this format: 'Answer: [option]'.",
+        "response": "Let me help you solve this step by step:\n\nEnglish Translation:\nWhat is the value of x that satisfies the equation $3(2x \u2013 1) + 2x = 21$ ?\nA. -3\nB. -11/4\nC. 11/4\nD. 3\n\nSolution steps:\n1. First, expand the bracket $3(2x \u2013 1)$:\n   \u2022 $3(2x \u2013 1) = 6x \u2013 3$\n\n2. Rewrite the original equation:\n   \u2022 $6x \u2013 3 + 2x = 21$\n\n3. Combine like terms:\n   \u2022 $8x \u2013 3 = 21$\n\n4. Add 3 to both sides:\n   \u2022 $8x = 24$\n\n5. Divide both sides by 8:\n   \u2022 $x = 3$\n\n6. Check the given options:\n   \u2022 The value 3 corresponds to option D\n\nAnswer: D",
+        "predicted_answer": "D",
+        "ground_truth": "D",
+        "is_correct": true
+    }
+]

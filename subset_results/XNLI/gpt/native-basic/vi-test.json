@@ -1,0 +1,42 @@
+[
+    {
+        "id": "vi-4750",
+        "prompt": "B\u1ea1n l\u00e0 chuy\u00ean gia v\u1ec1 suy lu\u1eadn ng\u00f4n ng\u1eef t\u1ef1 nhi\u00ean. D\u1ef1a tr\u00ean gi\u1ea3 thuy\u1ebft v\u00e0 ti\u1ec1n \u0111\u1ec1, nhi\u1ec7m v\u1ee5 c\u1ee7a b\u1ea1n l\u00e0 \u0111\u00e1nh gi\u00e1 gi\u1ea3 thuy\u1ebft \u0111\u00f3 l\u00e0 \u0111\u00fang, sai hay kh\u00f4ng x\u00e1c \u0111\u1ecbnh. M\u1ed1i quan h\u1ec7 c\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c ch\u1ecdn t\u1eeb bao h\u00e0m, m\u00e2u thu\u1eabn v\u00e0 trung l\u1eadp.\nPremise: M\u01b0\u1eddi hai b\u00e0i b\u00e1o \u0111\u01b0\u1ee3c thu th\u1eadp t\u1eeb c\u00e1c chuy\u00ean m\u1ee5c chung v\u1ec1 B\u1ed1i c\u1ea3nh ph\u1ea3n h\u1ed3i, Ph\u1ea3n h\u1ed3i v\u00e0 th\u00f4ng tin trao \u0111\u1ed5i c\u1ee7a th\u00ednh gi\u1ea3, v\u00e0 \u0110\u1ed9c gi\u1ea3 ph\u1ea3n h\u1ed3i \u0111\u00e3 c\u00f9ng g\u00f3p ph\u1ea7n mang l\u1ea1i th\u00e0nh c\u00f4ng trong vi\u1ec7c gi\u1ea3i quy\u1ebft v\u1ea5n \u0111\u1ec1 n\u00e0y.\nHypothesis: C\u00f3 m\u01b0\u1eddi hai b\u00e0i b\u00e1o \u0111\u01b0\u1ee3c thu th\u1eadp c\u00f9ng nhau trong cu\u1ed1n s\u00e1ch.\nB\u1ea1n n\u00ean cung c\u1ea5p c\u00e2u tr\u1ea3 l\u1eddi cu\u1ed1i c\u00f9ng theo \u0111\u1ecbnh d\u1ea1ng: 'M\u1ed1i quan h\u1ec7: [K\u00e9o theo, Trung l\u1eadp ho\u1eb7c M\u00e2u thu\u1eabn]'.",
+        "response": "M\u1ed1i quan h\u1ec7: Trung l\u1eadp",
+        "predicted_answer": 1,
+        "ground_truth": 1,
+        "is_correct": true
+    },
+    {
+        "id": "vi-3399",
+        "prompt": "B\u1ea1n l\u00e0 chuy\u00ean gia v\u1ec1 suy lu\u1eadn ng\u00f4n ng\u1eef t\u1ef1 nhi\u00ean. D\u1ef1a tr\u00ean gi\u1ea3 thuy\u1ebft v\u00e0 ti\u1ec1n \u0111\u1ec1, nhi\u1ec7m v\u1ee5 c\u1ee7a b\u1ea1n l\u00e0 \u0111\u00e1nh gi\u00e1 gi\u1ea3 thuy\u1ebft \u0111\u00f3 l\u00e0 \u0111\u00fang, sai hay kh\u00f4ng x\u00e1c \u0111\u1ecbnh. M\u1ed1i quan h\u1ec7 c\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c ch\u1ecdn t\u1eeb bao h\u00e0m, m\u00e2u thu\u1eabn v\u00e0 trung l\u1eadp.\nPremise: Tr\u01b0\u1edbc ng\u00e0y 11 th\u00e1ng 11, kh\u00f4ng c\u00f3 c\u01a1 quan n\u00e0o c\u1ee7a ch\u00ednh ph\u1ee7 Hoa K\u1ef3 ph\u00e2n t\u00edch h\u1ec7 th\u1ed1ng c\u00e1c chi\u1ebfn l\u01b0\u1ee3c du l\u1ecbch c\u1ee7a nh\u1eefng k\u1ebb kh\u1ee7ng b\u1ed1.\nHypothesis: V\u1ec1 sau n\u00e0y ng\u01b0\u1eddi ta ph\u00e1t hi\u1ec7n ra l\u00e0 nh\u1eefng t\u00ean kh\u1ee7ng b\u1ed1 th\u01b0\u1eddng \u0111i b\u1eb1ng m\u00e1y bay ho\u1eb7c \u00f4 t\u00f4.\nB\u1ea1n n\u00ean cung c\u1ea5p c\u00e2u tr\u1ea3 l\u1eddi cu\u1ed1i c\u00f9ng theo \u0111\u1ecbnh d\u1ea1ng: 'M\u1ed1i quan h\u1ec7: [K\u00e9o theo, Trung l\u1eadp ho\u1eb7c M\u00e2u thu\u1eabn]'.",
+        "response": "M\u1ed1i quan h\u1ec7: Trung l\u1eadp",
+        "predicted_answer": 1,
+        "ground_truth": 1,
+        "is_correct": true
+    },
+    {
+        "id": "vi-2723",
+        "prompt": "B\u1ea1n l\u00e0 chuy\u00ean gia v\u1ec1 suy lu\u1eadn ng\u00f4n ng\u1eef t\u1ef1 nhi\u00ean. D\u1ef1a tr\u00ean gi\u1ea3 thuy\u1ebft v\u00e0 ti\u1ec1n \u0111\u1ec1, nhi\u1ec7m v\u1ee5 c\u1ee7a b\u1ea1n l\u00e0 \u0111\u00e1nh gi\u00e1 gi\u1ea3 thuy\u1ebft \u0111\u00f3 l\u00e0 \u0111\u00fang, sai hay kh\u00f4ng x\u00e1c \u0111\u1ecbnh. M\u1ed1i quan h\u1ec7 c\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c ch\u1ecdn t\u1eeb bao h\u00e0m, m\u00e2u thu\u1eabn v\u00e0 trung l\u1eadp.\nPremise: Th\u1eddi gian t\u1eeb khi \u0111\u1eb7t h\u00e0ng \u0111\u1ebfn khi ho\u00e0n th\u00e0nh c\u00e1c ho\u1ea1t \u0111\u1ed9ng v\u1eadn h\u00e0nh th\u1eed nghi\u1ec7m l\u00e0 m\u1ea5t 46 tu\u1ea7n cho c\u1ea3 hai b\u01b0\u1edbc.\nHypothesis: C\u00f3 nh\u1eefng \u0111\u01a1n v\u1ecb kh\u00e1c c\u00f3 th\u1ec3 ho\u00e0n th\u00e0nh nh\u1eefng nhi\u1ec7m v\u1ee5 n\u00e0y nhanh h\u01a1n v\u1edbi gi\u00e1 \u0111\u1eaft h\u01a1n.\nB\u1ea1n n\u00ean cung c\u1ea5p c\u00e2u tr\u1ea3 l\u1eddi cu\u1ed1i c\u00f9ng theo \u0111\u1ecbnh d\u1ea1ng: 'M\u1ed1i quan h\u1ec7: [K\u00e9o theo, Trung l\u1eadp ho\u1eb7c M\u00e2u thu\u1eabn]'.",
+        "response": "M\u1ed1i quan h\u1ec7: Trung l\u1eadp",
+        "predicted_answer": 1,
+        "ground_truth": 1,
+        "is_correct": true
+    },
+    {
+        "id": "vi-3868",
+        "prompt": "B\u1ea1n l\u00e0 chuy\u00ean gia v\u1ec1 suy lu\u1eadn ng\u00f4n ng\u1eef t\u1ef1 nhi\u00ean. D\u1ef1a tr\u00ean gi\u1ea3 thuy\u1ebft v\u00e0 ti\u1ec1n \u0111\u1ec1, nhi\u1ec7m v\u1ee5 c\u1ee7a b\u1ea1n l\u00e0 \u0111\u00e1nh gi\u00e1 gi\u1ea3 thuy\u1ebft \u0111\u00f3 l\u00e0 \u0111\u00fang, sai hay kh\u00f4ng x\u00e1c \u0111\u1ecbnh. M\u1ed1i quan h\u1ec7 c\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c ch\u1ecdn t\u1eeb bao h\u00e0m, m\u00e2u thu\u1eabn v\u00e0 trung l\u1eadp.\nPremise: T\u00f4i mu\u1ed1n th\u1ea5y \u0111i\u1ec1u \u0111\u00f3 ti\u1ebfp t\u1ee5c.\nHypothesis: N\u00f3 th\u00ec tuy\u1ec7t v\u1eddi n\u1ebfu vi\u1ec7c g\u00e2y qu\u1ef9 k\u00e9o d\u00e0i cho \u0111\u1ebfn th\u00e1ng B\u1ea3y.\nB\u1ea1n n\u00ean cung c\u1ea5p c\u00e2u tr\u1ea3 l\u1eddi cu\u1ed1i c\u00f9ng theo \u0111\u1ecbnh d\u1ea1ng: 'M\u1ed1i quan h\u1ec7: [K\u00e9o theo, Trung l\u1eadp ho\u1eb7c M\u00e2u thu\u1eabn]'.",
+        "response": "M\u1ed1i quan h\u1ec7: Trung l\u1eadp",
+        "predicted_answer": 1,
+        "ground_truth": 1,
+        "is_correct": true
+    },
+    {
+        "id": "vi-962",
+        "prompt": "B\u1ea1n l\u00e0 chuy\u00ean gia v\u1ec1 suy lu\u1eadn ng\u00f4n ng\u1eef t\u1ef1 nhi\u00ean. D\u1ef1a tr\u00ean gi\u1ea3 thuy\u1ebft v\u00e0 ti\u1ec1n \u0111\u1ec1, nhi\u1ec7m v\u1ee5 c\u1ee7a b\u1ea1n l\u00e0 \u0111\u00e1nh gi\u00e1 gi\u1ea3 thuy\u1ebft \u0111\u00f3 l\u00e0 \u0111\u00fang, sai hay kh\u00f4ng x\u00e1c \u0111\u1ecbnh. M\u1ed1i quan h\u1ec7 c\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c ch\u1ecdn t\u1eeb bao h\u00e0m, m\u00e2u thu\u1eabn v\u00e0 trung l\u1eadp.\nPremise: v\u00e0 sau \u0111\u00f3 n\u1ebfu b\u1ea1n c\u1ed1 g\u1eafng \u0111\u1ec3 c\u00f3 \u0111\u01b0\u1ee3c n\u00f3 b\u00ean ngo\u00e0i c\u1ee7a c\u00f4ng ty, b\u1ea1n s\u1ebd ph\u1ea3i tr\u1ea3 m\u1ed9t c\u00e1nh tay v\u00e0 m\u1ed9t c\u00e1i ch\u00e2n\nHypothesis: N\u1ebfu b\u1ea1n \u0111\u00e3 v\u01b0\u1ee3t ra ngo\u00e0i c\u00f4ng ty, b\u1ea1n s\u1ebd m\u1ea5t r\u1ea5t nhi\u1ec1u ti\u1ec1n.\nB\u1ea1n n\u00ean cung c\u1ea5p c\u00e2u tr\u1ea3 l\u1eddi cu\u1ed1i c\u00f9ng theo \u0111\u1ecbnh d\u1ea1ng: 'M\u1ed1i quan h\u1ec7: [K\u00e9o theo, Trung l\u1eadp ho\u1eb7c M\u00e2u thu\u1eabn]'.",
+        "response": "M\u1ed1i quan h\u1ec7: K\u00e9o theo",
+        "predicted_answer": 0,
+        "ground_truth": 0,
+        "is_correct": true
+    }
+]

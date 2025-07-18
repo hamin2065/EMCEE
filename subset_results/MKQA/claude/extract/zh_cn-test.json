@@ -1,0 +1,88 @@
+[
+    {
+        "id": "-3007091317310168067",
+        "sys_prompt": "The following is a reasoning question. Given question and explanation, write answer with format of \"Answer: [one or a few words]\".",
+        "user_prompt": "Question: \u65e0\u803b\u4e4b\u5f92\u4e2d\u626e\u6f14jupiter\u7684\u6f14\u5458\u662f\u8c01\nExplanation: In the TV series \"Shameless\" (US version), the character Jupiter is played by Cameron Monaghan. Monaghan is best known for his role as Ian Gallagher, one of the main characters in the show. He was a central cast member throughout most of the series' run and received significant critical acclaim for his portrayal of Ian's complex character arc, including his struggles with mental health and sexuality. Understanding the actor's importance in the show helps contextualize the character's significance in the overall narrative of \"Shameless\".",
+        "response": "Cameron Monaghan",
+        "explanation": "In the TV series \"Shameless\" (US version), the character Jupiter is played by Cameron Monaghan. Monaghan is best known for his role as Ian Gallagher, one of the main characters in the show. He was a central cast member throughout most of the series' run and received significant critical acclaim for his portrayal of Ian's complex character arc, including his struggles with mental health and sexuality. Understanding the actor's importance in the show helps contextualize the character's significance in the overall narrative of \"Shameless\".",
+        "predicted_answer": "Cameron Monaghan",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "text": "\u6770\u592b\u00b7\u79d1\u4f2f",
+                "entity": "Q1469565"
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "5399144941562483470",
+        "sys_prompt": "The following is a reasoning question. Given question and explanation, write answer with format of \"Answer: [one or a few words]\".",
+        "user_prompt": "Question: \u7535\u5f71\u300a\u535a\u7269\u9986\u5947\u5999\u591c\u300b\u5171\u6709\u51e0\u90e8\nExplanation: The \"Night at the Museum\" franchise consists of three movies: \"Night at the Museum\" (2006), \"Night at the Museum: Battle of the Smithsonian\" (2009), and \"Night at the Museum: Secret of the Tomb\" (2014). These films star Ben Stiller as Larry Daley, a night security guard who experiences magical adventures with historical exhibits that come to life after dark. The trilogy became popular for its comedic approach to historical characters and its family-friendly storytelling, blending humor, adventure, and educational elements about historical figures and museums.",
+        "response": "3",
+        "explanation": "The \"Night at the Museum\" franchise consists of three movies: \"Night at the Museum\" (2006), \"Night at the Museum: Battle of the Smithsonian\" (2009), and \"Night at the Museum: Secret of the Tomb\" (2014). These films star Ben Stiller as Larry Daley, a night security guard who experiences magical adventures with historical exhibits that come to life after dark. The trilogy became popular for its comedic approach to historical characters and its family-friendly storytelling, blending humor, adventure, and educational elements about historical figures and museums.",
+        "predicted_answer": "3",
+        "ground_truth": [
+            {
+                "type": "number",
+                "text": "3.0",
+                "aliases": [
+                    "3"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "-5990228692754281902",
+        "sys_prompt": "The following is a reasoning question. Given question and explanation, write answer with format of \"Answer: [one or a few words]\".",
+        "user_prompt": "Question: \u7f8e\u56fd\u662f\u4ec0\u4e48\u65f6\u5019\u5f00\u59cb\u5f81\u6536\u8054\u90a6\u6240\u5f97\u7a0e\u7684\nExplanation: The United States began collecting federal income tax in 1913 with the ratification of the 16th Amendment to the Constitution. This amendment allowed the federal government to directly levy income taxes on individual citizens, which was previously prohibited by constitutional restrictions. The implementation of the income tax was a significant shift in American fiscal policy, providing the government with a more stable and substantial source of revenue to fund national programs and services. This change was part of the Progressive Era reforms aimed at creating a more equitable tax system and generating funds for government operations. The introduction of the federal income tax fundamentally transformed the relationship between citizens and the government in terms of financial contributions and public spending.",
+        "response": "1913",
+        "explanation": "The United States began collecting federal income tax in 1913 with the ratification of the 16th Amendment to the Constitution. This amendment allowed the federal government to directly levy income taxes on individual citizens, which was previously prohibited by constitutional restrictions. The implementation of the income tax was a significant shift in American fiscal policy, providing the government with a more stable and substantial source of revenue to fund national programs and services. This change was part of the Progressive Era reforms aimed at creating a more equitable tax system and generating funds for government operations. The introduction of the federal income tax fundamentally transformed the relationship between citizens and the government in terms of financial contributions and public spending.",
+        "predicted_answer": "1913",
+        "ground_truth": [
+            {
+                "type": "date",
+                "text": "1913",
+                "aliases": [
+                    "1913"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "-4933806249687973654",
+        "sys_prompt": "The following is a reasoning question. Given question and explanation, write answer with format of \"Answer: [one or a few words]\".",
+        "user_prompt": "Question: \u6df7\u4e71\u4e4b\u5b50\u4e2d\u7684 jack teller \u662f\u8c01\u626e\u6f14\u7684\nExplanation: Charlie Hunnam portrayed the character of Jackson \"Jax\" Teller in the popular TV series \"Sons of Anarchy\" (known in Chinese as \"\u6df7\u4e71\u4e4b\u5b50\"). Hunnam, a British actor, played the lead role of Jax Teller, the vice president of the motorcycle club who struggles with his identity and the club's future throughout the series. His performance was critically acclaimed and helped establish him as a prominent actor in Hollywood. Understanding the actor behind this iconic character provides insight into the casting and acting choices that brought the complex character of Jax Teller to life.",
+        "response": "Charlie Hunnam",
+        "explanation": "Charlie Hunnam portrayed the character of Jackson \"Jax\" Teller in the popular TV series \"Sons of Anarchy\" (known in Chinese as \"\u6df7\u4e71\u4e4b\u5b50\"). Hunnam, a British actor, played the lead role of Jax Teller, the vice president of the motorcycle club who struggles with his identity and the club's future throughout the series. His performance was critically acclaimed and helped establish him as a prominent actor in Hollywood. Understanding the actor behind this iconic character provides insight into the casting and acting choices that brought the complex character of Jax Teller to life.",
+        "predicted_answer": "Charlie Hunnam",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "text": "\u67e5\u7406\u00b7\u6c49\u7eb3\u59c6",
+                "entity": "Q356294"
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "4992973967728216447",
+        "sys_prompt": "The following is a reasoning question. Given question and explanation, write answer with format of \"Answer: [one or a few words]\".",
+        "user_prompt": "Question: \u8fc8\u514b\u5c14\u00b7\u4e54\u4e39\u8d62\u5f97\u4e86\u591a\u5c11\u4e2anba\u603b\u51a0\u519b\nExplanation: Michael Jordan won six NBA championships, all with the Chicago Bulls, during two separate three-peat runs in the 1990s. These championships occurred in two distinct periods: first from 1991-1993, and then again from 1996-1998, which solidified his status as one of the greatest basketball players of all time. Jordan's championship wins were not just victories, but dominant performances that transformed the NBA and global basketball culture. His leadership, scoring ability, and competitive spirit during these championship runs made him a legendary figure in sports history, inspiring generations of athletes worldwide.",
+        "response": "6",
+        "explanation": "Michael Jordan won six NBA championships, all with the Chicago Bulls, during two separate three-peat runs in the 1990s. These championships occurred in two distinct periods: first from 1991-1993, and then again from 1996-1998, which solidified his status as one of the greatest basketball players of all time. Jordan's championship wins were not just victories, but dominant performances that transformed the NBA and global basketball culture. His leadership, scoring ability, and competitive spirit during these championship runs made him a legendary figure in sports history, inspiring generations of athletes worldwide.",
+        "predicted_answer": "6",
+        "ground_truth": [
+            {
+                "type": "number",
+                "text": "6.0",
+                "aliases": [
+                    "6"
+                ]
+            }
+        ],
+        "is_correct": null
+    }
+]

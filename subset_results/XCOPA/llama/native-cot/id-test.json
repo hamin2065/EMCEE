@@ -1,0 +1,42 @@
+[
+    {
+        "id": "119",
+        "prompt": "Berikut adalah premis: Semua orang tidak setuju dengan tunangan pasangan itu.. Apa itu akibat? Bantu saya memilih opsi yang lebih masuk akal: -pilihan1: Pasangan itu hamil., -pilihan2: Pasangan itu kabur untuk menikah.\nMari kita berpikir langkah demi langkah dalam bahasa Indonesia.\nAnda harus hanya memilih satu opsi untuk jawaban Anda. Anda harus menjawab pertanyaan dalam format \"Jawaban: [1 atau 2]\"",
+        "response": "Mari kita analisis langkah demi langkah:\n\n1. Semua orang tidak setuju dengan tunangan pasangan itu. Ini berarti bahwa pasangan tersebut mungkin memiliki perbedaan pendapat atau keinginan yang tidak sesuai dengan keinginan orang lain.\n2. Pasangan itu mungkin merasa tertekan atau diharapkan untuk menyesuaikan diri dengan keinginan orang lain, tetapi mereka tidak ingin melakukannya.\n3. Jika pasangan itu hamil (pilihan 1), maka situasinya akan menjadi lebih kompleks dan sulit untuk diatasi. Mereka mungkin akan diharapkan untuk menikah, tetapi mereka tidak ingin melakukannya, dan kehamilan akan menjadi faktor tambahan yang perlu dipertimbangkan.\n4. Jika pasangan itu kabur untuk menikah (pilihan 2), maka mereka akan mencoba untuk menghindari tekanan dan harapan dari orang lain. Mereka akan memiliki kesempatan untuk menikah secara pribadi dan tidak perlu memenuhi keinginan orang lain.\n\nDengan demikian, saya akan memilih pilihan 2, karena kabur",
+        "predicted_answer": "Mari kita analisis langkah demi langkah:\n\n1. Semua orang tidak setuju dengan tunangan pasangan itu. Ini berarti bahwa pasangan tersebut mungkin memiliki perbedaan pendapat atau keinginan yang tidak sesuai dengan keinginan orang lain.\n2. Pasangan itu mungkin merasa tertekan atau diharapkan untuk menyesuaikan diri dengan keinginan orang lain, tetapi mereka tidak ingin melakukannya.\n3. Jika pasangan itu hamil (pilihan 1), maka situasinya akan menjadi lebih kompleks dan sulit untuk diatasi. Mereka mungkin akan diharapkan untuk menikah, tetapi mereka tidak ingin melakukannya, dan kehamilan akan menjadi faktor tambahan yang perlu dipertimbangkan.\n4. Jika pasangan itu kabur untuk menikah (pilihan 2), maka mereka akan mencoba untuk menghindari tekanan dan harapan dari orang lain. Mereka akan memiliki kesempatan untuk menikah secara pribadi dan tidak perlu memenuhi keinginan orang lain.\n\nDengan demikian, saya akan memilih pilihan 2, karena kabur",
+        "ground_truth": 1,
+        "is_correct": false
+    },
+    {
+        "id": "470",
+        "prompt": "Berikut adalah premis: Acara televisi itu disensor.. Apa itu penyebab? Bantu saya memilih opsi yang lebih masuk akal: -pilihan1: Acar itu berisi bahasa vulgar., -pilihan2: Acara itu memiliki plot yang rumit.\nMari kita berpikir langkah demi langkah dalam bahasa Indonesia.\nAnda harus hanya memilih satu opsi untuk jawaban Anda. Anda harus menjawab pertanyaan dalam format \"Jawaban: [1 atau 2]\"",
+        "response": "Untuk memilih opsi yang lebih masuk akal, mari kita analisis langkah demi langkah:\n\n1. **Penyebab Acara Televisi Disensor**: Pertanyaan ini bertujuan untuk mengetahui apa yang menyebabkan acara televisi disensor. Acara televisi disensor biasanya karena konten yang tidak pantas atau tidak sesuai dengan standar etika.\n2. **Pilihan 1: Acara itu berisi bahasa vulgar**: Bahasa vulgar biasanya dianggap tidak pantas dan dapat menyebabkan acara televisi disensor. Hal ini karena bahasa vulgar dapat menyinggung perasaan penonton dan tidak sesuai dengan standar etika.\n3. **Pilihan 2: Acara itu memiliki plot yang rumit**: Plot yang rumit biasanya tidak menjadi penyebab acara televisi disensor. Plot yang rumit dapat membuat penonton penasaran dan ingin menonton lebih lanjut, bukan membuatnya disensor.\n\nDari analisis di atas, pilihan 1 lebih masuk akal sebagai penyebab acara televisi disensor.\n\nJawaban: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "316",
+        "prompt": "Berikut adalah premis: Saya terbangun di tengah malam karena kedinginan.. Apa itu akibat? Bantu saya memilih opsi yang lebih masuk akal: -pilihan1: Saya pakai celana hangat., -pilihan2: Saya minum segelas air.\nMari kita berpikir langkah demi langkah dalam bahasa Indonesia.\nAnda harus hanya memilih satu opsi untuk jawaban Anda. Anda harus menjawab pertanyaan dalam format \"Jawaban: [1 atau 2]\"",
+        "response": "Mari kita analisis langkah demi langkah:\n\n1. Saya terbangun di tengah malam karena kedinginan. Ini berarti saya merasa tidak nyaman karena suhu tubuh saya terlalu rendah.\n2. Untuk mengatasi kedinginan, kita perlu meningkatkan suhu tubuh atau membuat diri lebih nyaman.\n3. Pilihan 1: Saya pakai celana hangat. Membuat kita lebih hangat dan nyaman karena adanya isolasi termal dari celana hangat.\n4. Pilihan 2: Saya minum segelas air. Meskipun air dapat membantu mengembalikan cairan tubuh, namun tidak secara langsung meningkatkan suhu tubuh atau membuat kita lebih nyaman.\n\nDengan demikian, pilihan yang lebih masuk akal adalah:\n\nJawaban: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "185",
+        "prompt": "Berikut adalah premis: Saya olahraga.. Apa itu penyebab? Bantu saya memilih opsi yang lebih masuk akal: -pilihan1: Saya merasa penuh semangat., -pilihan2: Saya takut.\nMari kita berpikir langkah demi langkah dalam bahasa Indonesia.\nAnda harus hanya memilih satu opsi untuk jawaban Anda. Anda harus menjawab pertanyaan dalam format \"Jawaban: [1 atau 2]\"",
+        "response": "Untuk memilih opsi yang lebih masuk akal, mari kita analisis langkah demi langkah:\n\n1. Anda mengatakan \"Saya olahraga.\" yang berarti Anda melakukan kegiatan olahraga.\n2. Kemudian, Anda bertanya \"Apa itu penyebab?\" yang berarti Anda ingin tahu apa yang menyebabkan Anda melakukan kegiatan olahraga.\n\nSekarang, mari kita lihat kedua opsi:\n\n- Pilihan 1: \"Saya merasa penuh semangat.\" ini adalah alasan yang masuk akal karena semangat adalah motivasi yang kuat untuk melakukan kegiatan olahraga.\n- Pilihan 2: \"Saya takut.\" ini tidak masuk akal karena takut tidak biasanya menjadi alasan untuk melakukan kegiatan olahraga.\n\nJawaban: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "360",
+        "prompt": "Berikut adalah premis: Pria itu menonjol sekali di tengah kerumunan.. Apa itu penyebab? Bantu saya memilih opsi yang lebih masuk akal: -pilihan1: Dia membawa ransel., -pilihan2: Dia mengenakan rompi neon.\nMari kita berpikir langkah demi langkah dalam bahasa Indonesia.\nAnda harus hanya memilih satu opsi untuk jawaban Anda. Anda harus menjawab pertanyaan dalam format \"Jawaban: [1 atau 2]\"",
+        "response": "Mari kita analisis langkah demi langkah:\n\n1. Pertanyaan mengatakan bahwa pria itu menonjol sekali di tengah kerumunan. Ini berarti bahwa ada sesuatu yang membuatnya berbeda dari orang lain.\n2. Pilihan 1, \"Dia membawa ransel\", mungkin membuatnya terlihat berbeda, tetapi tidak terlalu menonjol. Banyak orang membawa ransel, sehingga tidak ada yang spesial.\n3. Pilihan 2, \"Dia mengenakan rompi neon\", sangat menonjol. Rompi neon sangat mencolok dan tidak biasa, sehingga pasti akan menarik perhatian orang lain.\n\nDengan demikian, pilihan yang lebih masuk akal adalah:\n\nJawaban: 2",
+        "predicted_answer": 2,
+        "ground_truth": 1,
+        "is_correct": true
+    }
+]

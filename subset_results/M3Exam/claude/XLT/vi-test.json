@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1475,
+        "prompt": "I want you to act as a question answering expert for vietnamese.\nRequest: N\u1ebfu m\u1eadt \u0111\u1ed9 c\u00e1 th\u1ec3 c\u1ee7a 1 qu\u1ea7n th\u1ec3 \u0111\u1ed9ng v\u1eadt t\u0103ng l\u00ean qu\u00e1 cao, ngu\u1ed3n s\u1ed1ng c\u1ee7a m\u00f4i tr\u01b0\u1eddng kh\u00f4ng \u0111\u1ee7 cung c\u1ea5p cho m\u1ecdi c\u00e1 th\u1ec3 trong qu\u1ea7n th\u1ec3 th\u00ec th\u01b0\u1eddng d\u1eabn t\u1edbi l\u00e0m gi\u1ea3m\nA. m\u1ee9c xu\u1ea5t c\u01b0.\nB. m\u1ee9c c\u1ea1nh tranh.\nC. m\u1ee9c t\u1eed vong.\nD. m\u1ee9c sinh s\u1ea3n.\nYou should retell the request in English.\nYou should step-by-step answer to obtain an option.\nYou should tell me the answer in this format: 'Answer: [option]'.",
+        "response": "English Translation:\nIf the population density of an animal population increases too high, and the environmental resources are not sufficient to support all individuals in the population, it typically leads to a decrease in:\nA. Migration rate\nB. Competition rate\nC. Mortality rate\nD. Reproduction rate\n\nStep-by-step solution:\n1. When population density becomes too high, resources become scarce\n2. Limited resources create intense competition for survival\n3. When competition is high and resources are insufficient:\n   - Food becomes limited\n   - Living space becomes restricted\n   - Survival becomes challenging\n\n4. Under these conditions, the population will experience:\n   - Higher stress\n   - More difficulty in finding food\n   - Increased vulnerability to disease\n   - Higher risk of death\n\n5. The most direct consequence of resource scarcity and high population density is an increase in mortality rate\n\n6. This means the population's death rate will increase, not decrease\n\n7. Therefore, the option that represents a decrease is the mortality rate\n\nAnswer: C\n\nExplanation: When population density exceeds environmental carrying capacity, the mortality rate increases due to competition, limited resources, and increased stress on individuals.",
+        "predicted_answer": "C",
+        "ground_truth": "D",
+        "is_correct": false
+    },
+    {
+        "id": 446,
+        "prompt": "I want you to act as a question answering expert for vietnamese.\nRequest: Kim lo\u1ea1i n\u00e0o sau \u0111\u00e2y ph\u1ea3n \u1ee9ng \u0111\u01b0\u1ee3c v\u1edbi dung d\u1ecbch NaOH?\nA. Al.\nB. Ag.\nC. Fe.\nD. Cu.\nYou should retell the request in English.\nYou should step-by-step answer to obtain an option.\nYou should tell me the answer in this format: 'Answer: [option]'.",
+        "response": "English Translation:\nWhich of the following metals reacts with NaOH solution?\nA. Al.\nB. Ag.\nC. Fe.\nD. Cu.\n\nStep-by-step solution:\n1. Let's analyze each metal's reactivity with NaOH:\n\n2. Aluminum (Al):\n- Al reacts with NaOH to form sodium aluminate and hydrogen gas\n- Reaction: 2Al + 2NaOH + 2H2O \u2192 2NaAlO2 + 3H2\n- Al is amphoteric and can react with both acids and bases\n\n3. Silver (Ag):\n- Ag does not react with NaOH\n- Silver is a noble metal with low reactivity\n\n4. Iron (Fe):\n- Fe reacts with NaOH to form sodium ferrite and hydrogen gas\n- Reaction: Fe + 2NaOH + 2H2O \u2192 Na2FeO2 + 3H2\n- Fe can react with NaOH\n\n5. Copper (Cu):\n- Cu does not react with NaOH\n- Copper is relatively inert in NaOH solution\n\n6. Comparing the reactivity, both Al and Fe react with NaOH.\n\nAnswer: A",
+        "predicted_answer": "A",
+        "ground_truth": "A",
+        "is_correct": true
+    },
+    {
+        "id": 1402,
+        "prompt": "I want you to act as a question answering expert for vietnamese.\nRequest: C\u00e2u ca dao, t\u1ee5c ng\u1eef, quan \u0111i\u1ec3m n\u00e0o sau \u0111\u00e2y vi ph\u1ea1m nguy\u00ean t\u1eafc h\u00f4n nh\u00e2n m\u1ed9t v\u1ee3 m\u1ed9t ch\u1ed3ng \u0111\u01b0\u1ee3c th\u1ec3 hi\u1ec7n trong cu\u1ed9c s\u1ed1ng h\u00e0ng ng\u00e0y\nA. ch\u1ed3ng ch\u00faa v\u1ee3 t\u00f4i.\nB. \u0111\u1ec9a \u0111eo ch\u00e2n h\u1ea1c.\nC. \u0111\u00e0n \u00f4ng n\u0103m th\u00ea b\u1ea3y thi\u1ebfp\nD. m\u00f4n \u0111\u0103ng h\u1eadu \u0111\u1ed1i.\nYou should retell the request in English.\nYou should step-by-step answer to obtain an option.\nYou should tell me the answer in this format: 'Answer: [option]'.",
+        "response": "English Translation:\nWhich proverb, folk saying, or perspective below violates the principle of monogamous marriage as demonstrated in daily life?\n\nA. Husband is the lord, wife is the servant\nB. Leech clinging to a crane's leg\nC. Men with five wives and seven concubines\nD. Matching social status in marriage\n\nStep-by-step solution:\n1. Analyze each option for its relationship to monogamous marriage\n2. Option A suggests a hierarchical relationship but doesn't directly challenge monogamy\n3. Option B seems metaphorical and doesn't relate to marriage structure\n4. Option C explicitly describes polygamy (multiple wives and concubines)\n5. Option D refers to marriage partner selection based on social status, which doesn't violate monogamy\n6. Option C directly contradicts the principle of one husband, one wife\n7. \"\u0110\u00e0n \u00f4ng n\u0103m th\u00ea b\u1ea3y thi\u1ebfp\" (Men with five wives and seven concubines) represents a traditional practice of multiple marriages, which is incompatible with monogamy\n\nAnswer: C",
+        "predicted_answer": "C",
+        "ground_truth": "C",
+        "is_correct": true
+    },
+    {
+        "id": 1573,
+        "prompt": "I want you to act as a question answering expert for vietnamese.\nRequest: Gi\u1ea3 s\u1eed 1 lo\u00e0i sinh v\u1eadt c\u00f3 b\u1ed9 NST 2n = 8; c\u00e1c c\u1eb7p NST \u0111\u01b0\u1ee3c k\u00ed hi\u1ec7u l\u00e0 A, a; B, b; D, d v\u00e0 E, e. C\u00e1 th\u1ec3 c\u00f3 b\u1ed9 NST n\u00e0o sau \u0111\u00e2y l\u00e0 th\u1ec3 ba?\nA. AABbddee.\nB. AabDdEe.\nC. AaaBbDdee.\nD. aaBbddee.\nYou should retell the request in English.\nYou should step-by-step answer to obtain an option.\nYou should tell me the answer in this format: 'Answer: [option]'.",
+        "response": "English Translation:\nSuppose a species has a chromosome set 2n = 8; chromosome pairs are labeled as A, a; B, b; D, d, and E, e. Which of the following chromosome sets is a trisomy?\n\nStep-by-step solution:\n1. Recall that a trisomy means having three copies of a specific chromosome instead of the normal two copies.\n\n2. In a normal diploid set (2n = 8), each chromosome pair should have two chromosomes.\n\n3. Let's analyze each option:\n   A. AABbddee - Has three A chromosomes (trisomy for A)\n   B. AabDdEe - Normal chromosome count\n   C. AaaBbDdee - Has three A chromosomes (trisomy for A)\n   D. aaBbddee - Has two a chromosomes, but no trisomy\n\n4. Both options A and C have a trisomy for chromosome A.\n\n5. However, the question asks for a single trisomy, so we need to choose the option with only one trisomy.\n\nAnswer: A",
+        "predicted_answer": "A",
+        "ground_truth": "C",
+        "is_correct": false
+    },
+    {
+        "id": 871,
+        "prompt": "I want you to act as a question answering expert for vietnamese.\nRequest: Polime n\u00e0o sau \u0111\u00e2y thu\u1ed9c lo\u1ea1i polime b\u00e1n t\u1ed5ng h\u1ee3p?\nA. T\u01a1 visco.\nB. Poli (vinyl clorua).\nC. Polietilen.\nD. Xenluloz\u01a1.\nYou should retell the request in English.\nYou should step-by-step answer to obtain an option.\nYou should tell me the answer in this format: 'Answer: [option]'.",
+        "response": "English Translation:\nWhich of the following polymers is a semi-synthetic polymer?\n\nStep-by-step solution:\n\n1. Let's understand what a semi-synthetic polymer is:\n- Semi-synthetic polymers are modified natural polymers\n- They are derived from natural polymers but chemically altered\n\n2. Analyze each option:\nA. T\u01a1 visco (Viscose fiber):\n- Made from natural cellulose\n- Chemically processed\n- Meets semi-synthetic polymer criteria \u2713\n\nB. Poli (vinyl clorua) (PVC):\n- Fully synthetic polymer\n- Completely man-made\n- Not semi-synthetic\n\nC. Polietilen (Polyethylene):\n- Fully synthetic polymer\n- Completely man-made\n- Not semi-synthetic\n\nD. Xenluloz\u01a1 (Cellulose):\n- Natural polymer\n- Not chemically modified\n- Not semi-synthetic\n\n3. Identifying the semi-synthetic polymer:\n- T\u01a1 visco (Viscose fiber) is the only semi-synthetic polymer in this list\n\nAnswer: A",
+        "predicted_answer": "A",
+        "ground_truth": "A",
+        "is_correct": true
+    }
+]

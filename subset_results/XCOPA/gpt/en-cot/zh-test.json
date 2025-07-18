@@ -1,0 +1,42 @@
+[
+    {
+        "id": "232",
+        "prompt": "Here is a premise: \u6e29\u5ea6\u8ba1\u4e2d\u7684\u6c5e\u4e0a\u5347\u3002. What is the cause? Help me pick the more plausible option: -choice1: \u6211\u628a\u6e29\u5ea6\u8ba1\u6389\u4e86\u3002, -choice2: [choice]\nLet's think step-by-step in English.\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "To determine the cause of the mercury rising in the thermometer, we need to analyze the options provided.\n\n- **Choice 1: \u6211\u628a\u6e29\u5ea6\u8ba1\u6389\u4e86\u3002** (I dropped the thermometer.)\n- **Choice 2: [choice]** (This option is unspecified, so we cannot evaluate it.)\n\nWhen a thermometer is dropped, it can potentially cause the mercury to rise due to the sudden movement or impact, but typically, dropping a thermometer would not directly cause the mercury to rise unless it was also exposed to a heat source or some other factor.\n\nSince we don't have any information about what \"choice 2\" entails, we cannot evaluate it. However, based on the information given, dropping the thermometer could be a plausible cause for the mercury rising, especially if it was already in a warm environment.\n\nThus, the more plausible option based on the information provided is:\n\nAnswer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 1,
+        "is_correct": false
+    },
+    {
+        "id": "110",
+        "prompt": "Here is a premise: \u6211\u9519\u8fc7\u4e86\u6211\u5973\u670b\u53cb\u7684\u7535\u8bdd\u3002. What is the effect? Help me pick the more plausible option: -choice1: \u6211\u7ed9\u5979\u56de\u4e86\u7535\u8bdd\u3002, -choice2: [choice]\nLet's think step-by-step in English.\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "To analyze the premise \"\u6211\u9519\u8fc7\u4e86\u6211\u5973\u670b\u53cb\u7684\u7535\u8bdd\" (I missed my girlfriend's call), we need to consider the implications of missing a call. Typically, if someone misses a call, they might feel the need to return the call to communicate with the person who called them.\n\nNow, let's evaluate the options:\n\n- Choice 1: \"\u6211\u7ed9\u5979\u56de\u4e86\u7535\u8bdd\" (I called her back). This is a logical response to missing a call, as it shows the person is taking action to reconnect with their girlfriend after realizing they missed her call.\n\n- Choice 2: [choice] is not specified, so we cannot evaluate it.\n\nSince choice 1 is a plausible and logical action following the premise, while choice 2 is undefined, we can conclude that choice 1 is the more plausible option.\n\nAnswer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "71",
+        "prompt": "Here is a premise: \u5973\u4eba\u7761\u8fc7\u5934\u4e86\u3002. What is the cause? Help me pick the more plausible option: -choice1: \u5979\u5728\u65c5\u9986\u4f4f\u4e86\u4e00\u665a\u3002, -choice2: [choice]\nLet's think step-by-step in English.\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "To determine the cause of the woman oversleeping, we need to analyze the options provided.\n\n- **Choice 1: \u5979\u5728\u65c5\u9986\u4f4f\u4e86\u4e00\u665a\u3002** (She stayed in a hotel for a night.)\n  - Staying in a hotel can often lead to a different sleeping environment, which might disrupt her usual sleep patterns. Additionally, if she was traveling or had a late night, it could explain why she overslept.\n\n- **Choice 2: [choice]** \n  - Since there is no specific information provided for choice 2, we cannot evaluate it.\n\nGiven that choice 1 provides a plausible reason for why the woman overslept, it is the more reasonable option.\n\nAnswer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 1,
+        "is_correct": false
+    },
+    {
+        "id": "413",
+        "prompt": "Here is a premise: \u7f6a\u72af\u4ece\u8b66\u5bdf\u8eab\u8fb9\u9003\u8d70\u4e86\u3002. What is the effect? Help me pick the more plausible option: -choice1: \u8b66\u5bdf\u7167\u987e\u4e86\u53d7\u5bb3\u8005\u3002, -choice2: [choice]\nLet's think step-by-step in English.\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "To analyze the premise \"\u7f6a\u72af\u4ece\u8b66\u5bdf\u8eab\u8fb9\u9003\u8d70\u4e86\" (The criminal escaped from the police), we need to consider the implications of this event.\n\n1. The premise indicates that a criminal has successfully escaped from the police, which suggests a failure on the part of the police to apprehend the criminal.\n2. The first choice, \"\u8b66\u5bdf\u7167\u987e\u4e86\u53d7\u5bb3\u8005\" (The police took care of the victim), implies that the police are attending to the victim of the crime, which could be a reasonable response after a criminal has escaped. However, it does not directly relate to the escape itself.\n3. The second choice is unspecified, but since it is labeled as \"[choice]\", it does not provide any context or information to evaluate.\n\nGiven that the first choice is a plausible action that police might take after a criminal escapes, while the second choice lacks any context, the first choice is the more reasonable option.\n\nAnswer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 1,
+        "is_correct": false
+    },
+    {
+        "id": "478",
+        "prompt": "Here is a premise: \u5973\u5b69\u8138\u8272\u82cd\u767d\u3002. What is the effect? Help me pick the more plausible option: -choice1: \u5979\u7236\u4eb2\u7ed9\u5979\u8bfb\u4e86\u4e00\u4e2a\u6545\u4e8b\u3002, -choice2: [choice]\nLet's think step-by-step in English.\nYou should only choose one option for your answer. You should answer the question in format of \"Answer: [1 or 2]\"",
+        "response": "To determine the more plausible option based on the premise \"\u5973\u5b69\u8138\u8272\u82cd\u767d\" (The girl's face is pale), we need to consider the implications of her pale complexion. A pale face can suggest various things, such as illness, fear, or shock. \n\nNow, let's analyze the two choices:\n\n- **Choice 1: \u5979\u7236\u4eb2\u7ed9\u5979\u8bfb\u4e86\u4e00\u4e2a\u6545\u4e8b\u3002** (Her father read her a story.)\n  - This option does not directly relate to the girl's pale complexion. While reading a story could be a comforting activity, it does not explain why her face is pale.\n\n- **Choice 2: [choice]** (This option is unspecified, so we cannot analyze it directly.)\n\nSince we only have one specific choice to analyze, and it does not seem to connect to the girl's pale face, we cannot definitively choose it as plausible. However, without knowing what \"choice 2\" entails, we cannot make a comparison.\n\nGiven the context, if we assume that \"choice 2\" could potentially relate to her pale complexion (like being sick or scared), it might be more plausible than choice 1.\n\nHowever, since we have no information about choice 2, I will choose the only option provided.\n\nAnswer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 1,
+        "is_correct": false
+    }
+]

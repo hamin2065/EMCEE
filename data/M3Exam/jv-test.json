@@ -1,0 +1,3572 @@
+[
+    {
+        "id": 1,
+        "question": "Wacanen tembang pucung ing ngisor iki!\n\nBapak pucung bisa nggereng bisa mbengung\nngambah jumantara\nKayu manuk rajawali\nWira-wiri nggawa barang lan manungsa\n\nBatangane tembang pucung ing ndhuwur yaiku \u2026",
+        "ground_truth": "C",
+        "options": [
+            "A. sepur",
+            "B. elang",
+            "C. kapal mabur",
+            "D. layangan"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 2,
+        "question": "cara nyambung paseduluran lan mangerteni isining wacan surasane tembang ....",
+        "ground_truth": "a",
+        "options": [
+            "a. pocong",
+            "b. mijil",
+            "c. asmaradana",
+            "d. megatruh"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 3,
+        "question": "kanggo ngasilake geguritan kang trep panggangti mesthi mikirake ....",
+        "ground_truth": "b",
+        "options": [
+            "a. nada",
+            "b. pilihan tembung",
+            "c. pralambang",
+            "d. purwakanti"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 4,
+        "question": "Pratelakna teks mawa basa rinengga ing ngisor iki!\nPak, njenengan iki mbokya nyebut. Mungsuh Mas Adi kuwi kaya <i><u>timun mungsuh duren!</u></i>\nTembung \u201ctimun mungsuh duren\u201d klebu ....",
+        "ground_truth": "A",
+        "options": [
+            "A. paribasan",
+            "B. saloka",
+            "C. bebasan",
+            "D. tembung entar"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 5,
+        "question": "Menawa pidhato kudu gatekake klambine, jalaran ajining raga saka \u2026",
+        "ground_truth": "a",
+        "options": [
+            "a. busana",
+            "b. rega",
+            "c. lathi",
+            "d. ati"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 6,
+        "question": "Mak ljah dodol jamu beras kencur.\n\nWasesane ukara kasebut yaiku ... .",
+        "ground_truth": "a",
+        "options": [
+            "a. dodol",
+            "b. mak ijah",
+            "c. beras kencur",
+            "d. jamu"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 7,
+        "question": "Gatekna ukara ing andhap iki!\n1) Kula badhe tumbas woh-wohan kados ta: pelem, nanas, pisang, kaliyan anggur.\n2) Sampeyan punapa sampun sumerep griya kula, sapunika semah kula sampun wangsul.\n\nUkara ing inggil punika ngagem basa \u2026.",
+        "ground_truth": "C",
+        "options": [
+            "A. Ngoko lugu (wantah)",
+            "B. Ngoko alus (andhap)",
+            "C. Krama lugu (madya)",
+            "D. Krama alus (inggil)"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 8,
+        "question": "Kembang Lombok Arane Menik, Yen Kembang Kacang Arane ....",
+        "ground_truth": "A",
+        "options": [
+            "A. Besengut",
+            "B. Mayang",
+            "C. Drenges",
+            "D. Gleges"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 9,
+        "question": "Atlet Seagames kepungkur sing prestasi pikantuk .... saka pamarintah.\nTembung dwipurwa kanggo njangkepi ukara ing ndhuwur yaiku .....",
+        "ground_truth": "D",
+        "options": [
+            "A.  Lelumpuk",
+            "B. Peparing",
+            "C. lelaku",
+            "D. bebungah"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 10,
+        "question": "Keturunane Pitik Jawa Karo Pitik Alas Diarani ....",
+        "ground_truth": "B",
+        "options": [
+            "A. Bekikuk",
+            "B. Bekisar",
+            "C. Kate",
+            "D. Kedu"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 11,
+        "question": "dhumateng para sepuh pinisepuh ingkang pantes pinundhi pinudhi para tamu kakung putri ingkang winantu ing pakurmatan pratelan kasebut klebu perangan tanggap wacana \u2026.",
+        "ground_truth": "a",
+        "options": [
+            "a. pambuka",
+            "b. pangajap",
+            "c. surasa",
+            "d. panutup"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 12,
+        "question": "\ua9cb\ua9ae\ua997\ua9b6\ua98f\ua9c0 \ua98f\ua9c0\ua9ad\ua9bc\ua99b\ua9b6\ua98f\ua9c0\ua992\ua9b8\ua9ad\ua997\ua9ae\ua9c8\ua9ad\ua9b8\ua9ae\ua9b6\ua983\ua9a7\ua9bc\ua995\ua9b6\ua98f\ua9c0\ua9b1\ua9b6\ua981\ua9a5\ua9bf\ua9b1\ua997\ua9c9\n\nyen ditulis latine unine \u2026",
+        "ground_truth": "a",
+        "options": [
+            "a. Wajik kletik gula jawa, luwih becik sing prasaja",
+            "b. Wajik kletik gula batu, luwih becik sing mantu",
+            "c. Wajik kletik gula putih, luwih becik sing prasaja",
+            "d. Wajik kletik gula pala, luwih becik sing prasaja"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 13,
+        "question": "Menawa entuk piweling kudu \u2026",
+        "ground_truth": "b",
+        "options": [
+            "a. diaturake",
+            "b. disimpen",
+            "c. dilalikake",
+            "d. dinengake"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 14,
+        "question": "Sendang Biru yaiku salah sijine pesisir ing wewengkon Kabupaten Malang, klebu Kecamatan Sumbermanjing. Manggone ing sakidule kutha Malang kang adohe kurang luwih 30 kilo meter.\nPethikan teks tanggapan deskriptif ing ndhuwur, kalebu ing struktur ....",
+        "ground_truth": "A",
+        "options": [
+            "A. Dheskripsi bageyan",
+            "B. Idhentifikasi",
+            "C. Klasifikasi",
+            "D. Orientasi"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 15,
+        "question": "Emboke Dielus-Elus , Anake Diidak-Idak. Unen-Unen Iki Klebu ....",
+        "ground_truth": "D",
+        "options": [
+            "A. Pepindhan",
+            "B. Wangsalan",
+            "C. Paribasan",
+            "D. Cangkriman"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 16,
+        "question": "Rama iku paraga kesenian khas Jawa Timur, kang wujude drama tradisional, kerakyatan, ana tari Rema, kidungan, banyolan, gendhing jula-juli lan critane bebas.\n\nManut wacan ing inggil, Rama minangka paraga kesenian \u2026.",
+        "ground_truth": "C",
+        "options": [
+            "A. Film",
+            "B. Tayub",
+            "C. Ludruk",
+            "D. Wayang"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 21,
+        "question": "Tujuan dianakake koperasi sekolah yaiku kanggo nggampangake murid golek kebutuhan sekolahe, nglatih ketrampilan lan rasa tanggung jawab.\nSurasane wacan ing dhuwur yaiku ...",
+        "ground_truth": "b",
+        "options": [
+            "a. Murid golek kebutuhan sekolahe",
+            "b. Tujuan Koperasi Sekolah",
+            "c. Koperasi golek bathi",
+            "d. Nglatih keterampilane murid"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 22,
+        "question": "Kucing Ireng Kae Mangan Tikus. Yen Didadekake Ukara Tanggap Dadi ....",
+        "ground_truth": "C",
+        "options": [
+            "A. Tikus Ireng Kae Dipangan Kucing",
+            "B. Kucing Dipangan Tikus Ireng Kae",
+            "C. Tikus Dipangan Kucing Ireng Kae",
+            "D. Dipangan Tikus Ireng Kae Kucing"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 23,
+        "question": "\ua98f\ua9bf\ua9ba\ua9a0\n\nUkara jawa ing dhuwur unine ....",
+        "ground_truth": "a",
+        "options": [
+            "a. kreta",
+            "b. kertas",
+            "c. keras",
+            "d. kerta"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 24,
+        "question": "Bapak durung \u2026, dene Tuginah mulih jam siji awan.\nTembung kang trep kanggo ngisi ceceg-ceceg ing dhuwur yaiku",
+        "ground_truth": "a",
+        "options": [
+            "a. manthuk",
+            "b. mulih",
+            "c. kondur",
+            "d. bali"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 26,
+        "question": "Sing dudu cangkriman yaiku ....",
+        "ground_truth": "D",
+        "options": [
+            "A. Ana bakul dhawet dikeroki",
+            "B. Ana bakul krambil dikepruki",
+            "C. Ana bakul pitik ditaleni",
+            "D. Ana bakul mbako diambungi"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 27,
+        "question": "Tabunganku isih 1.575.000 rupiyah.\nYen ditulis nganggo aksara jawa \u2026",
+        "ground_truth": "A",
+        "options": [
+            "A. \ua9a0\ua9a7\ua9b8\ua994\ua9a4\ua9c0\ua98f\ua9b8\ua9b2\ua9b6\ua9b1\ua9b6\ua983\ua9c7\ua9d1\ua9d5\ua9d7\ua9d5\ua9d0\ua9d0\ua9d0\ua9c7\ua9ab\ua9b8\ua9a5\ua9b6\ua9aa\ua983",
+            "B. \ua9a0\ua9a7\ua9b8\ua994\ua9a4\ua9c0\ua98f\ua9b8\ua9a9\ua9ad\ua9b6\ua983\ua9c7\ua9d1\ua9d5\ua9d7\ua9d5\ua9d0\ua9d0\ua9d0\ua9c7\ua9ab\ua9b8\ua9a5\ua9b6\ua9aa\ua983",
+            "C. \ua9a0\ua9a7\ua9b8\ua994\ua9a4\ua9c0\ua98f\ua9b8\ua9a9\ua9ad\ua9b6\ua983\ua9c7\ua9d1\ua9d4\ua9d7\ua9d4\ua9d0\ua9d0\ua9d0\ua9c7\ua9ab\ua9b8\ua9a5\ua9b6\ua9aa\ua983",
+            "D. \ua9a0\ua9a7\ua9b8\ua994\ua9a4\ua9c0\ua98f\ua9b8\ua9b2\ua9b6\ua9b1\ua9b6\ua983\ua9c7\ua9d1\ua9d4\ua9d7\ua9d4\ua9d0\ua9d0\ua9d0\ua9c7\ua9ab\ua9b8\ua9a5\ua9b6\ua9aa\ua983"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 29,
+        "question": "sandiwara tradisional kang asale saka jawa timur, kasebut \u2026",
+        "ground_truth": "c",
+        "options": [
+            "a. kethoprak",
+            "b. wayang wong",
+            "c. ludruk",
+            "d. lenong"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 31,
+        "question": "Ibu lagi masak sayur lodeh ana pawon. Tembung lagi masak kalungguhane ... .",
+        "ground_truth": "b",
+        "options": [
+            "a. jejer",
+            "b. wasesa",
+            "c. lesan",
+            "d. katrangan"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 32,
+        "question": "Pagupon Iku Jenenge Kandhang ....",
+        "ground_truth": "D",
+        "options": [
+            "A. Pitik",
+            "B. Macan",
+            "C. Jaran",
+            "D. Dara"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 34,
+        "question": "Sampeyan Badhe Tumbas Punapa? Ukara Kasebut Klebu Basa Krama ....",
+        "ground_truth": "C",
+        "options": [
+            "A. Inggil",
+            "B. Alus",
+            "C. Lugu",
+            "D. Madya"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 36,
+        "question": "Gegayuhan bakal yen wis dikersakake dening sing murbeng dumadi \u2026",
+        "ground_truth": "c",
+        "options": [
+            "a. ilang",
+            "b. muspra",
+            "c. kelakon",
+            "d. ana pigunane"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 37,
+        "question": "Ibu arep ngombe kopi panas. Krama inggil ukara iku yakuwi ....",
+        "ground_truth": "c",
+        "options": [
+            "a. Ibu arep ngunjuk kopi panas",
+            "b. Ibu badhe ngombe kopi benter",
+            "c. Ibu badhe ngunjuk kopi benter",
+            "d. Ibu badhe ngunjuk kopi panas"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 39,
+        "question": "Sakabehe pepalang wus bisa disingkirake dening Pandawa wektu mbabat alas Wanamarta.\nTembung pepalang yen ditulis nganggo aksara jawa yaiku .....",
+        "ground_truth": "B",
+        "options": [
+            "A. \ua9a5\ua9a5\ua9ad\ua981",
+            "B. \ua9a5\ua9bc\ua9a5\ua9ad\ua981",
+            "C. \ua9a5\ua9ba\ua9a5\ua9ad\ua981",
+            "D. \ua9a5\ua9bc\ua9a5\ua9ba\ua9ad\ua981"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 40,
+        "question": "Gotri ala gotri nagasari-ri\nRiwul awul-awul jenang grendul-dul\nDolan awan-awan ndelok manten-ten\nTitenana mbesuk gedhe dadi apa-pa\nPodheng mbako enak mbako sedheng-dheng\nDhengklek eklak-eklek dadi kethek\n\nTembang ing dhuwur kalebu tuladhane tembang ....",
+        "ground_truth": "C",
+        "options": [
+            "A. Dolanan",
+            "B. Gedhe",
+            "C. Macapat",
+            "D. Tengahan"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 41,
+        "question": "Tlatar Boyolali wis dikenal dadi sawijining papan wisata. Papane rada ngalor sithik saka\nkutha Boyolali, adohe kira-kira 7 km. Sing disuguhake neng kana yaiku wisata alam. Nalika lunga rana, kari milih panggon mancing. Iwak sing dipancing maneka warna kayata iwak lele, nila, gurameh, kakap, bawal lan sapanunggalane\n\nSaking paragraf ing inggil, kang nuduhake ukara tanduk inggih menika ukara \u2026.",
+        "ground_truth": "C",
+        "options": [
+            "A. Tlatar Boyolali wis dikenal dadi sawijining papan wisata",
+            "B. Sing disuguhake neng kana yaiku wisata alam",
+            "C. Nalika lunga rana, kari milih panggon mancing.",
+            "D. Iwak sing dipancing maneka warna"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 42,
+        "question": "Kuku Pancanaka Kuwi Gegamane ....",
+        "ground_truth": "B",
+        "options": [
+            "A. Arjuna",
+            "B. Wrekudara",
+            "C. Puntadewa",
+            "D. Nakula"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 43,
+        "question": "Bu Fira : \"Fa, ibumu jarene Santi lara, lara apa ta?\"\nSifa : \"......\"\nBu Fira : \"Wis diobati apa durung?\"\nSifa : \"Sampun, kala wau enjing sampun ngunjuk obat.\"",
+        "ground_truth": "D",
+        "options": [
+            "A. Ibu sakit waja",
+            "B. Ibu lara untu",
+            "C. Ibu gerah utu",
+            "D. Ibu gerah waja"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 44,
+        "question": "Kucing nguber walang kadung\nUkara andharan ing dhuwur, yen ditulis nganggo aksara jawa yaiku \u2026",
+        "ground_truth": "C",
+        "options": [
+            "A. \ua98f\ua9b8\ua995\ua9b6\ua981\u200b\u200b\ua994\ua9b8\ua9a7\ua9b8\ua982\u200b\ua9ae\ua9aa\ua981\u200b\u200b\ua98f\ua9a2\ua9b8\ua981\u200b",
+            "B. \ua98f\ua9bc\ua995\ua981\u200b\u200b\ua994\ua9b8\ua9a7\ua9bc\ua982\u200b\ua9ae\ua9ad\ua994\u200b\ua98f\ua9a2\ua9b8\ua981\u200b",
+            "C. \ua98f\ua9b8\ua995\ua9b6\ua981\u200b\u200b\ua994\ua9b8\ua9a7\ua9bc\ua982\u200b\ua9ae\ua9ad\ua981\u200b\u200b\ua98f\ua9a2\ua9b8\ua981\u200b",
+            "D. \ua98f\ua9b8\ua995\ua9b6\ua981\u200b\u200b\ua994\ua9a7\ua9b8\ua982\u200b\ua9ae\ua9ad\ua981\u200b\u200b\ua98f\ua9b8\ua9a2\ua9b8\ua981\u200b"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 45,
+        "question": "Pak Sutarno penggaweane saben dina gawe barang saka wesi.\n\nTukang gawe barang saka wesi diarani ...",
+        "ground_truth": "d",
+        "options": [
+            "a. empu",
+            "b. pujangga",
+            "c. montir",
+            "d. pandhe"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 46,
+        "question": "Waluh, Semangka, Lan Timun Kuwi Klebu Tanduran ....",
+        "ground_truth": "D",
+        "options": [
+            "A. Palakirna",
+            "B. Palakependhem",
+            "C. Palawija",
+            "D. Palakesimpar"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 50,
+        "question": "Bocah sekolah mono nduweni tugas utama sinau golek ngelmu lan blajar tata krama aja nganti nglakoni............... ala, supaya mbesuke ora cilaka.\nTembung sing mathuk kanggo njangkepi ukara ing ndhuwur yaiku ....",
+        "ground_truth": "B",
+        "options": [
+            "A. timindak",
+            "B. tumindak",
+            "C. tinindak",
+            "D. tumandak"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 52,
+        "question": "\u201cpak bayu lan keluwarga tindak menyang denpasar bali.\u201d\n\nPanulisan aksara kapital kang trep yaiku ....",
+        "ground_truth": "d",
+        "options": [
+            "a. Pak Bayu lan keluwarga tindak menyang denpasar bali",
+            "b. pak bayu lan keluwarga tindak menyang denpasar bali",
+            "c. pak Bayu lan keluwarga tindak menyang Denpasar Bali",
+            "d. Pak Bayu lan keluwarga tindak menyang Denpasar Bali"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 53,
+        "question": "Wacanen ukara ing andhap iki!\n\u201cSawise nyeluk adhiku, budhe terus tak kongkon lungguh ndik ruang tamu.\n\nUkara kasebut ngagem basa \u2026.",
+        "ground_truth": "A",
+        "options": [
+            "A. Ngoko lugu",
+            "B. Ngoko alus",
+            "C. Krama lugu",
+            "D. Krama alus"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 54,
+        "question": "Luwih becik kowe matura gurumu kanthi blaka ... wae!",
+        "ground_truth": "c",
+        "options": [
+            "a. cintraka",
+            "b. sara",
+            "c. suta",
+            "d. nelangsa"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 55,
+        "question": "Wacanen tembang macapat ing ngisor iki!\n\nMingkar-mingkuring angkara\nAngkarana karenan mardi siwi\nSinawung resmining kidung\nSinuba sinukarta\nMrih kertarta pakartining ngelmu luhung\nKang tumrap neng tanah Jawa\nAgama ageming aji\n\nGuru wilangan lan guru lagu gatra kaping telu yaiku ....",
+        "ground_truth": "C",
+        "options": [
+            "A. 8a",
+            "B. 8i",
+            "C. 8u",
+            "D. 8o"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 56,
+        "question": "Wacanen Laporan Hasil pengamatan ing ngisor!\n\n1. Nyiapake sampah rumah tangga organik banjur dilebokake ing wadah\n2. Siram lemah nganggo banyu\n3. Siapne wadah gedhe\n4. Campur maneh sampah organik sing wis disiapne\n5. Campur lemah ing wadah kang wis diisi sampah organik.\n6. Lebokne maneh lemah lan tutup wadak rapet-rapet\n7. Tunggu 3 minggu nganti pupuk kompose\n\nUrut-urutane laporan kang trep yaiku ....",
+        "ground_truth": "a",
+        "options": [
+            "a. 3, 1, 5, 2, 4, 6, 7.",
+            "b. 1, 2, 3, 4, 5, 6, 7",
+            "c. 3, 4, 5. 6. 1, 2 3",
+            "d. 4, 5, 3, 2, 1, 6, 7"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 60,
+        "question": "Sira Ngabektiya,\nMarang Yayah Sarta Wibi\n\nUkara Geguritan Kasebut Yen Didadekake Ukara Gancaran Dadine ....",
+        "ground_truth": "C",
+        "options": [
+            "A. Kowe Kudu Ngabekti Marang Manungsa",
+            "B. Kowe Kudu Ngabekti Marang Gusti Pangeran",
+            "C. Kowe Kudu Ngabekti Marang Wongtuwa",
+            "D. Kowe Kudu Ngabekti Marang Para Leluhur"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 61,
+        "question": "Bebasan Cebol nggayuh lintang, yen lamarane Joko Kendhil ditarripa dening Ratu lan dipundhut putra mantu.\nCebol Gayuh Lintang tegese ...",
+        "ground_truth": "c",
+        "options": [
+            "a. Wis ora ana ajine",
+            "b. Gegayuhan ora imbang karo kekuatan",
+            "c. Kekarepan kang bakal mokal",
+            "d. Wong asor tumindak kaya wong luhur"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 64,
+        "question": "Kanggo nyegah sumebare COVID-19, sabubare lelungan perlu reresik tangan ....",
+        "ground_truth": "B",
+        "options": [
+            "A. Sadurunge ndemok sedulur lan anggota kulawargane.",
+            "B. Sadurunge ndemok anggota kulawarga lan barang-barang sing ana ing ngomahe.",
+            "C. Sadurunge mangan lan ngombe ing ngomahe",
+            "D. Sadurunge adus lan ngumbah klambine."
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 65,
+        "question": "Para pepundhen, para pinisepuh saha kasepuhan ingkang dahat pinundhi-pundhi.\nPara pangembraka praja ingkang dahat minulya. Bapak saha ibu para rawuh ingkang tansah kinurmatan.\nPuji Syukur konjuk wonten ngarsane Gusti Allah ingkan sampun paring kanikmatan saengga kita saget makempal ing adicara lamaran putrinipun Bapak Suroto Diharjo menika.\nKula, Handoko Dwisasono minangka pranata adicara keparenga badhe ngaturaken reroncening adicara ingkang sampun rinancang ....\n\nTeks ing inggil minangka tuladha ....",
+        "ground_truth": "B",
+        "options": [
+            "A. Sesorah",
+            "B. Pranatacara",
+            "C. Atur pambagya",
+            "D. Pidhato Agama"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 67,
+        "question": "Ngisor iki kang digatekake naliko pacelathon, kajaba \u2026",
+        "ground_truth": "a",
+        "options": [
+            "a. jeneng",
+            "b. swara",
+            "c. polatan",
+            "d. solah bawa"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 68,
+        "question": "Jamaah jumat ingkang kawula bhekteni, monggo kita sareng-sareng nglampahi sedaya ingkang sampun perintah dining Alloh SWT. Lan nebihi sedaya laranganlaranganipun.....\n\nUkara-ukara ing inggil minangka tuladha ....",
+        "ground_truth": "B",
+        "options": [
+            "A. Sesorah",
+            "B. Khotbah",
+            "C. Atur pambagya",
+            "D. Atur pranatacara"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 69,
+        "question": "\ua9b2\ua9a4\ua98f\ua9c0\ua98f\ua9a3\ua9ad\ua9c0\n\nyen ditulis latin unine \u2026",
+        "ground_truth": "a",
+        "options": [
+            "a. anak kadhal",
+            "b. anak kebo",
+            "c. anak ketan",
+            "d. anak kancil"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 71,
+        "question": "Ibu Ngendika, \u201cYen Nunggang Sepedhah Sing Ati-Ati , Le !\u201d Ukara Kasebut Klebu Ukara ....",
+        "ground_truth": "A",
+        "options": [
+            "A. Kandha",
+            "B. Crita",
+            "C. Tanggap",
+            "D. Tanduk"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 72,
+        "question": "Solah ....... pancen alus merak ati.",
+        "ground_truth": "A",
+        "options": [
+            "A. tingkahe",
+            "B. polahe",
+            "C. bawane",
+            "D. solahe"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 73,
+        "question": "Jaka Kendhil wong kang paling begja, nalika mbatang cangkrimane sang putri, wong lumrah ora bisa mbatang nanging tumrape Jaka Kendhil mung sepele. Ringkese crita, ing sarehne Jaka Kendhil bisa mbatang cangkrimane sang putri, Jaka Kendhil didhaupake karo sang putri. Cuplikan dongeng ing dhuwur nyritaake kang nampa kabegjan \u2026",
+        "ground_truth": "a",
+        "options": [
+            "a. Jaka Kendhil",
+            "b. Joko bodho",
+            "c. Sang putri",
+            "d. Galuh Candra Kirana"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 74,
+        "question": "Wacanen ukara ing andhap iki!\n\u201cEyang mboten purun dahar amargi wajanipun gerah.\u201d\n\nUkara kasebut menawi digantos ngagem basa ngoko lugu inggih menika \u2026.",
+        "ground_truth": "A",
+        "options": [
+            "A. Simbah ora gelem mangan amerga lara untu",
+            "B. Mbah ora gelem dhahar amerga ngelu",
+            "C. Mbah, ora gelem mangan amerga lara",
+            "D. Eyang ora gelem nedha amerga lara"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 75,
+        "question": "Piwulang luhur kang bisa kapethik munggwing Anoman yaiku ....",
+        "ground_truth": "C",
+        "options": [
+            "A. antenge pribadi",
+            "B. setyane marang guru",
+            "C. sentosa ing tekad",
+            "D. pintere tumindake"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 76,
+        "question": "Wus tinata titi tataning gati, nun inggih putra temanten kakung sampun jumeneng wonten sangajeng wiwara kepareng badhe hanetebi upacara pasrah temanten.\nTembung \u201c jumeneng\u201d ana ing ukara iku nduweni teges \u2026",
+        "ground_truth": "c",
+        "options": [
+            "a. Lunggguh",
+            "b. Mlak",
+            "c. Ngadeg",
+            "d. Sumadya"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 79,
+        "question": "Wedhus dicancang adikku ana pinggir kali.\nUkara kasebut yen diowahi dadi ukara tanduk yaiku ....",
+        "ground_truth": "C",
+        "options": [
+            "A. Adhiku dicancang wedhus ana pinggir kali",
+            "B. Wedhus nyancang Adhiku ana pinggir kali",
+            "C. Adiku nyancang wedhus ana pinggir kali",
+            "D. Wedhusku nyancang adhik anak pinngir kali"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 81,
+        "question": "Kembang kencur, ditandur tepining sumur\nSapa jujur, bakal luhur klawan ......",
+        "ground_truth": "B",
+        "options": [
+            "A. misuwur",
+            "B. makmur",
+            "C. sempulur",
+            "D. sedulur"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 82,
+        "question": "Gatekna aksara ing andhap iki!\n\nDwifungsi : \ua9a2\ua9c0\ua9ae\ua9b6\ua9a5\ua9b3\ua9b8\ua981\u200b\ua9b1\ua9b6\n\nMiturut aksara ing inggil, menawi aksara rekan karaketan sandhangan cecak, cecake telu dumunung ing sisih \u2026 sandhangan cecak.",
+        "ground_truth": "C",
+        "options": [
+            "A. Tengene",
+            "B. Tengahe",
+            "C. Kiwane",
+            "D. Njerone"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 83,
+        "question": "Mira : Ibu, kula badhe matur\nIbu : Ana apa ta Mir, kok sajak perlu?\nMira : Anu bu ...................\nIbu : Kayane dhek wingi wis diparingi bapakmu ta, kanggo opo maneh?\nBapak : lya bu, Mira mau atur yen arep tuku buku.\n\nUkara kang trep kanggo njangkepi cecek-cecek ing dhuwur yaiku ...",
+        "ground_truth": "c",
+        "options": [
+            "a. aku arep njaluk duwit",
+            "b. kowe njaluko dhuwit",
+            "c. kula badhe nyuwun arta",
+            "d. kowe njaluko dhuwit"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 84,
+        "question": "Ing ngisor iki kang kalebu struktur teks Tanggapan Dheskriptif yaiku.....",
+        "ground_truth": "B",
+        "options": [
+            "A. Dheskripsi gunane",
+            "B. Idhentifikasi",
+            "C. komplikasi",
+            "D. Orientasi"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 85,
+        "question": "Lelara demam berdarah dijalari dening \u2026",
+        "ground_truth": "b",
+        "options": [
+            "a. pitik",
+            "b. nyamuk",
+            "c. tikus",
+            "d. laler"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 86,
+        "question": "Raden Arjuna Kagungan Gegaman Sekti Kang Awujud Panah, Yaiku:",
+        "ground_truth": "A",
+        "options": [
+            "A. Panah Pasopati",
+            "B. Panah Guwawijaya",
+            "C. Panah Wijayandanu",
+            "D. Panah Songsong Tunggulnaga"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 88,
+        "question": "Ngisor iki kang kudu disingkiri naliko pidhato, kajaba \u2026",
+        "ground_truth": "b",
+        "options": [
+            "a. mbesengut",
+            "b. luwes",
+            "c. dredeg",
+            "d. asring maca"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 90,
+        "question": "Karawitan Iku Kabudayan Kang Adiluhung, Mula Kudu ....",
+        "ground_truth": "C",
+        "options": [
+            "A. Disirnakake",
+            "B. Disingkirake",
+            "C. Dilestarekake",
+            "D. Dilirwakake"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 93,
+        "question": "Lumrahe rupa synopsis crita, sing ngandharake paparan diarani\u2026",
+        "ground_truth": "d",
+        "options": [
+            "a. Anti klimaks",
+            "b. Eksposisi",
+            "c. Ending",
+            "d. Narator"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 94,
+        "question": "wilujeng siyang asalamualaikum kantreteman saha kawilujengan mugi kantumprapan dhumateng pnjenegan sedaya , ing sajroning pidato tuladha kasebut diarani ....",
+        "ground_truth": "a",
+        "options": [
+            "a. salam pambuka",
+            "b. surasa",
+            "c. panutup",
+            "d. pambuka"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 97,
+        "question": "\ua9b1\ua9bc\ua992\ua9ba\ua9b4\u200b\ua992\ua9ba\ua9b4\ua9ab\ua9ba\ua981\n\nUkara jawa ing dhuwur unine ....",
+        "ground_truth": "c",
+        "options": [
+            "a. wayang gareng",
+            "b. sida bareng",
+            "c. sega goreng",
+            "d. goreng sega"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 98,
+        "question": "Wasana namung samanten atur kula minangka sesulih rencang-rencang kelas IX sedaya, mbok bilih wonten galap-gangsuling saha benceng cewenging atur, kula tansah nyuwun lumunturing samodra sih pangaksami. Nuwun\nUkara ing dhuwur iku pethikan saka pidhato kang kagolong ana ing perangan ....",
+        "ground_truth": "d",
+        "options": [
+            "a. Salam pambuka",
+            "b. Purwaka",
+            "c. Pangarep-arep",
+            "d. Panutup"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 99,
+        "question": "Bapak mangan iwak ing omah\n\nUkara ing ndhuwur menawa didadekne krama inggil yaiku \u2026",
+        "ground_truth": "d",
+        "options": [
+            "a. Bapak nedhi iwak ing omah.",
+            "b. Bapak nedhi ulam wonten griya.",
+            "c. Bapak dhahar iwak ing griya.",
+            "d. Bapak dhahar ulam wonten griya."
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 100,
+        "question": "\u201cSasmitaning ngaurip puniki, mapan ewuh yen nora weruha, ... \u201d\n\nTembung ewuh ing gatra iki bisa ditegesi ribet ing ....",
+        "ground_truth": "B",
+        "options": [
+            "A. pangrasa",
+            "B. panyawang",
+            "C. pangrungu",
+            "D. panggrayang"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 101,
+        "question": "Fanina lagi melu pemilihan tokoh/paraga sing kadhapuk dening sutradara ing lakon drama\n\nMiturut pranyatan ing inggil, Fanina lagi tumut \u2026",
+        "ground_truth": "D",
+        "options": [
+            "A. Crita",
+            "B. Dialog",
+            "C. Nyanyi",
+            "D. Casting"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 103,
+        "question": "Gatekna ukara ing andhap iki!\n1) Aku lagi nulis aksara Jawa\n2) Ibu lagi masak ing pawon\n\nIng inggil punika kalebet tuladha ukara ...",
+        "ground_truth": "B",
+        "options": [
+            "A. Tanggap",
+            "B. Tanduk",
+            "C. Prentah",
+            "D. Pitakon"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 106,
+        "question": "Pacelathon dumadi saka tembung lingga \u2026",
+        "ground_truth": "a",
+        "options": [
+            "a. celathu",
+            "b. celathon",
+            "c. pacelathon",
+            "d. cethon"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 107,
+        "question": "Balung Klapa, Ethok-Ethok Ora Ngerti. Balung Klapa Tegese ....",
+        "ground_truth": "A",
+        "options": [
+            "A. Bathok",
+            "B. Pathok",
+            "C. Klothok",
+            "D. Menthok"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 108,
+        "question": "sandiwara tradisional gabungan drama lakon karo seni tari, kasebut ....",
+        "ground_truth": "d",
+        "options": [
+            "a. kethoprak",
+            "b. wayang wong",
+            "c. ludruk",
+            "d. sendratari"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 109,
+        "question": "Telung atus seket tahun\nDijajah bangsa manca\nWargane urip wara lapa\nUripe kelunta-lunta\nlndonesiaku ...\nSaiki wus mardika\nGumregah ambangun praja\nNggayuh urip kang sampurna\nCukup sandhang lan boga\nTata tentrem raharja\nAdhe dhasar Pancasila\n\nIrah-irahan geguritan ing dhuwur kang trep yaiku ...",
+        "ground_truth": "a",
+        "options": [
+            "a. Indonesiaku",
+            "b. Kasangsaran",
+            "c. Ketula-tula",
+            "d. Pancasila"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 110,
+        "question": "Kebo nusu gudel, yen ditulis nganggo aksara jawa dadine \u2026",
+        "ground_truth": "c",
+        "options": [
+            "a. \ua98f\ua9b8\ua9a7\ua9b6\u200b\ua9a4\ua9b8\ua9b1\ua9b8\u200b\ua992\ua9b8\ua9a2\ua9ba\ua9ad\ua9c0",
+            "b. \ua98f\ua9b8\ua9a7\ua9b6\u200b\ua9a0\ua9b8\ua98f\ua9b8\u200b\ua992\ua9b8\ua9a2\ua9ba\ua9ad\ua9c0",
+            "c. \ua98f\ua9bc\ua9a7\ua9ba\ua9b4\ua9a4\ua9b8\ua9b1\ua9b8\ua992\ua9b8\ua9a2\ua9ba\ua9ad\ua9c0",
+            "d. \ua98f\ua9bc\ua9a7\ua9ba\ua9b4\ua9a0\ua9b8\ua98f\ua9b8\ua992\ua9b8\ua9a2\ua9ba\ua9ad\ua9c0"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 112,
+        "question": "Bu Guru ngongkon aku supaya sregep sinau kanggo persiapan ujian.\nTembung ngongkon yen diowahi dadi basa krama yaiku ....",
+        "ground_truth": "A",
+        "options": [
+            "A. ngengken",
+            "B. ngutus",
+            "C. ndawuhi",
+            "D. nimbali"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 114,
+        "question": "Ora mudhun-mudhun yen ora nggawa mrica sakanthong.\nTembunf cangkriman \"mrica sakanthong\" tegese \u2026",
+        "ground_truth": "B",
+        "options": [
+            "A. isi duren",
+            "B. isi kates",
+            "C. isi gedhang",
+            "D. isi jeruk"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 115,
+        "question": "\u201cCukup semane kula matur, kula jaluk pangapura.\u201d\n\nUkara ing ndhuwur menawa didadekne basa krama yaiku ....",
+        "ground_truth": "d",
+        "options": [
+            "a. Cukup semana kula matur, kula nyuwun pangapura.",
+            "b. Cekap semana kula matur, kula jaluk pangapura.",
+            "c. Cekap semanten anggen kula matur, kula jaluk pangapura.",
+            "d. Cekap semanten anggen kula matur, kula nyuwun pangapunten."
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 116,
+        "question": "Mas Budi pantes dadi Polisi amarga awake \u2026",
+        "ground_truth": "d",
+        "options": [
+            "a. ayem tentrem",
+            "b. kuru aking",
+            "c. gedhe bagus",
+            "d. gagah prakosa"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 117,
+        "question": "\ua9b2\ua997\ua9a2\ua9b8\ua9a9\ua9ba\ua983\n\nUkara jawa ing dhuwur unine \u2026.",
+        "ground_truth": "c",
+        "options": [
+            "a. aja sugeh",
+            "b. aja nangis",
+            "c. aja dumeh",
+            "d. aja ngono"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 118,
+        "question": "Pamedhare wasitaning ati. Menawa ditulis aksara Jawa ....",
+        "ground_truth": "C",
+        "options": [
+            "A. \ua9cb\ua9a5\ua9a9\ua9bc\ua9a2\ua9ab\ua9ba\u200b\ua9ae\ua9b1\ua9b6\ua9a0\ua9a4\ua9b6\ua981\u200b\u200b\ua9b2\ua9a0\ua9b6\ua9c9",
+            "B. \ua9cb\ua9a5\ua9a9\ua9bc\ua9a2\ua982\ua9ab\ua9ba\u200b\ua9ae\ua9b1\ua9b6\ua9a0\ua9a4\ua9b6\ua981\u200b\u200b\ua9b2\ua9a0\ua9b6\ua9c9",
+            "C. \ua9cb\ua9a5\ua9a9\ua9bc\ua9a3\ua982\ua9ab\ua9ba\u200b\ua9ae\ua9b1\ua9b6\ua9a0\ua9a4\ua9b6\ua981\u200b\u200b\ua9b2\ua9a0\ua9b6\ua9c9",
+            "D. \ua9cb\ua9a5\ua9a9\ua9bc\ua9a3\ua9ab\ua9ba\u200b\ua9ae\ua9b1\ua9b6\ua9a0\ua9a4\ua9b6\ua981\u200b\u200b\ua9b2\ua9a0\ua9b6\ua9c9"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 121,
+        "question": "Tahu Lan Tempe Kuwi Digawe Saka ....",
+        "ground_truth": "D",
+        "options": [
+            "A. Tebu",
+            "B. Jagung",
+            "C. Tela",
+            "D. Kedhele"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 122,
+        "question": "Sing kelebu ukara kandha (langsung) yaiku \u2026",
+        "ground_truth": "d",
+        "options": [
+            "a. Simbah ngendika \"Aku tukokna gedhang ing pasar.",
+            "b. Simbah ngendika : Aku tukokna gedhang ing pasar.",
+            "c. Simbah ngendika \"Aku tukokna gedhang ing pasar.\"",
+            "d. Simbah ngendika, \"Aku tukokna gedhang ing pasar.\""
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 123,
+        "question": "Jenang gamping reca kayu. Batangane cangkriman iki ....",
+        "ground_truth": "A",
+        "options": [
+            "A. injet, golekan",
+            "B. dalenjet nggoleki dina",
+            "C. pijet, golekan",
+            "D. mijet, nggoleki"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 124,
+        "question": "Satriya pambarep Pandhawa jenenge \u2026",
+        "ground_truth": "d",
+        "options": [
+            "a. Werkudara",
+            "b. Sadewa",
+            "c. Nakula",
+            "d. Yudhistira"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 125,
+        "question": "Assalamu'alaikum Wr. Wb.\nBapak Kepala Sekolah ingkang satuhu kula bekteni, Bapak Ibu Guru ingkang dhahat kinurmatan, adhik-adhik kelas ingkang kula tresnani.\n....................\nBapak Kepala Sekolah, Bapak Ibu Guru, sarta adhik-adhik kelas, sakedhap malih kula sakanca badhe nilaraken bangku pawiyatan SD punika. Kula minangka wakil siswa-siswi kelas enem badhe nyuwun pamit dhateng Bapak/Ibu, sarta adhik-adhik\n\nUkara sing pas kanggo njangkepi pidato ing ndhuwur yaiku .....",
+        "ground_truth": "A",
+        "options": [
+            "A. Sumangga sesarengan ngunjukaken puja puji katur dhumateng ngarsanipun Gusti Allah ingkang Maha Agung ingkang sampun paring rahmat sarta hidayah dhumateng kita sedaya, saengga ing wekdal punika kita taksih pinaringan rahayu wilujeng nir ing sambikala.",
+            "B. Mugi-mugi anggen kula sakanca badhe nglajengake nuntut ilmu ing pawiyatan lajengipun saged lancar.",
+            "C. Minangka pungkasaning atur, kula sakanca nyuwun lumunturing sih samodra pangaksami mbok bilih salaminipun kula sakanca ngangsu kawruh ing pawiyatan punika wonten kalepatan- kalepatan dhumateng para Bapak/Ibu sarta adhik-adhik sekaliyan.",
+            "D. Wasana cekap semanten atur kula menawi wonten kirang langkunging atur, nyuwun agunging pangaksami."
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 126,
+        "question": "Pratelan ing ngisor iki sing bener yaiku ....",
+        "ground_truth": "C",
+        "options": [
+            "A. Ramawijaya rayine Raden Lesmana",
+            "B. Dasamuka kadhustha Dewi Sinta",
+            "C. Anoman iku wujude kethek putih.",
+            "D. Wibisana iku adhine Ramawijaya."
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 127,
+        "question": "Wacanen geguritan ing ngisor iki!\n\nKembang Mlathi\n\nDurung bisa melu labuh negara\nAmung sekar mlathi iki\nTandha setya lan janji\nBakal melu napak suci\nLabuh nagri alandhesan ati suci.\n\nWosing geguritan ing ndhuwur yaiku ....",
+        "ground_truth": "C",
+        "options": [
+            "A. nandhur kembang mlathi",
+            "B. nyebar setya lan janji",
+            "C. wong kang durung bisa labuh nagari",
+            "D. bakal napak suci"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 128,
+        "question": "\ua9b1\ua9b8\ua9ae\ua982\ua9a4\ua9b6\u200b\ua9a0\ua9b8\ua98f\ua9b8\u200b\ua98f\ua9ba\u200b\ua9a9\ua9c0\ua9a7\ua981\u200b Aksara latine kawaca \u2026 .",
+        "ground_truth": "a",
+        "options": [
+            "a. Suwarni tuku kembang",
+            "b. Suwarni nggawa kembang",
+            "c. Suwarni nandur kembang",
+            "d. Sumarni nyirami kembang"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 130,
+        "question": "Parmin Negor Kayu Nganggo Graji. Kang Dhapuk Lesane Ukara Kasebut Yaiku ....",
+        "ground_truth": "C",
+        "options": [
+            "A. Parmin",
+            "B. Negor",
+            "C. Kayu",
+            "D. Graji"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 134,
+        "question": "Kamangka nggih sampun dipunfogging kangge nanggulangi nanging menawi susuh lemutipun boten dipunicali, lemutipun tetep kathah.\nTembung dipunfogging ngemu teges \u2026",
+        "ground_truth": "c",
+        "options": [
+            "a. diobati",
+            "b. dipendhem",
+            "c. dikeluki",
+            "d. dikuras"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 135,
+        "question": "Wacanen kang permati!\n\nSedhekah Laut\n\nIng kutha Cilacap ana upacara tradhisi kang diarani sedhekah laut. Sedhekah laut iku arupa kegiyatan nglarung sesaji utama ing Teluk Penyu. Upacara nglarung kasebut minangka wujud rasa matur nuwun marang Gusti. Awit Gusti sampun maringi anugerah berkah marang masyarakat Cilacap, mligine berkah laut.\n\nSaka wacan ingg ndhuwur tegese tembung nglarung yaiku ....",
+        "ground_truth": "b",
+        "options": [
+            "a. gawa",
+            "b. ngelekake",
+            "c. ngguwak",
+            "d. nyelehake"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 136,
+        "question": "Pacelathon kang kudu diucapake para paraga, anggone ngucapake kanthi penghayatan slaras karo tokoh sing diperanake diarani\u2026",
+        "ground_truth": "a",
+        "options": [
+            "a. Dhialog",
+            "b. Paraga",
+            "c. Plot",
+            "d. Tema"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 137,
+        "question": "Wis Ana Sawulanan Reni Nandhang Lara. Mulane Awake Tansaya Kuru Sasat Mung Kari ....",
+        "ground_truth": "B",
+        "options": [
+            "A. Dubang",
+            "B. Lunglit",
+            "C. Bangjo",
+            "D. Bangcuk"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 138,
+        "question": "geguritansaka tembung lingga gurita yaiku owah owahan saka tembung ....",
+        "ground_truth": "a",
+        "options": [
+            "a. gerita",
+            "b. gurit",
+            "c. anggurit",
+            "d. gita"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 139,
+        "question": "Badri mlaku alon-alon kanthi ngelamun ing trotoar. Koran saktumpuk digendhong ing pundhake during ana sing payu. Dina iku ora ana padatan, panase nylomot bunbunan nganti gosong. Raine rada gosong, gulune asat, ngelak lan luwe. Swara kendaraan ing prapatan pasar Manukan iku gembrubug nambahi ati susah.\nParagraf ing dhuwur miturut struktur teks kalebu perangane\u2026",
+        "ground_truth": "a",
+        "options": [
+            "a. Eksposisi",
+            "b. Ending",
+            "c. Klimaks",
+            "d. Komplikasi"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 145,
+        "question": "Basa krama alus digunaake \u2026",
+        "ground_truth": "c",
+        "options": [
+            "a. wong wadon marang bojone",
+            "b. wong biasa sing durung akrab",
+            "c. wong sedrajad sing padha ngajeni banget",
+            "d. wong drajade luwih dhuwur marang singluwih endhek"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 146,
+        "question": "Kemricike suarane banyu kang mili neng kali gawe ayeme ati.\nDasa nama saka ati yaiku \u2026",
+        "ground_truth": "C",
+        "options": [
+            "A. wanara",
+            "B. bawana",
+            "C. driya",
+            "D. graha"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 147,
+        "question": "Bapak Wis Mulih Saka Sawah. Ukara Kasebut Yen Didadekake Krama Alus ....",
+        "ground_truth": "B",
+        "options": [
+            "A. Bapak Sampun Wangsul Saking Sabin",
+            "B. Bapak Sampun Kondur Saking Sabin",
+            "C. Bapak Wis Kondur Saka Sawah",
+            "D. Bapak Wis Wangsul Saka Sawah"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 148,
+        "question": "Inggih Pak matur nuwun awit kapitadosanipun.\nTembung kapitadosanipun ngemu teges \u2026",
+        "ground_truth": "c",
+        "options": [
+            "a. dhawuhe",
+            "b. tanggung jawabe",
+            "c. kapercayane",
+            "d. kebecikane"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 149,
+        "question": "Simbah ngendika supaya aku sregep nyambut gawe kareben mulya uripku.\nUkara crita ing ndhuwur yen diowahi dadi ukara kandha sing bener yaiku .....",
+        "ground_truth": "C",
+        "options": [
+            "A. Simbah ngendika,\" Aku sregep nyambut gawe kareben uripku mulya.\"",
+            "B. Simbah ngendika, aku sregep nyambut gawe kareben uripku mulya.",
+            "C. Simbah ngendika, \"Kowe kudu sregep nyambut gawe kareben uripmu mulya.\"",
+            "D. Simbah ngendika, \"kowe kudu sregep nyambut gawe kareben uripku mulya.\""
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 153,
+        "question": "Gatekna carane gawe wedang Jahe!\n\n1. Campurke jahe, serai, lan banyu ing panci lan godhog. tunggu teka umup.\n2. Iris-iris jahe lan sereh.\n3. Campur gula jawa secukupe.\n4. Saring banyu godhogan wedhang jahe ing gelas.\n5. Tambahne madu, diudhak-udhak lan pateni kompore.\n\nUrut-urutan cara gawe wedang jahe kang bener yaiku ....",
+        "ground_truth": "b",
+        "options": [
+            "a. 1, 2, 3, 4, 5",
+            "b. 2, 1, 3, 5, 4",
+            "c. 4, 2, 1, 3, 5",
+            "d. 2, 3, 5, 1, 4"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 154,
+        "question": "\ua9ae\ua9b6\ua9a0\ua9c0\ua9a5\ua9ab\ua9ba\n\nPamacane aksara Jawa iki yaiku ....",
+        "ground_truth": "C",
+        "options": [
+            "A. wit sare",
+            "B. wit pari",
+            "C. wit pare",
+            "D. wis sare"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 155,
+        "question": "Wacanen kang permati!\n\nSabtu (20/02/21) pageblug banjir kadadeyan ing wilayah Jabodetabek. BMKG beberake banjir iku amarga udan deres kang ora mandhek sedina sewengi.\n\nTembung pageblug padha tegese karo ....",
+        "ground_truth": "a",
+        "options": [
+            "a. musibah",
+            "b. rejeki",
+            "c. bebaya",
+            "d. udan"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 157,
+        "question": "Jangan gori nganti judheg nggonku mikir. Cangkriman iki batangane ....",
+        "ground_truth": "D",
+        "options": [
+            "A. pikir",
+            "B. mikir",
+            "C. judheg",
+            "D. gudheg"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 158,
+        "question": "Bapak nandur lombok ing pekarangan. Yen diudhal manut kalungguhane tembung lombok, diarani ...",
+        "ground_truth": "c",
+        "options": [
+            "a. jejer",
+            "b. wasesa",
+            "c. lesan",
+            "d. katrangan"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 159,
+        "question": "Sing ngemu cangkriman wancahan yaiku ....",
+        "ground_truth": "D",
+        "options": [
+            "A. Sega sakepel dirubung tinggi",
+            "B. Pitik walik saba meja",
+            "C. Wit adhikih woh adhakah",
+            "D. Wiwa wite lesbodhonge."
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 160,
+        "question": "\ua9a7\ua9a5\ua98f\ua9bc\ua9a5\ua9bf\ua9a3\ua983\n\nYen Ditulis Latin ....",
+        "ground_truth": "C",
+        "options": [
+            "A. Sapa Kepradah",
+            "B. Japa Mantra",
+            "C. Bapa Kepradhah",
+            "D. Jaya Kepradhah"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 166,
+        "question": "Amarga bubar lara rong Minggu, awake Sukardi kari ....",
+        "ground_truth": "c",
+        "options": [
+            "a. glinggang",
+            "b. balung thok",
+            "c. lunglit",
+            "d. kulit thok"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 168,
+        "question": "Wacanen kang permati!\n\n\u201cALAMKU\u201d\n\nAlamku tansah nelangsa\nAmarga menungsa\nKabeh wit ditegori\nNganti padha gundhul kabeh\n\nSitine padha nangis\nAmarga kepanasen\nAmarga ora ditutupi\nKaro kabeh wit\n\nKabeh wit padha gundhul\nAyo, menungsa sadar!\nPadha ijoni wit witan\nSupaya alam ora nelangsa\n\nPasuryan kang pas nalika maca geguritan ing ndhuwur yaiku ....",
+        "ground_truth": "b",
+        "options": [
+            "a. seneng",
+            "b. prihatin",
+            "c. bungah",
+            "d. kuciwa"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 169,
+        "question": "Sing dudu kalebu titikane teks palapuran asil observasi yaiku\u2026",
+        "ground_truth": "d",
+        "options": [
+            "a. Ana tembung kriya lan tembung wilangan",
+            "b. Ditulis lelandhesan kasunyatan (fakta)",
+            "c. Isi teks kudu objektif",
+            "d. Isi teks kudu subjektif"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 172,
+        "question": "Gatekna pranyatan ing isor iki!\n1) Swara lan lagu pocapan cetha.\n2) Mangerteni sapa wae sing rawuh lan mangertosi swasanane\n3) Anggone micara kudu ngambra-ambra supaya suwe ing panggung\n4) Nggatekake tata rakite ukara lan nggunakake unggah-ungguh kang becik\n\nIng inggil minangka bab kang kudu digatekake sadurunge nindakake pidhato, kajawi (kecuali) nomer ....",
+        "ground_truth": "C",
+        "options": [
+            "A. 1",
+            "B. 2",
+            "C. 3",
+            "D. 4"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 173,
+        "question": "Ditakoni Kok Mung Ngembang ...., Aja Ndrenges Wae.",
+        "ground_truth": "B",
+        "options": [
+            "A. Jambu",
+            "B. Suruh",
+            "C. Asem",
+            "D. Bakung"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 174,
+        "question": "Aku tuku sate arep dakwehake embah. Basa kramane sing becik .....",
+        "ground_truth": "B",
+        "options": [
+            "A. Kula mundhut sate badhe kula aturaken eyang.",
+            "B. Kula tumbas sate badhe kula paringaken eyang.",
+            "C. Kula tumbas sate badhe kula aturaken eyang.",
+            "D. Kula mundhut sate badhe kula sukakaken eyang."
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 177,
+        "question": "Lawa lima kalong telu dadi ....\n\nJawabane cangkriman iki ...",
+        "ground_truth": "a",
+        "options": [
+            "a. 8",
+            "b. 2",
+            "c. 3",
+            "d. 5"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 178,
+        "question": "Tembung emutaken ngemu teges \u2026",
+        "ground_truth": "a",
+        "options": [
+            "a. elingake",
+            "b. kandani",
+            "c. omongi",
+            "d. ngewangi"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 179,
+        "question": "Bapak : \u201cNur, ibumu wis mulih?\u201d\nNurni : \u201cWis, saiki lagi turu.\u201d\n\nWangsulane Nurni ora bener unggahungguh basane, kang bener yaiku ....",
+        "ground_truth": "D",
+        "options": [
+            "A. Sampun, sapunika nembe turu",
+            "B. Sampun, sapunika lagi sare",
+            "C. Sampun, sapunika saweg tilem.",
+            "D. Sampun, sapunika nembe sare."
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 180,
+        "question": "Ukara Ing Ngisor Iki Sing Klebu Krama Alus Yaiku ....",
+        "ground_truth": "D",
+        "options": [
+            "A. Bapak Lagi Maos Koran",
+            "B. Aku Diutus Ibu Tuku Gula",
+            "C. Budhe Maringi Sangu Aku",
+            "D. Ibu Sampun Kondur Nitih Dhokar"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 181,
+        "question": "Asmaradana\nSun lali lali tan lali,\nsun lelipur saya brangta,\ngembili gung wohing tawang,\ngedebugan wak ing tawang,\njenang gamping reca kayu,\ndalenjet nggoleki ndika.\n\nCangkriman ing tembang dhuwur yaiku ....",
+        "ground_truth": "C",
+        "options": [
+            "A. sun lali lali tan lali",
+            "B. sun lelipur saya brangta",
+            "C. gembili gung wohing tawang",
+            "D. gedebugan wak ing tawang"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 182,
+        "question": "Mbak Chelsea tuku kaling ing toko srikandhi. Srikandhi yen ditulis Jawa \u2026",
+        "ground_truth": "C",
+        "options": [
+            "A. \ua9b1\ua9ab\ua9b6\ua98f\ua9a4\ua9c0\ua9a2\ua9b6",
+            "B. \ua9b1\ua9bf\ua9b6\ua98f\ua9a4\ua9c0\ua9a2\ua9b6",
+            "C. \ua9b1\ua9bf\ua9b6\ua98f\ua9a4\ua9c0\ua99d\ua9b6",
+            "D. \ua9b1\ua9ab\ua9b6\ua98f\ua9a4\ua9c0\ua99d\ua9b6"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 183,
+        "question": "Usum udan akeh tanduran padha doyong.\nKosok baline doyong yaiku ....",
+        "ground_truth": "D",
+        "options": [
+            "A. rubuh",
+            "B. ngadeg",
+            "C. ambruk",
+            "D. jejeg"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 185,
+        "question": "salah sawijine sandiwara tradisional kang isih kaiket pakem ing pewayangan, kasebut ...",
+        "ground_truth": "b",
+        "options": [
+            "a. kethoprak",
+            "b. wyang wong",
+            "c. ludruk",
+            "d. sendratari"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 186,
+        "question": "Parmin Lan Slamet Ngangkat Meja Ing Kamar. Ukara Kasebut Mawa Tatanan ....",
+        "ground_truth": "B",
+        "options": [
+            "A. J. W. K. L",
+            "B. J. W. L. K",
+            "C. L. W. J. K",
+            "D. L. W. K. J"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 187,
+        "question": "Wacanen perangan layang ing ngisor iki!\n\n1. Sragen, 18 Februari 2021\n2. Kanggo kancaku sing tak sayang,\n3. Safa, wis suwe banget aku ora pernah krungu kabarmu.Ora pernah ana SMS, telegram lan E-Mail saka kowe. Kepiye kabarmu saiki?\n4. Aku prenah takok karo kanca-kanca liyane. Nanging kabeh ora padha ngerti saiki kowe neng ngendi. Nanging kabeh mau wis kejawab nalika aku ketemu kangmasmu ing Jakarta.\n5. Salam sayang, Rinka\n\nKang minangka pambukaning layang yaiku nomer ....",
+        "ground_truth": "c",
+        "options": [
+            "a. 5",
+            "b. 3",
+            "c. 2",
+            "d. 1"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 188,
+        "question": "Pandhawa kuwi cacahe ana \u2026",
+        "ground_truth": "b",
+        "options": [
+            "a. sepuluh",
+            "b. lima",
+            "c. satus",
+            "d. sewu"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 189,
+        "question": "\u201cWasana cekap semanten serat saking kula, menawi wonten klentune atur kula nyuwun agunging pangapunten.\u201d\n\nPunggelan kasebut manggon ing perangan ....",
+        "ground_truth": "C",
+        "options": [
+            "A. wasana basa",
+            "B. surasa basa",
+            "C. adangiyah",
+            "D. pambuka"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 190,
+        "question": "Bu Lurah kesah dhateng kabupaten numpak becak.\n\nUkara menika unggah-ungguhipun basa ingkang leres ....",
+        "ground_truth": "B",
+        "options": [
+            "A. Bu Lurah tindak dhateng kabupaten numpak becak",
+            "B. Bu Lurahtindak dhateng kabupaten nitih becak",
+            "C. Bu Lurah tindak menyang kabupaten nitih becak",
+            "D. Bu Lurah kesah menyang kabupaten numpak becak"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 193,
+        "question": "Assalamu\u2019alaikum wr. Wb. Mugi asihing Gusti tansah pinaringaken ing Panjenengan sedaya.\n\nIng inggil punika minangka tuladha \u2026. ing pidato/tanggap wacan.",
+        "ground_truth": "A",
+        "options": [
+            "A. Salam Pambuka",
+            "B. Pangarep-arep",
+            "C. Purwaka",
+            "D. Surasa"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 194,
+        "question": "\ua9a7\ua9a5\ua98f\ua9c0\ua9ad\ua9b8\ua994\ua9b1\ua9bc\ua9a9\ua9ab\ua981\n\nyen ditulis latin unine \u2026",
+        "ground_truth": "c",
+        "options": [
+            "a. Beni lunga Semarang",
+            "b. Basir lunga Semarang",
+            "c. Bapak lunga Semarang",
+            "d. Banu lunga Semarang"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 196,
+        "question": "\u201cWiwitanipun usaha inggih namung nyobi-nyobi, krana pekarangannipun wiyar Panjenengannipun nyobi ternak lele. Dhasar mara sepuhipun pegawai Dinas Peternakan, dados saged ngangsu kawruh bab ternak lele\u201d.\n\nApa gagasan utama saka paragraf ing ndhuwur kuwi ....",
+        "ground_truth": "A",
+        "options": [
+            "A. Wirausaha ternak lele",
+            "B. Wirausaha",
+            "C. Ternak lele",
+            "D. Pegawai Dinas Peternakan"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 197,
+        "question": "Struktur teks laporan kegiatan sing runtut yaiku \u2026",
+        "ground_truth": "C",
+        "options": [
+            "A. pambuka, panutup, isi",
+            "B. pambuka lan isi",
+            "C. pambuka, isi, panutup",
+            "D. isi, pambuka, panutup"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 198,
+        "question": "Ngisor iki kang ora kalebu punakawan yaiku \u2026",
+        "ground_truth": "c",
+        "options": [
+            "a. \ua9b1\ua9bc\ua9a9\ua982",
+            "b. \ua9a7\ua992\ua9ba\ua9b4\ua981",
+            "c. \ua9b2\ua982\ua997\ua9b8\ua9a4",
+            "d. \ua992\ua9ab\ua9ba\ua981"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 200,
+        "question": "Gatekna pranyatan ing isor iki!\n1) Puji syukur kawula dhumateng Alloh....\n2) Matur nuwun dhumateng sohibul bait ingkang sampun purun paring tempat kangge acara....\n3) Solawat saha salam mugi katur dhumateng rosululloh.....\n4) Menawi wonten salah/klintunipun, kula nyuwun ngapunten....\n\nIng inggil punika kang boten kalebu tuladha purwaka pidato kang trep inggih menika nomer....",
+        "ground_truth": "D",
+        "options": [
+            "A. 1",
+            "B. 2",
+            "C. 3",
+            "D. 4"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 201,
+        "question": "Budi mau ditimbali gurune.\nUkara iki nganggo basa apa?",
+        "ground_truth": "d",
+        "options": [
+            "a. ngoko lugu",
+            "b. ngoko alus",
+            "c. krama lugu",
+            "d. krama alus"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 202,
+        "question": "Rani mangan kates. Tembung kates yen didadekake aksara jawa yaiku ....",
+        "ground_truth": "C",
+        "options": [
+            "A. \ua98f\ua9a0\ua9bc\ua9b1\ua9c0",
+            "B. \ua98f\ua9a0\ua9bc\ua9b1",
+            "C. \ua98f\ua9a0\ua9ba\ua9b1\ua9c0",
+            "D. \ua98f\ua9a0\ua9ba\ua9b1"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 205,
+        "question": "Setitekna cuplikan teks tanggapan diskripsi ing dhuwur. Urut-urutan struktur teks tanggapan deskripsi kang bener yaiku:",
+        "ground_truth": "d",
+        "options": [
+            "a. Klasifikasi, identifikasi, isi, panutup",
+            "b. Klasifikasi, isi, identifikasi",
+            "c. Identifikasi, klasifikasi, deskripsi bag",
+            "d. Identifikasi, klasifikasi, isi, penutup"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 206,
+        "question": "(..................)\nVaksin menika wigati sanget kagem njagi kula lan penjenengan sedaya saking sumabare virus. Pamarentah ugi gratisake vaksin menika kagem sedaya warga Indonesia.\n\nUkara kang trep kagem njangkepi bagian titiktitik wonten punggelan pidhato ing inggil yaiku ....",
+        "ground_truth": "C",
+        "options": [
+            "A. Puji syukur dumateng Alloh swt ingkang...",
+            "B. Sholawat saha salam katur dumateng rosululloh saw....",
+            "C. Ing mriki kula badhe ngaturaken babagan vaksin Covid-19.",
+            "D. Sumangga kita sami-sami ningkataken ketawaan dumateng Alloh swt"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 207,
+        "question": "basa pacelaton kang digunakake ing khetoprak yaiku ....",
+        "ground_truth": "c",
+        "options": [
+            "a. rinengga",
+            "b. legenda",
+            "c. jawa ngoko",
+            "d. krama alus"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 208,
+        "question": "Tukang Nabuh Gamelan Kuwi Diarani ....",
+        "ground_truth": "A",
+        "options": [
+            "A. Niyaga",
+            "B. Juru Gendhing",
+            "C. Waranggana",
+            "D. Pacalang"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 209,
+        "question": "Anik : Kula nuwun\nPak Karji : Mangga nak. Kene mlebu kene.\nAnik : Inggih pak, matur nuwun.\nPak Karji : Ana perlu apa kok sajak wigati banget.\nDewi : Punika lho pak, kula pengin ngertos bathik kagungan panjenengan.\nPak Karji : Apa bae sing pengin dingerteni nak?\nAnik : \u2026\nPak Karji : Usaha bathik iki dak jenengake \u201cSekar Jagad\u201d.\n\nKanggo nggenepi pacalathon ing dhuwur, ukara sing trep yaiku ....",
+        "ground_truth": "A",
+        "options": [
+            "A. Apa jenenge usaha bathik sampeyan pak?",
+            "B. Punapa naminipun usaha bathik panjenengan pak?",
+            "C. Sapa jenenge sing duwe usaha bathik pak?",
+            "D. Sinten naminipun usaha bathik panjenengan pak?"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 210,
+        "question": "Ngasah arit nganti landhep\n..........................\n\nIsine parikan sing bener yaiku \u2026",
+        "ground_truth": "B",
+        "options": [
+            "A. Dadi murid sing mantep",
+            "B. Dadi murid sing sregep",
+            "C. dadi prajurit sing mantep",
+            "D. dadi prajurit sing sregep"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 211,
+        "question": "Simbah lagi mangan, mula durung lunga.\nUkara iku yen diowahi dadi basa ngoko alus ....",
+        "ground_truth": "D",
+        "options": [
+            "A. Simbah nembe dhahar, mula dereng tindak.",
+            "B. Simbah lagi nedha, mula durung kesah.",
+            "C. Simbah nembe nedha, mula durung kesah.",
+            "D. Simbah lagi dhahar, mula durung tindak."
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 212,
+        "question": "Drama tradisional iki nyritaake Ramayana, Mahabharata, sakliyane iku uga ana dalange, (parogone ngomong dewe). Penontone sing ake wong tuwa.\n\nDrama ing inggil dipun wastani \u2026",
+        "ground_truth": "C",
+        "options": [
+            "A. Ludruk",
+            "B. Wayang",
+            "C. Wayang wong",
+            "D. Ketoprak humor"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 214,
+        "question": "sejatine apa karepe praburramayana ngutus raden laksmana ngancani dewi sinta\nUkara pitakon ing ndhuwur yen ditulis nganggo ejaan sing bener yaiku ....",
+        "ground_truth": "D",
+        "options": [
+            "A. Sejatine apa karepe Prabu Ramayana ngutus Raden Laksmana ngancani Dewi Sinta.",
+            "B. Sejatine apa karepe Prabu Ramayana ngutus Raden Laksmana ngancani Dewi Sinta?",
+            "C. Sejatine apa karepe prabu Ramayana ngutus raden Laksmana ngancani dewi Sinta?",
+            "D. Sejatine apa karepe Prabu Ramayana ngutus Raden Laksmana ngancani Dewi Sinta."
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 215,
+        "question": "Perang gedhe antarane Pandhawa lan Kurawa diarani perang Bratayuda ing Kurusetra. Ancase perang rebutan negara Ngastina. Negara Ngastina kuwi kratone Prabu Pandhu bapake Pandhawa. Kurawa ala atine, negara Ngastina dikuwasani dhewe. Mula Pandhawa perang ngrebut negara mau.\nPerang Bratayuda dumadi ing ...",
+        "ground_truth": "d",
+        "options": [
+            "a. Ngamarta",
+            "b. Ngastina",
+            "c. Dwarawati",
+            "d. Kurusetra"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 216,
+        "question": "Nashir nduweni kebiasaan main drama ndik kampung, Nashir nunggang jaran, paragane ana kang aneh, yaiku mangan beling, kembang utawa menyan.\n\nNashir niku minangka paraga \u2026.",
+        "ground_truth": "A",
+        "options": [
+            "A. Jaran kepang",
+            "B. Ketoprak",
+            "C. Ludruk",
+            "D. Reog"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 218,
+        "question": "Wacanen ukara ing isor iki!\n\u201cApa ... lan adhimu wis sinau unggahungguh basa Jawa?\u201d\n\nTembung kang trep kangge njangkepi ukara ingkang dereng rampung ing inggil inggih menika \u2026.",
+        "ground_truth": "A",
+        "options": [
+            "A. Kowe",
+            "B. Dheweke",
+            "C. Sampeyan",
+            "D. Panjenengan"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 219,
+        "question": "Gatekna paugeran tembang macapat ing ngisor iki!\n1) Kedadeyan saka 9 gatra\n2) Guru lagune 8a-8i-8a-8i-7i-8u-7a-8i-12a\n3) Pralambange bocah kang tumapak ing wayah nom-noman\n4) Lumrahe kanggo nelakake piwulang lan pitutur\n\nTembang macapat kang nduweni paugeran ing nduwur yaiku ...",
+        "ground_truth": "C",
+        "options": [
+            "A. durma",
+            "B. pangkur",
+            "C. sinom",
+            "D. gambuh"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 220,
+        "question": "Gamane Arjuna awujud \u2026",
+        "ground_truth": "b",
+        "options": [
+            "a. tombak",
+            "b. panah",
+            "c. keris",
+            "d. gada"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 221,
+        "question": "Wacanen kang permati!\n\nAdipati Karna\n\nAdipati Karna iku adipati ing Kadipaten Ngawangga. Karna iku putrane Bathara Surya dene ibune Dewi Kunthi Nalibrata. Tumprape pandhawa Karna iku sedulur tunggal ibu seje rama. Nalika perang Baratayuda, Adipati Karna madeg dadi senapati perang Astina nanging gugur nalika ngadhepi Raden Arjuna. Adipati Karna pantes tinuladha lelabuhane kang bela negarane nganti tumekaning seda.\n\nIng perang Baratayuda Adipati Karna dadi ....",
+        "ground_truth": "d",
+        "options": [
+            "a. bala pandhawa",
+            "b. mungsuhe Astina",
+            "c. sedulur pandhawa",
+            "d. senapati perang"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 223,
+        "question": "\ua992\ua9b8\ua9aa\ua9b8\ua9a5\ua9c0\ua9ab\ua9b8\ua98f\ua9b8\ua9a4\ua9c0\ua9b1\ua9bc\ua997\ua9a0\ua9b6\n\nTulisan aksara jawa ing dhuwur yen ditulis aksara latin \u2026",
+        "ground_truth": "D",
+        "options": [
+            "A. gugur kuna sejati",
+            "B. gugup rukun jati",
+            "C. nunut kurun sejati",
+            "D. guyup rukun sejati"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 225,
+        "question": "Wacanen kang permati pacelathon!\n\nNadhif : \u201cBuk, nembe masak napa?\u201d\nIbu : \u201cIki lho masak jangan lodheh karo goreng gereh asin Le. Ayo gage ndang mangan dhisik!\u201d\nNadhif : \u201cSekedhap Buk, Nadhif ajeng garap tugas riyin.\u201d\nIbu : \u201cYawis, iki dilerne sega dhisik ya karo ibu?\u201d\nNadhif : \u201cInggih Buk, ....\u201d\n\nUkara kang trep kanggo jangkepi pacelathon ing ndhuwur yaiku ....",
+        "ground_truth": "b",
+        "options": [
+            "a. pangapunten",
+            "b. matur nuwun",
+            "c. mangga",
+            "d. kula nuwun"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 226,
+        "question": "Ngisor iki cara supaya orang ilang ing papan wisata kejaba \u2026",
+        "ground_truth": "d",
+        "options": [
+            "a. mlaku nututi rombongane",
+            "b. mlaku ngetutake guru",
+            "c. mlaku bebarengan karo kanca",
+            "d. mlaku bareng tanpa ijin guru"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 230,
+        "question": "Miturut isine layang resmi kang isine ngundang pawongan kanggo teka ing adicara mantenan\ndiarani ....",
+        "ground_truth": "B",
+        "options": [
+            "A. layang dhawuh",
+            "B. layang kitir",
+            "C. layang lelayu",
+            "D. layang ulem"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 231,
+        "question": "Assalamualaikum warrahmatullahi wabarakatuh\nBapak kepala sekolah ingkang minulya, bapak / ibu guru ingkang kula hurmati, bapak / ibu wali murid kelas 9, sarta para kanca siswa siswi kelas 9 ingkang sanget kula tresnani.\nPidhato ing ndhuwur ditindakake ing adicara ...",
+        "ground_truth": "C",
+        "options": [
+            "A. Pameran kesenian",
+            "B. Ceramah agama",
+            "C. Perpisahan sekolah",
+            "D. Sambutan upacara"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 232,
+        "question": "ing ngisor iki kang klebu parangane sandiwara kajeba \u2026",
+        "ground_truth": "d",
+        "options": [
+            "a. tema",
+            "b. plot",
+            "c. lakon",
+            "d. wiraga"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 233,
+        "question": "Wacanen kang permati!\n\nPahlawanku\nDening : R. Tantiningsih\n\nPahlawanku\nWutahing ludiramu\nNyiram ibu pertiwi\nNadyan sang ibu\nKudu muwun sedhih\nKarajang-rajang manahe\nKarujit-rujit rasa pangrasane\nPahlawanku\nMugya Gusti paring nugraha\nSemana gedhene bektimu\nJiwa raga, bandha donya\nTanpa sisa\nAmung siji pangajabmu\nMerdika\n\nGeguritan iku anggitanipun ....",
+        "ground_truth": "a",
+        "options": [
+            "a. R. Tantiningsih",
+            "b. Pahlawanku",
+            "c. Gusti",
+            "d. Tiyang kathah"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 234,
+        "question": "Wacanen kang permati!\n\nCandi Borobudhur\n\nCandhi Borobudhur mujudake candhi Budha kang digawe ing abad IX dening Raja Semaratungga sing ngasta kraton Mataram Hindhu. Raja Semaratungga saka wangsa Syailendra. Candhi iki minangka candhi Budha gedhe dhewe sejagat. Prenahe Candhi Borobudhur dumunung ana ing sakidul kulone Kutha Muntilan Kabupaten Magelang Jawa Tengah.\n\nCandhi Borobudhur dumadi saka 9 tataran yaiku enem teras wujud pasagi lan telu wujud bundher, kanthi pucukan wujud cungkup ing pusere. Candhi iki direnggani panel relief cacah 2.672 lan reca Buda cacah 504. Cungkup pusere kinubengan reca Budha lungguh cacah 72 sing padha dipapanake ing njero stupa-stupa sing bolong-bolong. Tekan saiki Candhi Borobudhur isih dadi papan wisata kang kondhang lan gawe gumun turis indonesia lan mancanegara.\n\nWacan ing ndhuwur jenise ...",
+        "ground_truth": "b",
+        "options": [
+            "a. narasi",
+            "b. deskripsi",
+            "c. persuasi",
+            "d. bebas"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 235,
+        "question": "Tentara Gagah Prakasa. Yen ditulis nganggo aksara Jawa dadine ... .",
+        "ground_truth": "d",
+        "options": [
+            "a. \ua9a0\ua9bc\ua9a4\ua9c0\ua9a0\ua9ab\u200b\ua992\ua992\ua983\u200b\ua9b1\ua98f\ua9c0\ua9a0\ua9b6",
+            "b. \ua9a0\ua9bc\ua9a4\ua9c0\ua9a0\ua9ab\u200b\ua992\ua992\ua983\u200b\ua9a9\ua9b8\ua9ad\ua9b6\ua9aa",
+            "c. \ua9a0\ua9bc\ua9a4\ua9c0\ua9a0\ua9ab\u200b\ua992\ua9b6\ua992\ua9b6\ua983\u200b\ua9a5\ua9bf\ua9b6\ua98f\ua9b1",
+            "d. \ua9a0\ua9bc\ua9a4\ua9c0\ua9a0\ua9ab\u200b\ua992\ua992\ua983\u200b\ua9a5\ua9bf\ua98f\ua9b1"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 236,
+        "question": "\ua9cb\ua9a5\ua9bf\ua9a7\ua9b8\ua9ab\ua9a9\ua9ae\ua9b6\ua997\ua9aa\ua9a0\ua9a4\ua9c0\ua9b1\ua983\ua9ab\ua9b2\ua982\ua997\ua9c9\n\nTulisan Jawa kasebut Latine \u2026.",
+        "ground_truth": "C",
+        "options": [
+            "A. Prabu Ramawijaya tansah waluya.",
+            "B. Prabu Ramawijaya tansah minulya.",
+            "C. Prabu Ramawijaya tansah raharja.",
+            "D. Prabu Ramawijaya tansah mulya."
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 238,
+        "question": "Prapto iku paraga kesenian drama tradisional, kang iringane gendhing kulonan, ana keprak/Kenthongane, biasane lakone panguripan keluarga Kerajaan\n\nManut wacan ing inggil, Prapto minangka paraga kesenian \u2026.",
+        "ground_truth": "A",
+        "options": [
+            "A. Ketoprak",
+            "B. Wayang",
+            "C. Ludruk",
+            "D. Tayub"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 239,
+        "question": "Gatekna pranyatan ing andhap iki!\n1- Ingkang kula hormati bapak Kepala Desa.\n2- Para rawuh ingkang kulo bekteni.\n3- Rencang-rencang ingkang bahagia mulya.\n\nIng inggil punika minangka tuladha ukara ....ing pidhato",
+        "ground_truth": "C",
+        "options": [
+            "A. Pembuka",
+            "B. Purwaka",
+            "C. Panyapa",
+            "D. Wasana"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 241,
+        "question": "Pak Mardi mono wong kang apikan, tindak-tanduke alus, yo mung siji sing kurang mbiyen ora gelem sekolah. Saiki lagi krasa, saben-saben ora ngerti sering takon lan ngongkon marahi anake. Gambaran Pak Mardi ing ndhuwur paribasane ....",
+        "ground_truth": "C",
+        "options": [
+            "A. Kebo kabotan sungu",
+            "B. Kebo gupak ajak-ajak",
+            "C. Kebo nusu gudel",
+            "D. Kebo mulih nang kandange"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 242,
+        "question": "\ua9a9\ua994\ua9a4\ua9c0\ua9a4\ua9a4\ua9b1\ua9c0\n\nyen ditulis latin unine \u2026",
+        "ground_truth": "a",
+        "options": [
+            "a. mangan nanas",
+            "b. mangan sego",
+            "c. mangan jangan",
+            "d. mangan sambel"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 244,
+        "question": "Sapu Sada\n\nJumat bersih\nResik lan sehat\nCancut tali wanda\nNandur kabecikan\nCilik gedhe bagus ayu\nOra mung padha gumuyu\nOra tinggal glanggang calon playu\nTumuju adiwiyata murih rahayu\nCrah agawe bubrah\nRukun agawe santosa\nGuyub rukun kaya sapu sada\n\nGeguritan ing ndhuwur surasane bab ....",
+        "ground_truth": "a",
+        "options": [
+            "a. kerja bakti",
+            "b. sapu",
+            "c. rukun",
+            "d. gojekan"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 248,
+        "question": "Isine Asem Arane Klungsu, Yen Isine Duren Arane ....",
+        "ground_truth": "B",
+        "options": [
+            "A. Botor",
+            "B. Pongge",
+            "C. Klaras",
+            "D. Procot"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 250,
+        "question": "Wajik klethik gula Jawa",
+        "ground_truth": "B",
+        "options": [
+            "A. luwih seneng, sing prasaja",
+            "B. luwih becik, sing prasaja",
+            "C. prasaja iku, luwih becik",
+            "D. becik banget, sing prasaja"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 252,
+        "question": "\u201cMugi-mugi samangke sageda lulus kanthi biji ingkang sae sarta sageda katampi wonten sekolahingkang dipunkajengaken\u201d.\nUkara iku ana ing perangan pidhato perpisahan sekolah, mapan ana ing perangan \u2026",
+        "ground_truth": "B",
+        "options": [
+            "A. Panutup",
+            "B. Pangarep arep",
+            "C. Wigatining pidhato",
+            "D. Purwaka"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 253,
+        "question": "sampun kondur yen ditulis aksara jawa yaiku .....",
+        "ground_truth": "A",
+        "options": [
+            "A. \ua9b1\ua9a9\ua9c0\ua9a5\ua9b8\ua9a4\ua9c0\ua98f\ua9ba\ua9b4\ua9a4\ua9c0\ua9a2\ua9b8\ua982",
+            "B. \ua9b1\ua9a9\ua9c0\ua9a5\ua9b8\ua9a4\ua98f\ua9ba\ua9b4\ua9a4\ua9a2\ua9b8\ua982",
+            "C. \ua9b1\ua9a9\ua9c0\ua9a5\ua9b8\ua9a4\ua9c0\ua9a0\ua9a4\ua9c0\ua9a2",
+            "D. \ua9b1\ua9a9\ua9c0\ua9a5\ua9b8\ua9a4\ua9c0\ua9b2\ua997\ua9b8\ua982"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 254,
+        "question": "(1) digunaake kanca padha kanca akrab\n(2) basane ngoko dicampuri krama inggil\n(3) ater-ater lan panambanag dikrmaake\n(4) tembung sing dikramaake: wonge, panindake, barang kaduwekane\nSing dadi ciri-ciri ngoko alus:",
+        "ground_truth": "c",
+        "options": [
+            "a. 1,3",
+            "b. 1,4",
+            "c. 2,4",
+            "d. 2,3"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 256,
+        "question": "Raseksa wanodya menawa ditulis nganggo aksara Jawa ....",
+        "ground_truth": "C",
+        "options": [
+            "A. \ua9ab\ua9b2\ua9b1\ua9bc\ua98f\ua9c0\ua9b1\u200b\ua9ae\ua9a4\ua9ba\ua9b4\ua9a2\ua9be",
+            "B. \ua9ab\ua9b2\ua9b1\ua9bc\ua98f\ua9c0\ua9b1\u200b\ua9ae\ua9a4\ua9ba\ua9b4\ua9a2\ua9c0\ua9ad",
+            "C. \ua9ab\ua9b1\ua9bc\ua98f\ua9c0\ua9b1\u200b\ua9ae\ua9a4\ua9ba\ua9b4\ua9a2\ua9be",
+            "D. \ua9ab\ua9b2\ua9b1\ua9bc\ua98f\ua9c0\ua9b1\ua9ae\ua9a4\ua9ba\ua9b4\ua9a2\ua9c0\ua9b2"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 257,
+        "question": "kang ora klebu struktur teks drama, yaiku ....",
+        "ground_truth": "b",
+        "options": [
+            "a. orientasi",
+            "b. tema",
+            "c. resolusi",
+            "d. koda"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 258,
+        "question": "Putra Pandhawa Kang Awatak Jujur Lan Ora Bisa Basa Yaiku ....",
+        "ground_truth": "C",
+        "options": [
+            "A. Yudhistira",
+            "B. Janaka",
+            "C. Bimasena",
+            "D. Nakula"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 259,
+        "question": "Paribasan sing tegese ora duwe apa-apa, ora gelem usahananging kepingin dadi panguwasa, yaiku ....",
+        "ground_truth": "C",
+        "options": [
+            "A. Adhang-adhang tetese embun.",
+            "B. Cebol nggayuh lintang.",
+            "C. Durung pecus keselak besus.",
+            "D. Blilu tau, pinter durung nglakoni."
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 262,
+        "question": "Tanduran pari ing sawah wis wiwit \u2026, sedhela maneh bakal bisa panen.",
+        "ground_truth": "A",
+        "options": [
+            "A. bangcuk",
+            "B. bangjo",
+            "C. bangbeh",
+            "D. kotcuk"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 263,
+        "question": "Maneh-maneh welingku\nNgabektia rama ibu\nUga guru kabeh paring suluh becik\nKanggo niti urip mbesuk\nKanggo teken miwah obor\n\nTembang gambuh ing dhuwur isi bab ...",
+        "ground_truth": "d",
+        "options": [
+            "a. cangkriman",
+            "b. cerita",
+            "c. kewajiban",
+            "d. pitutur"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 264,
+        "question": "Pitik Walik Saba Kebon , Batangane ....",
+        "ground_truth": "C",
+        "options": [
+            "A. Kates",
+            "B. Waluh",
+            "C. Nanas",
+            "D. Gedhang"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 266,
+        "question": "Tembung-Tembung Ing Ngisor Iki Sing Klebu Tembung Camboran Yaiku ....",
+        "ground_truth": "C",
+        "options": [
+            "A. Andhap Asor",
+            "B. Blaka Suta",
+            "C. Bangcuk",
+            "D. Adi Luhung"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 267,
+        "question": "Anake Pitik Jenenge ....",
+        "ground_truth": "A",
+        "options": [
+            "A. Kuthuk",
+            "B. Bledug",
+            "C. Beyes",
+            "D. Munyuk"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 268,
+        "question": "Sing Nonton Bal-Balan Jejel .... Ngebaki Stadion.",
+        "ground_truth": "B",
+        "options": [
+            "A. Muyel",
+            "B. Riyel",
+            "C. Menceb",
+            "D. Ngeyel"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 270,
+        "question": "Ibu tindak peken mundhut menapa? Tembung mundhut ngokone \u2026",
+        "ground_truth": "a",
+        "options": [
+            "a. tuku",
+            "b. njupuk",
+            "c. njaluk",
+            "d. lunga"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 271,
+        "question": "Evakuasi korban kapal mabur Air Asia sing ceblok neng segara ndadekake trenyuhe ati, korban sing wis kena dikenali dipapak kanthi \u2026",
+        "ground_truth": "C",
+        "options": [
+            "A. udan deres",
+            "B. udan angin",
+            "C. udan tangis",
+            "D. udan lindhu"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 272,
+        "question": "Wacanen ukara ing andhap iki!\n\u201cKowe apa wes mangan isuk mau?.\u201d\n\nUkara kasebut yen didadosake basa krama lugu (madya) inggih menika \u2026.",
+        "ground_truth": "C",
+        "options": [
+            "A. Panjenengan napa sampun dhahar enjing wau?",
+            "B. Panjenengan napa wis mangan enjing wau?",
+            "C. Sampeyan napa sampun nedha enjing wau?",
+            "D. Sampeyan napa wes dhahar enjing wau?"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 273,
+        "question": "Assalamu'alaikum Wr. Wb\nNuwun wiyosipun, kula ngaturi pirsa bilih kawontenan kula saha bapak ibu ing Tulungagung tansah pinaringan wilujeng mboten kirang satunggaling punapa. Mugi-mugi Paklik sakulawarga ing Surabaya semanten ugi.\nKajawi saking punika, dalem badhe ngaturi pirsa bilih wulan April punika dalem badhe ujian, pramila dalem nyuwun tambahing do'a pangestu, mugi-mugi sehat, saged ndherek ujian kanthi biji ingkang sae. Aamiin.\nWusana cekap semanten atur kula, boten kesupen nyuwun pangapunten menawi wonten\nlepat kula.\nWassalamu'alaikum Wr. Wb\n\nSembah sungkem kula\n\nAdam\n\nAssalamu'alaikum Wr. Wb\nNuwun wiyosipun, kula ngaturi pirsa bilih kawontenan kula saha bapak ibu ing Tulungagung tansah pinaringan wilujeng mboten kirang satunggaling punapa. Mugi-mugi Paklik sakulawarga ing Surabaya semanten ugi.\nPerangan layangan iki diarani ....",
+        "ground_truth": "B",
+        "options": [
+            "A. Adangiyah (Adawiyah)",
+            "B. Bebuka (satata basa)",
+            "C. isi (surasa basa)",
+            "D. panutup (wasana basa)"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 274,
+        "question": "Kidang Talun\nKidang talun\nMangan kacang talun\nMil-ketemil mil-ketemil\nSikidang mangan lembayung\n\nTembang ing dhuwur nyritakake ngenani kewan lagi mangan ....",
+        "ground_truth": "B",
+        "options": [
+            "A. kangkung",
+            "B. bayem",
+            "C. lembayung",
+            "D. sawi"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 275,
+        "question": "Putra Pambarepe Pandhawa Yaiku \u2026",
+        "ground_truth": "C",
+        "options": [
+            "A. Arjuna",
+            "B. Wrekudara",
+            "C. Puntadewa",
+            "D. Nakula"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 276,
+        "question": "Wacanen pituduh nggunakake VCD player ing ngisor iki!\n1) Lebokna CD, pestekna posisine bener.\n2) Pijeten tombol play.\n3) Encepna cop-copan ing stopkontak.\n4) Pijeten tombol power.\n5) Pijeten tombol open/klose.\n\nPituduh nggunakake VCD player kanthi urutan sing bener yaiku .....",
+        "ground_truth": "C",
+        "options": [
+            "A. 1) - 2) - 3) - 4) - 5)",
+            "B. 2) - 3) - 1) - 4) - 5)",
+            "C. 3) - 4) - 5) - 1) - 2)",
+            "D. 3) - 5) - 4) - 1) - 2)"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 278,
+        "question": "Kali Cilik Ngarep Omah\n(Eko Nuryono)\n\nKali cilik ing ngarep\nOmahku kuwi\nSaiki banyune buthek, kebak lendhut\nIjone lumut lan iwak-iwak cethul\nKang biyen lelumban ing selane waktu\nSaiki kaganti lemut lan uget-uget\nKali cilik ing ngarep omahku kuwi\nBiyen resik lan bening banyuneNalika sekolah biyen aku tansah\nLungguh jejagongan karo sikil ongkang-ongkang\nSinambi namatake mripatmu kang bening\n\nPada kapindho geguritan \u201cKali Cilik Ngarep Omahku\u201d nyritakake..........",
+        "ground_truth": "B",
+        "options": [
+            "A. Kahanan omahe penggurit",
+            "B. Kahanan kali kang wis kena polusi",
+            "C. Kahanan kali dhek biyen",
+            "D. Kahanan kali kang kebak uget-uget"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 280,
+        "question": "Wacanen ukara ing andhap iki!\n\u201cIng sekolahan aku ... jam 06.30 WIB, menawi bu guru ... Jam 06.00 WIB.\u201d\n\nTembung kang trep kagem njangkepi ukara ingkang dereng rampung ing inggil inggih menika \u2026.",
+        "ground_truth": "A",
+        "options": [
+            "A. Teka, rawuh",
+            "B. Rawuh, dugi",
+            "C. Teka, teka",
+            "D. Dugi, teka"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 281,
+        "question": "TAMAN\n(J.F.X. Hoery)\n\nIng taman\nIng taman anakku\nTawon lan kupu rebutan madu\nKinjeng lan kumbang rebutan kembang\nAngin esuk ngerog ebun ing pucuking kudhup\nKekedhering kinjeng lan kupu\nAja nganti mbokincup\nSawangen wae\nEndahe\nIng taman\nIng taman anakku\nKupu lan kinjeng Isih kapiadreng\nTawon lan kombang ngenam panandhang\nMadu lan kembang ninggal kudhup esuk\nMego-mego putih gegojekan mapag angin sore\nSawangen\nIng biruning langit\nKae papane kawruh lungit\nLan ing kono uga aku titip\n\nMiturut geguritan kang ana ing ndhuwur, ing wayah isuk apa sing dilakoni kewan mau.....",
+        "ground_truth": "A",
+        "options": [
+            "A. Ngerog ebun",
+            "B. Gegojegan",
+            "C. Rebutan kembang",
+            "D. Kawruh lungit"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 282,
+        "question": "Tambah pinter, yen ditulis aksara jawa yaiku ....",
+        "ground_truth": "d",
+        "options": [
+            "a. \ua9b2\ua9ba\ua9b4\ua9ab\u200b\ua9a5\ua9b6\ua9a4\ua9a0\ua9bc\ua982",
+            "b. \ua9b2\ua9a7\ua983\u200b\ua9a5\ua9b6\ua9a4\ua9a0\ua9bc\ua982",
+            "c. \ua9b1\ua9b6\ua9a9\ua9c0\ua9a7\ua983\u200b\ua9a5\ua9b6\ua9a4\ua9a0\ua9bc\ua982",
+            "d. \ua9a0\ua9a9\ua9c0\ua9a7\ua983\u200b\ua9a5\ua9b6\ua9a4\ua9a0\ua9bc\ua982"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 286,
+        "question": "Ngasah arit, nganti landhep. Parikan iki isine ....",
+        "ground_truth": "D",
+        "options": [
+            "A. Dadi siswa kudu wasis",
+            "B. Dadi murid kudu wasis",
+            "C. Dadi murid kudu pinter",
+            "D. Dadi murid kudu sregep"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 289,
+        "question": "Mas Rama menyang pasar. menawa ditulis aksara Jawa, yaiku ....",
+        "ground_truth": "a",
+        "options": [
+            "a. \ua9a9\ua9b1\ua9c0\ua9ab\ua9a9\ua9a9\ua9bc\ua99a\ua981\ua9a5\ua9b1\ua982",
+            "b. \ua9a9\ua9b1\ua9c0\ua9ab\ua9a9\ua9b2\ua9ba\ua9b4\ua9ab\ua98f\ua9b1\ua982",
+            "c. \ua9a9\ua9b1\ua9c0\ua9ab\ua9a9\ua9b1\ua98f\ua9a5\ua9b1\ua982",
+            "d. \ua9a9\ua9b1\ua9c0\ua9ab\ua9a9\ua9a9\ua9bc\ua99a\ua981\ua9a9\ua98f\ua9b1\ua982"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 290,
+        "question": "Banjir Kali Lamong Kapan Mandhege\n\nPuluhan taun kali Lamong mbanjiri warga ing sakiwa tengene. Bupati Gresik, Walikota Surabaya, Gubernur Jawa Timur, wis bola-bali ganti, nanging meksa during bias ngatasi banjir kali ing tapel wates kabupaten Gresik lan kota madya Surabaya iku. Saben taun warga kecamatan Benjeng, Menganti, Cerme ing kabupaten Gresik lan warga kecamatan Benowo ing Surabaya iku mesthi keleban banjir, sing sok nganthi nuwuhake kurban jiwa. Tandhuran pangan padha kelem, iwak-iwak ing tambak padha kentir embuh parane. Sing sekolah kepeksa prei amarga sekolahane kebanjiran. Kantor kecamatan, kantor desa, polsek, lan koramil, uga ora bias aweh paladenan jalaran kelem.\n\nIsi saka paragraf teks observasi ing ndhuwur yaiku ...",
+        "ground_truth": "B",
+        "options": [
+            "A. Kahanane kali lamong",
+            "B. Akibate banjir tandurane padha kelem",
+            "C. Banjir ing menganti",
+            "D. Banjir kali lamong"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 291,
+        "question": "Gatekna pranyatan ing andhap iki!\n1) Kita kedah nebihi dhaharan legi amergi mboten sae kagem kasarasan waja kita.\n2) Waja kita kedah disikat kaping kaleh sedinten utawi sawising dhahar.\n3) Kita kedah ngerawat waja kita piyambak.\n4) Waja kita kedah dipriksa saben 6 sasi sepisan.\n\nPranyatan ing inggil kang kalebu ukara tanggap inggih menika ukara nomer\u2026.",
+        "ground_truth": "B",
+        "options": [
+            "A. 1 lan 2",
+            "B. 2 lan 4",
+            "C. 1 lan 3",
+            "D. 3 lan 4"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 292,
+        "question": "kang ngmot paribasan saloka utawa tembang yaiku \u2026",
+        "ground_truth": "d",
+        "options": [
+            "a. nada",
+            "b. pilihan tembung",
+            "c. pralambang",
+            "d. purwakanthi"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 293,
+        "question": "ana uga kang dhuweni panemu yen geguritan iku saka tembung lingga gurit kang duweni teges ing ngisor iki kejaba \u2026",
+        "ground_truth": "d",
+        "options": [
+            "a. tembang",
+            "b. kidung",
+            "c. syair",
+            "d. pacelathon"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 295,
+        "question": "Pak Guru Dhawuh, \u201c Bocah-Bocah , Kowe Kabeh Kudu Sing Rukun!\nUkara Kasebut Yen Didadekake Ukara Crita Dadine ....",
+        "ground_truth": "B",
+        "options": [
+            "A. Pak Guru Dhawuh Bocah-Bocah Lan Kowe Kudu Rukun",
+            "B. Pak Guru Ndhawuhi Kabeh Bocah-Bocah Supaya Sing Rukun",
+            "C. Pak Guru Dhawuh Kudu Rukun Karo Bocah-Bocah",
+            "D. Pak Guru Lan Bocah-Bocah Didhawuhi Yen Kudu Rukun"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 296,
+        "question": "Embah lagi teka saka Malang.\nUkara nganggo basa ngoko kasebut yen diowahi ing basa krama alus dadi ....",
+        "ground_truth": "B",
+        "options": [
+            "A. Eyang nembe tindhak dhateng Malang.",
+            "B. Eyang nembe rawuh saking Malang.",
+            "C. Eyang nembe kesah dhateng Malang.",
+            "D. Eyang nembe dugi saking Malang."
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 297,
+        "question": "Yuda karo Yudi bocah kembar, rupane padha kaya \u2026",
+        "ground_truth": "D",
+        "options": [
+            "A. mimi lan mintuna",
+            "B. bumi karo langit",
+            "C. banyu karo lenga",
+            "D. jambe sinigar"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 298,
+        "question": "Mas Parmnin nembe tindak dhateng Jakarta kalian garwanipun. Basa ngoko ukara kuwi yaiku \u2026",
+        "ground_truth": "a",
+        "options": [
+            "a. Mas Parmin lagi lunga menyang Jakarta karo bojone",
+            "b. Mas Parmin lagi tindak Jakarta kalian bojonipun.",
+            "c. Mas Parmin nembe tindak Jakarta karo bojhone.",
+            "d. Mas Parmin nembe lunga menyang Jakarta karo garwane"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 299,
+        "question": "Wacanen kang permati!\n\nDina Minggu esuk Anang, Bapak, lan Ibu padha reresik omah.\nBapak : \u201cAnang, mrenea! Rewangen Bapak ngresiki plapon iki!\u201d\nAnang : \u201cNggih, Pak! Kula mendhet sapu panjang rumiyin.\u201d\nBapak : \u201cNang, njupukna andha kanggo ngranggeh panggonang sing reged ndhuwur kae!\u201d\nAnang : \u201cNggih Pak, menika andhanipun.\u201d\nBapak : \u201cKene-kene, galo regede kaya ngana.\u201d\nAnang : \u201cNggih-nggih Pak! Saenipun seminggu sepisan dipunresiki kok Pak!\u201d\nBapak : \u201cPancen kudune ngono Nang, mula suk Minggu kerja bakti maneh.\u201d\nAnang : \u201cNggih Pak, benjing kula rencangi!\u201d\n\nPacelathon ing ndhuwur ngrembug bab ....",
+        "ground_truth": "d",
+        "options": [
+            "a. ngresiki sekolah",
+            "b. ngresiki perpustakaan",
+            "c. ngresiki kebon",
+            "d. ngresiki omah"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 300,
+        "question": "Pidhato kang kudu ditindakake kanthi maca teks lan ora kena uwal saka teks kasebut, diarani Pidhato \u2026",
+        "ground_truth": "B",
+        "options": [
+            "A. Ora resmi",
+            "B. Resmi",
+            "C. Setengah resmi",
+            "D. Gojegan"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 301,
+        "question": "\u201cBakul kupat\u201d menawa ditulis aksara Jawa, yaiku ....",
+        "ground_truth": "c",
+        "options": [
+            "a. \ua98f\ua9b8\ua9a5\ua9a0\ua9c0\ua9a5\ua9a5\ua9a0\ua9c0",
+            "b. \ua9a0\ua9b2\ua9b8\u200b\ua98f\ua9b8\ua9a5\ua9a0\ua9c0",
+            "c. \ua9a7\ua98f\ua9b8\ua9ad\ua9c0\ua98f\ua9b8\ua9a5\ua9a0\ua9c0",
+            "d. \ua9a0\ua9b8\ua98f\ua9b8\ua98f\ua9b8\ua9a5\ua9a0\ua9c0"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 302,
+        "question": "\ua9b1\ua9bc\ua9a4\ua9bc\ua981\ua98f\ua9bc\ua98f\ua9a4\ua9c0\ua995\ua9a4\ua9c0\n\nyen ditulis latin unine \u2026",
+        "ground_truth": "a",
+        "options": [
+            "a. seneng kekancan",
+            "b. seneng duwe kancan",
+            "c. seneng kakancan",
+            "d. seneng duweni kancan"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 303,
+        "question": "Roning .... Mas , Sampun Sayah Nyuwun Ngaso.",
+        "ground_truth": "D",
+        "options": [
+            "A. Asem",
+            "B. Krambil",
+            "C. Lombok",
+            "D. Mlinjo"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 305,
+        "question": "Ngger Putuku, Rungokna Pituturku\nSira Ngabektiya\nMarang Yayah Sarta Wibi\nIku Mono Dhawuhe Gusti Pangeran\n\nIsine Geguritan Kasebut Ngandhut Pesen Supaya Kita Kabeh Kudu ....",
+        "ground_truth": "D",
+        "options": [
+            "A. Manut Yen Dituturi",
+            "B. Manembah Gusti",
+            "C. Ndonga Murih Wibawa",
+            "D. Ngabekti Marang Wongtuwa"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 306,
+        "question": "pamicara ora bisa ngadalake pidatone sekarpe dewe amarga wektune wis di atur yaiku kahanan pidhato \u2026",
+        "ground_truth": "a",
+        "options": [
+            "a. kahanan resmi",
+            "b. kahanan setengah resmi",
+            "c. kahanan ora resmi",
+            "d. kahanan liya liyane"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 307,
+        "question": "Kesenian asal daerah Ponorogo iki paragane singa barong, ngangge wulu merak kang endah lan gedhe banget, kang manggul kudhu paraga kang kuwat. Sing kondhang warok e.\n\nKesenian ing inggil dipun wastani\u2026 .",
+        "ground_truth": "A",
+        "options": [
+            "A. Reog",
+            "B. Lerok",
+            "C. Wayang",
+            "D. Jaranan"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 308,
+        "question": "\ua9b1\ua9b6\ua9a0\ua9b6\ua9a9\ua9ba\ua9a4\ua9ba\ua98f\ua9c0\ua9ae\ua9b6\ua9a0\ua9c0\ua9a4\ua981\ua98f\n\nUkara jawa ing dhuwur unine \u2026.",
+        "ground_truth": "b",
+        "options": [
+            "a. Siti mangan semangka.",
+            "b. Siti menek wit nangka.",
+            "c. Siti menek wit pelem.",
+            "d. Siti nandur nangka."
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 309,
+        "question": "miturut raminah baribin geguritan yaiku iketaning basa kaya dene ....",
+        "ground_truth": "b",
+        "options": [
+            "a. tatahan",
+            "b. syair",
+            "c. guneman",
+            "d. sastra"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 310,
+        "question": "<b>Sepi ing pamrih</b>. Yen ditulis ngganggo aksara jawa dadi \u2026",
+        "ground_truth": "b",
+        "options": [
+            "a. \ua9b1\ua9a5\ua9b6\u200b\ua9b2\ua9b6\ua981\u200b\u200b\ua9a5\ua9a9\ua9bf\ua9b6\ua983",
+            "b. \ua9b1\ua9bc\ua9a5\ua9b6\u200b\ua9b2\ua9b6\ua981\u200b\u200b\ua9a5\ua9a9\ua9bf\ua9b6\ua983",
+            "c. \ua9b1\ua9a5\ua9b8\u200b\ua9b2\ua9b6\ua981\u200b\u200b\ua9a5\ua9a9\ua9bf\ua9b6\ua983",
+            "d. \ua9b1\ua9a5\u200b\ua9b2\ua9b6\ua981\u200b\u200b\ua9a5\ua9a9\ua9bf\ua9b6\ua983"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 311,
+        "question": "Adhik lagi ajar maca lan nulis ing daleme Bu Sutini.\nCacahe tembung andhahan ana \u2026",
+        "ground_truth": "a",
+        "options": [
+            "a. 1",
+            "b. 2",
+            "c. 3",
+            "d. 4"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 312,
+        "question": "Perangan cerkak kang ngandharake prakara kang lagi diadhepi dening paraga utama, klebu punjering crita, lan kudu ana sajroning crita diarani ....",
+        "ground_truth": "A",
+        "options": [
+            "A. pambuka (orientasi)",
+            "B. pasulayan (komplikasi)",
+            "C. pangudhare prakara (resolusi)",
+            "D. umpan balikn (implementasi)"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 313,
+        "question": "perangane teks tanggap wacana kang isine mbagekake lan ngaturake panuwun yaiku ....",
+        "ground_truth": "b",
+        "options": [
+            "a. pambuka",
+            "b. panutup",
+            "c. salam panutup",
+            "d. surasa basa"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 314,
+        "question": "Tata kramane wong nalika watuk yaiku ....",
+        "ground_truth": "D",
+        "options": [
+            "A. Ditutupi nganggo klambi",
+            "B. Ditutupi nganggo kaos.",
+            "C. Ditutupi kanggo tangan.",
+            "D. Ditutupi nganggo tisu."
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 315,
+        "question": "Pakdhe menika kula .... Bapak .... sedhahan\u201d. Tembung kang trep kanggo\nngisi ceceg-ceceg yaiku ....",
+        "ground_truth": "B",
+        "options": [
+            "A. dikengken - marigaken",
+            "B. dipunutus - ngaturaken",
+            "C. dipundhawuhi - menehaken",
+            "D. dipunkengken - nyaosaken"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 317,
+        "question": "Piwulang luhur kang kepengin diaturake pengarang ing sajroning crita diarani ....",
+        "ground_truth": "A",
+        "options": [
+            "A. tema",
+            "B. amanat",
+            "C. latar",
+            "D. alur"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 319,
+        "question": "Inggih Pak, matur nuwun sanget. Menawi mekaten sampun cekap anggen kula mara matur. Kula nyuwun pamit.\nTembung mara becike diganti \u2026",
+        "ground_truth": "c",
+        "options": [
+            "a. nuweni",
+            "b. kepanggih",
+            "c. dhateng",
+            "d. sowa"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 320,
+        "question": "Wacanen kang permati!\n\nMbah Putri,\n\nDeni kanget banget marang mbah putri. Deni mboten sabar malih liburan wonten kampung. Mugi-mugi mbah putri lan mbah kakung diparingi kasarasan nggih. \n\nOh nggih mbah putri, ... salam sayang kagem mbah putri lan kakung. Pangapunten amarga tahun niki mboten saget liburan ngrika.\n\nUkara kang pas kanggo jangkepi perangan layang ing ndhuwur yaiku ...",
+        "ground_truth": "a",
+        "options": [
+            "a. Ibu nitip salam.",
+            "b. Ngapunten sanget.",
+            "c. Ibu nyuwun pangestu.",
+            "d. Ampun kesupen."
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 321,
+        "question": "Cara pidhato kanthi migunakake catetan cilik diarani \u2026",
+        "ground_truth": "b",
+        "options": [
+            "a. naskah",
+            "b. ekstemporan",
+            "c. apalan",
+            "d. impromptu"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 322,
+        "question": "Gatekna punggelan pidhato ing isor iki!\n1. Hadirin kang bahagia mulya, sumangga kita pirsani penampilan grup qosidah modern Nasidaria....\n2. Bapak ibu ingkang kawula hormati, ing mriki kula bade ngaturaken reroncening adicara pengetan Maulid Nabi Muhammad SAW....\n3. Adicara angka setunggal, sumangga kita sesarengan maos alfaatihah, mugi-mugi sedaya pikantuk manfaat lan barokahipun....\n4. Bapak ibu wali murid kang bahagia mulya, selami putra putri bapak ibu wonten ing madrasah, menawi wonten klintunipun anggen kula nggula wethah, kula minangka wakil sangking bapak ibu guru, kula nyuwun agunging pangapunten....\n\nIng inggil minangka tuladha pidhato acara wisuda nomer ....",
+        "ground_truth": "D",
+        "options": [
+            "A. 1",
+            "B. 2",
+            "C. 3",
+            "D. 4"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 324,
+        "question": "Wacanen kang patitis!\n\nPara nawang lagi guneman ing kahyangan. Dheweke mudhun saka kahyangan arep adus ing bumi.\nNawang sekar : \u201c Ayo dulur, dolan menyang bumi!\u201d\nNawang lintang : \u201c wah \u2026ayo! Nanging dolan menyang ngendi?\u201d\nNawang sari : \u201c Aku duwe pamikiran, ayo adus ing tlaga wae\u201d\nPara nawang : \u201cNggawa slendange ayo\u2026!\u201d\n\nPesan moral kang bias diteladhani ing crita dhuwur yaiku\u2026",
+        "ground_truth": "d",
+        "options": [
+            "a. Goleka Widodari ing pinggire tlaga",
+            "b. Tulung-tinulung marang sapadha-padha",
+            "c. Aja nangis ing sadhengahing panggonan",
+            "d. Ajining raga gumantung ing busana"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 327,
+        "question": "\ua9cb\ua9ae\ua9bc\ua9a2\ua981\u200b\u200b\ua9a7\ua9b8\ua9a7\ua9b8\u200b\ua98f\ua9c0\ua9a0\ua9a4\ua9c0\ua9a5\ua992\ua9b8\ua9ad\ua9c8\ua9b2\ua997\ua994\ua9a9\ua9b8\ua98f\ua9c0\ua9a9\ua9b8\ua9a4\ua9c0\ua99d\ua98f\ua9c0\ua9a0\ua9b8\ua9ae\ua9c9\n\nyen ditulis latin unine \u2026",
+        "ground_truth": "c",
+        "options": [
+            "a. Wedang bubuk tanpa gula, aja ngamuk mundhak cepet tuwa.",
+            "b. Wedang bubuk nganggo gula, aja ngamuk mundhak tuwa.",
+            "c. Wedang bubuk tanpa gula, aja ngamuk mundhak tuwa.",
+            "d. Wedang bubuk nganggo gula, aja ngamuk mundhak cepet tuwa."
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 328,
+        "question": "Bapak dipunaturi dhahar rumiyin. Tembung dipunaturi ngokone \u2026",
+        "ground_truth": "b",
+        "options": [
+            "a. diutus",
+            "b. diajak",
+            "c. dikongkon",
+            "d. lunga"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 330,
+        "question": "Wacanen ukara ing andhap iki!\nMalang salah sawijining kutha ing Jawa Timur, akeh maneka warna usaha indhustri omahan kang bisa ditemoni.\n\nTembung kang nunjukake menawi ukara ing inggil kalebet ukara tanggap yaiku \u2026.",
+        "ground_truth": "C",
+        "options": [
+            "A. Indhustri",
+            "B. Omahan",
+            "C. Ditemoni",
+            "D. Maneka"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 331,
+        "question": "Dhek jaman penjajahan, uripe rakyat pada ... .",
+        "ground_truth": "d",
+        "options": [
+            "a. sengsara",
+            "b. mlarat",
+            "c. sara",
+            "d. nelangsa"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 332,
+        "question": "Sari Lan Dewi Latihan Nglangi Ing Selokambang. Kang Dhapuk Jejering Ukara Kasebut Yaiku ....",
+        "ground_truth": "A",
+        "options": [
+            "A. Sari Lan Dewi",
+            "B. Latihan",
+            "C. Nglangi",
+            "D. Ing Selokambang"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 333,
+        "question": "Akbar diipun utus Bu Guru mundhutaken buku wonten meja. Yen didadekake basa ngoko dadine ...",
+        "ground_truth": "c",
+        "options": [
+            "a. Akbar dikengken bu guru mendhetaken buku wonten meja.",
+            "b. Akbar dikengken bu guru njupukake buku ana meja.",
+            "c. Akbar dikongkon bu guru njupukake buku ana meja.",
+            "d. Akbar diutus bu guru njupukake buku wonten meja."
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 335,
+        "question": "Wacanen kang permati!\n\nAni lagi wae lulus saka SMAN 1 Sragen. Ani nyoba daftar kuliah ing Universitas Sebelas Maret jikuk jurusan kedokteran. Universitas kuwi manggon ing kutha Solo. Amarga isih mangsa pandemi, Ani kuliah kanthi cara daring. Dheweke sinau gunakake Zoom ning omah lan durung bisa mlebu kuliah.\n\nPapan panggonan kanggo kuliah daring miturut paragraf ing ndhuwur yaiku ....",
+        "ground_truth": "c",
+        "options": [
+            "a. SMAN 1 Sragen",
+            "b. kutha Solo",
+            "c. ning omah",
+            "d. Universitas Sebelas Maret"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 336,
+        "question": "Pacelathon ditindakake paling sithik ... wong.",
+        "ground_truth": "b",
+        "options": [
+            "a. 1",
+            "b. 2",
+            "c. 3",
+            "d. 4"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 337,
+        "question": "\ua992\ua9b6\ua9ad\ua981\ua9a0\ua9b8\ua98f\ua9b8\ua997\ua9a9\ua9b8\ua982 Diwaca dadi unine \u2026",
+        "ground_truth": "a",
+        "options": [
+            "a. Gilang tuku jamur",
+            "b. Gilang luru jamur",
+            "c. Gilang tupu semur",
+            "d. Gilang nemu sepur"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 338,
+        "question": "Bapak Pucung Amung sirah lawan gembung.\nPadha dikunjara\nMati sajroning ngaurip\nMijil baka Si pucung dadi dahana.\n\nGuru wilangan lan guru lagu kang sesuai karo tembang mocopat ing ndhuwur yaiku \u2026",
+        "ground_truth": "A",
+        "options": [
+            "A. 12u - 6a - 8i - 12a",
+            "B. 12u - 6s - 8i - 12a",
+            "C. 11u - 6a - 8i - 12a",
+            "D. 11u - 6s - 8i - 12a"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 339,
+        "question": "Waosen dialog ing andhap!\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\nKleting Kuning : Kula nuwun!\nMbok Sati : Iki ki ambune apa kok ora enak. E e e dadi kowe sing mara nggawa bathang. Kowe ngapa mrene ambumu ora enak! Rada adoh!\nKleting Kuning : Nami kula Kleting Kuning, Mbok!\nMbok Sati : Kowe mrene arep ngapa?\nKleting Kuning : Kula ajeng ngunggah unggahi Baguse AndheAndhe Lumut.\nMbok Sati : Wong sing ayu-ayu wae padha ditampik apa maneh kowe rupamu elek, ambumu ora enak, wis kana bali wae!\nKleting Kuning : Kula mboten bali yen anak sampeyan mboten ditari dhisik.\nMbok Sati : Yo daktarine anakku, mugamuga aja gelem!\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..\n\nIrah-irahan kannng trep kangge carios ing inggil .....",
+        "ground_truth": "B",
+        "options": [
+            "A. Bawang merah Bawang Putih",
+            "B. Ande-ande Lumut",
+            "C. Malin Kundang",
+            "D. Jaka Tarub"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 341,
+        "question": "Ibu ... oleh-oleh budhe.\nTembung kang trep kanggo ngganepi ukara ing dhuwur yaiku ....",
+        "ground_truth": "B",
+        "options": [
+            "A. menehi",
+            "B. nyaosi",
+            "C. nyukani",
+            "D. maringi"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 343,
+        "question": "Paimin yen kumpul karo kancane ora gelem cucul ragat mula diarani \u2026  ora tombok.\nTembung kang trep kanggo ngisi ceceg-ceceg ing dhuwur yaiku \u2026",
+        "ground_truth": "a",
+        "options": [
+            "a. keplok",
+            "b. kumpul",
+            "c. wegah",
+            "d. bali"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 344,
+        "question": "Kembange Blimbing Wuluh Kuwi Kena Digawe Tamba Lara ....",
+        "ground_truth": "D",
+        "options": [
+            "A. Weteng",
+            "B. Linu",
+            "C. Panas",
+            "D. Watuk"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 345,
+        "question": "Nalika reresik tangan sing paling becik ditindakake nganggo sabun ing ....",
+        "ground_truth": "A",
+        "options": [
+            "A. banyu mili",
+            "B. banyu cidhuk",
+            "C. banyu ember",
+            "D. banyu anget"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 349,
+        "question": "REKAYASA UWUH\n\nUwuh sing ana ing masyarakat bisa kaperang dadi loro, yaiku uwuh organik lan anorganik. Uwuh organik yaiku sawenehig uwuh sing dumadi saka tetuwuhan utawa urip uripan, upamane sisa panganan, godhong, lan liya liyane. Gene uwuh anorganik yaiku uwuh sing dumadi saka proses produksi kanthi cara kimia, upamane wesi, kaca, plastik, lan liya liyane. Sakabehing uwuh mau menawa ora diopeni kanthi becik mesthi nuwuhake ambu sing ora enak lan pungkasane bisa nyebabake lelara.\n\nParagraf ing ndhuwur kalebu perangan struktur ...",
+        "ground_truth": "A",
+        "options": [
+            "A. Dheskripsi bagean",
+            "B. Dhefinisi umum",
+            "C. Dheskripsi manfaat",
+            "D. Dheskripsi penjelasan"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 350,
+        "question": "\ua9a5\ua9c0\ua9ad\ua9bc\ua9a4\ua9c0\ua9a2\ua9b8\ua994\ua9a4\ua9c0\n\nyen ditulis latin unine \u2026",
+        "ground_truth": "b",
+        "options": [
+            "a. plenthusan",
+            "b. plendungan",
+            "c. bledosan",
+            "d. plembungan"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 351,
+        "question": "Guru wilangan lan guru lagune tembang macapat Dhandhanggula gatra pungkasan yaiku ....",
+        "ground_truth": "B",
+        "options": [
+            "A. 6 a",
+            "B. 7 a",
+            "C. 10 a",
+            "D. 12 a"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 353,
+        "question": "Ngisor iki adicara kang ora butuhake pambiworo yaiku \u2026",
+        "ground_truth": "b",
+        "options": [
+            "a. kedripahan",
+            "b. kemah",
+            "c. mantu",
+            "d. pengaosan"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 354,
+        "question": "sawijining geguritan bakal luwih gampang olehe nggoleki amanat utawa piwulang kang ana sajroning geguritan kanthi cara ....",
+        "ground_truth": "a",
+        "options": [
+            "a. diparafrasekake",
+            "b. ditembangake",
+            "c. diwaca",
+            "d. dirasakeke isine"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 355,
+        "question": "Nalika arep nindakake wawancara bab-bab <b><i><u>sing ora</u></i></b> kudu digatekake, yaitu ....",
+        "ground_truth": "D",
+        "options": [
+            "A. tujuan wawancara",
+            "B. tema sing arep ditakokake",
+            "C. dhaftar pitakonan minangka pedhoman",
+            "D. ringkesan materi sing ditakokake"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 356,
+        "question": "Aku Lila\n\nKorban jiwa raga kanggo bumiku\nNadyan awak ajur dadi sawur\nLan getihku mbabar mili, netes ing bumi pertiwi\nLabet raharjaning negara\nLumantar iki\nIsining atiku ginurit\nPrasetyaku thukul saka ati kang tulus\nNjaga langgenging kamardikan\nDonga pujiku kebak kaendahan, kanggo wutah getihku\n\nPitutur kang bisa kapethik saka geguritan ing nduwur yaiku ...",
+        "ground_truth": "C",
+        "options": [
+            "A. Korban jiwa raga",
+            "B. Getih netes ing bumi pertiwi",
+            "C. tresna bumi pertiwi",
+            "D. isining atiku"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 357,
+        "question": "Ibu senengane mangan sega jagung, Yen di kramakna inggil dadi \u2026",
+        "ground_truth": "c",
+        "options": [
+            "a. Ibu remenane nedha sega jagung",
+            "b. Ibu remenane nedha sekul jagung",
+            "c. Ibu remenanipun dhahar sekul jagung",
+            "d. Ibu senenganipun dhahar sega jagung"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 360,
+        "question": "Assalamualaikum.wr.wb....\nAlhamdulilah ing dinten punika kita saget ngrawuhi upacara HUT RI kanti keadaan sehat wal aafiyat lan mboten wonten halangan setunggal punapa.\nUpacara HUT proklamasi kemerdekaan RI dinten niki saget kelaksaaken kaliyan sae amergi bantuan sedaya pihak.....\n\nUkara-ukara ing inggil minangka tuladha pidato kahanan \u2026.",
+        "ground_truth": "D",
+        "options": [
+            "A. Setengah resmi",
+            "B. Ora resmi",
+            "C. Hiburan",
+            "D. Resmi"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 362,
+        "question": "Ukara ing ngisor iki sing kelebu ukara crita (ora langsung) yaiku \u2026",
+        "ground_truth": "b",
+        "options": [
+            "a. Ibu ngendika aku munggah kelas kudu sregep sinau.",
+            "b. Ibu ngendika, yen kepengin munggah kelas kudu sregep sinau.",
+            "c. Ibu ngendika menawa aku sregep sinau.",
+            "d. Ibu ngendika sregep sinau, aku munggah kelas."
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 364,
+        "question": "Sate wedhus menawa ditulis aksara jawa, yaiku ....",
+        "ground_truth": "d",
+        "options": [
+            "a. \ua9a0\ua9b8\ua98f\ua9b8\u200b\ua9b1\ua9a0\ua9ba\u200b\ua9b1\ua9a5\ua9b6",
+            "b. \ua9a0\ua9b8\ua98f\ua9b8\ua9b1\ua9a0\ua9ba\ua9ae\ua9bc\ua99d\ua9b8\ua9b1\ua9c0",
+            "c. \ua9a0\ua9b8\ua98f\ua9b8\ua9ae\ua9bc\ua99d\ua9b8\ua9b1\ua9c0",
+            "d. \ua9b1\ua9a0\ua9ba\ua9ae\ua9bc\ua99d\ua9b8\ua9b1\ua9c0"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 365,
+        "question": "Ibu Lagi Mbunteli Naga .... Ing Amben Mburi.",
+        "ground_truth": "C",
+        "options": [
+            "A. Taun",
+            "B. Sasra",
+            "C. Sari",
+            "D. Dina"
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 367,
+        "question": "Ketua OSIS lagi ngumpulaken sedaya anggota pramuka inti ing isor wit sawo ngarep ruang guru. Ketua OSIS langsung nyampekne marang anggotane babagan lomba kang bakal dilaksanaake ing MAN 1 Malang tanggal 10 November tahun 2020\n\nAdicara/acara kang di maksud ing inggil minangka tuladha pidhato kahanan ....",
+        "ground_truth": "C",
+        "options": [
+            "A. Resmi",
+            "B. Hiburan",
+            "C. Ora resmi",
+            "D. Setengah resmi"
+        ],
+        "level": "mid",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 368,
+        "question": "Amel : \"Bu, punopo ingkang saget nyebabaken penyakit demam berdarah?\"\nBu Dokter : \"Iku mergo nyamuk aides aigypti.\"\nAmel : ....\nBu Dokter : \"Enek telu, nutup panggonan sing iso digawe nyamuk ngendok, nguras jading telung dino pisan, lan ngubur kaleng bekas sing iso nampung banyu ben ora di gawe nyamuk ngendhok.\"\n\nUkara pitakon sing mathuk kanggo nggenepi pacelaton ing ndhuwur yaiku ....",
+        "ground_truth": "C",
+        "options": [
+            "A. \"Wonten pundi biasanipun nyamuk aides aigypti ngendhok?\"",
+            "B. \"Pripun caranipun kersane mboten dipun gigit nyamuk aides aigypti?\"",
+            "C. \"Kados pundi caranipun mberantas nyamuk aides aigypti ?\"",
+            "D. \"Kapan nyamuk aides aig\u00fdpti biasanipun nggigit ?\""
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    },
+    {
+        "id": 370,
+        "question": "Cincing-cincing meksa klebus.\nParibasan kasebut tegese \u2026",
+        "ground_truth": "C",
+        "options": [
+            "A. Karepe ben ora teles nanging malah kembloh.",
+            "B. Karepe arep diati-ati ben ora teles tibake malah kembloh.",
+            "C. Rekane arep ngirit nanging meksa entek akeh.",
+            "D. Rekane mburu barang sepele nanging malah kelangan barang sing luwih aji."
+        ],
+        "level": "low",
+        "subject": "javanese",
+        "subject_category": "language"
+    }
+]

@@ -1,0 +1,802 @@
+{
+    "327": {
+        "question": "cause",
+        "premise": "Msye a te chape maladi mòtèl la.",
+        "choice1": "Li te siyen testaman li.",
+        "choice2": "Li te resevwa yon transplantasyon ògan.",
+        "label": 1,
+        "changed": false
+    },
+    "57": {
+        "question": "effect",
+        "premise": "Lavabo a te bouche.",
+        "choice1": "Mwen louvri robinè a.",
+        "choice2": "Mwen lage klowòks  ladann.",
+        "label": 1,
+        "changed": true
+    },
+    "12": {
+        "question": "cause",
+        "premise": "Chèk mwen te fè a te rechte.",
+        "choice1": "Kont labank mwen te vid.",
+        "choice2": "Mwen te resevwa yon ogmantasyon salè.",
+        "label": 0,
+        "changed": false
+    },
+    "379": {
+        "question": "cause",
+        "premise": "Mwen te bliye lè a.",
+        "choice1": "Mwen t'ap reve.",
+        "choice2": "Mwen te santi m dekonpoze.",
+        "label": 0,
+        "changed": false
+    },
+    "140": {
+        "question": "cause",
+        "premise": "Ti gason an te egwize krayon li.",
+        "choice1": "Li te bon mache.",
+        "choice2": "Li te depwente.",
+        "label": 1,
+        "changed": false
+    },
+    "125": {
+        "question": "effect",
+        "premise": "Laplui t ap desann.",
+        "choice1": "Tanpèt late vin pi rèd.",
+        "choice2": "Mwen kouri rantre anndan.",
+        "label": 1,
+        "changed": false
+    },
+    "114": {
+        "question": "effect",
+        "premise": "Mwen te fè yon tat pòm.",
+        "choice1": "Yon odè pouri te ranpli kwizin nan.",
+        "choice2": "Yon bon aròm te ranpli kwizin nan.",
+        "label": 1,
+        "changed": false
+    },
+    "71": {
+        "question": "cause",
+        "premise": "Madanm nan te dòmi twòp.",
+        "choice1": "Li te pase nuit la nan lotèl.",
+        "choice2": "Li te bliye revèy li.",
+        "label": 1,
+        "changed": false
+    },
+    "377": {
+        "question": "effect",
+        "premise": "Kriminèl la te vize revòlvè a sou viktim li.",
+        "choice1": "Kriminèl la te bese revòlvè li.",
+        "choice2": "Viktim la te fè olèmen.",
+        "label": 1,
+        "changed": false
+    },
+    "52": {
+        "question": "effect",
+        "premise": "Pye bwa a te pèdi fèy li.",
+        "choice1": "Fèy yo te tounen diferan koulè.",
+        "choice2": "Fèy yo te ramase atè.",
+        "label": 1,
+        "changed": false
+    },
+    "346": {
+        "question": "cause",
+        "premise": "Planche an bwa a te vin grifonnen.",
+        "choice1": "Ti gason an te voye cousen yo sòt tonbe divan an.",
+        "choice2": "Ti gason an te rale yon chèz sou planche a.",
+        "label": 1,
+        "changed": false
+    },
+    "496": {
+        "question": "effect",
+        "premise": "Mwen te reflechi byen sou pwoblèm nan.",
+        "choice1": "Mwen te mande konsèy.",
+        "choice2": "Mwen te jwenn yon solisyon.",
+        "label": 1,
+        "changed": false
+    },
+    "456": {
+        "question": "effect",
+        "premise": "Mwen te pran antibyotik.",
+        "choice1": "Enfeksyon mwen te geri.",
+        "choice2": "Enfeksyon mwen te gaye.",
+        "label": 0,
+        "changed": false
+    },
+    "279": {
+        "question": "effect",
+        "premise": "Fi a te enskri nan ekip deba a.",
+        "choice1": "Li aprann ki jan pou sèvi ak òdinatè.",
+        "choice2": "Li te aprann jan pou li kominike.",
+        "label": 1,
+        "changed": false
+    },
+    "44": {
+        "question": "cause",
+        "premise": "Aktivist yo boykote pwodui yo.",
+        "choice1": "Yo te fe teste pwodui yo asire kaliti yo.",
+        "choice2": "Pwodui te fabrike ak travay timoun.",
+        "label": 1,
+        "changed": false
+    },
+    "302": {
+        "question": "effect",
+        "premise": "Atis la te melanje penti jòn nan penti ble.",
+        "choice1": "Penti te gaye toupatou.",
+        "choice2": "Penti a te tounen vèt.",
+        "label": 1,
+        "changed": false
+    },
+    "216": {
+        "question": "cause",
+        "premise": "Timoun nan te rann you gaz.",
+        "choice1": "Li te pran yon goje kola.",
+        "choice2": "Li te louvri kanèt kola a.",
+        "label": 0,
+        "changed": false
+    },
+    "16": {
+        "question": "effect",
+        "premise": "Mwen te vide dlo a nan vè a.",
+        "choice1": "Dlo te asouvi swaf mwen.",
+        "choice2": "Vè a te vin plen.",
+        "label": 1,
+        "changed": false
+    },
+    "15": {
+        "question": "cause",
+        "premise": "Fi a te aprann kòd la pa kè.",
+        "choice1": "Li te resite l pou kont li.",
+        "choice2": "Li te bliye ekri li.",
+        "label": 0,
+        "changed": false
+    },
+    "47": {
+        "question": "effect",
+        "premise": "Mwen te ranvese diven sou chemiz mwen.",
+        "choice1": "Mwen te mete yon tabliye.",
+        "choice2": "Mwen te chanje chemiz mwen.",
+        "label": 1,
+        "changed": false
+    },
+    "111": {
+        "question": "cause",
+        "premise": "Fanmi a te chèche nan katye  a.",
+        "choice1": "Chen yo te kouri ale.",
+        "choice2": "Te gen bijou ki chè anpil ki te disparèt de kay la.",
+        "label": 0,
+        "changed": true
+    },
+    "119": {
+        "question": "effect",
+        "premise": "Tout moun te dezaprouve fiyansay koup la.",
+        "choice1": "Koup la te vin ansent.",
+        "choice2": "Koup la te chape.",
+        "label": 1,
+        "changed": false
+    },
+    "258": {
+        "question": "cause",
+        "premise": "Chapo msye a te vole ale.",
+        "choice1": "Li te wete chapo li.",
+        "choice2": "Te gen van dyò a.",
+        "label": 1,
+        "changed": false
+    },
+    "308": {
+        "question": "cause",
+        "premise": "Paran yo te kouri nan chanm timoun yo.",
+        "choice1": "Timoun nan te reveye ak rèl fòt kochma li te fè a.",
+        "choice2": "Timoun nan te pè gade sou kabann ni.",
+        "label": 0,
+        "changed": false
+    },
+    "13": {
+        "question": "effect",
+        "premise": "Bwat imèl li te plen spam.",
+        "choice1": "Li te retire spam nan.",
+        "choice2": "Li te voye tout moun yon mesaj imèl an mas.",
+        "label": 0,
+        "changed": false
+    },
+    "287": {
+        "question": "cause",
+        "premise": "Rad ti gason te vin mouye.",
+        "choice1": "Li te sòti pisin nan.",
+        "choice2": "Li te tonbe nan pisin nan.",
+        "label": 1,
+        "changed": true
+    },
+    "101": {
+        "question": "effect",
+        "premise": "Oratè te di de bagay ki te politikman ensansib.",
+        "choice1": "Asanble a te trouve l raz.",
+        "choice2": "Li te vekse asanble a.",
+        "label": 1,
+        "changed": false
+    },
+    "366": {
+        "question": "effect",
+        "premise": "Mwen te santi m annuiye.",
+        "choice1": "Mwen te rannafle.",
+        "choice2": "Mwen te baye.",
+        "label": 1,
+        "changed": false
+    },
+    "332": {
+        "question": "cause",
+        "premise": "Mwen te grate po mwen.",
+        "choice1": "Mwen te transpire.",
+        "choice2": "Li te grate m.",
+        "label": 1,
+        "changed": false
+    },
+    "359": {
+        "question": "effect",
+        "premise": "Mwen te mande padon bòkote zanmi mwen.",
+        "choice1": "Zanmi m te padone m.",
+        "choice2": "Zanmi te fin fache nèt.",
+        "label": 0,
+        "changed": false
+    },
+    "486": {
+        "question": "cause",
+        "premise": "Msye a te sòti nan douch la.",
+        "choice1": "Dlo cho a te fini.",
+        "choice2": "Li pat ka jwenn yon sèvyèt.",
+        "label": 0,
+        "changed": false
+    },
+    "214": {
+        "question": "effect",
+        "premise": "Prizonye t ap mouri grangou.",
+        "choice1": "Li te mouri.",
+        "choice2": "Li te echape.",
+        "label": 0,
+        "changed": false
+    },
+    "112": {
+        "question": "cause",
+        "premise": "Mwen te wè souf mwen lè mwen te respire.",
+        "choice1": "Tan a te frèt.",
+        "choice2": "Pwatrin mwen te santi li sere.",
+        "label": 0,
+        "changed": false
+    },
+    "229": {
+        "question": "effect",
+        "premise": "Jouwè a te atake advèsè li.",
+        "choice1": "Advèsè li te atrape pas la.",
+        "choice2": "Advèsè li te tonbe atè.",
+        "label": 1,
+        "changed": false
+    },
+    "301": {
+        "question": "effect",
+        "premise": "Etidyan an te fini inivèsite a.",
+        "choice1": "Li te chache yon travay.",
+        "choice2": "Li te koumanse yon pastan.",
+        "label": 0,
+        "changed": false
+    },
+    "142": {
+        "question": "effect",
+        "premise": "Egratinu sou po mwen te pwofon.",
+        "choice1": "Li te geri vit.",
+        "choice2": "Li te kite yon plè.",
+        "label": 1,
+        "changed": false
+    },
+    "414": {
+        "question": "cause",
+        "premise": "Odinatè a pat vle limen.",
+        "choice1": "Mwen te kite l tonbe.",
+        "choice2": "Mwen te chaje li.",
+        "label": 0,
+        "changed": false
+    },
+    "445": {
+        "question": "cause",
+        "premise": "Madanm nan te kenbe gòj li.",
+        "choice1": "Li te vale manje li.",
+        "choice2": "Li te toufe sou manje li.",
+        "label": 1,
+        "changed": false
+    },
+    "3": {
+        "question": "effect",
+        "premise": "Vwayajè yo te rive sou frontyè a.",
+        "choice1": "Ajan frontalye a te enspekte paspò yo.",
+        "choice2": "Ajan frontalye a te akize yo de kontrabann.",
+        "label": 0,
+        "changed": false
+    },
+    "388": {
+        "question": "effect",
+        "premise": "Ti gason an te pense koud fi a.",
+        "choice1": "Li te ose zepòl li.",
+        "choice2": "Li te vit rekile bra li.",
+        "label": 1,
+        "changed": false
+    },
+    "412": {
+        "question": "cause",
+        "premise": "Veteran an te mache bwate.",
+        "choice1": "Yo te rele li pou fè lagè.",
+        "choice2": "Li te blese nan batay la.",
+        "label": 1,
+        "changed": false
+    },
+    "81": {
+        "question": "cause",
+        "premise": "Sufè yo te tounen sou plaj la.",
+        "choice1": "Yo te mouye nèt.",
+        "choice2": "Yo te wè yon reken.",
+        "label": 1,
+        "changed": false
+    },
+    "357": {
+        "question": "cause",
+        "premise": "Mwen te kite travay mwen bonè.",
+        "choice1": "Mwen te gen maltèt.",
+        "choice2": "Patwon mwen t ap enbe yon reyinyon.",
+        "label": 0,
+        "changed": false
+    },
+    "483": {
+        "question": "cause",
+        "premise": "Mwen te pase aspiratè a sou tapi a.",
+        "choice1": "Kamarad chanm mwen te vèse ponch la.",
+        "choice2": "Shen mwen te kite pwal li tonbe.",
+        "label": 1,
+        "changed": false
+    },
+    "174": {
+        "question": "effect",
+        "premise": "Pakin bilding nan te vid.",
+        "choice1": "Mwen te estasyonen lòt bò lari a.",
+        "choice2": "Mwen te estasyonen bòkot antre a.",
+        "label": 1,
+        "changed": true
+    },
+    "464": {
+        "question": "effect",
+        "premise": "Fanmi a te vle fè konesans nouvo vwazen yo.",
+        "choice1": "Fanmi a te envite vwazen yo pou dine.",
+        "choice2": "Fanmi a te voye men bay vwazen yo nan lakou a.",
+        "label": 0,
+        "changed": false
+    },
+    "79": {
+        "question": "effect",
+        "premise": "Fi a te pèdi kontwòl bisiklèt li.",
+        "choice1": "Li te lache manch yo.",
+        "choice2": "Li te frape yon kloti.",
+        "label": 1,
+        "changed": false
+    },
+    "110": {
+        "question": "effect",
+        "premise": "Mwen te rate  apèl menaj mwen.",
+        "choice1": "Mwen te rele li ankò.",
+        "choice2": "Mwen te rankontre li pou dine.",
+        "label": 0,
+        "changed": false
+    },
+    "390": {
+        "question": "effect",
+        "premise": "Ti gason an te mache nan labou.",
+        "choice1": "Labou a te kole sou soulye li.",
+        "choice2": "Labou a te frape li nan figi.",
+        "label": 0,
+        "changed": false
+    },
+    "172": {
+        "question": "cause",
+        "premise": "Mwen te gen yon sèl anvi pou yon vè lèt.",
+        "choice1": "Mwen t ap manje bonbon.",
+        "choice2": "Mwen t ap kwit pen.",
+        "label": 0,
+        "changed": false
+    },
+    "490": {
+        "question": "effect",
+        "premise": "Cheviy mwen te gonfle.",
+        "choice1": "Mwen te met glas sou li.",
+        "choice2": "Mwen te fwote losyon sou li.",
+        "label": 0,
+        "changed": false
+    },
+    "480": {
+        "question": "cause",
+        "premise": "Yo te refize msye a kob la.",
+        "choice1": "Li te nan dèt.",
+        "choice2": "Li te koumanse yon biznis.",
+        "label": 0,
+        "changed": false
+    },
+    "194": {
+        "question": "cause",
+        "premise": "Lav te koule soti nan volkan an.",
+        "choice1": "Volkan an te eklate.",
+        "choice2": "Volkan an te andòmi.",
+        "label": 0,
+        "changed": false
+    },
+    "49": {
+        "question": "effect",
+        "premise": "Mizisyen lari a te atire yon foul.",
+        "choice1": "Moun te bay li monnen.",
+        "choice2": "Li voye foul la ale.",
+        "label": 0,
+        "changed": false
+    },
+    "183": {
+        "question": "effect",
+        "premise": "Fotograf la te bliye mete flash la nan kodak la.",
+        "choice1": "Foto yo soti flou.",
+        "choice2": "Tout moun nan foto yo te refize souri.",
+        "label": 0,
+        "changed": false
+    },
+    "433": {
+        "question": "cause",
+        "premise": "Yo te voye timoun yo nan yon ofelina.",
+        "choice1": "Paran yo te mouri.",
+        "choice2": "Paran yo te gate yo.",
+        "label": 0,
+        "changed": false
+    },
+    "176": {
+        "question": "cause",
+        "premise": "Asosye a te rakwoche sou mwen.",
+        "choice1": "Mwen te mande pale dirijan an.",
+        "choice2": "Mwen te bay nimewo idantite mwen.",
+        "label": 0,
+        "changed": false
+    },
+    "309": {
+        "question": "cause",
+        "premise": "Madanm nan te kominike ak langaj siyen.",
+        "choice1": "Li te fèt prematire.",
+        "choice2": "Li te fèt soud.",
+        "label": 1,
+        "changed": false
+    },
+    "135": {
+        "question": "cause",
+        "premise": "Ti gason an te echwe examen istwa li.",
+        "choice1": "Li te fè atansyon nan klas.",
+        "choice2": "Li te bliye etidye.",
+        "label": 1,
+        "changed": true
+    },
+    "413": {
+        "question": "effect",
+        "premise": "Kriminèl la te sove ale lapolis la.",
+        "choice1": "Lapolis la te okipe viktim nan.",
+        "choice2": "Lapolis la te chase kriminèl la.",
+        "label": 1,
+        "changed": false
+    },
+    "22": {
+        "question": "effect",
+        "premise": "Msye a te prevwa fredi sou vwayaj li.",
+        "choice1": "Li te pote rad cho nan malet li.",
+        "choice2": "Li te vwayaje ak yon gwo malet.",
+        "label": 0,
+        "changed": false
+    },
+    "373": {
+        "question": "effect",
+        "premise": "Machin mwen te pran pan.",
+        "choice1": "Mwen te ale nan sant komèsial la.",
+        "choice2": "Mwen te rele yon mekanik.",
+        "label": 1,
+        "changed": false
+    },
+    "235": {
+        "question": "cause",
+        "premise": "Mwen te santi m alèz.",
+        "choice1": "Mwen te ajenouye atè a.",
+        "choice2": "Mwen te vlope kò m nan yon lenn.",
+        "label": 1,
+        "changed": false
+    },
+    "274": {
+        "question": "effect",
+        "premise": "Drektè Jeneral konpayi a te bay demisyon li.",
+        "choice1": "Consèy administrasyon an te disoud konpayi a.",
+        "choice2": "Consèy administasyon an te jwenn yon ranplasan.",
+        "label": 1,
+        "changed": false
+    },
+    "63": {
+        "question": "cause",
+        "premise": "Men mwen te sezi.",
+        "choice1": "Mwen te ekri redaksyon an a la men.",
+        "choice2": "Madanm mwen kenbe men avè mwen.",
+        "label": 0,
+        "changed": false
+    },
+    "193": {
+        "question": "cause",
+        "premise": "Madanm nan te gen sènman sou je li.",
+        "choice1": "Li te rete kanpe tout lannwit la.",
+        "choice2": "Li te met pitit gason li dòmi.",
+        "label": 0,
+        "changed": false
+    },
+    "40": {
+        "question": "effect",
+        "premise": "Vwayajè yo te anrejistre pou chanm otel la.",
+        "choice1": "Yo te defèt malèt yo.",
+        "choice2": "Yo te ale nan aeropò a.",
+        "label": 0,
+        "changed": false
+    },
+    "282": {
+        "question": "effect",
+        "premise": "Rolo coaster a te plonje anba pant apik la.",
+        "choice1": "Pasaje yo te ri kont yo.",
+        "choice2": "Pasaje yo te pouse yon rèl sou.",
+        "label": 1,
+        "changed": false
+    },
+    "150": {
+        "question": "cause",
+        "premise": "Kè aktè a t ap bat anvan pèfòmans li.",
+        "choice1": "Li te gen trak.",
+        "choice2": "Li te aprann liy li pa kè.",
+        "label": 0,
+        "changed": false
+    },
+    "424": {
+        "question": "effect",
+        "premise": "Fanmi a te ale nan zoo a.",
+        "choice1": "Timoun yo te renmen zannimo yo.",
+        "choice2": "Timoun yo te chase zanimo yo.",
+        "label": 0,
+        "changed": false
+    },
+    "321": {
+        "question": "effect",
+        "premise": "Fi yo te chuchote youn ak lòt pandan yo te atab.",
+        "choice1": "Lòt etidyan yo te chita sou tab la.",
+        "choice2": "Lòt etidyan yo te santi yo eskli.",
+        "label": 1,
+        "changed": false
+    },
+    "316": {
+        "question": "effect",
+        "premise": "Mwen te reveye frèt nan mitan lannwit la.",
+        "choice1": "Mwen te mete pantalon joggin mwen.",
+        "choice2": "Mwen te bwè yon vè dlo.",
+        "label": 0,
+        "changed": false
+    },
+    "185": {
+        "question": "cause",
+        "premise": "Mwen te fè egzèsis.",
+        "choice1": "Mwen te santi m enèjik.",
+        "choice2": "Mwen te pè.",
+        "label": 0,
+        "changed": false
+    },
+    "295": {
+        "question": "effect",
+        "premise": "Mizik la te twò ba pou nou te ka antann li.",
+        "choice1": "Mwen te monte volim nan.",
+        "choice2": "Mwen te konpoze pwòp chanson pa m.",
+        "label": 0,
+        "changed": false
+    },
+    "98": {
+        "question": "cause",
+        "premise": "Nou te monte roulo coaster a.",
+        "choice1": "Li te gen sanble terifyan.",
+        "choice2": "Li te sanble amizan.",
+        "label": 1,
+        "changed": false
+    },
+    "360": {
+        "question": "cause",
+        "premise": "Msye a te fè tèt li remake nan foul la.",
+        "choice1": "Li te pote yon sak a do.",
+        "choice2": "Li te pote yon vès liminez.",
+        "label": 1,
+        "changed": false
+    },
+    "35": {
+        "question": "cause",
+        "premise": "Mwen te pedi pasyans mwen.",
+        "choice1": "Zanmi mwen te fè m tann.",
+        "choice2": "Zanmi mwen rive a lè.",
+        "label": 0,
+        "changed": false
+    },
+    "23": {
+        "question": "effect",
+        "premise": "Eidyan an te kon repons sou kestyon an.",
+        "choice1": "Li te leve men li.",
+        "choice2": "Li te sote klas la.",
+        "label": 0,
+        "changed": false
+    },
+    "338": {
+        "question": "effect",
+        "premise": "Madanm nan te bay agresè li yon kout pwen nan nen.",
+        "choice1": "Kò agresè a te vin rèd.",
+        "choice2": "Agresè a te koumanse senyen.",
+        "label": 1,
+        "changed": true
+    },
+    "116": {
+        "question": "cause",
+        "premise": "Vapè te sòti sou bonm dlo a.",
+        "choice1": "Dlo a te bouilli.",
+        "choice2": "Mwen te kouvri bonm nan.",
+        "label": 0,
+        "changed": false
+    },
+    "395": {
+        "question": "cause",
+        "premise": "Fanmi a te felisite koup la.",
+        "choice1": "Koup la te anonse y'ap separe.",
+        "choice2": "Koup la te anonse y'ap fè yon pitit.",
+        "label": 1,
+        "changed": false
+    },
+    "148": {
+        "question": "effect",
+        "premise": "Madanm nan te rete lakay li, li pa t al nan travay.",
+        "choice1": "Chèf li te felisite l.",
+        "choice2": "Kolèg li te kouvri pou li.",
+        "label": 1,
+        "changed": false
+    },
+    "444": {
+        "question": "cause",
+        "premise": "Msye a te fè terapi.",
+        "choice1": "Maladi tèt te nan fanmi an.",
+        "choice2": "Yo te djagnostike li ak depresyon.",
+        "label": 1,
+        "changed": false
+    },
+    "478": {
+        "question": "effect",
+        "premise": "Fi a te sanble pal.",
+        "choice1": "Papa l te li li yon istwa.",
+        "choice2": "Papa li te manyen fwon li.",
+        "label": 1,
+        "changed": false
+    },
+    "51": {
+        "question": "effect",
+        "premise": "Rada pilot la te detekte yon tanpèt.",
+        "choice1": "Pilòt la te navige lwen de tanpèt la.",
+        "choice2": "Pilòt la te kondui na tanpèt la.",
+        "label": 0,
+        "changed": false
+    },
+    "447": {
+        "question": "effect",
+        "premise": "Chen an te gade bèl stèk sou tab la.",
+        "choice1": "Bouch li tap fè dlo.",
+        "choice2": "Li kouche atè.",
+        "label": 0,
+        "changed": false
+    },
+    "454": {
+        "question": "cause",
+        "premise": "Madanm nan te trebiche sou trotwa a.",
+        "choice1": "Te gen yon fant nan siman an.",
+        "choice2": "Li te tande yon moun ap rele non li.",
+        "label": 0,
+        "changed": false
+    },
+    "232": {
+        "question": "cause",
+        "premise": "Mèki nan tèmomèt la te monte.",
+        "choice1": "Mwen te kite tèmomèt la tonbe.",
+        "choice2": "Tan a te vi pi cho.",
+        "label": 1,
+        "changed": false
+    },
+    "325": {
+        "question": "cause",
+        "premise": "Dife nan forè a te blayi.",
+        "choice1": "Van yo te vin pi fò.",
+        "choice2": "Yo te arete ensandyè yo.",
+        "label": 0,
+        "changed": false
+    },
+    "186": {
+        "question": "effect",
+        "premise": "Mwen te tòd eponj mouye a.",
+        "choice1": "Li te abzòbe dlo a.",
+        "choice2": "Dlo a te sòti ladann.",
+        "label": 1,
+        "changed": false
+    },
+    "83": {
+        "question": "effect",
+        "premise": "Mari a te santi l koupab poutèt li t ap twonpe madanm ni.",
+        "choice1": "Li akize de twonpri.",
+        "choice2": "Li te konfese twonpri li.",
+        "label": 1,
+        "changed": false
+    },
+    "189": {
+        "question": "effect",
+        "premise": "Yon machin m pa te abitye wè te vin stasyonen devan kay la.",
+        "choice1": "Mwen te vin mefyan.",
+        "choice2": "Mwe rele lapolis.",
+        "label": 0,
+        "changed": false
+    },
+    "181": {
+        "question": "cause",
+        "premise": "Ti bebe a te tonbe dòmi.",
+        "choice1": "Papa a te chanje koushèt li.",
+        "choice2": "Papa a te bèse ti bebe a dousman.",
+        "label": 1,
+        "changed": false
+    },
+    "107": {
+        "question": "cause",
+        "premise": "Saldeben an te inonde.",
+        "choice1": "Twalèt la te debòde.",
+        "choice2": "Chofdlo a te kase.",
+        "label": 0,
+        "changed": false
+    },
+    "343": {
+        "question": "effect",
+        "premise": "Madanm nan pa te gen ase lajan pou peye lwaye a.",
+        "choice1": "Li te travay tan siplemantè.",
+        "choice2": "Li te bay demisyon li.",
+        "label": 0,
+        "changed": false
+    },
+    "136": {
+        "question": "cause",
+        "premise": "Bilding anba lavil la te kraze.",
+        "choice1": "Yon tranbleman tè te frape site a.",
+        "choice2": "To kriminalite a te ogmante.",
+        "label": 0,
+        "changed": false
+    },
+    "470": {
+        "question": "cause",
+        "premise": "Pwogram televizyon an te sansire.",
+        "choice1": "Li te gen langaj gwosye.",
+        "choice2": "Li te gen yon istwa konplike.",
+        "label": 0,
+        "changed": false
+    },
+    "349": {
+        "question": "effect",
+        "premise": "Mwen te kite fwi yo sou tab la.",
+        "choice1": "Fwi yo te fè grenn.",
+        "choice2": "Mouch vin anvayi fwi yo.",
+        "label": 1,
+        "changed": false
+    },
+    "331": {
+        "question": "cause",
+        "premise": "Doktè a te diagnoze malad la.",
+        "choice1": "Li te idantifye sentòm malad la.",
+        "choice2": "Li te preskri grenn pou malad la.",
+        "label": 0,
+        "changed": false
+    },
+    "36": {
+        "question": "effect",
+        "premise": "Peyi ki t ap goumen yo te vle lapè.",
+        "choice1": "Yo te develope zam nikleè.",
+        "choice2": "Yo te negosye yon trete.",
+        "label": 1,
+        "changed": false
+    }
+}

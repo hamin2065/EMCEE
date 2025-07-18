@@ -1,0 +1,42 @@
+[
+    {
+        "id": "de-2987",
+        "prompt": "Sie sind ein Experte f\u00fcr nat\u00fcrliche Sprachinferenz. Gegeben sind Pr\u00e4misse und Hypothese, Ihre Aufgabe ist es zu beurteilen, ob die Hypothese wahr, falsch oder unbestimmt ist, basierend auf der Pr\u00e4misse. Die Beziehung kann aus Implikation, Widerspruch und Neutralit\u00e4t gew\u00e4hlt werden.\nPremise: Gewinn oder Verlust sollten als ein unwiederbringlicher Gewinn oder Verlust ausgewiesen sein\nHypothesis: Wenn Sie den Gewinn oder Verlust verbuchen, machen Sie daraus einen Gewinn oder Verlust ohne Kursverlust.\nDu solltest die endg\u00fcltige Antwort am Ende im Format angeben: 'Beziehung: [Implikation, Neutral oder Widerspruch]'.",
+        "response": "Beziehung: Widerspruch",
+        "predicted_answer": 2,
+        "ground_truth": 0,
+        "is_correct": false
+    },
+    {
+        "id": "de-2136",
+        "prompt": "Sie sind ein Experte f\u00fcr nat\u00fcrliche Sprachinferenz. Gegeben sind Pr\u00e4misse und Hypothese, Ihre Aufgabe ist es zu beurteilen, ob die Hypothese wahr, falsch oder unbestimmt ist, basierend auf der Pr\u00e4misse. Die Beziehung kann aus Implikation, Widerspruch und Neutralit\u00e4t gew\u00e4hlt werden.\nPremise: Auch einen Besuch wert sind das Haus von Balzac (47 Rue Razanouard) und das Studio Delacroix (6 Rue de Furstenberg).\nHypothesis: Balzas Zuhause und Delacroix' Studio sind die besten Dinge, die man sich in der Gegend ansehen kann.\nDu solltest die endg\u00fcltige Antwort am Ende im Format angeben: 'Beziehung: [Implikation, Neutral oder Widerspruch]'.",
+        "response": "Beziehung: Neutral",
+        "predicted_answer": 1,
+        "ground_truth": 1,
+        "is_correct": true
+    },
+    {
+        "id": "de-1085",
+        "prompt": "Sie sind ein Experte f\u00fcr nat\u00fcrliche Sprachinferenz. Gegeben sind Pr\u00e4misse und Hypothese, Ihre Aufgabe ist es zu beurteilen, ob die Hypothese wahr, falsch oder unbestimmt ist, basierend auf der Pr\u00e4misse. Die Beziehung kann aus Implikation, Widerspruch und Neutralit\u00e4t gew\u00e4hlt werden.\nPremise: Die Girlanden in Geb\u00e4uden des achtzehnten Jahrhunderts sind gemei\u00dfelte oder gemalte Versionen der Sch\u00e4rpen und gebl\u00fchten Ornamente, die von M\u00e4nnern und Frauen getragen werden.\nHypothesis: Die Girlanden in den Geb\u00e4uden des achtzehnten Jahrhunderts sind Abwandlungen der von den Menschen getragenen Sch\u00e4rpen und Ornamente.\nDu solltest die endg\u00fcltige Antwort am Ende im Format angeben: 'Beziehung: [Implikation, Neutral oder Widerspruch]'.",
+        "response": "Beziehung: Implikation",
+        "predicted_answer": 0,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "de-1720",
+        "prompt": "Sie sind ein Experte f\u00fcr nat\u00fcrliche Sprachinferenz. Gegeben sind Pr\u00e4misse und Hypothese, Ihre Aufgabe ist es zu beurteilen, ob die Hypothese wahr, falsch oder unbestimmt ist, basierend auf der Pr\u00e4misse. Die Beziehung kann aus Implikation, Widerspruch und Neutralit\u00e4t gew\u00e4hlt werden.\nPremise: Es gab hier ganz offensichtlich eine vage Drohung, einen meuternden Geist, den er nicht verstehen konnte.\nHypothesis: Er hat die bevorstehende Gefahr sehr wohl verstanden.\nDu solltest die endg\u00fcltige Antwort am Ende im Format angeben: 'Beziehung: [Implikation, Neutral oder Widerspruch]'.",
+        "response": "Beziehung: Widerspruch",
+        "predicted_answer": 2,
+        "ground_truth": 2,
+        "is_correct": true
+    },
+    {
+        "id": "de-4630",
+        "prompt": "Sie sind ein Experte f\u00fcr nat\u00fcrliche Sprachinferenz. Gegeben sind Pr\u00e4misse und Hypothese, Ihre Aufgabe ist es zu beurteilen, ob die Hypothese wahr, falsch oder unbestimmt ist, basierend auf der Pr\u00e4misse. Die Beziehung kann aus Implikation, Widerspruch und Neutralit\u00e4t gew\u00e4hlt werden.\nPremise: Sage brechen, Steak, doch kahl und Streifen.\nHypothesis: Sag Biegung.\nDu solltest die endg\u00fcltige Antwort am Ende im Format angeben: 'Beziehung: [Implikation, Neutral oder Widerspruch]'.",
+        "response": "Beziehung: Widerspruch",
+        "predicted_answer": 2,
+        "ground_truth": 1,
+        "is_correct": false
+    }
+]

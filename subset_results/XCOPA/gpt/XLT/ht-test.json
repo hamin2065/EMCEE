@@ -1,0 +1,42 @@
+[
+    {
+        "id": "107",
+        "prompt": "I want you to act as a commonsense reasoning expert for haitian creole.\nHere is a premise: Saldeben an te inonde.. What is the cause? Help me pick the more plausible option: -choice1: Twal\u00e8t la te deb\u00f2de., -choice2: Chofdlo a te kase..\nYou should retell the premise and the options in English.\nYou should do step-by-step answer to pick a choice.\nYou should step-by-step answer the request.\nYou should tell me the choice number in this format 'Answer: '.",
+        "response": "Premise: The bathroom was flooded.  \nOptions:  \n- Choice 1: The toilet overflowed.  \n- Choice 2: The sink broke.  \n\nStep 1: Analyze the premise. The premise states that the bathroom was flooded, which indicates that there was an excess of water in the bathroom.\n\nStep 2: Evaluate Choice 1: \"The toilet overflowed.\" An overflowing toilet is a common cause of flooding in a bathroom, as it can lead to water spilling out onto the floor.\n\nStep 3: Evaluate Choice 2: \"The sink broke.\" While a broken sink could potentially cause flooding, it is less common than a toilet overflow. A broken sink might leak water, but it typically wouldn't result in a significant flood unless the break was severe.\n\nStep 4: Compare the two choices. Given that an overflowing toilet is a more direct and common cause of flooding in a bathroom compared to a broken sink, Choice 1 is more plausible.\n\nAnswer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "464",
+        "prompt": "I want you to act as a commonsense reasoning expert for haitian creole.\nHere is a premise: Fanmi a te vle f\u00e8 konesans nouvo vwazen yo.. What is the effect? Help me pick the more plausible option: -choice1: Fanmi a te envite vwazen yo pou dine., -choice2: Fanmi a te voye men bay vwazen yo nan lakou a..\nYou should retell the premise and the options in English.\nYou should do step-by-step answer to pick a choice.\nYou should step-by-step answer the request.\nYou should tell me the choice number in this format 'Answer: '.",
+        "response": "Premise: The family wanted to get to know their new neighbors.\n\nOptions:\n- Choice 1: The family invited the neighbors over for dinner.\n- Choice 2: The family waved to the neighbors in the yard.\n\nStep 1: Analyze the premise. The family has a desire to get to know their new neighbors, which suggests they are looking for a way to establish a connection or relationship.\n\nStep 2: Evaluate Choice 1. Inviting the neighbors over for dinner is a common and effective way to get to know someone better. It implies a more personal interaction and a willingness to engage in conversation and share experiences.\n\nStep 3: Evaluate Choice 2. Waving to the neighbors in the yard is a friendly gesture, but it is a much less personal and less engaging way to get to know someone. It does not facilitate deeper interaction or conversation.\n\nStep 4: Compare the two choices. Choice 1 (inviting for dinner) aligns more closely with the goal of getting to know the neighbors, while Choice 2 (waving) does not significantly contribute to that goal.\n\nBased on this analysis, the more plausible option is:\n\nAnswer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "63",
+        "prompt": "I want you to act as a commonsense reasoning expert for haitian creole.\nHere is a premise: Men mwen te sezi.. What is the cause? Help me pick the more plausible option: -choice1: Mwen te ekri redaksyon an a la men., -choice2: Madanm mwen kenbe men av\u00e8 mwen..\nYou should retell the premise and the options in English.\nYou should do step-by-step answer to pick a choice.\nYou should step-by-step answer the request.\nYou should tell me the choice number in this format 'Answer: '.",
+        "response": "**Premise:** \"But I was surprised...\"\n\n**Options:**\n- **Choice 1:** \"I wrote the essay by hand.\"\n- **Choice 2:** \"My wife held my hand.\"\n\n**Step-by-step reasoning:**\n\n1. **Understanding the Premise:** The speaker expresses surprise, which indicates that something unexpected or unusual has occurred.\n\n2. **Analyzing Choice 1:** \"I wrote the essay by hand.\" This statement does not inherently suggest a reason for surprise. Writing an essay by hand is a common activity and may not evoke a strong emotional response.\n\n3. **Analyzing Choice 2:** \"My wife held my hand.\" This action can be interpreted in various ways. It could imply affection, support, or a moment of intimacy, which might be surprising depending on the context of their relationship or the situation they are in.\n\n4. **Comparing the Choices:** Choice 1 does not provide a strong reason for surprise, while Choice 2 suggests a personal and emotional moment that could easily lead to feelings of surprise.\n\n5. **Conclusion:** Given that the premise indicates surprise, Choice 2 is the more plausible option as it relates to an emotional experience.\n\n**Answer: 2**",
+        "predicted_answer": 2,
+        "ground_truth": 0,
+        "is_correct": false
+    },
+    {
+        "id": "454",
+        "prompt": "I want you to act as a commonsense reasoning expert for haitian creole.\nHere is a premise: Madanm nan te trebiche sou trotwa a.. What is the cause? Help me pick the more plausible option: -choice1: Te gen yon fant nan siman an., -choice2: Li te tande yon moun ap rele non li..\nYou should retell the premise and the options in English.\nYou should do step-by-step answer to pick a choice.\nYou should step-by-step answer the request.\nYou should tell me the choice number in this format 'Answer: '.",
+        "response": "Premise: The woman stumbled on the sidewalk.  \nOptions:  \n- Choice 1: There was a crack in the concrete.  \n- Choice 2: She heard someone calling her name.  \n\nStep 1: Analyze the premise. The woman stumbled, which suggests that there was something that caused her to lose her balance or trip. \n\nStep 2: Evaluate Choice 1: \"There was a crack in the concrete.\" A crack in the sidewalk could easily cause someone to trip or stumble, making this a plausible cause for her stumbling.\n\nStep 3: Evaluate Choice 2: \"She heard someone calling her name.\" While hearing someone call her name could distract her, it does not directly cause her to stumble. It might lead to a loss of focus, but it is less likely to be the direct cause of stumbling compared to a physical obstacle.\n\nStep 4: Compare the two choices. Choice 1 presents a direct physical cause for the stumble, while Choice 2 is more about distraction, which is less likely to result in stumbling.\n\nBased on this analysis, the more plausible option is Choice 1.\n\nAnswer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    },
+    {
+        "id": "456",
+        "prompt": "I want you to act as a commonsense reasoning expert for haitian creole.\nHere is a premise: Mwen te pran antibyotik.. What is the effect? Help me pick the more plausible option: -choice1: Enfeksyon mwen te geri., -choice2: Enfeksyon mwen te gaye..\nYou should retell the premise and the options in English.\nYou should do step-by-step answer to pick a choice.\nYou should step-by-step answer the request.\nYou should tell me the choice number in this format 'Answer: '.",
+        "response": "Premise: \"I took antibiotics.\"  \nOptions:  \n- Choice 1: \"My infection got better.\"  \n- Choice 2: \"My infection spread.\"  \n\nStep 1: Analyze the premise.  \nThe premise states that the person took antibiotics, which are medications used to treat bacterial infections.\n\nStep 2: Evaluate the options.  \n- Choice 1 suggests a positive outcome where the infection improved or was cured due to the antibiotics. This is a common expectation when antibiotics are taken correctly for a bacterial infection.\n- Choice 2 suggests a negative outcome where the infection spread, which is generally not the expected result of taking antibiotics. If antibiotics are effective, they should help control or eliminate the infection.\n\nStep 3: Determine the more plausible option.  \nGiven that antibiotics are intended to treat infections, it is more plausible that taking them would lead to an improvement in the infection rather than it spreading.\n\nAnswer: 1",
+        "predicted_answer": 1,
+        "ground_truth": 0,
+        "is_correct": true
+    }
+]

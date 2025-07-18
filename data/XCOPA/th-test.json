@@ -1,0 +1,802 @@
+{
+    "327": {
+        "question": "effect",
+        "premise": "ผู้ชายรอดจากโรคร้าย",
+        "choice1": "เขาเซ็นพินัยกรรม",
+        "choice2": "เขาได้รับการปลูกถ่ายอวัยวะ",
+        "label": 1,
+        "changed": false
+    },
+    "57": {
+        "question": "effect",
+        "premise": "ท่อนํ้าห้องนํ้าตัน",
+        "choice1": "ฉันเปิดก๊อกนํ้า",
+        "choice2": "ฉันเทยาล้างท่อลงไป",
+        "label": 1,
+        "changed": false
+    },
+    "12": {
+        "question": "effect",
+        "premise": "เช็คที่ฉันเขียนเด้ง",
+        "choice1": "บัญชีธนาคารของฉันไม่มีเงิน",
+        "choice2": "ฉันได้รับการขึ้นเงินเดือน",
+        "label": 0,
+        "changed": false
+    },
+    "379": {
+        "question": "effect",
+        "premise": "ฉันหลงเวลา",
+        "choice1": "ฉันใจลอย",
+        "choice2": "ฉันคลื่นไส้",
+        "label": 0,
+        "changed": false
+    },
+    "140": {
+        "question": "effect",
+        "premise": "เด็กชายเหลาดินสอ",
+        "choice1": "ดินสอราคาถูก",
+        "choice2": "ดินสอทู่",
+        "label": 1,
+        "changed": false
+    },
+    "125": {
+        "question": "effect",
+        "premise": "ฝนตกหนัก",
+        "choice1": "พายุโหมหนักขึ้น",
+        "choice2": "ฉันรีบวิ่งเข้าบ้าน",
+        "label": 1,
+        "changed": false
+    },
+    "114": {
+        "question": "effect",
+        "premise": "ฉันอบพายแอปเปิ้ล",
+        "choice1": "กลิ่นเน่าคลุ้งเต็มห้องครัว",
+        "choice2": "กลิ่นหอมฟุ้งเต็มห้องครัว",
+        "label": 1,
+        "changed": false
+    },
+    "71": {
+        "question": "effect",
+        "premise": "ผู้หญิงนอนเพลิน",
+        "choice1": "เธอนอนค้างคืนที่โรงแรม",
+        "choice2": "เธอลืมตั้งนาฬิกาปลุก",
+        "label": 1,
+        "changed": false
+    },
+    "377": {
+        "question": "effect",
+        "premise": "อาชญากรเล็งปืนใส่เหยื่อ",
+        "choice1": "อาชญากรวางปืนลง",
+        "choice2": "เหยื่อยกมือขึ้น",
+        "label": 1,
+        "changed": false
+    },
+    "52": {
+        "question": "effect",
+        "premise": "ต้นไม้ผลัดใบ",
+        "choice1": "ใบไม้เปลี่ยนสี",
+        "choice2": "ใบใม้ตกมารวมกันบนพื้น",
+        "label": 1,
+        "changed": false
+    },
+    "346": {
+        "question": "effect",
+        "premise": "พื้นไม้มีรอยขีดข่วน",
+        "choice1": "เด็กชายปาเบาะลงจากโซฟา",
+        "choice2": "เด็กชายลากเก้าอี้ไปตามพื้น",
+        "label": 1,
+        "changed": false
+    },
+    "496": {
+        "question": "effect",
+        "premise": "ฉันทบทวนปัญหาอย่างรอบคอบ",
+        "choice1": "ฉันต้องการคำแนะนำ",
+        "choice2": "ฉันหาคำตอบได้",
+        "label": 1,
+        "changed": false
+    },
+    "456": {
+        "question": "effect",
+        "premise": "ฉันกินยาปฏิชีวนะ",
+        "choice1": "แผลติดเชื้อหาย",
+        "choice2": "แผลติดเชื้อลุกลาม",
+        "label": 0,
+        "changed": false
+    },
+    "279": {
+        "question": "effect",
+        "premise": "เด็กหญิงเข้าร่วมทีมโต้วาที",
+        "choice1": "เธอฝึกใช้คอมพิวเตอร์",
+        "choice2": "เธอฝึกทักษะการสื่อสาร",
+        "label": 1,
+        "changed": false
+    },
+    "44": {
+        "question": "effect",
+        "premise": "นักประท้วงควํ่าบาตรผลิตภัณฑ์",
+        "choice1": "ผลิตภัณฑ์ถูกตรวจเพื่อคุณภาพ",
+        "choice2": "ผลิตภัณฑ์ถูกผลิตโดยแรงงานเด็ก",
+        "label": 1,
+        "changed": false
+    },
+    "302": {
+        "question": "effect",
+        "premise": "ศิลปินผสมสีเหลืองกับสีน้ำเงิน",
+        "choice1": "สีกระเซ็นไปทั่ว",
+        "choice2": "สีกลายเป็นสีเขียว",
+        "label": 1,
+        "changed": false
+    },
+    "216": {
+        "question": "effect",
+        "premise": "เด็กเรอ",
+        "choice1": "เขาดื่มน้ำอัดลมอึกหนึ่ง",
+        "choice2": "เขาเปิดกระป๋องน้ำอัดลม",
+        "label": 0,
+        "changed": false
+    },
+    "16": {
+        "question": "effect",
+        "premise": "ฉันเทนํ้าลงในแก้ว",
+        "choice1": "นํ้าดับความกระหายของฉัน",
+        "choice2": "แก้วถูกเติมเต็ม",
+        "label": 1,
+        "changed": false
+    },
+    "15": {
+        "question": "effect",
+        "premise": "เด็กผู้หญิงจำรหัสลับ",
+        "choice1": "เขาท่องจำมัน",
+        "choice2": "เขาลืมจดมันลง",
+        "label": 0,
+        "changed": true
+    },
+    "47": {
+        "question": "effect",
+        "premise": "ฉันทำไวน์หกใส่เสื้อ",
+        "choice1": "ฉันใส่ผ้ากันเปื้อน",
+        "choice2": "ฉันเปลี่ยนเสื้อ",
+        "label": 1,
+        "changed": false
+    },
+    "111": {
+        "question": "effect",
+        "premise": "ครอบครัวตามหาทั่วบริเวณ",
+        "choice1": "หมาเขาหนีออกจากบ้าน",
+        "choice2": "เครื่ืองเพชรราคาแพงหายไปจากบ้าน",
+        "label": 0,
+        "changed": false
+    },
+    "119": {
+        "question": "effect",
+        "premise": "ทุกคนไม่เห็นด้วยกับการหมั้นของคู่บ่าวสาว",
+        "choice1": "คู่บ่าวสาวท้อง",
+        "choice2": "คู่บ่าวสาวหนีตามกัน",
+        "label": 1,
+        "changed": false
+    },
+    "258": {
+        "question": "effect",
+        "premise": "หมวกผู้ชายถูกลมพัดปลิว",
+        "choice1": "เขาถอดหมวกออก",
+        "choice2": "ข้างนอกลมแรง",
+        "label": 1,
+        "changed": false
+    },
+    "308": {
+        "question": "effect",
+        "premise": "พ่อแม่วิ่งไปยังห้องนอนลูก",
+        "choice1": "ลูกตื่นจากฝันร้ายร้องลั่น",
+        "choice2": "ลูกกลัวการดูใต้เตียง",
+        "label": 0,
+        "changed": false
+    },
+    "13": {
+        "question": "effect",
+        "premise": "อีเมล์ของผู้ชายเต็มไปด้วยเมล์ขยะ",
+        "choice1": "เขาลบมันออก",
+        "choice2": "เขาส่งเมล์ไปให้หลายคน",
+        "label": 0,
+        "changed": false
+    },
+    "287": {
+        "question": "effect",
+        "premise": "เสื้อของเด็กชายเปียกโชก",
+        "choice1": "เขาปีนออกมาจากสระน้ำ",
+        "choice2": "เขาตกลงไปในสระน้ำ",
+        "label": 1,
+        "changed": false
+    },
+    "101": {
+        "question": "effect",
+        "premise": "ผู้พูดกล่าวคำที่ไม่เหมาะสม",
+        "choice1": "เขาทำให้ผู้ชมเบื่อ",
+        "choice2": "เขาทำให้ผู้ชมโกรธ",
+        "label": 1,
+        "changed": false
+    },
+    "366": {
+        "question": "effect",
+        "premise": "ฉันเบื่อ",
+        "choice1": "ฉันสำลัก",
+        "choice2": "ฉันหาว",
+        "label": 1,
+        "changed": false
+    },
+    "332": {
+        "question": "effect",
+        "premise": "ฉันเกาผิวตัวเอง",
+        "choice1": "มันชุ่มเหงื่อ",
+        "choice2": "มันคัน",
+        "label": 1,
+        "changed": false
+    },
+    "359": {
+        "question": "effect",
+        "premise": "ฉันขอโทษเพื่อน",
+        "choice1": "เพื่อนยกโทษให้ฉัน",
+        "choice2": "เพื่อนโกรธ",
+        "label": 0,
+        "changed": false
+    },
+    "486": {
+        "question": "effect",
+        "premise": "ผู้ชายออกมาจากห้องอาบน้ำ",
+        "choice1": "นํ้าร้อนหมด",
+        "choice2": "เขาหาผ้าเช็ดตัวไม่เจอ",
+        "label": 0,
+        "changed": true
+    },
+    "214": {
+        "question": "effect",
+        "premise": "นักโทษอดอาหาร",
+        "choice1": "เขาตาย",
+        "choice2": "เขาหนีไป",
+        "label": 0,
+        "changed": false
+    },
+    "112": {
+        "question": "effect",
+        "premise": "ฉันเห็นไอจากลมหายใจตัวเอง",
+        "choice1": "อากาศเย็นจัด",
+        "choice2": "ฉันรู้สึกแน่นหน้าอก",
+        "label": 0,
+        "changed": false
+    },
+    "229": {
+        "question": "effect",
+        "premise": "ผู้เล่นเข้าสกัดฝ่ายตรงข้าม",
+        "choice1": "ฝ่ายตรงข้ามรับลูกได้",
+        "choice2": "ฝ่ายตรงข้ามล้มลง",
+        "label": 1,
+        "changed": false
+    },
+    "301": {
+        "question": "effect",
+        "premise": "นักศึกษาจบการศึกษาจากมหาวิทยาลัย",
+        "choice1": "เขาหางานทำ",
+        "choice2": "เขาหางานอดิเรกทำ",
+        "label": 0,
+        "changed": false
+    },
+    "142": {
+        "question": "effect",
+        "premise": "แผลข่วนบนผิวฉันลึก",
+        "choice1": "แผลสมานเร็ว",
+        "choice2": "แผลกลายเป็นแผลเป็น",
+        "label": 1,
+        "changed": false
+    },
+    "414": {
+        "question": "effect",
+        "premise": "คอมพิวเตอร์แลปท็อปเปิดไม่ติด",
+        "choice1": "ฉันทำคอมพิวเตอร์แลปท็อปตก",
+        "choice2": "ฉันเสียบปลั๊กชาร์จคอมพิวเตอร์แลปท็อป",
+        "label": 0,
+        "changed": false
+    },
+    "445": {
+        "question": "effect",
+        "premise": "ผู้หญิงยกมือกุมคอ",
+        "choice1": "เธอกลืนอาหาร",
+        "choice2": "เธอสำลักอาหาร",
+        "label": 1,
+        "changed": false
+    },
+    "3": {
+        "question": "effect",
+        "premise": "นักท่องเที่ยวเดินทางถึงชายแดน",
+        "choice1": "ผู้ตรวจด่านตรวจหนังสือเดินทางของเขา",
+        "choice2": "ผู้ตรวจด่านกล่าวหาว่าเขาแอบนำของออกมา",
+        "label": 0,
+        "changed": false
+    },
+    "388": {
+        "question": "effect",
+        "premise": "เด็กชายหยิกข้อศอกเด็กหญิง",
+        "choice1": "เด็กหญิงยักไหล่ใส่เขา",
+        "choice2": "เด็กหญิงดึงแขนออกห่างจากเขา",
+        "label": 1,
+        "changed": false
+    },
+    "412": {
+        "question": "effect",
+        "premise": "ทหารผ่านศึกเดินกะเผลก",
+        "choice1": "เขาถูกเกณฑ์ไปร่วมสงคราม",
+        "choice2": "เขาได้รับบาดเจ็บในการรบ",
+        "label": 1,
+        "changed": false
+    },
+    "81": {
+        "question": "effect",
+        "premise": "นักเซิร์ฟกลับเข้าชายหาด",
+        "choice1": "เขาตัวเปียก",
+        "choice2": "เขาเห็นฉลาม",
+        "label": 1,
+        "changed": false
+    },
+    "357": {
+        "question": "effect",
+        "premise": "ฉันเลิกงานเร็ว",
+        "choice1": "ฉันปวดหัว",
+        "choice2": "เจ้านายฉันนัดประชุม",
+        "label": 0,
+        "changed": false
+    },
+    "483": {
+        "question": "effect",
+        "premise": "ฉันดูดฝุ่นพรม",
+        "choice1": "เพื่อนร่วมห้องฉันทำนํ้าผลไม้หก",
+        "choice2": "หมาของฉันขนร่วง",
+        "label": 1,
+        "changed": false
+    },
+    "174": {
+        "question": "effect",
+        "premise": "ลานจอดรถหน้าตึกโล่ง",
+        "choice1": "ฉันจอดรถฝั่งตรงข้าม",
+        "choice2": "ฉันจอดรถใกล้ทางเข้า",
+        "label": 1,
+        "changed": false
+    },
+    "464": {
+        "question": "effect",
+        "premise": "ครอบครัวอยากทำความรู้จักกับเพื่อนบ้าน",
+        "choice1": "ครอบครัวเชิญเพื่อนบ้านมากินมื้อเย็น",
+        "choice2": "ครอบครัวโบกมือทักทายเพื่อนจากสนามหน้าบ้าน",
+        "label": 0,
+        "changed": false
+    },
+    "79": {
+        "question": "effect",
+        "premise": "เด็กหญิงเสียการควบคุมจักรยาน",
+        "choice1": "เธอปล่อยแฮนด์จักรยาน",
+        "choice2": "เธอพุ่งเข้าชนรั้ว",
+        "label": 1,
+        "changed": false
+    },
+    "110": {
+        "question": "effect",
+        "premise": "ฉันรับโทรศัพท์แฟนไม่ทัน",
+        "choice1": "ฉันโทรกลับหาเขา",
+        "choice2": "ฉันนัดเขากินมื้อเย็น",
+        "label": 0,
+        "changed": false
+    },
+    "390": {
+        "question": "effect",
+        "premise": "เด็กชายย่ำโคลน",
+        "choice1": "โคลนติดรองเท้าเขา",
+        "choice2": "โคลนกระเด็นใส่หน้าเขา",
+        "label": 0,
+        "changed": false
+    },
+    "172": {
+        "question": "effect",
+        "premise": "ฉันอยากดื่มนมแก้วหนึ่ง",
+        "choice1": "ฉันกินคุกกี้อยู่",
+        "choice2": "ฉันอบขนมปังอยู่",
+        "label": 0,
+        "changed": false
+    },
+    "490": {
+        "question": "effect",
+        "premise": "ข้อเท้าของฉันบวม",
+        "choice1": "ฉันประคบน้ำแข็งบนข้อเท้า",
+        "choice2": "ฉันทาโลชั่นบนข้อเท้า",
+        "label": 0,
+        "changed": false
+    },
+    "480": {
+        "question": "effect",
+        "premise": "ผู้ชายถูกปฎิเสธสินเชื่อ",
+        "choice1": "เขามีหนี้สิน",
+        "choice2": "เขาเริ่มธุรกิจใหม่",
+        "label": 0,
+        "changed": false
+    },
+    "194": {
+        "question": "effect",
+        "premise": "ลาวาไหลออกมาจากภูเขาไฟ",
+        "choice1": "ภูเขาไฟระเบิด",
+        "choice2": "ภูเขาไฟสงบอยู่",
+        "label": 0,
+        "changed": false
+    },
+    "49": {
+        "question": "effect",
+        "premise": "นักดนตรีบนถนนเรียกผู้ชม",
+        "choice1": "คนให้เงินเขา",
+        "choice2": "เขาไล่คนไป",
+        "label": 0,
+        "changed": false
+    },
+    "183": {
+        "question": "effect",
+        "premise": "ช่างภาพลืมเปิดแฟลชที่กล้อง",
+        "choice1": "รูปภาพมัว",
+        "choice2": "ทุกคนในรูปไม่ยอมยิ้ม",
+        "label": 0,
+        "changed": false
+    },
+    "433": {
+        "question": "effect",
+        "premise": "เด็กๆ ถูกส่งไปสถานเลี้ยงเด็กกำพร้า",
+        "choice1": "พ่อแม่ของเด็กเสียชีวิต",
+        "choice2": "พ่อแม่ของเด็กตามใจเด็ก",
+        "label": 0,
+        "changed": false
+    },
+    "176": {
+        "question": "effect",
+        "premise": "พนักงานวางสายใส่ฉัน",
+        "choice1": "ฉันขอคุยกับผู้ดูแล",
+        "choice2": "ฉันแจ้งเลขประจำตัวให้เขา",
+        "label": 0,
+        "changed": false
+    },
+    "309": {
+        "question": "effect",
+        "premise": "ผู้หญิงสื่อสารด้วยภาษามือ",
+        "choice1": "เธอคลอดก่อนกำหนด",
+        "choice2": "เธอหูหนวกตั้งแต่เกิด",
+        "label": 1,
+        "changed": false
+    },
+    "135": {
+        "question": "effect",
+        "premise": "เด็กชายสอบตกวิชาประวัติศาสตร์",
+        "choice1": "เขาตั้งใจเรียน",
+        "choice2": "เขาลืมอ่านหนังสือเรียน",
+        "label": 1,
+        "changed": false
+    },
+    "413": {
+        "question": "effect",
+        "premise": "อาชญากรวิ่งหนีตำรวจ",
+        "choice1": "ตำรวจดูแลเหยื่อ",
+        "choice2": "ตำรวจวิ่งไล่อาชญากร",
+        "label": 1,
+        "changed": false
+    },
+    "22": {
+        "question": "effect",
+        "premise": "ผู้ชายเตรียมตัวรับมือกับความหนาว",
+        "choice1": "เขาเตรียมเสื้อหนาวเอาไว้",
+        "choice2": "เขาเดินทางกับกระเป๋าใบใหญ่",
+        "label": 0,
+        "changed": false
+    },
+    "373": {
+        "question": "effect",
+        "premise": "รถฉันเสีย",
+        "choice1": "ฉันไปเที่ยวห้าง",
+        "choice2": "ฉันโทรเรียกช่าง",
+        "label": 1,
+        "changed": false
+    },
+    "235": {
+        "question": "effect",
+        "premise": "ฉันรู้สึกสบายตัว",
+        "choice1": "ฉันคุกเข่าลงกับพื้น",
+        "choice2": "ฉันห่อตัวในผ้าห่ม",
+        "label": 1,
+        "changed": false
+    },
+    "274": {
+        "question": "effect",
+        "premise": "ผู้จัดการทั่วไปของบริษัทลาออก",
+        "choice1": "บอร์ดบริหารสั่งยุบบริษัท",
+        "choice2": "บอร์ดบริหารหาตัวแทนได้",
+        "label": 1,
+        "changed": false
+    },
+    "63": {
+        "question": "effect",
+        "premise": "มือของฉันเป็นตะคริว",
+        "choice1": "ฉันเขียนบทความด้วยมือ",
+        "choice2": "ฉันจับมือภรรยา",
+        "label": 0,
+        "changed": false
+    },
+    "193": {
+        "question": "effect",
+        "premise": "ผู้หญิงมีรอยคล้ำใต้ตา",
+        "choice1": "เธอไม่นอนทั้งคืน",
+        "choice2": "เธอส่งลูกชายเข้านอน",
+        "label": 0,
+        "changed": false
+    },
+    "40": {
+        "question": "effect",
+        "premise": "นักท่องเที่ยวเข้าห้องเขา",
+        "choice1": "พวกเขาเอาของออกจากกระเป๋า",
+        "choice2": "พวกเขาไปสนามบิน",
+        "label": 0,
+        "changed": false
+    },
+    "282": {
+        "question": "effect",
+        "premise": "รถไฟเหาะพุ่งดิ่งลงทางลาดชัน",
+        "choice1": "คนนั่งหัวเราะคิกคัก",
+        "choice2": "คนนั่งกรีดร้อง",
+        "label": 1,
+        "changed": false
+    },
+    "150": {
+        "question": "effect",
+        "premise": "นักแสดงใจหายก่อนขึ้นแสดง",
+        "choice1": "เขามีอาการตื่นเวที",
+        "choice2": "เขาจำบทพูดตัวเองได้",
+        "label": 0,
+        "changed": false
+    },
+    "424": {
+        "question": "effect",
+        "premise": "ครอบครัวไปเที่ยวสวนสัตว์",
+        "choice1": "เด็กๆ ชื่นชมสัตว์ต่างๆ",
+        "choice2": "เด็กๆ วิ่งไล่สัตว์ต่างๆ",
+        "label": 0,
+        "changed": false
+    },
+    "321": {
+        "question": "effect",
+        "premise": "เด็กหญิงกระซิบโต้ตอบกันบนโต๊ะอาหาร",
+        "choice1": "เด็กคนอื่นนั่งลงที่โต๊ะอาหาร",
+        "choice2": "เด็กคนอื่นในโต๊ะอาหารรู้สึกแปลกแยก",
+        "label": 1,
+        "changed": false
+    },
+    "316": {
+        "question": "effect",
+        "premise": "ฉันตื่นมากลางดึกหนาวสั่น",
+        "choice1": "ฉันใส่กางเกงวอร์มทับ",
+        "choice2": "ฉันดื่มน้ำหนึ่งแก้ว",
+        "label": 0,
+        "changed": false
+    },
+    "185": {
+        "question": "effect",
+        "premise": "ฉันออกกำลังกาย",
+        "choice1": "ฉันรู้สึกมีพลัง",
+        "choice2": "ฉันกลัว",
+        "label": 0,
+        "changed": false
+    },
+    "295": {
+        "question": "effect",
+        "premise": "เสืยงดนตรีเบาเกินจนไม่ได้ยิน",
+        "choice1": "ฉันเร่งเสียง",
+        "choice2": "ฉันแต่งเพลงเอง",
+        "label": 0,
+        "changed": false
+    },
+    "98": {
+        "question": "effect",
+        "premise": "เรานั่งรถไฟเหาะ",
+        "choice1": "มันดูน่ากลัว",
+        "choice2": "มันดูน่าสนุก",
+        "label": 1,
+        "changed": false
+    },
+    "360": {
+        "question": "effect",
+        "premise": "ผู้ชายโดดเด่นออกมาจากฝูงคน",
+        "choice1": "เขาสะพายเป้",
+        "choice2": "เขาใส่เสื้อกั๊กสีสะท้อนแสง",
+        "label": 1,
+        "changed": false
+    },
+    "35": {
+        "question": "effect",
+        "premise": "ฉันควบคุมอารมณ์ไม่อยู่",
+        "choice1": "เพื่อนของฉันทำให้ฉันรอ",
+        "choice2": "เพื่อนฉันถึงตรงเวลา",
+        "label": 0,
+        "changed": false
+    },
+    "23": {
+        "question": "effect",
+        "premise": "เด็กนักเรียนรู้คำตอบ",
+        "choice1": "เขายกมือขึ้น",
+        "choice2": "เขาเกิดขี้เกียจ",
+        "label": 0,
+        "changed": false
+    },
+    "338": {
+        "question": "effect",
+        "premise": "ผู้หญิงชกคนลวนลามเข้าที่จมูก",
+        "choice1": "คนลวนลามสลบเหมือด",
+        "choice2": "คนลวนลามเริ่มเลือดออก",
+        "label": 1,
+        "changed": true
+    },
+    "116": {
+        "question": "effect",
+        "premise": "ไอน้ำพวยพุ่งขึ้นมาจากหม้อน้ำ",
+        "choice1": "น้ำเดือด",
+        "choice2": "ฉันปิดฝาหม้อ",
+        "label": 0,
+        "changed": false
+    },
+    "395": {
+        "question": "effect",
+        "premise": "ครอบครัวแสดงความยินดีกับคู่รัก",
+        "choice1": "คู่รักประกาศว่าเขาจะแยกทางกัน",
+        "choice2": "คู่รักประกาศว่าเขากำลังจะมีลูก",
+        "label": 1,
+        "changed": false
+    },
+    "148": {
+        "question": "effect",
+        "premise": "ผู้หญิงอยู่บ้านไม่ไปทำงาน",
+        "choice1": "เจ้านายชมเชยเธอ",
+        "choice2": "เพื่อนร่วมงานช่วยทำงานแทนเธอ",
+        "label": 1,
+        "changed": false
+    },
+    "444": {
+        "question": "effect",
+        "premise": "ผู้ชายเข้ารับการบำบัด",
+        "choice1": "ครอบครัวเขามักมีอาการป่วยทางจิต",
+        "choice2": "เขาได้รับวินิจฉันว่าเป็นโรคซึมเศร้า",
+        "label": 1,
+        "changed": false
+    },
+    "478": {
+        "question": "effect",
+        "premise": "เด็กหญิงดูซีด",
+        "choice1": "พ่อของเธออ่านหนังสือให้ฟัง",
+        "choice2": "พ่อของเธอจับหน้าผากของเธอ",
+        "label": 1,
+        "changed": false
+    },
+    "51": {
+        "question": "effect",
+        "premise": "เรดาร์ของนักบินจับสัญญาณพายุได้",
+        "choice1": "นักบินขับเครื่องเลี่ยงพายุ",
+        "choice2": "นักบินพาเครื่องบินฝ่าพายุ",
+        "label": 0,
+        "changed": false
+    },
+    "447": {
+        "question": "effect",
+        "premise": "หมาจ้องมองสเต็กบนโต๊ะ",
+        "choice1": "น้ำลายมันไหล",
+        "choice2": "มันนอนลง",
+        "label": 0,
+        "changed": false
+    },
+    "454": {
+        "question": "effect",
+        "premise": "ผู้หญิงเดินสะดุดบนทางเท้า",
+        "choice1": "มีรอยแตกบนพื้นปูน",
+        "choice2": "เธอได้ยินคนเรียกชื่อ",
+        "label": 0,
+        "changed": false
+    },
+    "232": {
+        "question": "effect",
+        "premise": "ปรอทในเทอร์โมมิเตอร์สูงขึ้น",
+        "choice1": "ฉันทำเทอร์โมมิเตอร์ตก",
+        "choice2": "อากาศอุ่นขึ้น",
+        "label": 1,
+        "changed": false
+    },
+    "325": {
+        "question": "effect",
+        "premise": "ไฟป่าลุกลาม",
+        "choice1": "ลมกรรโชกแรงขึ้น",
+        "choice2": "ผู้วางเพลิงถูกจับกุม",
+        "label": 0,
+        "changed": false
+    },
+    "186": {
+        "question": "effect",
+        "premise": "ฉันบีบฟองน้ำเปียก",
+        "choice1": "มันดูดซับน้ำ",
+        "choice2": "น้ำไหลออกมา",
+        "label": 1,
+        "changed": false
+    },
+    "83": {
+        "question": "effect",
+        "premise": "สามีรู้สึกผิดที่นอกใจภรรยา",
+        "choice1": "เขากล่าวหาว่าเธอคบชู้",
+        "choice2": "เขาสารภาพกับเธอว่าเขาคบชู้",
+        "label": 1,
+        "changed": false
+    },
+    "189": {
+        "question": "effect",
+        "premise": "รถไม่คุ้นตาจอดอยู่หน้าบ้านฉัน",
+        "choice1": "ฉันระแวง",
+        "choice2": "ฉันโทรเรียกตำรวจ",
+        "label": 0,
+        "changed": false
+    },
+    "181": {
+        "question": "effect",
+        "premise": "เด็กทารกหลับ",
+        "choice1": "พ่อเปลี่ยนผ้าอ้อมให้เด็กทารก",
+        "choice2": "พ่อไกวเปลให้เด็กทารกอย่างนุ่มนวล",
+        "label": 1,
+        "changed": false
+    },
+    "107": {
+        "question": "effect",
+        "premise": "น้ำท่วมห้องน้ำ",
+        "choice1": "น้ำในชักโครกล้น",
+        "choice2": "เครื่องทำน้ำร้อนเสีย",
+        "label": 0,
+        "changed": false
+    },
+    "343": {
+        "question": "effect",
+        "premise": "ผู้หญิงไม่มีเงินจ่ายค่าเช่าบ้าน",
+        "choice1": "เธอทำงานล่วงเวลา",
+        "choice2": "เธอลาออกจากงาน",
+        "label": 0,
+        "changed": false
+    },
+    "136": {
+        "question": "effect",
+        "premise": "ตึกกลางเมืองถล่ม",
+        "choice1": "แผ่นดินไหวในเมือง",
+        "choice2": "อัตราการเกิดอาชญากรรมในเมืองสูงขึ้น",
+        "label": 0,
+        "changed": false
+    },
+    "470": {
+        "question": "effect",
+        "premise": "รายการทีวีถูกเซ็นเซอร์เนื้อหา",
+        "choice1": "มันมีคำไม่สุภาพ",
+        "choice2": "มันมีเนื้อเรื่องที่ซับซ้อน",
+        "label": 0,
+        "changed": false
+    },
+    "349": {
+        "question": "effect",
+        "premise": "ฉันวางผลไม้ทิ้งไว้บนโต๊ะ",
+        "choice1": "ผลไม้แตกเมล็ด",
+        "choice2": "แมลงวันตอมผลไม้",
+        "label": 1,
+        "changed": false
+    },
+    "331": {
+        "question": "effect",
+        "premise": "แพทย์วินิจฉัยโรคผู้ป่วย",
+        "choice1": "เธอสังเกตอาการผู้ป่วย",
+        "choice2": "เธอสั่งยาให้ผู้ป่วย",
+        "label": 0,
+        "changed": false
+    },
+    "36": {
+        "question": "effect",
+        "premise": "ประเทศที่ขัดแย้งต้องการสันติภาพ",
+        "choice1": "พวกเขาพัฒนาอาวุธนิวเคลียร์",
+        "choice2": "พวกเขาต่อรองสนธิสัญญา",
+        "label": 1,
+        "changed": false
+    }
+}

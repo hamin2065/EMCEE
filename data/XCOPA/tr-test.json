@@ -1,0 +1,802 @@
+{
+    "327": {
+        "question": "cause",
+        "premise": "Adam ölümcül hastalığı atlattı.",
+        "choice1": "Vasiyetini imzaladı.",
+        "choice2": "Adama organ nakli yapıldı.",
+        "label": 1,
+        "changed": false
+    },
+    "57": {
+        "question": "effect",
+        "premise": "Banyo lavabosu tıkanmış.",
+        "choice1": "Musluğu açtım.",
+        "choice2": "Lavabo temizleyicisini içine döktüm.",
+        "label": 1,
+        "changed": false
+    },
+    "12": {
+        "question": "effect",
+        "premise": "Yazdığım çek karşılıksız çıktı.",
+        "choice1": "Banka hesabımda para yoktu.",
+        "choice2": "Maaş zammı kazandım.",
+        "label": 0,
+        "changed": false
+    },
+    "379": {
+        "question": "cause",
+        "premise": "Zaman nasıl geçti bilemedim.",
+        "choice1": "Hayal kuruyordum.",
+        "choice2": "Midem bulanıyordu.",
+        "label": 0,
+        "changed": false
+    },
+    "140": {
+        "question": "cause",
+        "premise": "Erkek çocuk kalemi sivriltti.",
+        "choice1": "Kalem ucuzdu.",
+        "choice2": "Kalem körleşmişti.",
+        "label": 1,
+        "changed": false
+    },
+    "125": {
+        "question": "effect",
+        "premise": "Yağmur yağıyordu.",
+        "choice1": "Fırtına daha kötü oldu.",
+        "choice2": "İçeri girmek için hızla koştum.",
+        "label": 1,
+        "changed": false
+    },
+    "114": {
+        "question": "effect",
+        "premise": "ELma pastası pişirdim.",
+        "choice1": "Mutfağı bir çürüme kokusu doldurdu.",
+        "choice2": "Taze bir arona mutfağı doldurdu.",
+        "label": 1,
+        "changed": false
+    },
+    "71": {
+        "question": "effect",
+        "premise": "Kadın uyuyakaldı.",
+        "choice1": "Geceyi bir otelde geçirdi.",
+        "choice2": "Çalar saatini kurmayı unuttu.",
+        "label": 1,
+        "changed": false
+    },
+    "377": {
+        "question": "effect",
+        "premise": "Suçlu silahını mağdura yöneltti.",
+        "choice1": "Suçlu silahını indirdi.",
+        "choice2": "Mağdur ellerini kaldırdı.",
+        "label": 1,
+        "changed": false
+    },
+    "52": {
+        "question": "effect",
+        "premise": "Ağaç yapraklarını döktü.",
+        "choice1": "Yapraklar renkleri değişti.",
+        "choice2": "Yerlerde yapraklar birikti.",
+        "label": 1,
+        "changed": true
+    },
+    "346": {
+        "question": "cause",
+        "premise": "Tahta zemin çizilmeye başladı.",
+        "choice1": "Genç, koltuktaki yastıkları kaldırdı.",
+        "choice2": "Genç, bir sandalyeyi zeminde sürükledi.",
+        "label": 1,
+        "changed": false
+    },
+    "496": {
+        "question": "effect",
+        "premise": "Problemi taraflıca düşündüm.",
+        "choice1": "Tavsiye istedim.",
+        "choice2": "Bir çözüm aklıma geldi.",
+        "label": 1,
+        "changed": false
+    },
+    "456": {
+        "question": "effect",
+        "premise": "Antibiyotik aldım.",
+        "choice1": "Enfeksiyonum temizlendi.",
+        "choice2": "Enfeksiyonum yayıldı.",
+        "label": 0,
+        "changed": false
+    },
+    "279": {
+        "question": "effect",
+        "premise": "Kız münazara takımına katıldı.",
+        "choice1": "O bilgisayar kullnmayı öğrendi.",
+        "choice2": "O iletişim becerileri öğrendi.",
+        "label": 1,
+        "changed": false
+    },
+    "44": {
+        "question": "effect",
+        "premise": "Aktivistler ürünleri boykot ettiler.",
+        "choice1": "Ürünler kalite güvencesi için test edilmiştir.",
+        "choice2": "Ürünler çocuk işçiliği ile üretildi.",
+        "label": 1,
+        "changed": false
+    },
+    "302": {
+        "question": "effect",
+        "premise": "Sanatçı, sarı boyayı mavi boya ile karıştırdı.",
+        "choice1": "Boya her yere bulaştı.",
+        "choice2": "Boya yeşile dönüştü.",
+        "label": 1,
+        "changed": false
+    },
+    "216": {
+        "question": "cause",
+        "premise": "Çocuk geğirdi.",
+        "choice1": "O sodadan bir yudum aldı.",
+        "choice2": "O soda kapağını açtı.",
+        "label": 0,
+        "changed": false
+    },
+    "16": {
+        "question": "effect",
+        "premise": "Bardağa su doldurdum.",
+        "choice1": "Su susuzluğumu giderdi.",
+        "choice2": "Bardak doldu.",
+        "label": 1,
+        "changed": false
+    },
+    "15": {
+        "question": "effect",
+        "premise": "Kız kodu ezberledi.",
+        "choice1": "Kendi kendine okudu.",
+        "choice2": "Yazmayı unuttu.",
+        "label": 0,
+        "changed": false
+    },
+    "47": {
+        "question": "effect",
+        "premise": "Gömleğime şarap döktüm.",
+        "choice1": "Bir önlük giydim.",
+        "choice2": "Gömleğimi değiştirdim.",
+        "label": 1,
+        "changed": false
+    },
+    "111": {
+        "question": "cause",
+        "premise": "Aile semti aradı.",
+        "choice1": "Köpekleri evden kaçmıştı.",
+        "choice2": "Pahalı mücevherleri evden kaybolmuştu.",
+        "label": 0,
+        "changed": false
+    },
+    "119": {
+        "question": "effect",
+        "premise": "Herkes çiftin nişanından kayboldu.",
+        "choice1": "Çift hamile kaldı.",
+        "choice2": "Çift gizlice kaçtı.",
+        "label": 1,
+        "changed": false
+    },
+    "258": {
+        "question": "cause",
+        "premise": "Adamın şapkası uçtu.",
+        "choice1": "O şapkasını çıkardı.",
+        "choice2": "Dışarısı rüzgarlıydı.",
+        "label": 1,
+        "changed": false
+    },
+    "308": {
+        "question": "cause",
+        "premise": "Ebeveynleri çocuklarının odasına koştu.",
+        "choice1": "Çocuk çığlık içinde kabusundan uyandı.",
+        "choice2": "Çocuk yatağının altına bakmaktan korkuyordu.",
+        "label": 0,
+        "changed": false
+    },
+    "13": {
+        "question": "effect",
+        "premise": "Adamın e-posta gelen kutusu spam ile doluydu.",
+        "choice1": "Spam'i sildi.",
+        "choice2": "Toplu bir e-posta gönderdi.",
+        "label": 0,
+        "changed": false
+    },
+    "287": {
+        "question": "cause",
+        "premise": "Oğlanın kıyafetleri ıslandı.",
+        "choice1": "O havuzdan çıktı.",
+        "choice2": "O havuza düştü.",
+        "label": 1,
+        "changed": false
+    },
+    "101": {
+        "question": "effect",
+        "premise": "Konuşmacı politik olarak yanlış yorumlar yaptı.",
+        "choice1": "O izleyicileri sıktı.",
+        "choice2": "O izleyicleri rencide etti.",
+        "label": 1,
+        "changed": false
+    },
+    "366": {
+        "question": "effect",
+        "premise": "Sıkıldığımı hissettim.",
+        "choice1": "Horladım.",
+        "choice2": "Esnedim.",
+        "label": 1,
+        "changed": false
+    },
+    "332": {
+        "question": "cause",
+        "premise": "Derimi kaşıdım.",
+        "choice1": "Terliydi.",
+        "choice2": "Kaşıntı hissettim.",
+        "label": 1,
+        "changed": false
+    },
+    "359": {
+        "question": "effect",
+        "premise": "Arkadaşıma özür diledim.",
+        "choice1": "Arkadaşım beni affetti.",
+        "choice2": "Arkadaşım öfkelendi.",
+        "label": 0,
+        "changed": false
+    },
+    "486": {
+        "question": "cause",
+        "premise": "Adam duştan çıktı.",
+        "choice1": "Sıcak su akmıyordu.",
+        "choice2": "Havlu bulamadı.",
+        "label": 0,
+        "changed": false
+    },
+    "214": {
+        "question": "effect",
+        "premise": "Mahkum çok açlık çekti.",
+        "choice1": "O öldü.",
+        "choice2": "O kaçtı.",
+        "label": 0,
+        "changed": false
+    },
+    "112": {
+        "question": "cause",
+        "premise": "Nefes verirken nefesimi gördüm.",
+        "choice1": "Hava soğuktu.",
+        "choice2": "Göğsüm sıkışmış hissettim.",
+        "label": 0,
+        "changed": false
+    },
+    "229": {
+        "question": "effect",
+        "premise": "Oyuncu rakibi ile mücadele etti.",
+        "choice1": "Rakibi pası yakaladı.",
+        "choice2": "Rakibi yere düştü.",
+        "label": 1,
+        "changed": false
+    },
+    "301": {
+        "question": "effect",
+        "premise": "Öğrenci, üniversiteden mezun oldu.",
+        "choice1": "İş aradı.",
+        "choice2": "Bir hobi edindi.",
+        "label": 0,
+        "changed": false
+    },
+    "142": {
+        "question": "effect",
+        "premise": "Derimdeki çizgi derindi.",
+        "choice1": "Hızlıca iyileşti.",
+        "choice2": "O yara izi bıraktı.",
+        "label": 1,
+        "changed": false
+    },
+    "414": {
+        "question": "cause",
+        "premise": "Laptop açılmıyordu.",
+        "choice1": "Onu düşürdüm.",
+        "choice2": "Onu şarj ettim.",
+        "label": 0,
+        "changed": true
+    },
+    "445": {
+        "question": "cause",
+        "premise": "Kadın boğazını tuttu.",
+        "choice1": "Lokmasını yuttu.",
+        "choice2": "Lokmasında boğuldu.",
+        "label": 1,
+        "changed": false
+    },
+    "3": {
+        "question": "effect",
+        "premise": "Yolcular sınıra ulaştı.",
+        "choice1": "Devriye ajanı pasaportlarını kontrol etti.",
+        "choice2": "Devriye ajanı onları kaçakçılıkla suçladı.",
+        "label": 0,
+        "changed": false
+    },
+    "388": {
+        "question": "effect",
+        "premise": "Çocuk kızın dirseğini cimcikledi.",
+        "choice1": "Kız çocuğa omuz silkmeledi.",
+        "choice2": "Kız kolunu ondan uzağa çekti.",
+        "label": 1,
+        "changed": false
+    },
+    "412": {
+        "question": "cause",
+        "premise": "Gazi sekerek yürüyordu.",
+        "choice1": "Savaşa çağırılmıştı.",
+        "choice2": "Savaşta yaralanmıştı.",
+        "label": 1,
+        "changed": false
+    },
+    "81": {
+        "question": "effect",
+        "premise": "Sörfçüler sahile döndü.",
+        "choice1": "Sırılsıklam olmuşlardı.",
+        "choice2": "Köpekbalığı gördüler.",
+        "label": 1,
+        "changed": false
+    },
+    "357": {
+        "question": "cause",
+        "premise": "İşten erken çıktım.",
+        "choice1": "Başım ağrıyordu.",
+        "choice2": "Patron toplantı düzenledi.",
+        "label": 0,
+        "changed": false
+    },
+    "483": {
+        "question": "cause",
+        "premise": "Halıyı süpürdüm.",
+        "choice1": "Oda arkadaşım içeceğini döktü.",
+        "choice2": "Köpeğim saç döktü.",
+        "label": 1,
+        "changed": false
+    },
+    "174": {
+        "question": "effect",
+        "premise": "Binanın park yeri boştu.",
+        "choice1": "Sokağın karşısına park ettim.",
+        "choice2": "Girişin yanına park ettim.",
+        "label": 1,
+        "changed": false
+    },
+    "464": {
+        "question": "effect",
+        "premise": "Aile komşularını tanımak istiyordu.",
+        "choice1": "Aile komşılarını yemeğe çağırdı.",
+        "choice2": "Aile bahçeden komşularına el salladı.",
+        "label": 0,
+        "changed": false
+    },
+    "79": {
+        "question": "effect",
+        "premise": "Kız bisikletinin kontrolunu kaybetti.",
+        "choice1": "Gidonları serbest bıraktı.",
+        "choice2": "Bir çite çarptı.",
+        "label": 1,
+        "changed": false
+    },
+    "110": {
+        "question": "effect",
+        "premise": "Kız arkadaşımın aramasını kaçırdım.",
+        "choice1": "Onu geri aradım.",
+        "choice2": "Onunlar akşam yemeğinde buluştuk.",
+        "label": 0,
+        "changed": false
+    },
+    "390": {
+        "question": "effect",
+        "premise": "Çocuk çamura bastı.",
+        "choice1": "Ayakkabısına çamur yapıştı.",
+        "choice2": "Çamur suratına sıçradı.",
+        "label": 0,
+        "changed": false
+    },
+    "172": {
+        "question": "cause",
+        "premise": "Canım bir bardak süt çekti.",
+        "choice1": "Kurabiye yiyordum.",
+        "choice2": "Ekmek yapıyordum.",
+        "label": 0,
+        "changed": false
+    },
+    "490": {
+        "question": "effect",
+        "premise": "Bileğim şişti.",
+        "choice1": "Üzerine buz koydum.",
+        "choice2": "Üzerini kremledim.",
+        "label": 0,
+        "changed": false
+    },
+    "480": {
+        "question": "cause",
+        "premise": "Adamın kredi talebi reddedildi.",
+        "choice1": "Adam borçluydu.",
+        "choice2": "Adam bir iş başlattı.",
+        "label": 0,
+        "changed": false
+    },
+    "194": {
+        "question": "cause",
+        "premise": "Lav volkandan aktı.",
+        "choice1": "Volkan patladı.",
+        "choice2": "Volkan aktif değildi.",
+        "label": 0,
+        "changed": false
+    },
+    "49": {
+        "question": "effect",
+        "premise": "Sokak müzisyeni bir kalabalık çekti.",
+        "choice1": "İnsanlar ona madeni para verdi.",
+        "choice2": "Kalabalığı dağıttı.",
+        "label": 0,
+        "changed": false
+    },
+    "183": {
+        "question": "effect",
+        "premise": "Fotoğrafçı kameradaki flaşı kullanmayı unuttu.",
+        "choice1": "Fotoğraflar bulanık çıktı.",
+        "choice2": "Fotoğraftaki herkes gülmeyi reddetti.",
+        "label": 0,
+        "changed": false
+    },
+    "433": {
+        "question": "cause",
+        "premise": "Çocuklar yetimhaneye gönderildi.",
+        "choice1": "Aileleri vefat etti.",
+        "choice2": "Aileleri onları şımarttı.",
+        "label": 0,
+        "changed": false
+    },
+    "176": {
+        "question": "cause",
+        "premise": "İş arkadaşım bana kafayı taktı.",
+        "choice1": "Yöneticiyle konuşmak istedim.",
+        "choice2": "Kimlik numaramı verdim.",
+        "label": 0,
+        "changed": false
+    },
+    "309": {
+        "question": "cause",
+        "premise": "Kadın işaret diliyle iletişim kuruyordu.",
+        "choice1": "Kadın erken doğum sonucu dünyaya gelmişti.",
+        "choice2": "Kadın doğuştan sağırdı.",
+        "label": 1,
+        "changed": false
+    },
+    "135": {
+        "question": "cause",
+        "premise": "Erkek çocuk tarih sınavından kaldı.",
+        "choice1": "O derse dikkati verdi.",
+        "choice2": "O çalışmayı unuttu.",
+        "label": 1,
+        "changed": false
+    },
+    "413": {
+        "question": "effect",
+        "premise": "Suçlu polisten kaçtı.",
+        "choice1": "Polis mağdurla ilgilendi.",
+        "choice2": "Polis suçluyu takip etti.",
+        "label": 1,
+        "changed": false
+    },
+    "22": {
+        "question": "effect",
+        "premise": "Adam yolculuğunda soğuk hava bekliyordu.",
+        "choice1": "Bavuluna sıcak tutacak giysiler koydu.",
+        "choice2": "Büyük bir bavulla seyahat etti.",
+        "label": 0,
+        "changed": false
+    },
+    "373": {
+        "question": "effect",
+        "premise": "Arabam bozuldu.",
+        "choice1": "Alışveriş merkezine gittim.",
+        "choice2": "Araba tamircisi çağırdım.",
+        "label": 1,
+        "changed": false
+    },
+    "235": {
+        "question": "cause",
+        "premise": "Rahat hissediyorum.",
+        "choice1": "Yere diz çöktüm.",
+        "choice2": "Kendimi battaniye ile sardım.",
+        "label": 1,
+        "changed": false
+    },
+    "274": {
+        "question": "effect",
+        "premise": "Şirketin ceosu istifa etti.",
+        "choice1": "Yönetim kurulu şirketi feshetti.",
+        "choice2": "Yönetim kurulu onun yerine birini buldu.",
+        "label": 1,
+        "changed": false
+    },
+    "63": {
+        "question": "effect",
+        "premise": "Elime kramp girdi.",
+        "choice1": "Elimle yazı yazdım.",
+        "choice2": "Karımla el ele tutuştuk.",
+        "label": 0,
+        "changed": false
+    },
+    "193": {
+        "question": "cause",
+        "premise": "Kadının gözlerinin altında halkaları var.",
+        "choice1": "O bütün gece ayakta kaldı.",
+        "choice2": "O oğlunu yatağa koydu.",
+        "label": 0,
+        "changed": false
+    },
+    "40": {
+        "question": "effect",
+        "premise": "Gezginler otel odalarına girdiler.",
+        "choice1": "Valizlerini boşalttılar.",
+        "choice2": "Havaalanına gittiler.",
+        "label": 0,
+        "changed": false
+    },
+    "282": {
+        "question": "effect",
+        "premise": "Lunaparktaki hız treni dik bir şekilde aşşağı hızla indi.",
+        "choice1": "Yolcular kıkırdadılar.",
+        "choice2": "Yolcular çığlık attılar.",
+        "label": 1,
+        "changed": false
+    },
+    "150": {
+        "question": "cause",
+        "premise": "Adamın kalbi performansından önce güm güm atıyordu.",
+        "choice1": "Onun sahne korkusu vardı.",
+        "choice2": "Kendi repliğini hatırladı.",
+        "label": 0,
+        "changed": false
+    },
+    "424": {
+        "question": "effect",
+        "premise": "Aile hayvanat bahçesine gitti.",
+        "choice1": "Çocuklar hayvanları hayranlıkla izledi.",
+        "choice2": "Çocuklar hayvanları kovaladı.",
+        "label": 0,
+        "changed": false
+    },
+    "321": {
+        "question": "effect",
+        "premise": "Kızlar yemek masasında birbirilerine fısıldadı.",
+        "choice1": "Diğer öğrenciler yemek masasına oturdu.",
+        "choice2": "Yemek masasındaki diğer öğrenciler masadan kalktı.",
+        "label": 1,
+        "changed": false
+    },
+    "316": {
+        "question": "effect",
+        "premise": "Gecenin bir yarısı üşüyerek uyandım.",
+        "choice1": "Eşofman altı giydim.",
+        "choice2": "Bir bardak su içtim.",
+        "label": 0,
+        "changed": false
+    },
+    "185": {
+        "question": "cause",
+        "premise": "Egzersiz yaptım.",
+        "choice1": "Enerjik hissettim.",
+        "choice2": "Korktum.",
+        "label": 0,
+        "changed": false
+    },
+    "295": {
+        "question": "effect",
+        "premise": "Müziğin sesi duymak için çok zayıftı.",
+        "choice1": "Sesi açtım.",
+        "choice2": "Kendi şarkımı besteledim.",
+        "label": 0,
+        "changed": false
+    },
+    "98": {
+        "question": "effect",
+        "premise": "Lunapark treni sürdük.",
+        "choice1": "Korkutucu görünüyordu.",
+        "choice2": "Eğlenceli görünüyordu.",
+        "label": 1,
+        "changed": false
+    },
+    "360": {
+        "question": "cause",
+        "premise": "Adam kabalıkta çok belli oluyordu.",
+        "choice1": "Sort çantası taşıyordu.",
+        "choice2": "Adam neon bir ceket giyiyordu.",
+        "label": 1,
+        "changed": false
+    },
+    "35": {
+        "question": "effect",
+        "premise": "Sabrımı kaybettim.",
+        "choice1": "Arkadaşım beni bekletmeye devam etti.",
+        "choice2": "Arkadaşım zamanında geldi.",
+        "label": 0,
+        "changed": false
+    },
+    "23": {
+        "question": "effect",
+        "premise": "Öğrenci sorunun cevabını biliyordu.",
+        "choice1": "Elini kaldırdı.",
+        "choice2": "Kaçtı.",
+        "label": 0,
+        "changed": false
+    },
+    "338": {
+        "question": "effect",
+        "premise": "Kadın saldırganın burnuna yumruk attı.",
+        "choice1": "Saldırgan hareketsiz kaldı.",
+        "choice2": "Saldırgan kanamaya başladı.",
+        "label": 1,
+        "changed": false
+    },
+    "116": {
+        "question": "cause",
+        "premise": "Su kabından buhar yükseldi.",
+        "choice1": "Su kaynamıştı.",
+        "choice2": "Kabı kapamıştım.",
+        "label": 0,
+        "changed": false
+    },
+    "395": {
+        "question": "cause",
+        "premise": "Aile çifti tebrik etti.",
+        "choice1": "Çift boşanacağını duyurdu.",
+        "choice2": "Çift bebekleri olacağını duyurdu.",
+        "label": 1,
+        "changed": false
+    },
+    "148": {
+        "question": "effect",
+        "premise": "Kadın işten evde kaldı.",
+        "choice1": "Patronu onu övdü.",
+        "choice2": "Meslektaşı onun için örtbas edildi.",
+        "label": 1,
+        "changed": false
+    },
+    "444": {
+        "question": "cause",
+        "premise": "Adam terapi süreci geçirdi.",
+        "choice1": "Zihinsel hastalık kalıtsaldı.",
+        "choice2": "Depresyon tanısı koyuldu.",
+        "label": 1,
+        "changed": false
+    },
+    "478": {
+        "question": "effect",
+        "premise": "Kız solgun gözüküyordu.",
+        "choice1": "Babası ona bir hikaye okudu.",
+        "choice2": "Babası alnını kontrol etti.",
+        "label": 1,
+        "changed": false
+    },
+    "51": {
+        "question": "effect",
+        "premise": "Pilotun radarı bir fırtına tespit etti.",
+        "choice1": "Pilot fırtınadan uzaklaştı.",
+        "choice2": "Pilot fırtınanın içinden uçtu.",
+        "label": 0,
+        "changed": false
+    },
+    "447": {
+        "question": "effect",
+        "premise": "Köpek masadaki sulu bifteğe bakıyordu.",
+        "choice1": "Ağzı sulandı.",
+        "choice2": "Yere yattı.",
+        "label": 0,
+        "changed": false
+    },
+    "454": {
+        "question": "cause",
+        "premise": "Kadının kaldırımda ayağı takıldı.",
+        "choice1": "Betonda bir çatlak vardı.",
+        "choice2": "Birinin ona seslendiğini duydu.",
+        "label": 0,
+        "changed": false
+    },
+    "232": {
+        "question": "cause",
+        "premise": "Termometredeki civa yükseldi.",
+        "choice1": "Termometreyi düşürdüm.",
+        "choice2": "Hava ısındı.",
+        "label": 1,
+        "changed": false
+    },
+    "325": {
+        "question": "cause",
+        "premise": "Orman yangını yayıldı.",
+        "choice1": "Rüzgar güçlendi.",
+        "choice2": "Kundakçı yakalandı.",
+        "label": 0,
+        "changed": false
+    },
+    "186": {
+        "question": "effect",
+        "premise": "Islak süngeri sıktım.",
+        "choice1": "Suyu içine çekti.",
+        "choice2": "İçinden su sızdı.",
+        "label": 1,
+        "changed": false
+    },
+    "83": {
+        "question": "effect",
+        "premise": "Adam karısını aldattığı için suçlu hissetti.",
+        "choice1": "Onu sadakatsizlikle suçladı.",
+        "choice2": "Sadakatsizliğini ona itiraf etti.",
+        "label": 1,
+        "changed": false
+    },
+    "189": {
+        "question": "effect",
+        "premise": "Alışılmadık bir araba evimin dışına park etti.",
+        "choice1": "Şüphelendim.",
+        "choice2": "Polisi aradım.",
+        "label": 0,
+        "changed": true
+    },
+    "181": {
+        "question": "cause",
+        "premise": "Bebek uykuya daldı.",
+        "choice1": "Bbası bebeğin bezini değiştirdi.",
+        "choice2": "Babası bebeği yavaşça salladı.",
+        "label": 1,
+        "changed": false
+    },
+    "107": {
+        "question": "cause",
+        "premise": "Banyoyu su bastı.",
+        "choice1": "Tuvalet taştı.",
+        "choice2": "Su ısıtıcısı kırıldı.",
+        "label": 0,
+        "changed": false
+    },
+    "343": {
+        "question": "effect",
+        "premise": "Kadın kirayı denk getiremedi.",
+        "choice1": "Fazladan mesai yapmaya başladı.",
+        "choice2": "İstifa etti.",
+        "label": 0,
+        "changed": false
+    },
+    "136": {
+        "question": "cause",
+        "premise": "Şehir merkezi binası yıkıldı.",
+        "choice1": "Şehri deprem vurdu.",
+        "choice2": "Suç oranları arttı.",
+        "label": 0,
+        "changed": false
+    },
+    "470": {
+        "question": "cause",
+        "premise": "Televizyon programı sansürlendi.",
+        "choice1": "Sert bir dil içeriyordu.",
+        "choice2": "Karışık bir konusu vardı.",
+        "label": 0,
+        "changed": false
+    },
+    "349": {
+        "question": "effect",
+        "premise": "Meyveyi masanın üstünde bıraktım.",
+        "choice1": "Meyve tohumlarını döktü.",
+        "choice2": "Meyvenin etrafını sinekler sardı.",
+        "label": 1,
+        "changed": false
+    },
+    "331": {
+        "question": "cause",
+        "premise": "Doktor hastaya tanı koydu.",
+        "choice1": "Hastanın hastalık belirtilerini tanımladı.",
+        "choice2": "Hastaya hap reçeteleri verdi.",
+        "label": 0,
+        "changed": false
+    },
+    "36": {
+        "question": "effect",
+        "premise": "Savaşan ülkeler barış istiyorlardı.",
+        "choice1": "Nükleer silah geliştirdiler.",
+        "choice2": "Bir antlaşma müzakere ettiler.",
+        "label": 1,
+        "changed": false
+    }
+}

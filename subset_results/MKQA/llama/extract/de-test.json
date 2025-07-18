@@ -1,0 +1,124 @@
+[
+    {
+        "id": "81543553621132354",
+        "sys_prompt": "The following is a reasoning question. Given question and explanation, write answer with format of \"Answer: [one or a few words]\".",
+        "user_prompt": "Question: Wo wurde \"Hilfe, die Amis kommen\" gefilmt?\nExplanation: \"Hilfe, die Amis kommen\" ist eine deutsche Filmkom\u00f6die aus dem Jahr 2002. Der Film spielt in der deutschen Stadt Sankt Augustin, die in der N\u00e4he von Bonn liegt. Die Handlung dreht sich um die Begegnung zwischen deutschen Jugendlichen und amerikanischen Soldaten, die in Deutschland stationiert sind. Der Film wurde in Sankt Augustin und Umgebung gedreht, um die authentische Atmosph\u00e4re der Stadt und ihrer Bewohner zu erfassen.",
+        "response": "Sankt Augustin.",
+        "explanation": "\"Hilfe, die Amis kommen\" ist eine deutsche Filmkom\u00f6die aus dem Jahr 2002. Der Film spielt in der deutschen Stadt Sankt Augustin, die in der N\u00e4he von Bonn liegt. Die Handlung dreht sich um die Begegnung zwischen deutschen Jugendlichen und amerikanischen Soldaten, die in Deutschland stationiert sind. Der Film wurde in Sankt Augustin und Umgebung gedreht, um die authentische Atmosph\u00e4re der Stadt und ihrer Bewohner zu erfassen.",
+        "predicted_answer": "Sankt Augustin.",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q38",
+                "text": "Italien",
+                "aliases": [
+                    "Italienische Republik"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q142",
+                "text": "Frankreich",
+                "aliases": [
+                    "Franz\u00f6sische Republik",
+                    "Republik Frankreich",
+                    "fr"
+                ]
+            },
+            {
+                "type": "entity",
+                "entity": "Q21",
+                "text": "England",
+                "aliases": []
+            },
+            {
+                "type": "entity",
+                "entity": "Q713750",
+                "text": "Geschichte der Bundesrepublik Deutschland (bis 1990)",
+                "aliases": [
+                    "Alte Bundesrepublik",
+                    "Alte Bundesrepublik Deutschland",
+                    "Westdeutschland",
+                    "Bundesrepublik Deutschland (1949-1990)",
+                    "BR Dtld."
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "8627228541151141053",
+        "sys_prompt": "The following is a reasoning question. Given question and explanation, write answer with format of \"Answer: [one or a few words]\".",
+        "user_prompt": "Question: wer singt das lied love will keep us together\nExplanation: The song \"Love Will Keep Us Together\" is a popular hit from the 1970s. It was performed by the American duo Captain & Tennille, which consisted of husband and wife Toni Tennille and Daryl Dragon. The song was released in 1975 and became a huge success, topping the Billboard Hot 100 chart. To answer the question, the correct answer would be Captain & Tennille.",
+        "response": "Answer: Captain & Tennille.",
+        "explanation": "The song \"Love Will Keep Us Together\" is a popular hit from the 1970s. It was performed by the American duo Captain & Tennille, which consisted of husband and wife Toni Tennille and Daryl Dragon. The song was released in 1975 and became a huge success, topping the Billboard Hot 100 chart. To answer the question, the correct answer would be Captain & Tennille.",
+        "predicted_answer": "Captain & Tennille.",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q1035077",
+                "text": "Captain & Tennille",
+                "aliases": [
+                    "The Captain and Tennille",
+                    "Captain and Tennille",
+                    "The Captain & Tennille",
+                    "Darrly Dragon",
+                    "Toni Tenille",
+                    "Tony Tennille"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "-7634638252335162798",
+        "sys_prompt": "The following is a reasoning question. Given question and explanation, write answer with format of \"Answer: [one or a few words]\".",
+        "user_prompt": "Question: Wie viele Staaten gibt es in den Continental United States\nExplanation: In den Continental United States (der kontinentalen Vereinigten Staaten, also ohne Hawaii und Alaska) gibt es 48 Bundesstaaten. Dieser Begriff bezieht sich auf die 48 Bundesstaaten, die auf dem nordamerikanischen Kontinent liegen, aber nicht auf die beiden westlichen Bundesstaaten, Alaska und Hawaii, die auf Inseln liegen.",
+        "response": "Answer: 48",
+        "explanation": "In den Continental United States (der kontinentalen Vereinigten Staaten, also ohne Hawaii und Alaska) gibt es 48 Bundesstaaten. Dieser Begriff bezieht sich auf die 48 Bundesstaaten, die auf dem nordamerikanischen Kontinent liegen, aber nicht auf die beiden westlichen Bundesstaaten, Alaska und Hawaii, die auf Inseln liegen.",
+        "predicted_answer": "48",
+        "ground_truth": [
+            {
+                "type": "number",
+                "text": "48.0",
+                "aliases": [
+                    "48"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "8643588946565257997",
+        "sys_prompt": "The following is a reasoning question. Given question and explanation, write answer with format of \"Answer: [one or a few words]\".",
+        "user_prompt": "Question: wer ist der mann im i dont always meme\nExplanation: The \"I Don't Always\" meme is a popular internet meme that originated from a series of commercials for the beer brand Dos Equis. The character in the meme is a fictional character named \"The Most Interesting Man in the World,\" played by actor Jonathan Goldsmith. He is a charismatic and adventurous figure with a distinctive mustache and a charming personality. In the commercials, he would often start a sentence with \"I don't always,\" followed by a humorous and unexpected statement about his life experiences.",
+        "response": "Answer: Jonathan Goldsmith.",
+        "explanation": "The \"I Don't Always\" meme is a popular internet meme that originated from a series of commercials for the beer brand Dos Equis. The character in the meme is a fictional character named \"The Most Interesting Man in the World,\" played by actor Jonathan Goldsmith. He is a charismatic and adventurous figure with a distinctive mustache and a charming personality. In the commercials, he would often start a sentence with \"I don't always,\" followed by a humorous and unexpected statement about his life experiences.",
+        "predicted_answer": "Jonathan Goldsmith.",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q1255362",
+                "text": "Jonathan Goldsmith",
+                "aliases": []
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "6747693054679197435",
+        "sys_prompt": "The following is a reasoning question. Given question and explanation, write answer with format of \"Answer: [one or a few words]\".",
+        "user_prompt": "Question: Wer ist das j\u00fcngste Mitglied von \"why don't we\"\nExplanation: \"why don't we\" ist eine US-amerikanische Boyband, die 2016 gegr\u00fcndet wurde. Das Gruppenmitglied Jonah Marais ist eines der j\u00fcngsten Mitglieder der Band.",
+        "response": "Answer: Jonah Marais",
+        "explanation": "\"why don't we\" ist eine US-amerikanische Boyband, die 2016 gegr\u00fcndet wurde. Das Gruppenmitglied Jonah Marais ist eines der j\u00fcngsten Mitglieder der Band.",
+        "predicted_answer": "Jonah Marais",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "text": "Zachary Dean Herron",
+                "entity": "Q50437010"
+            }
+        ],
+        "is_correct": null
+    }
+]

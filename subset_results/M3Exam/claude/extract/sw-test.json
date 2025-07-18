@@ -1,0 +1,52 @@
+[
+    {
+        "id": 349,
+        "sys_prompt": "The following is a multiple choice question. Given question, explanation and options, write only the correct option without any other details or explanations.",
+        "user_prompt": "Question: Sentensi inayounganisha sentensi: \"Juma ni mzee. Juma anasoma kitabu bila miwani\", kisahihi ni:\nOptions: A. Juma ni mzee maadamu anasoma kitabu bila miwani.\nB. Juma anasoma kitabu bila miwani licha ya kuwa yeye ni mzee.\nC. Juma ni mzee madhali anasoma kitabu bila miwani.\nD. Juma anasoma kitabu bila miwani minghairi ya yeye ni mzee.\nExplanation: In this Swahili sentence connection question, the correct answer is B: \"Juma anasoma kitabu bila miwani licha ya kuwa yeye ni mzee.\" The phrase \"licha ya kuwa\" means \"despite\" or \"in spite of,\" which effectively connects the two original sentences by creating a contrast between Juma being an older person and still reading a book without glasses. This connector highlights the unexpected nature of an elderly person reading without assistance. The other options either do not create a logical connection or use incorrect grammatical constructions. Option B provides the most precise and grammatically correct way to link the two statements, showing that age does not prevent Juma from reading without glasses.",
+        "response": "B",
+        "explanation": "In this Swahili sentence connection question, the correct answer is B: \"Juma anasoma kitabu bila miwani licha ya kuwa yeye ni mzee.\" The phrase \"licha ya kuwa\" means \"despite\" or \"in spite of,\" which effectively connects the two original sentences by creating a contrast between Juma being an older person and still reading a book without glasses. This connector highlights the unexpected nature of an elderly person reading without assistance. The other options either do not create a logical connection or use incorrect grammatical constructions. Option B provides the most precise and grammatically correct way to link the two statements, showing that age does not prevent Juma from reading without glasses.",
+        "predicted_answer": "B",
+        "ground_truth": "B",
+        "is_correct": true
+    },
+    {
+        "id": 408,
+        "sys_prompt": "The following is a multiple choice question. Given question, explanation and options, write only the correct option without any other details or explanations.",
+        "user_prompt": "Question: Tashbihi\nPopo amekonda kama _________\nOptions: A. sindano\nB. ng'onda\nC. kijiti\nD. kasuku\nExplanation: Tashbihi is a Swahili literary device of comparison or simile, where one thing is compared to another using words like \"kama\" (like) or \"mithili\" (similar to). In this context, the comparison is describing how thin or skinny something is. The correct answer is \"B. ng'onda,\" which refers to a thin stick or a slender object. When someone says \"Popo amekonda kama ng'onda,\" they mean the person (Popo) is extremely thin, resembling a thin stick. The other options - sindano (needle), kijiti (small stick), and kasuku (parrot) - do not provide the same precise imagery of thinness as \"ng'onda\" does in this simile.",
+        "response": "B",
+        "explanation": "Tashbihi is a Swahili literary device of comparison or simile, where one thing is compared to another using words like \"kama\" (like) or \"mithili\" (similar to). In this context, the comparison is describing how thin or skinny something is. The correct answer is \"B. ng'onda,\" which refers to a thin stick or a slender object. When someone says \"Popo amekonda kama ng'onda,\" they mean the person (Popo) is extremely thin, resembling a thin stick. The other options - sindano (needle), kijiti (small stick), and kasuku (parrot) - do not provide the same precise imagery of thinness as \"ng'onda\" does in this simile.",
+        "predicted_answer": "B",
+        "ground_truth": "B",
+        "is_correct": true
+    },
+    {
+        "id": 72,
+        "sys_prompt": "The following is a multiple choice question. Given question, explanation and options, write only the correct option without any other details or explanations.",
+        "user_prompt": "Question: Methali zifuatazo zinahusu bidii. Ipi haifai kuwepo?\nOptions: A. Mgaagaa na upwa hali wali mkavu.\nB. Umoja ni nguvu utengano ni udhaifu.\nC. Ukiona vyaelea jua vimeundwa.\nD. Mtaka cha mvunguni sharti ainame.\nExplanation: This question asks which proverb does not relate to effort or diligence. Most of these proverbs encourage hard work, perseverance, or collective effort. Option B, \"Umoja ni nguvu utengano ni udhaifu\" (Unity is strength, division is weakness), speaks about teamwork and collective effort. Option D, \"Mtaka cha mvunguni sharti ainame\" (To get something from under the bed, one must bend down), emphasizes the need for personal effort. Option C, \"Ukiona vyaelea jua vimeundwa\" (If you see something floating, it was created), suggests that success requires action and effort.\n\nHowever, option A, \"Mgaagaa na upwa hali wali mkavu\" (One who moves around with fish will have dry rice), seems less directly related to the theme of effort. This proverb appears to be more about opportunity or proximity, rather than direct personal effort or diligence. Therefore, option A is the proverb that does not fit the theme of bidii (effort).",
+        "response": "A",
+        "explanation": "This question asks which proverb does not relate to effort or diligence. Most of these proverbs encourage hard work, perseverance, or collective effort. Option B, \"Umoja ni nguvu utengano ni udhaifu\" (Unity is strength, division is weakness), speaks about teamwork and collective effort. Option D, \"Mtaka cha mvunguni sharti ainame\" (To get something from under the bed, one must bend down), emphasizes the need for personal effort. Option C, \"Ukiona vyaelea jua vimeundwa\" (If you see something floating, it was created), suggests that success requires action and effort.\n\nHowever, option A, \"Mgaagaa na upwa hali wali mkavu\" (One who moves around with fish will have dry rice), seems less directly related to the theme of effort. This proverb appears to be more about opportunity or proximity, rather than direct personal effort or diligence. Therefore, option A is the proverb that does not fit the theme of bidii (effort).",
+        "predicted_answer": "A",
+        "ground_truth": "C",
+        "is_correct": false
+    },
+    {
+        "id": 381,
+        "sys_prompt": "The following is a multiple choice question. Given question, explanation and options, write only the correct option without any other details or explanations.",
+        "user_prompt": "Question: Chagua neno ambalo limetumia silabi changamano:\nOptions: A. Mbuga.\nB. Kituta.\nC. Ziwa.\nD. Utulivu.\nExplanation: In Swahili linguistics, a \"silabi changamano\" (complex syllable) is a syllable that contains a consonant cluster or a combination of consonants that are not typically found in simple syllable structures. In this context, option B \"Kituta\" is the correct answer because it contains a complex syllable structure with the consonant combination \"kt\" in the middle of the word. The other options - \"Mbuga,\" \"Ziwa,\" and \"Utulivu\" - have simpler syllable structures without such complex consonant combinations. Understanding syllable complexity helps in analyzing the phonological structure of Swahili words.",
+        "response": "B",
+        "explanation": "In Swahili linguistics, a \"silabi changamano\" (complex syllable) is a syllable that contains a consonant cluster or a combination of consonants that are not typically found in simple syllable structures. In this context, option B \"Kituta\" is the correct answer because it contains a complex syllable structure with the consonant combination \"kt\" in the middle of the word. The other options - \"Mbuga,\" \"Ziwa,\" and \"Utulivu\" - have simpler syllable structures without such complex consonant combinations. Understanding syllable complexity helps in analyzing the phonological structure of Swahili words.",
+        "predicted_answer": "B",
+        "ground_truth": "A",
+        "is_correct": false
+    },
+    {
+        "id": 237,
+        "sys_prompt": "The following is a multiple choice question. Given question, explanation and options, write only the correct option without any other details or explanations.",
+        "user_prompt": "Question: Tegua kitendawili hiki: \nMava hapo mava pale\nOptions: A. kifo\nB. kioo\nC. kumetameta\nD. kivuli\nExplanation: This Swahili riddle \"Mava hapo mava pale\" is a clever wordplay that describes a mirror (kioo). The phrase suggests something that reflects or shows an image in multiple places simultaneously. When you look into a mirror, your image appears both \"here\" and \"there\" at the same time, which perfectly matches the description. The repetition of \"mava\" implies the duplicative nature of a mirror's reflection. The other options like \"kifo\" (death), \"kumetameta\" (wavering), and \"kivuli\" (shadow) do not capture the essence of the riddle's description. Therefore, the correct answer is B. kioo (mirror).",
+        "response": "B",
+        "explanation": "This Swahili riddle \"Mava hapo mava pale\" is a clever wordplay that describes a mirror (kioo). The phrase suggests something that reflects or shows an image in multiple places simultaneously. When you look into a mirror, your image appears both \"here\" and \"there\" at the same time, which perfectly matches the description. The repetition of \"mava\" implies the duplicative nature of a mirror's reflection. The other options like \"kifo\" (death), \"kumetameta\" (wavering), and \"kivuli\" (shadow) do not capture the essence of the riddle's description. Therefore, the correct answer is B. kioo (mirror).",
+        "predicted_answer": "B",
+        "ground_truth": "D",
+        "is_correct": false
+    }
+]

@@ -1,0 +1,89 @@
+[
+    {
+        "id": "3643218479176707788",
+        "prompt": "Answer the question in one or a few words in English: \nstranger things'in (acayip \u015feyler) ka\u00e7 sezonu vard\u0131r\nLet's think step-by-step in English.\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "\"Stranger Things\" has four seasons as of October 2023. \n\nAnswer: Four seasons",
+        "predicted_answer": "Four seasons",
+        "ground_truth": [
+            {
+                "type": "number",
+                "text": "3.0",
+                "aliases": [
+                    "3"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "3356010362039543701",
+        "prompt": "Answer the question in one or a few words in English: \ni regret i have but one life to give for my country s\u00f6z\u00fcn\u00fc kim s\u00f6yledi\nLet's think step-by-step in English.\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "The quote \"I regret that I have but one life to give for my country\" is attributed to Nathan Hale, an American soldier and spy during the American Revolutionary War. \n\nAnswer: Nathan Hale",
+        "predicted_answer": "Nathan Hale",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "text": "Nathan Hale",
+                "entity": "Q16932034"
+            },
+            {
+                "type": "entity",
+                "text": "Nathan Hale",
+                "entity": "Q16932034"
+            },
+            {
+                "type": "entity",
+                "text": "Nathan Hale",
+                "entity": "Q16932034"
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "5965447391112455356",
+        "prompt": "Answer the question in one or a few words in English: \nsansa stark'\u0131 oynayan aktris kimdir\nLet's think step-by-step in English.\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "The actress who played Sansa Stark is Sophie Turner. \n\nAnswer: Sophie Turner",
+        "predicted_answer": "Sophie Turner",
+        "ground_truth": [
+            {
+                "type": "entity",
+                "entity": "Q240573",
+                "text": "Sophie Turner",
+                "aliases": []
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "476368974337766528",
+        "prompt": "Answer the question in one or a few words in English: \ncumhuriyet\u00e7i parti se\u00e7imi en son ne zaman kazand\u0131\nLet's think step-by-step in English.\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "The question asks when the Republican Party last won an election. To answer this, we need to identify the most recent election victory for the Republican Party in the United States. The last significant election they won was the 2016 presidential election, where Donald Trump was elected president. \n\nAnswer: 2016",
+        "predicted_answer": "2016",
+        "ground_truth": [
+            {
+                "type": "date",
+                "text": "2004",
+                "aliases": [
+                    "2004"
+                ]
+            }
+        ],
+        "is_correct": null
+    },
+    {
+        "id": "6116319690634922724",
+        "prompt": "Answer the question in one or a few words in English: \nnew albany ohio nun n\u00fcfusu nedir\nLet's think step-by-step in English.\nYou should provide the final answer at the end in the format: 'Answer: [one or a few words]'.",
+        "response": "To find the population of New Albany, Ohio, we can look up the most recent census data or estimates. As of the last census, the population was around 10,000. \n\nAnswer: Approximately 10,000",
+        "predicted_answer": "Approximately 10,000",
+        "ground_truth": [
+            {
+                "type": "number",
+                "text": "10889.0",
+                "aliases": [
+                    "10889"
+                ]
+            }
+        ],
+        "is_correct": null
+    }
+]

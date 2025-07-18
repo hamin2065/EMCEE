@@ -1,0 +1,42 @@
+[
+    {
+        "id": "349",
+        "prompt": "Hii hapa ni dhana: Niliondoa tunda juu ya meza.. Je, ni nini athari? Nisaidie kuchagua chaguo linaloonekana linawezekana zaidi: -chaguo1: Tunda lilitoa mbegu., -chaguo2: Nzi walilizunguka tunda.\nHebu tufikirie hatua kwa hatua kwa Kiswahili.\nUnapaswa kuchagua chaguo moja tu kwa jibu lako. Unapaswa kujibu swali kwa muundo wa \"Jibu: [1 au 2]\"",
+        "response": "Jibu: 1",
+        "predicted_answer": 1,
+        "ground_truth": 1,
+        "is_correct": false
+    },
+    {
+        "id": "216",
+        "prompt": "Hii hapa ni dhana: Alipiga mbweu.. Je, ni nini sababu? Nisaidie kuchagua chaguo linaloonekana linawezekana zaidi: -chaguo1: Alibugia soda., -chaguo2: Alifungua kopo la soda.\nHebu tufikirie hatua kwa hatua kwa Kiswahili.\nUnapaswa kuchagua chaguo moja tu kwa jibu lako. Unapaswa kujibu swali kwa muundo wa \"Jibu: [1 au 2]\"",
+        "response": "Jibu: 2",
+        "predicted_answer": 2,
+        "ground_truth": 0,
+        "is_correct": false
+    },
+    {
+        "id": "193",
+        "prompt": "Hii hapa ni dhana: Mwanamke  ana mviringo chini ya jicho lake.. Je, ni nini sababu? Nisaidie kuchagua chaguo linaloonekana linawezekana zaidi: -chaguo1: Alibakia macho  usiku kucha., -chaguo2: Alimpeleka mtoto wake wa kiume kulala.\nHebu tufikirie hatua kwa hatua kwa Kiswahili.\nUnapaswa kuchagua chaguo moja tu kwa jibu lako. Unapaswa kujibu swali kwa muundo wa \"Jibu: [1 au 2]\"",
+        "response": "Ili kuchagua chaguo linaloonekana linawezekana zaidi, hebu tufikirie hatua kwa hatua:\n\n1. Ikiwa mwanamke alibakia macho usiku kucha, basi kuna uwezekano kwamba mviringo unaweza kuwa na madhara, kama vile kuchomwa na mviringo wao wenyewe au kuchomwa na mviringo wa mtu mwingine. Hii inaweza kusababisha mviringo chini ya jicho lake.\n2. Ikiwa mwanamke alimpeleka mtoto wake wa kiume kulala, basi hii inaweza kuwa na uwezekano mdogo wa kusababisha mviringo chini ya jicho lake. Hata hivyo, ikiwa mtoto wake wa kiume alikuwa na mviringo, basi inaweza kuwa na uwezekano wa kuchukua mviringo na kuchoma mviringo wao wenyewe.\n\nKwa kuwa hatuwezi kujua kwa uhak",
+        "predicted_answer": "Ili kuchagua chaguo linaloonekana linawezekana zaidi, hebu tufikirie hatua kwa hatua:\n\n1. Ikiwa mwanamke alibakia macho usiku kucha, basi kuna uwezekano kwamba mviringo unaweza kuwa na madhara, kama vile kuchomwa na mviringo wao wenyewe au kuchomwa na mviringo wa mtu mwingine. Hii inaweza kusababisha mviringo chini ya jicho lake.\n2. Ikiwa mwanamke alimpeleka mtoto wake wa kiume kulala, basi hii inaweza kuwa na uwezekano mdogo wa kusababisha mviringo chini ya jicho lake. Hata hivyo, ikiwa mtoto wake wa kiume alikuwa na mviringo, basi inaweza kuwa na uwezekano wa kuchukua mviringo na kuchoma mviringo wao wenyewe.\n\nKwa kuwa hatuwezi kujua kwa uhak",
+        "ground_truth": 0,
+        "is_correct": false
+    },
+    {
+        "id": "309",
+        "prompt": "Hii hapa ni dhana: Wmwanamke aliwasiliana kwa lugha ya alama.. Je, ni nini sababu? Nisaidie kuchagua chaguo linaloonekana linawezekana zaidi: -chaguo1: Alizaliwa kabla ya wakati., -chaguo2: Alizaliwa kiziwi.\nHebu tufikirie hatua kwa hatua kwa Kiswahili.\nUnapaswa kuchagua chaguo moja tu kwa jibu lako. Unapaswa kujibu swali kwa muundo wa \"Jibu: [1 au 2]\"",
+        "response": "Wacha tufikirie hatua kwa hatua.\n\nWanamke anayewasiliana kwa lugha ya alama hauwezi kuwa sababu ya kuzaliwa kabla ya wakati (chaguo 1), kwani wakati huu haujashughulikiwa kwa watu wote.\n\nKwa upande mwingine, kuzaliwa kiziwi (chaguo 2) inaweza kuwa sababu ya kuzingatia, kwani wanadamu wana aina tofauti za kuzaliwa kiziwi, kama vile kutokuwa na uwezo wa kujieleza kwa lugha ya kawaida. \n\nKwa hivyo, jibu sahihi linapaswa kuwa chaguo 2.\n\nJibu: 2",
+        "predicted_answer": 2,
+        "ground_truth": 1,
+        "is_correct": true
+    },
+    {
+        "id": "379",
+        "prompt": "Hii hapa ni dhana: Nilipoteza muda mwingi.. Je, ni nini sababu? Nisaidie kuchagua chaguo linaloonekana linawezekana zaidi: -chaguo1: Nilikuwa na msururu wa mawazo mazuri., -chaguo2: Nilikuwa na kichefuchefu.\nHebu tufikirie hatua kwa hatua kwa Kiswahili.\nUnapaswa kuchagua chaguo moja tu kwa jibu lako. Unapaswa kujibu swali kwa muundo wa \"Jibu: [1 au 2]\"",
+        "response": "Hebu tufikirie hatua kwa hatua kuhusu sababu ya kutoa muda.\n\n1. Nilipoteza muda mwingi: Hii ina maana kwamba muda ulikuwa mkubwa sana au ulitumika kwa mambo mbalimbali.\n2. Nilikuwa na msururu wa mawazo mazuri: Hii ina maana kwamba nilikuwa na mawazo mengi na ya kujitegemea, ambayo inaweza kusababisha kutoa muda kwa sababu ya kutafakari kuhusu mambo mbalimbali.\n3. Nilikuwa na kichefuchefu: Hii ina maana kwamba nilikuwa na wasiwasi na mambo mbalimbali, ambayo inaweza kusababisha kutoa muda kwa sababu ya kujisikia na kuchanganua mambo.\n\nKwa kuwa nilipoteza muda mwingi, mawazo mazuri na kichefuchefu yanaweza kuwa sababu zinazowezekana. Hata",
+        "predicted_answer": "Hebu tufikirie hatua kwa hatua kuhusu sababu ya kutoa muda.\n\n1. Nilipoteza muda mwingi: Hii ina maana kwamba muda ulikuwa mkubwa sana au ulitumika kwa mambo mbalimbali.\n2. Nilikuwa na msururu wa mawazo mazuri: Hii ina maana kwamba nilikuwa na mawazo mengi na ya kujitegemea, ambayo inaweza kusababisha kutoa muda kwa sababu ya kutafakari kuhusu mambo mbalimbali.\n3. Nilikuwa na kichefuchefu: Hii ina maana kwamba nilikuwa na wasiwasi na mambo mbalimbali, ambayo inaweza kusababisha kutoa muda kwa sababu ya kujisikia na kuchanganua mambo.\n\nKwa kuwa nilipoteza muda mwingi, mawazo mazuri na kichefuchefu yanaweza kuwa sababu zinazowezekana. Hata",
+        "ground_truth": 0,
+        "is_correct": false
+    }
+]
