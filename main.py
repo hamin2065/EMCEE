@@ -1,6 +1,6 @@
 import argparse, os, json
 from baselines import Baseline
-from emcei import EmCei
+from emcee import Emcee
 
 from mkqa_evaluation import read_annotations, read_predictions, evaluate
 
@@ -57,8 +57,8 @@ def main():
                         help="Dataset name")
     parser.add_argument("--model", type=str, choices=["gpt", "claude", "llama"], required=True, 
                         help="Model to use: gpt, claude, or llama")
-    parser.add_argument("--strategy", type=str, choices=["native-basic", "en-basic", "native-cot", "en-cot", "XLT", "extract", "emulsify"], required=True, 
-                        help="Prompting strategy: native-basic, en-basic, native-cot, en-cot, XLT, extract, emulsify")
+    parser.add_argument("--strategy", type=str, choices=["native-basic", "en-basic", "native-cot", "en-cot", "XLT", "extract", "merging"], required=True, 
+                        help="Prompting strategy: native-basic, en-basic, native-cot, en-cot, XLT, extract, merging")
 
     # Optional arguments
     parser.add_argument("--data_symbol", type=str, default="en", 
@@ -66,9 +66,9 @@ def main():
     parser.add_argument("--eval_symbol", type=str, default="en", 
                         help="'en' if strategy in ('EN-BASIC', 'EN-COT', 'XLT')")
     parser.add_argument("--eng_cot_path", type=str, 
-                        help="Path to English CoT results file (Required for 'emulsify' strategy)")
+                        help="Path to English CoT results file (Required for 'merging' strategy)")
     parser.add_argument("--extract_path", type=str, 
-                        help="Path to English CoT results file (Required for 'emulsify' strategy)")
+                        help="Path to English CoT results file (Required for 'merging' strategy)")
     
     args = parser.parse_args()
 
@@ -76,18 +76,18 @@ def main():
     if args.strategy == "XLT" and args.data_symbol == "en":
         print("Warning: --data_symbol is ignored unless --strategy is set to XLT.")
 
-    if args.strategy == "emulsify" and not args.eng_cot_path:
-        parser.error("Error: 'emulsify' strategy requires '--eng_cot_path'. 'en-cot' must be run first.")
-    if args.strategy == "emulsify" and not args.extract_path:
-        parser.error("Error: 'emulsify' strategy requires '--extract_path'. 'extract' must be run first.")
+    if args.strategy == "merging" and not args.eng_cot_path:
+        parser.error("Error: 'merging' strategy requires '--eng_cot_path'. 'en-cot' must be run first.")
+    if args.strategy == "merging" and not args.extract_path:
+        parser.error("Error: 'merging' strategy requires '--extract_path'. 'extract' must be run first.")
 
 
     # Run Baseline
     if args.strategy in ["native-basic", "en-basic", "native-cot", "en-cot", "XLT"]: 
         baseline = Baseline(args.dataset_path, args.dataset_name, args.model, args.strategy, args.eval_symbol, args.data_symbol)
         results = baseline.run()
-    elif args.strategy in ["extract", "emulsify"]: 
-        emcei = EmCei(
+    elif args.strategy in ["extract", "merging"]: 
+        emcee = Emcee(
             args.dataset_path, 
             args.dataset_name, 
             args.eng_cot_path,
@@ -99,12 +99,12 @@ def main():
             )
 
         if args.strategy == 'extract': 
-            results = emcei.extract_run()
-        elif args.strategy == 'emulsify':
-            results = emcei.emulsify_run()
+            results = emcee.extract_run()
+        elif args.strategy == 'merging':
+            results = emcee.merging_run()
     else: 
         # error
-        valid_strategies = ["native-basic", "en-basic", "native-cot", "en-cot", "XLT", "extract", "emulsify"]
+        valid_strategies = ["native-basic", "en-basic", "native-cot", "en-cot", "XLT", "extract", "merging"]
         raise ValueError(f"Invalid strategy '{args.strategy}'. Supported strategies are: {valid_strategies}")
 
     save_folder_path = f"./results/{args.dataset_name}/{args.model}/{args.strategy}/"

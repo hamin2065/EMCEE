@@ -7,12 +7,12 @@ export ANTHROPIC_API_KEY="your-anthropic-key"
 DATASET_NAME=$1    # Options: M3Exam, MKQA, XNLI, XCOPA
 MODEL=$2           # Options: gpt, claude, llama
 
-# If using emulsify, set the required ENG_COT_PATH
+# If using merging, set the required ENG_COT_PATH
 ENG_COT_PATH="${DATASET_NAME}/${MODEL}/en-cot/"
 
 # Define the strategies you want to run
 STRATEGIES=("native-basic" "en-basic" "native-cot" "en-cot" "XLT") #--> baselines
-# STRATEGIES=("extract" "emulsify") #--> EmCei
+# STRATEGIES=("extract" "merging") #--> Emcee
 
 # Define dataset-specific language symbols
 if [ "$DATASET_NAME" == "M3Exam" ]; then
@@ -36,7 +36,7 @@ for STRATEGY in "${STRATEGIES[@]}"; do
         DATASET_PATH="./data/${DATASET_NAME}/${DATA_SYMBOL}-test.json"
 
         # If the strategy is en-based, we override the evaluation language to 'en'
-        if [[ "$STRATEGY" == "en-basic" || "$STRATEGY" == "en-cot"|| "$STRATEGY" == "XLT" || "$STRATEGY" == "extract" || "$STRATEGY" == "emulsify" ]]; then
+        if [[ "$STRATEGY" == "en-basic" || "$STRATEGY" == "en-cot"|| "$STRATEGY" == "XLT" || "$STRATEGY" == "extract" || "$STRATEGY" == "merging" ]]; then
             EVAL_SYMBOL="en"
         else
             EVAL_SYMBOL="$DATA_SYMBOL"
@@ -57,7 +57,7 @@ for STRATEGY in "${STRATEGIES[@]}"; do
             --data_symbol ${DATA_SYMBOL} \
             --eval_symbol ${EVAL_SYMBOL}"
 
-        if [ "$STRATEGY" == "emulsify" ]; then
+        if [ "$STRATEGY" == "merging" ]; then
            CMD+=" --eng_cot_path ./results/${DATASET_NAME}/${MODEL}/en-cot/${DATA_SYMBOL}-test.json"
            CMD+=" --extract_path ./results/${DATASET_NAME}/${MODEL}/extract/${DATA_SYMBOL}-test.json"
         fi

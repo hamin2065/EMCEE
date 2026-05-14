@@ -2,14 +2,14 @@ import random, json
 from dataset import Dataset
 from models import GPTModel, ClaudeModel, LlamaModel
 from evaluation import M3ExamEvaluator, MKQAEvaluator, XNLIEvaluator, XCOPAEvaluator
-from prompt import EmCeiPrompting
+from prompt import EmceePrompting
 from typing import List, Dict
 import tqdm
 
 # random.seed(42)
 
-class EmCei:
-    """EmCei evaluation on datasets with different prompting strategies."""
+class Emcee:
+    """Emcee evaluation on datasets with different prompting strategies."""
 
     def __init__(self, dataset_path: str, dataset_name: str, eng_cot_dataset_path: str, extraction_dataset_path: str, model_type: str, strategy: str, lang_symbol: str, data_symbol: str = "en"):
         """
@@ -27,7 +27,7 @@ class EmCei:
         self.model = self.load_model(model_type)
         self.eng_cot_dataset = Dataset(eng_cot_dataset_path)
         self.extract_dataset = Dataset(extraction_dataset_path)
-        if strategy == 'emulsify': 
+        if strategy == 'merging': 
             self.eng_cot_data = self.eng_cot_dataset.load_data()
             self.extract_data = self.extract_dataset.load_data()
         self.evaluator = self.load_evaluator(dataset_name)
@@ -62,10 +62,10 @@ class EmCei:
         # dataset_name = self.dataset_name
 
         if self.strategy == 'extracting':
-            return EmCeiPrompting.extract_run(self.strategy, data, self.dataset_name, self.data_symbol)
+            return EmceePrompting.extract_run(self.strategy, data, self.dataset_name, self.data_symbol)
     
-        elif self.strategy == 'emulsify': 
-            return EmCeiPrompting.emulsify_run(self.strategy, data, self.dataset_name, self.data_symbol)
+        elif self.strategy == 'merging': 
+            return EmceePrompting.merging_run(self.strategy, data, self.dataset_name, self.data_symbol)
 
     def few_shot_exemplers_by_symbol(self, symbol): 
         """
@@ -99,7 +99,7 @@ class EmCei:
         few_shot_list = []
 
         for few_shot in few_shot_examples: 
-            _, few_shot_user = EmCeiPrompting.extracting_generate(few_shot, self.data_symbol, dataset=self.dataset_name)
+            _, few_shot_user = EmceePrompting.extracting_generate(few_shot, self.data_symbol, dataset=self.dataset_name)
             few_shot_assist = few_shot['explanation']
 
             few_shot_list.append([few_shot_user, few_shot_assist])
@@ -114,8 +114,8 @@ class EmCei:
         few_shot_list = []
 
         for few_shot in few_shot_examples: 
-            _, few_shot_user = EmCeiPrompting.extracting_qa(few_shot, '', dataset=self.dataset_name, explanation=few_shot['explanation'])
-            few_shot_assist = EmCeiPrompting.get_answer_prompt(few_shot, dataset=self.dataset_name)
+            _, few_shot_user = EmceePrompting.extracting_qa(few_shot, '', dataset=self.dataset_name, explanation=few_shot['explanation'])
+            few_shot_assist = EmceePrompting.get_answer_prompt(few_shot, dataset=self.dataset_name)
 
             few_shot_list.append([few_shot_user, str(few_shot_assist)])
 
@@ -127,12 +127,12 @@ class EmCei:
         results = []
         for idx, data_point in tqdm.tqdm(enumerate(self.data), total=len(self.data)):
             # generate explanation
-            ex_sys_prompt, ex_user_prompt = EmCeiPrompting.extracting_generate(data_point, self.data_symbol, self.dataset_name)
+            ex_sys_prompt, ex_user_prompt = EmceePrompting.extracting_generate(data_point, self.data_symbol, self.dataset_name)
             gen_few_shot_examples = self.few_shot_exemplers_by_symbol(self.data_symbol)
             gen_formatted_few_shot_examples = self.make_few_shot_extract_gen_format(gen_few_shot_examples)
             explanation_response = self.model.generate_response(ex_sys_prompt, ex_user_prompt, gen_formatted_few_shot_examples)
             # generate answer
-            sys_prompt, user_prompt = EmCeiPrompting.extracting_qa(data_point, self.data_symbol, self.dataset_name, explanation_response)
+            sys_prompt, user_prompt = EmceePrompting.extracting_qa(data_point, self.data_symbol, self.dataset_name, explanation_response)
             qa_few_shot_examples = self.few_shot_exemplers_by_symbol(self.data_symbol)
             qa_formatted_few_shot_examples = self.make_few_shot_extract_qa_format(qa_few_shot_examples)
             response = self.model.generate_response(sys_prompt, user_prompt, qa_formatted_few_shot_examples)
@@ -167,14 +167,14 @@ class EmCei:
         return results
 
 
-    def emulsify_run(self):
+    def merging_run(self):
 
         results = []
         for idx, (data_point, eng_cot_data_point, extract_data_point) in tqdm.tqdm(
                 enumerate(zip(self.data, self.eng_cot_data, self.extract_data)), total=len(self.data)):
             
-            assert data_point['id'] == eng_cot_data_point['id'] == extract_data_point['id']            # generate response w/ emulsify
-            sys_prompt, user_prompt = EmCeiPrompting.emulsifying(data_point, eng_cot_data_point, extract_data_point, self.data_symbol, self.dataset_name)
+            assert data_point['id'] == eng_cot_data_point['id'] == extract_data_point['id']            # generate response w/ merging
+            sys_prompt, user_prompt = EmceePrompting.merging(data_point, eng_cot_data_point, extract_data_point, self.data_symbol, self.dataset_name)
             response = self.model.generate_response(sys_prompt, user_prompt)
 
             predicted_answer = self.evaluator.extract_answers(response, 'en')

@@ -211,7 +211,7 @@ class PromptingStrategy:
 
         return strategy_methods[strategy]()
 
-class EmCeiPrompting:
+class EmceePrompting:
     XNLI_relation = {
         0: 'entailment',
         1: 'neutral',
@@ -268,7 +268,7 @@ class EmCeiPrompting:
         return system_prompt, user_prompt
     
     # input: ENG-COT answer, EXTRACT answer
-    def emulsifying(data: Dict, eng_cot_data: Dict, extract_data: Dict, symbol: str, dataset: str) -> str:
+    def merging(data: Dict, eng_cot_data: Dict, extract_data: Dict, symbol: str, dataset: str) -> str:
         language = dataset_lang_mapping[dataset]['lang_by_symbol'][symbol]
         extract_data_answer = extract_data['explanation'] + "\nAnswer: " + extract_data['response']
         eng_cot_answer = eng_cot_data['response']
@@ -331,7 +331,7 @@ Answer: [1 or 2]'''
         if dataset == "M3Exam":
             return data['ground_truth']
         elif dataset == "XNLI": 
-            return EmCeiPrompting.XNLI_relation[data['label']]
+            return EmceePrompting.XNLI_relation[data['label']]
         elif dataset == 'MKQA': 
             return data['answer'][0]['text']
         elif dataset == 'XCOPA':
